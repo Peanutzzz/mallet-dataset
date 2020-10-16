@@ -1,0 +1,103 @@
+limited connection file system guard by lock private final hash set out stream open output stream 
+limited connection file system guard by lock private final hash set in stream open input stream 
+limited connection file system guard by lock private int num reserve output stream 
+limited connection file system guard by lock private int num reserve input stream 
+limited connection file system guard by lock private void wait for availability int total limit int output limit int input limit throw interrupted exception i o exception check state lock be hold by current thread compute the deadline of this operation final long deadline if stream open timeout nanos deadline long max value else long deadline nano system nano time stream open timeout nano check for overflow deadline deadline nano deadline nano long max value wait for available connection long time leave if stream inactivity timeout nano simple case just wait while time leave deadline system nano time have availability total limit output limit input limit available await time left time unit nanosecond else complex case chase down inactive stream final long check interval nano stream inactivity timeout nano long now while time leave deadline now system nano time while still within timeout have availability total limit output limit input limit check all stream whether there in one that have be inactive for too long if close inactive stream open output stream now close inactive stream open input stream now only wait if we do not manage to close any stream otherwise eagerly check again if we have availability now we should have long time to wait math min check interval nano time leave available await time to wait time unit nanosecond check for timeout we check availability again to catch case where the timeout expire while wait to be acquire the lock if time left have availability total limit output limit input limit throw new i o exception string format timeout while wait for a available stream connection limit total d input d output d open input d output d timeout d ms max num open stream total max num open input stream max num open output stream num reserve input stream num reserved output stream get stream open timeout 
+limited connection file system guard by lock private boolean have availability int total limit int output limit int input limit return num reserve output stream output limit num reserve input stream input limit num reserve output stream num reserve input stream total limit 
+limited connection file system guard by lock private boolean close inactive stream hash set extend stream with timeout stream long now nano for stream with timeout stream stream try final stream progress tracker tracker stream get progress tracker if the stream be close already it will be remove anyways so we do not classify it as inactive we also skip the check if another check happen too recently if stream be close now nano tracker get last check timestamp nano stream inactivity timeout nanos interval since last check not yet over return false else if tracker check new byte and mark now nano stream close due to timeout return true catch stream timeout exception ignore may happen due to race catch i o exception e only log on debug level here to avoid log spamming log debug could not check for stream progress to determine inactivity e return false 
+abstract closeable registry guard by lock protect final map closeable t closeable to ref 
+abstract closeable registry guard by lock private boolean closed 
+monotonic t t l time provider guard by lock static t e extend throwable t do with frozen time function with exception long t e action throw e synchronize lock final long timestamp before update freeze t result action apply timestamp before update final long timestamp after update unfreeze time check state timestamp after update timestamp before update timestamp before and after the update do not match return result 
+monotonic t t l time provider override guard by lock public long current timestamp synchronize lock if time be freeze last return processing time long min value return last return processing time return get current timestamp 
+monotonic t t l time provider guard by lock private static long get current timestamp final long current processing time system current time millis if current processing time last return processing time return last return processing time last return processing time current processing time return last return processing time 
+checkpoint coordinator guard by lock private final map long pend checkpoint pend checkpoint 
+checkpoint request decider guard by lock private final navigable set checkpoint trigger request queue request new tree set checkpoint trigger request comparator 
+zoo keeper checkpoint i d counter guard by start stop lock private boolean be start 
+cluster entrypoint guard by lock private dispatcher resource manager component cluster component 
+cluster entrypoint guard by lock private metric registry impl metric registry 
+cluster entrypoint guard by lock private process metric group process metric group 
+cluster entrypoint guard by lock private high availability service ha service 
+cluster entrypoint guard by lock private blob server blob server 
+cluster entrypoint guard by lock private heartbeat service heartbeat service 
+cluster entrypoint guard by lock private rpc service common rpc service 
+cluster entrypoint guard by lock private executor service io executor 
+blob library cache manager guard by lock object private final map job i d library cache entry cache entry new hash map 
+blob library cache manager guard by lock object private final permanent blob service blob service 
+blob library cache manager guard by lock object private int reference count 
+blob library cache manager guard by lock object nullable private resolve class loader resolve class loader 
+blob library cache manager guard by lock object private boolean be release 
+blob library cache manager guard by lock object private u r l class loader create user code class loader job i d job id collection permanent blob key require jar file collection url require classpath throw i o exception try final url library u r l new url require jar file size require classpath size int count add u be l to locally cache jar file for permanent blob key key require jar file library u be l count blob service get file job id key to u be i to u be l count add classpath for url url require classpath library u be l count url count return class loader factory create class loader library u r l catch exception e rethrow or wrap exception util try rethrow i o exception e throw new i o exception library cache could not register the user code library e 
+blob library cache manager guard by lock object public int get reference count return reference count 
+blob library cache manager guard by lock object private default class loader lease obtain lease verify be not release reference count return default class loader lease create this 
+blob library cache manager guard by lock object private void release class loader if resolve class loader null resolve class loader release class loader resolve class loader null be release true 
+blob library cache manager guard by lock object private void verify be not release precondition check state be release the library cache entry have already be release 
+abstract non ha service guard by lock protect void check not shutdown check state shutdown high availability service be shut down 
+embed ha service guard by lock private embed leader service get or create job manager service job i d job i d embed leader service service job manager leader service get job i d if service null service create embed leader service executor job manager leader service put job i d service return service 
+embed leader service guard by lock private void shutdown internally exception exception for handler assert thread hold lock lock if shutdown clear all leader status current leader propose null current leader confirm null current leader session id null current leader address null fail all register listener for embed leader election service service all leader contender service shutdown exception for handler all leader contender clear fail all register listener for embed leader retrieval service service listener service shutdown exception for handler listener clear shutdown true 
+embed leader service guard by lock private completable future void update leader this must be call under the lock assert thread hold lock lock if current leader confirm null current leader propose null we need a new leader if all leader contender be empty no new leader available tell everyone that there be no leader currently return notify all listener null null else propose a leader and ask it final uuid leader session id uuid random u u i d embed leader election service leader service all leader contender iterator next current leader session id leader session id current leader propose leader service current leader propose be leader true log info propose leadership to contender leader service contender get description return execute new grant leadership call leader service contender leader session id log else return completable future complete future null 
+standalone client h a service guard by lock private boolean running 
+bound block subpartition guard by lock private final set bound block subpartition reader reader 
+bound block subpartition guard by lock private void check reader reference and dispose throw i o exception assert thread hold lock lock to avoid linger memory map file large resource footprint we don t wait for gc to unmap the file but use a netty utility to directly unmap the file to avoid segmentation fault we need to wait until all reader have be release if reader be empty datum close 
+buffer manager guard by buffer queue private boolean be wait for float buffer 
+buffer manager guard by buffer queue private int num require buffer 
+recover input channel guard by receive buffer private boolean be release 
+remote input channel guard by receive buffer private long last request checkpoint id 
+single input gate guard by request lock private final input channel channel 
+pipelined subpartition guard by buffer private int buffer in backlog 
+pipelined subpartition guard by buffer private boolean flush request 
+pipelined subpartition guard by buffer private boolean be block by checkpoint false 
+pipelined subpartition guard by buffer private void decrease buffer in backlog unsafe boolean be buffer assert thread hold lock buffer if be buffer buffer in backlog 
+pipelined subpartition guard by buffer private void increase buffer in backlog buffer consumer buffer assert thread hold lock buffer if buffer null buffer be buffer buffer in backlog 
+share resource guard by lock private final hash map string lease resource reserve resource new hash map 
+mini cluster guard by lock private final list task executor task manager 
+mini cluster guard by lock private metric registry impl metric registry 
+mini cluster guard by lock private process metric group process metric group 
+mini cluster guard by lock private rpc service common rpc service 
+mini cluster guard by lock private executor service io executor 
+mini cluster guard by lock private final collection rpc service rpc service 
+mini cluster guard by lock private high availability service ha service 
+mini cluster guard by lock private blob server blob server 
+mini cluster guard by lock private heartbeat service heartbeat service 
+mini cluster guard by lock private blob cache service blob cache service 
+mini cluster guard by lock private leader retrieval service resource manager leader retriever 
+mini cluster guard by lock private leader retrieval service dispatcher leader retriever 
+mini cluster guard by lock private leader retrieval service cluster rest endpoint leader retrieval service 
+mini cluster guard by lock private collection dispatcher resource manager component dispatcher resource manager component 
+mini cluster guard by lock private rpc gateway retriever dispatcher id dispatcher gateway dispatcher gateway retriever 
+mini cluster guard by lock private rpc gateway retriever resource manager id resource manager gateway resource manager gateway retriever 
+mini cluster guard by lock private leader retriever web monitor leader retriever 
+mini cluster guard by lock private rpc service factory task manager rpc service factory 
+mini cluster guard by lock private void setup dispatcher resource manager component configuration configuration rpc service factory dispatcher resource managre component rpc service factory metric query service retriever metric query service retriever throw exception dispatcher resource manager component add all create dispatcher resource manager component configuration dispatcher resource managre component rpc service factory ha service blob server heartbeat service metric registry metric query service retriever new shut down fatal error handler final collection completable future application status shut down future new array list dispatcher resource manager component size for dispatcher resource manager component dispatcher resource manager component dispatcher resource manager component final completable future application status shut down future dispatcher resource manager component get shut down future future util assert no exception shut down future then run dispatcher resource manager component close async shut down future add shut down future future util assert no exception future util complete all shut down future then run this close async 
+mini cluster guard by lock private void start task manager throw exception final int num task manager mini cluster configuration get num task manager log info start task manger s num task manager for int i i num task manager i start task executor 
+mini cluster guard by lock private collection extend completable future void terminate task executor final collection completable future void termination future new array list task manager size for int i i task manager size i termination future add terminate task executor i return termination future 
+mini cluster guard by lock private completable future void shut down resource manager component final collection completable future void termination future new array list dispatcher resource manager component size for dispatcher resource manager component dispatcher resource manager component dispatcher resource manager component termination future add dispatcher resource manager component close async final future util conjunct future void dispatcher termination future future util complete all termination future return future util run afterwards dispatcher termination future exception exception null synchronize lock if resource manager leader retriever null try resource manager leader retriever stop catch exception e exception exception util first or suppress e exception resource manager leader retriever null if dispatcher leader retriever null try dispatcher leader retriever stop catch exception e exception exception util first or suppress e exception dispatcher leader retriever null if cluster rest endpoint leader retrieval service null try cluster rest endpoint leader retrieval service stop catch exception e exception exception util first or suppress e exception cluster rest endpoint leader retrieval service null if exception null throw exception 
+mini cluster guard by lock private terminate fatal error handler create int index return new terminate fatal error handler index 
+operator event valve guard by lock private final bi function serialize value operator event integer completable future acknowledge event sender 
+operator event valve guard by lock private final map integer list block event block event new link hash map 
+operator event valve guard by lock private long current checkpoint id 
+operator event valve guard by lock private long last checkpoint id 
+operator event valve guard by lock private boolean shut 
+back pressure request coordinator guard by lock private final map integer pend back pressure request pend request new hash map 
+back pressure request coordinator guard by lock private int request id counter 
+back pressure request coordinator guard by lock private boolean be shut down 
+back pressure stats tracker impl guard by lock private boolean shut down 
+akka rpc service guard by lock private final map actor ref rpc endpoint actor new hash map 
+akka rpc service guard by lock nonnull private completable future void terminate akka rpc actor final collection completable future void akka rpc actor termination future new array list actor size for map entry actor ref rpc endpoint actor ref rpc endpoint entry actor entry set akka rpc actor termination future add terminate akka rpc actor actor ref rpc endpoint entry get key actor ref rpc endpoint entry get value actor clear return future util wait for all akka rpc actor termination future 
+task executor local state store manager guard by lock private final map allocation i d map job vertex subtask key own task local state store task state store by allocation i d 
+task executor local state store manager guard by lock private boolean closed 
+task local state store impl guard by lock private boolean disposed 
+task local state store impl nonnull guard by lock private final sort map long task state snapshot store task state by checkpoint i d 
+default job leader service guard by lock nullable private register rpc connection job master id job master gateway j m t m registration success rpc connection 
+default job leader service guard by lock nullable private job master id current job master id 
+default job leader service guard by lock private void open rpc connection to string leader address job master id job master id precondition check state current job master id null rpc connection null can not open a new rpc connection if the previous connection have not be closed current job master id job master id rpc connection new job manager register rpc connection log leader address job master id rpc service get executor log info try to register at job manager with leader id leader address job master id to u u i would rpc connection start 
+default job leader service guard by lock private void close rpc connection if rpc connection null rpc connection close rpc connection null current job master id null 
+netty leak detection resource guard by ref count lock private static resource leak detector factory previous leak detector 
+netty leak detection resource guard by ref count lock private static resource leak detector level previous leak detector level 
+operator coordinator holder test nullable guard by lock private completable future byte checkpoint 
+rock d b native metric monitor guard by lock private rock d b rock d b 
+task mailbox impl guard by lock private final deque mail queue new array deque 
+task mailbox impl guard by lock private final condition not empty lock new condition 
+task mailbox impl guard by lock private state state open 
+subtask checkpoint coordinator impl guard by lock private final map long async checkpoint runnable checkpoint 
+subtask checkpoint coordinator impl guard by lock private boolean closed 
+batch fine grained recovery i t case guard by class lock private throwable unexpected failure 

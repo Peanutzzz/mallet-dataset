@@ -1,0 +1,5 @@
+hive table sink i t case hive s q l file private static hive shell hive shell 
+hive table source i t case hive s q l file private static hive shell hive shell 
+table env hive connector i t case hive s q l file private static hive shell hive shell 
+hive catalog i t case hive s q l file private static hive shell hive shell 
+hive catalog use blink i t case hive s q l file private static hive shell hive shell 

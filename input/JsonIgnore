@@ -1,0 +1,110 @@
+login app user json ignore override public collection extend grant authority get authority collection grant authority collection new hash set if collection util be empty super get role super get role parallel stream for each role collection add new simple grant authority role get code return collection 
+abstract health checker json ignore protect final string type 
+http json ignore public map string string get custom header if string util be blank header return collection empty map final map string string header map new hash map string string for final string s header split constant name http header spilier final string split s split if splits length continue header map put string util trim split string util trim split return header map 
+service info json ignore private string json from server empty 
+service info json ignore public string get json from server return json from server 
+service info json ignore public string get key return get key name cluster 
+service info json ignore public static string get key string name string cluster if be empty cluster return name constant service info spliter cluster return name 
+service info json ignore public string get key encode try return get key u be l encoder encode name utf cluster catch unsupported encode exception e return get key 
+abstract selector json ignore private final string type 
+cluster json ignore private health check task check task 
+cluster json ignore private set instance persistent instance new hash set 
+cluster json ignore private set instance ephemeral instance new hash set 
+cluster json ignore private service service 
+cluster json ignore private volatile boolean inited false 
+cluster json ignore public health check task get health check task return check task 
+instance json ignore private volatile boolean mock valid false 
+instance json ignore public string get datum key if get port return get ip get port util and common localhost site get cluster name else return get ip util and common localhost site get cluster name 
+instance json ignore public string get default key if get port return get ip get port util and common unknown site else return get ip util and common unknown site 
+instance json ignore public long get check rt return health check status get this check rt 
+instance json ignore public atomic integer get ok count return health check status get this check ok count 
+instance json ignore public atomic integer get fail count return health check status get this check fail count 
+instance json ignore public void set check rt long check rt health check status get this check rt check rt 
+instance override json ignore public string get checksum return recalculate checksum 
+service json ignore private client beat check task client beat check task new client beat check task this 
+service json ignore public push service get push service return application util get bean push service class 
+service json ignore public string get service string map object object service object new hash map object object service service this service object put name service get name list instance ip service all i ps int invalid ip count int ip count for instance ip ip if ip be healthy invalid ip count ip count service object put ip count ip count service object put invalid i p count invalid ip count service object put owner service get owner service object put token service get token service object put protect threshold service get protect threshold list object cluster list new array list object for map entry string cluster entry service get cluster map entry set cluster cluster entry get value map object object cluster new hash map object object cluster put name cluster get name cluster put health checker cluster get health checker cluster put def ckport cluster get def ckport cluster put def i p port cluster get def i p port cluster put use i p port4 check cluster be use i p port4 check cluster put sitegroup cluster get sitegroup cluster list add cluster service object put cluster cluster list try return jackson util to json service object catch exception e throw new runtime exception service to json fail e 
+client beat check task json ignore public push service get push service return application util get bean push service class 
+client beat check task json ignore public distro mapper get distro mapper return application util get bean distro mapper class 
+client beat processor json ignore public push service get push service return application util get bean push service class 
+health check task json ignore private final distro mapper distro mapper 
+health check task json ignore private final switch domain switch domain 
+health check task json ignore private final health check processor health check processor 
+authority rule entity json ignore j s o n field serialize false public string get limit app return rule get limit app 
+authority rule entity json ignore j s o n field serialize false public string get resource return rule get resource 
+authority rule entity json ignore j s o n field serialize false public int get strategy return rule get strategy 
+param flow rule entity json ignore j s o n field serialize false public string get limit app return rule get limit app 
+param flow rule entity json ignore j s o n field serialize false public string get resource return rule get resource 
+param flow rule entity json ignore j s o n field serialize false public int get grade return rule get grade 
+param flow rule entity json ignore j s o n field serialize false public integer get param idx return rule get param idx 
+param flow rule entity json ignore j s o n field serialize false public double get count return rule get count 
+param flow rule entity json ignore j s o n field serialize false public list param flow item get param flow item list return rule get param flow item list 
+param flow rule entity json ignore j s o n field serialize false public int get control behavior return rule get control behavior 
+param flow rule entity json ignore j s o n field serialize false public int get max queueing time ms return rule get max queueing time ms 
+param flow rule entity json ignore j s o n field serialize false public int get burst count return rule get burst count 
+param flow rule entity json ignore j s o n field serialize false public long get duration in sec return rule get duration in sec 
+param flow rule entity json ignore j s o n field serialize false public boolean be cluster mode return rule be cluster mode 
+param flow rule entity json ignore j s o n field serialize false public param flow cluster config get cluster config return rule get cluster config 
+d metric json ignore public abstract number get metric value 
+dashboard configuration json ignore public long get refresh interval return refresh interval 
+dashboard configuration json ignore public int get time zone offset return time zone offset 
+dashboard configuration json ignore public string get time zone name return time zone name 
+dashboard configuration json ignore public string get flink version return flink version 
+dashboard configuration json ignore public string get flink revision return flink revision 
+dashboard configuration json ignore public feature get feature return feature 
+dashboard configuration json ignore public boolean be web submit enable return web submit enable 
+cluster datum set entry json ignore public string get datum set id return datum set id 
+cluster datum set entry json ignore public boolean be complete return be complete 
+cluster datum set list response body json ignore public list cluster datum set entry get datum set return datum set 
+client coordination request body json ignore public serialize value coordination request get serialize coordination request return serialize coordination request 
+client coordination response body json ignore public serialize value coordination response get serialize coordination response return serialize coordination response 
+job detail info json ignore public job i would get job id return job id 
+job detail info json ignore public string get name return name 
+job detail info json ignore public boolean be stoppable return be stoppable 
+job detail info json ignore public job status get job status return job status 
+job detail info json ignore public long get start time return start time 
+job detail info json ignore public long get end time return end time 
+job detail info json ignore public long get duration return duration 
+job detail info json ignore public long get now return now 
+job detail info json ignore public map job status long get timestamp return timestamp 
+job detail info json ignore public collection job vertex detail info get job vertex info return job vertex info 
+job detail info json ignore public map execution state integer get job vertex per state return job vertex per state 
+job detail info json ignore public string get json plan return json plan 
+job detail info json ignore public job vertex i d get job vertex i d return job vertex i d 
+job detail info json ignore public string get name return name 
+job detail info json ignore public int get parallelism return parallelism 
+job detail info json ignore public execution state get execution state return execution state 
+job detail info json ignore public long get start time return start time 
+job detail info json ignore public long get end time return end time 
+job detail info json ignore public long get duration return duration 
+job detail info json ignore public map execution state integer get task per state return task per state 
+job detail info json ignore public i o metric info get job vertex metric return job vertex metric 
+aggregate metric json ignore public string get id return id 
+aggregate metric json ignore public double get min return min 
+aggregate metric json ignore public double get max return max 
+aggregate metric json ignore public double get sum return sum 
+aggregate metric json ignore public double get avg return avg 
+aggregate metric response body json ignore public collection aggregate metric get metric return metric 
+savepoint disposal request json ignore public string get savepoint path return savepoint path 
+job accumulator info json ignore public list job accumulator get job accumulator return job accumulator 
+job accumulator info json ignore public list user task accumulator get user accumulator return user accumulator 
+job accumulator info json ignore public map string serialize value optional failure object get serialize user accumulator return serialize user accumulator 
+job accumulator info json ignore public string get name return name 
+job accumulator info json ignore public string get type return type 
+job accumulator info json ignore public string get value return value 
+job config info json ignore public boolean be object reuse return be object reuse 
+job exception info json ignore public string get root exception return root exception 
+job exception info json ignore public long get root timestamp return root timestamp 
+job exception info json ignore public list execution exception info get all exception return all exception 
+job exception info json ignore public boolean be truncate return truncate 
+job plan info json ignore public string get json plan return json plan json 
+job vertex detail info json ignore public list subtask execution attempt detail info get subtask return collection unmodifiable list subtask 
+log info json ignore public string get name return name 
+log info json ignore public long get size return size 
+jar request body nullable json ignore public string get entry class name return entry class name 
+jar request body nullable json ignore public string get program argument return program argument 
+jar request body nullable json ignore public list string get program argument list return program argument list 
+jar request body nullable json ignore public integer get parallelism return parallelism 
+jar request body nullable json ignore public job i would get job id return job id 
+jar run request body nullable json ignore public boolean get allow non restore state return allow non restore state 
+jar run request body nullable json ignore public string get savepoint path return savepoint path 

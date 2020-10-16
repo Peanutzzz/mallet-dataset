@@ -1,0 +1,6 @@
+app d t o pattern regexp input validator cluster namespace validator message invalid app id format input validator invalid cluster namespace message private string app id 
+cluster d t o not blank message cluster name can not be blank pattern regexp input validator cluster namespace validator message invalid cluster format input validator invalid cluster namespace message private string name 
+namespace d t o pattern regexp input validator cluster namespace validator message invalid namespace format input validator invalid cluster namespace message private string namespace name 
+app not blank message app id can not be blank pattern regexp input validator cluster namespace validator message input validator invalid cluster namespace message column name app id nullable false private string app id 
+app namespace not blank message app namespace name can not be blank pattern regexp input validator cluster namespace validator message invalid namespace format input validator invalid cluster namespace message input validator invalid namespace namespace message column name name nullable false private string name 
+app model not blank message app id can not be blank pattern regexp input validator cluster namespace validator message invalid app id format input validator invalid cluster namespace message private string app id 

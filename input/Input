@@ -1,0 +1,5 @@
+rocket mq config input sink input subscribable channel input 
+rocket mq config input input2 subscribable channel input2 
+rocket mq config input input3 subscribable channel input3 
+rocket mq config input sink input subscribable channel input 
+rocket mq config input input dlq subscribable channel input dlq 

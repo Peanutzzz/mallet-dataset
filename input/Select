@@ -1,0 +1,1 @@
+sy user role mapper select script select r ru user id from sy role user ru inner join sy role r on r id ru role id where ru user id in foreach item item index index collection list open separator close item foreach script list sy role find role by user id list long user id 

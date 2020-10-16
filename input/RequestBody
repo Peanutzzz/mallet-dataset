@@ -1,0 +1,81 @@
+search service request body search dto search dto 
+index controller request body index dto index dto 
+search controller request body require false search dto search dto 
+sy menu controller request body sy menu sy menu 
+sy menu controller request body sy menu menu 
+sy role controller request body sy role sy role 
+sy user controller request body sy user sy user 
+sy user controller request body set long role id 
+sy user controller request body sy user sy user 
+sy user controller request body sy user sy user 
+client controller request body client dto client dto 
+access key controller request body access key d t o dto 
+app controller valid request body app d t o dto 
+app controller request body app app 
+app namespace controller request body app namespace d t o app namespace 
+cluster controller valid request body cluster d t o dto 
+item controller request body item d t o dto 
+item controller request body item d t o item d t o 
+item set controller request body item change set change set 
+namespace branch controller request body gray release rule d t o new rule dto 
+namespace controller valid request body namespace d t o dto 
+release controller request body item change set change set 
+cluster controller valid request body open cluster d t o cluster 
+item controller request body open item d t o item 
+item controller request body open item d t o item 
+namespace branch controller request body open gray release rule d t o rule 
+namespace controller request body open app namespace d t o app namespace d t o 
+release controller request body namespace release d t o model 
+release controller request body namespace release d t o model 
+release controller request body namespace release d t o model 
+release controller request body namespace gray del release d t o model 
+access key controller request body access key d t o access key d t o 
+app controller valid request body app model app model 
+app controller valid request body app model app model 
+app controller valid request body app app 
+cluster controller valid request body cluster d t o cluster 
+consumer controller request body consumer consumer 
+consumer controller request body namespace d t o namespace 
+favorite controller request body favorite favorite 
+item controller request body namespace text model model 
+item controller request body item d t o item 
+item controller request body item d t o item 
+item controller request body namespace sync model model 
+item controller request body namespace sync model model 
+item controller request body namespace text model model 
+namespace branch controller request body namespace release model model 
+namespace branch controller request body gray release rule d t o rule 
+namespace controller request body list namespace creation model model 
+namespace controller valid request body app namespace app namespace 
+permission controller request body string namespace name 
+permission controller request body string user 
+permission controller request body string user 
+permission controller request body string user 
+permission controller request body list string user id 
+release controller request body namespace release model model 
+release controller request body namespace release model model 
+server config controller valid request body server config server config 
+user info controller request body user p o user 
+config controller request body require true list same namespace clone config bean config bean list 
+core op controller request body map string string command 
+naco cluster controller request body member node 
+naco cluster controller request body collection string param 
+distro controller request body map string datum instance datum map 
+distro controller request body map string string datum map 
+distro controller request body string body 
+authority rule controller request body authority rule entity entity 
+authority rule controller request body authority rule entity entity 
+cluster assign controller request body cluster app full assign request assign request 
+cluster assign controller request body cluster app single server assign request assign request 
+cluster assign controller request body set string machine id 
+cluster config controller request body string payload 
+flow controller v1 request body flow rule entity entity 
+gateway api controller request body add api req vo req vo 
+gateway api controller request body update api req vo req vo 
+gateway flow rule controller request body add flow rule req vo req vo 
+gateway flow rule controller request body update flow rule req vo req vo 
+param flow rule controller request body param flow rule entity entity 
+param flow rule controller request body param flow rule entity entity 
+flow controller v2 request body flow rule entity entity 
+flow controller v2 request body flow rule entity entity 
+baz controller request body string value 

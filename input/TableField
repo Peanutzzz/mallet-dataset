@@ -1,0 +1,14 @@
+file info table field fill field fill insert private date create time 
+file info table field fill field fill insert update private date update time 
+super entity table field fill field fill insert private date create time 
+super entity table field fill field fill insert update private date update time 
+sy menu table field exist false private list sy menu sub menu 
+sy menu table field exist false private long role id 
+sy menu table field exist false private set long menu id 
+sy role table field exist false private long user id 
+sy user table field exist false private list sy role role 
+sy user table field exist false private string role id 
+sy user table field exist false private string old password 
+sy user table field exist false private string new password 
+client table field value access token validity private integer access token validity seconds 
+client table field value refresh token validity private integer refresh token validity seconds 

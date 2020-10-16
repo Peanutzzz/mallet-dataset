@@ -1,0 +1,3 @@
+commit lob column name change set nullable false private string change set 
+item column name value lob private string value 
+release column name configuration nullable false lob private string configuration 

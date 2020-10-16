@@ -1,0 +1,423 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.06405729708618504" totalTokens="21596" titles="state descriptor, key, file, exception, operator, checkpoint, param, path, stream, return">
+	<word weight="0.07686608631228005" count="1660">state</word>
+	<word weight="0.023106130764956472" count="499">key</word>
+	<word weight="0.02171698462678274" count="469">file</word>
+	<word weight="0.020698277458788664" count="447">exception</word>
+	<word weight="0.018568253380255605" count="401">operator</word>
+	<word weight="0.016854973143174662" count="364">checkpoint</word>
+	<word weight="0.01662344878681237" count="359">param</word>
+	<word weight="0.015465827005000926" count="334">path</word>
+	<word weight="0.014910168549731432" count="322">stream</word>
+	<word weight="0.013613632154102611" count="294">return</word>
+	<word weight="0.013335802926467865" count="288">throws</word>
+	<word weight="0.013150583441378033" count="284">final</word>
+	<word weight="0.011715132431931839" count="253">public</word>
+	<word weight="0.01148360807556955" count="248">metric</word>
+	<word weight="0.011113169105389887" count="240">job</word>
+	<word weight="0.01060381552139285" count="229">null</word>
+	<word weight="0.009631413224671235" count="208">backend</word>
+	<word weight="0.009446193739581403" count="204">group</word>
+	<word weight="0.0091220596406742" count="197">savepoint</word>
+	<word weight="0.008983145026856825" count="194">set</word>
+	<phrase weight="0.013328106624852998" count="34">state descriptor</phrase>
+	<phrase weight="0.004704037632301058" count="12">state param</phrase>
+	<phrase weight="0.00431203449627597" count="11">throws exception</phrase>
+	<phrase weight="0.0035280282242257936" count="9">queryable state</phrase>
+	<phrase weight="0.0035280282242257936" count="9">part file state</phrase>
+	<phrase weight="0.0031360250882007056" count="8">state state</phrase>
+	<phrase weight="0.002352018816150529" count="6">placeholder refer provided</phrase>
+	<phrase weight="0.002352018816150529" count="6">state backend</phrase>
+	<phrase weight="0.002352018816150529" count="6">metric group</phrase>
+	<phrase weight="0.002352018816150529" count="6">data set</phrase>
+	<phrase weight="0.002352018816150529" count="6">keyed operator transformation</phrase>
+	<phrase weight="0.002352018816150529" count="6">stats param</phrase>
+	<phrase weight="0.002352018816150529" count="6">retrieved states</phrase>
+	<phrase weight="0.002352018816150529" count="6">key selector</phrase>
+	<phrase weight="0.002352018816150529" count="6">part file info</phrase>
+	<phrase weight="0.002352018816150529" count="6">checkpoint throws</phrase>
+	<phrase weight="0.001960015680125441" count="5">execution config</phrase>
+	<phrase weight="0.001960015680125441" count="5">handle system key</phrase>
+	<phrase weight="0.001960015680125441" count="5">part file</phrase>
+	<phrase weight="0.001960015680125441" count="5">stored state</phrase>
+  </topic>
+  <topic id="1" alpha="0.11552218329912645" totalTokens="35984" titles="type info, data type, static final, public static final, logical type, type information, output type, type type, field types field, override public">
+	<word weight="0.14581480658070253" count="5247">type</word>
+	<word weight="0.04779902178746109" count="1720">public</word>
+	<word weight="0.0411016007114273" count="1479">return</word>
+	<word weight="0.04029568697198755" count="1450">class</word>
+	<word weight="0.03898955091151623" count="1403">data</word>
+	<word weight="0.030513561582925744" count="1098">string</word>
+	<word weight="0.02334370831480658" count="840">null</word>
+	<word weight="0.022954646509559803" count="826">field</word>
+	<word weight="0.021009337483325924" count="756">final</word>
+	<word weight="0.016896398399288574" count="608">override</word>
+	<word weight="0.014172965762561138" count="510">logical</word>
+	<word weight="0.013533792796798578" count="487">types</word>
+	<word weight="0.013255891507336593" count="477">output</word>
+	<word weight="0.013255891507336593" count="477">static</word>
+	<word weight="0.012199866607381059" count="439">list</word>
+	<word weight="0.01200533570475767" count="432">info</word>
+	<word weight="0.011977545575811472" count="431">input</word>
+	<word weight="0.011810804802134282" count="425">boolean</word>
+	<word weight="0.01167185415740329" count="420">conversion</word>
+	<word weight="0.01167185415740329" count="420">key</word>
+	<phrase weight="0.016563604240282685" count="75">type info</phrase>
+	<phrase weight="0.014575971731448763" count="66">data type</phrase>
+	<phrase weight="0.010379858657243815" count="47">static final</phrase>
+	<phrase weight="0.009496466431095406" count="43">public static final</phrase>
+	<phrase weight="0.008171378091872792" count="37">logical type</phrase>
+	<phrase weight="0.007067137809187279" count="32">type information</phrase>
+	<phrase weight="0.007067137809187279" count="32">output type</phrase>
+	<phrase weight="0.007067137809187279" count="32">type type</phrase>
+	<phrase weight="0.00530035335689046" count="24">public static</phrase>
+	<phrase weight="0.004858657243816254" count="22">field types field</phrase>
+	<phrase weight="0.004637809187279152" count="21">override public</phrase>
+	<phrase weight="0.003975265017667844" count="18">public type</phrase>
+	<phrase weight="0.003754416961130742" count="17">serializer data</phrase>
+	<phrase weight="0.003754416961130742" count="17">public class</phrase>
+	<phrase weight="0.0035335689045936395" count="16">input type</phrase>
+	<phrase weight="0.0035335689045936395" count="16">type return</phrase>
+	<phrase weight="0.0033127208480565372" count="15">information types</phrase>
+	<phrase weight="0.0030918727915194345" count="14">types return data</phrase>
+	<phrase weight="0.002871024734982332" count="13">check null</phrase>
+	<phrase weight="0.002871024734982332" count="13">string format</phrase>
+  </topic>
+  <topic id="2" alpha="0.09921539086762211" totalTokens="21607" titles="stream project tuple, stream tuple, time, public, context, function, long, window, link, state">
+	<word weight="0.04452260841393993" count="962">time</word>
+	<word weight="0.03309112787522562" count="715">stream</word>
+	<word weight="0.032720877493404917" count="707">public</word>
+	<word weight="0.02887952978201509" count="624">context</word>
+	<word weight="0.025177025963808025" count="544">function</word>
+	<word weight="0.02341833665015967" count="506">long</word>
+	<word weight="0.022492710695607904" count="486">window</word>
+	<word weight="0.021659647336511316" count="468">link</word>
+	<word weight="0.018743925579673255" count="405">state</word>
+	<word weight="0.017910862220576664" count="387">param</word>
+	<word weight="0.017355486647845607" count="375">tuple</word>
+	<word weight="0.01693895496829731" count="366">timestamp</word>
+	<word weight="0.016522423288749016" count="357">trigger</word>
+	<word weight="0.015272828250104132" count="330">return</word>
+	<word weight="0.015180265654648957" count="328">element</word>
+	<word weight="0.013652982829638543" count="295">exception</word>
+	<word weight="0.012819919470541953" count="277">output</word>
+	<word weight="0.011431480538714305" count="247">abstract</word>
+	<word weight="0.011246355347803952" count="243">override</word>
+	<word weight="0.011200074050076364" count="242">void</word>
+	<phrase weight="0.01011029411764706" count="22">stream project tuple</phrase>
+	<phrase weight="0.009650735294117647" count="21">stream tuple</phrase>
+	<phrase weight="0.008731617647058824" count="19">stream previously selected</phrase>
+	<phrase weight="0.008731617647058824" count="19">override public</phrase>
+	<phrase weight="0.006893382352941176" count="15">transform projection</phrase>
+	<phrase weight="0.006893382352941176" count="15">public interface</phrase>
+	<phrase weight="0.006433823529411764" count="14">time service</phrase>
+	<phrase weight="0.006433823529411764" count="14">public abstract</phrase>
+	<phrase weight="0.0059742647058823525" count="13">global window</phrase>
+	<phrase weight="0.0059742647058823525" count="13">stream operator tuple project tuple</phrase>
+	<phrase weight="0.00505514705882353" count="11">public void</phrase>
+	<phrase weight="0.00505514705882353" count="11">time window</phrase>
+	<phrase weight="0.004595588235294118" count="10">runtime context</phrase>
+	<phrase weight="0.004595588235294118" count="10">return projected</phrase>
+	<phrase weight="0.004136029411764706" count="9">processing time</phrase>
+	<phrase weight="0.004136029411764706" count="9">stream transform projection</phrase>
+	<phrase weight="0.003676470588235294" count="8">event time</phrase>
+	<phrase weight="0.003216911764705882" count="7">throws exception</phrase>
+	<phrase weight="0.003216911764705882" count="7">projects link tuple link</phrase>
+	<phrase weight="0.003216911764705882" count="7">stream public single</phrase>
+  </topic>
+  <topic id="3" alpha="0.05836109491373364" totalTokens="19749" titles="string, public, properties, format, factory, return, final, sink, private, schema">
+	<word weight="0.037115803331814266" count="733">string</word>
+	<word weight="0.03326750721555522" count="657">public</word>
+	<word weight="0.03007747227707732" count="594">properties</word>
+	<word weight="0.022634057420628892" count="447">format</word>
+	<word weight="0.021520076965922324" count="425">factory</word>
+	<word weight="0.019038938680439516" count="376">return</word>
+	<word weight="0.017975593700946882" count="355">final</word>
+	<word weight="0.01645652944452884" count="325">sink</word>
+	<word weight="0.01534254898982227" count="303">private</word>
+	<word weight="0.014076662109473897" count="278">schema</word>
+	<word weight="0.013317129981264874" count="263">builder</word>
+	<word weight="0.012506962377841916" count="247">static</word>
+	<word weight="0.011899336675274697" count="235">class</word>
+	<word weight="0.011139804547065674" count="220">bucket</word>
+	<word weight="0.01108916907185174" count="219">interval</word>
+	<word weight="0.010835991695782065" count="214">descriptor</word>
+	<word weight="0.010785356220568131" count="213">rowtime</word>
+	<word weight="0.010279001468428781" count="203">config</word>
+	<word weight="0.009975188617145171" count="197">strategy</word>
+	<word weight="0.009266291964150084" count="183">bulk</word>
+	<phrase weight="0.004962779156327543" count="12">public class</phrase>
+	<phrase weight="0.0041356492969396195" count="10">sequence nums</phrase>
+	<phrase weight="0.0033085194375516956" count="8">string format</phrase>
+	<phrase weight="0.0033085194375516956" count="8">public static</phrase>
+	<phrase weight="0.0028949545078577337" count="7">rowtime timestamps</phrase>
+	<phrase weight="0.0028949545078577337" count="7">schema schema</phrase>
+	<phrase weight="0.0028949545078577337" count="7">properties put</phrase>
+	<phrase weight="0.0028949545078577337" count="7">override public</phrase>
+	<phrase weight="0.0024813895781637717" count="6">context context</phrase>
+	<phrase weight="0.0024813895781637717" count="6">properties put string connector</phrase>
+	<phrase weight="0.0024813895781637717" count="6">factory dynamic</phrase>
+	<phrase weight="0.0020678246484698098" count="5">properties prefix</phrase>
+	<phrase weight="0.0020678246484698098" count="5">shard shard</phrase>
+	<phrase weight="0.0020678246484698098" count="5">watermark strategy</phrase>
+	<phrase weight="0.0020678246484698098" count="5">static final</phrase>
+	<phrase weight="0.0020678246484698098" count="5">elasticsearch sink</phrase>
+	<phrase weight="0.0020678246484698098" count="5">rowtime rowtime timestamps</phrase>
+	<phrase weight="0.0020678246484698098" count="5">num retries</phrase>
+	<phrase weight="0.0016542597187758478" count="4">stream shard</phrase>
+	<phrase weight="0.0016542597187758478" count="4">check null</phrase>
+  </topic>
+  <topic id="4" alpha="0.029053606104657573" totalTokens="21130" titles="type, row, return, time, array, precision, info, object, field, int">
+	<word weight="0.04552768575485092" count="962">type</word>
+	<word weight="0.04188357785139612" count="885">row</word>
+	<word weight="0.0371509701845717" count="785">return</word>
+	<word weight="0.02825366777094179" count="597">time</word>
+	<word weight="0.025934690014197823" count="548">array</word>
+	<word weight="0.022006625650733556" count="465">precision</word>
+	<word weight="0.02129673450070989" count="450">info</word>
+	<word weight="0.02106010411736867" count="445">object</word>
+	<word weight="0.019640321817321345" count="415">field</word>
+	<word weight="0.019072408897302412" count="403">int</word>
+	<word weight="0.01893043066729768" count="400">schema</word>
+	<word weight="0.017605300520586842" count="372">node</word>
+	<word weight="0.01665877898722196" count="352">converter</word>
+	<word weight="0.01613819214387127" count="341">data</word>
+	<word weight="0.015617605300520587" count="330">timestamp</word>
+	<word weight="0.014150496923805017" count="299">private</word>
+	<word weight="0.013487931850449598" count="285">case</word>
+	<word weight="0.012872692853762423" count="272">csv</word>
+	<word weight="0.012494084240416469" count="264">local</word>
+	<word weight="0.012494084240416469" count="264">final</word>
+	<phrase weight="0.007779772591262717" count="13">day time interval</phrase>
+	<phrase weight="0.005984440454817474" count="10">local date time</phrase>
+	<phrase weight="0.005984440454817474" count="10">time zone</phrase>
+	<phrase weight="0.005984440454817474" count="10">zoned timestamp</phrase>
+	<phrase weight="0.005385996409335727" count="9">local date</phrase>
+	<phrase weight="0.005385996409335727" count="9">local time</phrase>
+	<phrase weight="0.0047875523638539795" count="8">deserialization schema</phrase>
+	<phrase weight="0.0047875523638539795" count="8">row kind</phrase>
+	<phrase weight="0.004189108318372232" count="7">day precision</phrase>
+	<phrase weight="0.004189108318372232" count="7">local zoned timestamp</phrase>
+	<phrase weight="0.003590664272890485" count="6">row row</phrase>
+	<phrase weight="0.003590664272890485" count="6">year month interval</phrase>
+	<phrase weight="0.003590664272890485" count="6">row field</phrase>
+	<phrase weight="0.003590664272890485" count="6">primitive array</phrase>
+	<phrase weight="0.003590664272890485" count="6">int precision</phrase>
+	<phrase weight="0.002992220227408737" count="5">data type</phrase>
+	<phrase weight="0.002992220227408737" count="5">precision scale</phrase>
+	<phrase weight="0.002992220227408737" count="5">fractional precision</phrase>
+	<phrase weight="0.002992220227408737" count="5">return row</phrase>
+	<phrase weight="0.0023937761819269898" count="4">private static</phrase>
+  </topic>
+  <topic id="5" alpha="0.03159417195875818" totalTokens="18533" titles="config option, key, default, description, memory, public, static, final, options, size">
+	<word weight="0.03965898667242217" count="735">config</word>
+	<word weight="0.03663734959261857" count="679">option</word>
+	<word weight="0.030701991043004372" count="569">key</word>
+	<word weight="0.02967679274807101" count="550">default</word>
+	<word weight="0.027680353963200777" count="513">description</word>
+	<word weight="0.02654724005827443" count="492">memory</word>
+	<word weight="0.021798953218583068" count="404">public</word>
+	<word weight="0.020719797118653214" count="384">static</word>
+	<word weight="0.01866940052878649" count="346">final</word>
+	<word weight="0.016834835158905735" count="312">options</word>
+	<word weight="0.016457130523930285" count="305">size</word>
+	<word weight="0.015701721253979388" count="291">string</word>
+	<word weight="0.01532401661900394" count="284">task</word>
+	<word weight="0.014514649544056547" count="269">documentation</word>
+	<word weight="0.014514649544056547" count="269">manager</word>
+	<word weight="0.009982193924351157" count="185">job</word>
+	<word weight="0.008471375384449361" count="157">resource</word>
+	<word weight="0.008201586359466898" count="152">port</word>
+	<word weight="0.00787783952948794" count="146">type</word>
+	<word weight="0.007823881724491447" count="145">network</word>
+	<phrase weight="0.021361815754339118" count="32">config option</phrase>
+	<phrase weight="0.006008010680907877" count="9">fallback keys</phrase>
+	<phrase weight="0.006008010680907877" count="9">option exec</phrase>
+	<phrase weight="0.004672897196261682" count="7">public static</phrase>
+	<phrase weight="0.004672897196261682" count="7">description description</phrase>
+	<phrase weight="0.004672897196261682" count="7">external resource</phrase>
+	<phrase weight="0.004672897196261682" count="7">option default</phrase>
+	<phrase weight="0.004672897196261682" count="7">option exec mode documentation exec</phrase>
+	<phrase weight="0.004672897196261682" count="7">config options</phrase>
+	<phrase weight="0.004005340453938585" count="6">public static final config option</phrase>
+	<phrase weight="0.004005340453938585" count="6">static final config option</phrase>
+	<phrase weight="0.004005340453938585" count="6">default description</phrase>
+	<phrase weight="0.004005340453938585" count="6">external resource driver</phrase>
+	<phrase weight="0.0033377837116154874" count="5">config option key</phrase>
+	<phrase weight="0.0033377837116154874" count="5">optimizer reuse</phrase>
+	<phrase weight="0.0033377837116154874" count="5">config option default</phrase>
+	<phrase weight="0.0033377837116154874" count="5">enabled key</phrase>
+	<phrase weight="0.0026702269692923898" count="4">config options key</phrase>
+	<phrase weight="0.0026702269692923898" count="4">config option integer</phrase>
+	<phrase weight="0.0026702269692923898" count="4">port port</phrase>
+  </topic>
+  <topic id="6" alpha="0.0314763160101697" totalTokens="25760" titles="kafka, producer, serializer, transaction, flink, schema, transactional, public, topic, context">
+	<word weight="0.04386645962732919" count="1130">kafka</word>
+	<word weight="0.03482142857142857" count="897">producer</word>
+	<word weight="0.026669254658385093" count="687">serializer</word>
+	<word weight="0.02565993788819876" count="661">transaction</word>
+	<word weight="0.02045807453416149" count="527">flink</word>
+	<word weight="0.01750776397515528" count="451">schema</word>
+	<word weight="0.0171972049689441" count="443">transactional</word>
+	<word weight="0.016420807453416147" count="423">public</word>
+	<word weight="0.015062111801242235" count="388">topic</word>
+	<word weight="0.014285714285714285" count="368">context</word>
+	<word weight="0.01265527950310559" count="326">exception</word>
+	<word weight="0.012383540372670808" count="319">snapshot</word>
+	<word weight="0.011801242236024845" count="304">serialization</word>
+	<word weight="0.011684782608695652" count="301">config</word>
+	<word weight="0.01141304347826087" count="294">state</word>
+	<word weight="0.011024844720496894" count="284">param</word>
+	<word weight="0.010442546583850932" count="269">return</word>
+	<word weight="0.010287267080745342" count="265">null</word>
+	<word weight="0.009316770186335404" count="240">link</word>
+	<word weight="0.008812111801242237" count="227">partitioner</word>
+	<phrase weight="0.006493506493506494" count="12">serializer snapshot</phrase>
+	<phrase weight="0.004329004329004329" count="8">zoo keeper</phrase>
+	<phrase weight="0.003246753246753247" count="6">serializer serializer</phrase>
+	<phrase weight="0.0027056277056277055" count="5">public void</phrase>
+	<phrase weight="0.0027056277056277055" count="5">view target</phrase>
+	<phrase weight="0.0027056277056277055" count="5">kinesis consumer</phrase>
+	<phrase weight="0.0027056277056277055" count="5">serializer schema compatibility</phrase>
+	<phrase weight="0.0027056277056277055" count="5">override public</phrase>
+	<phrase weight="0.0027056277056277055" count="5">deserialization schema</phrase>
+	<phrase weight="0.0027056277056277055" count="5">pending transaction</phrase>
+	<phrase weight="0.0027056277056277055" count="5">serializer serialize</phrase>
+	<phrase weight="0.0021645021645021645" count="4">config props</phrase>
+	<phrase weight="0.0021645021645021645" count="4">serializer config snapshot</phrase>
+	<phrase weight="0.0021645021645021645" count="4">view source</phrase>
+	<phrase weight="0.0016233766233766235" count="3">class serializer</phrase>
+	<phrase weight="0.0016233766233766235" count="3">loader user code</phrase>
+	<phrase weight="0.0016233766233766235" count="3">offset commit</phrase>
+	<phrase weight="0.0016233766233766235" count="3">reconfigured serializer</phrase>
+	<phrase weight="0.0016233766233766235" count="3">serializer schema compatibility resolve schema compatibility</phrase>
+	<phrase weight="0.0016233766233766235" count="3">kafka partitions</phrase>
+  </topic>
+  <topic id="7" alpha="0.055379991731971626" totalTokens="21030" titles="function definition, built function definition builder, strategies missing build, table source, kind scalar, strategy sequence logical logical, link, data, catalog, string">
+	<word weight="0.08616262482168331" count="1812">table</word>
+	<word weight="0.037184973846885405" count="782">function</word>
+	<word weight="0.0367094626723728" count="772">link</word>
+	<word weight="0.025106990014265335" count="528">data</word>
+	<word weight="0.021778411792677126" count="458">catalog</word>
+	<word weight="0.01806942463147884" count="380">definition</word>
+	<word weight="0.0178792201616738" count="376">string</word>
+	<word weight="0.015786970993818355" count="332">built</word>
+	<word weight="0.015121255349500713" count="318">param</word>
+	<word weight="0.014931050879695673" count="314">exception</word>
+	<word weight="0.01388492629576795" count="292">strategy</word>
+	<word weight="0.01378982406086543" count="290">logical</word>
+	<word weight="0.01355206847360913" count="285">path</word>
+	<word weight="0.012410841654778888" count="261">set</word>
+	<word weight="0.012410841654778888" count="261">type</word>
+	<word weight="0.012363290537327628" count="260">fields</word>
+	<word weight="0.011792677127912507" count="248">kind</word>
+	<word weight="0.010794103661436044" count="227">source</word>
+	<word weight="0.010508796956728484" count="221">environment</word>
+	<word weight="0.010271041369472182" count="216">field</word>
+	<phrase weight="0.01947261663286004" count="48">function definition</phrase>
+	<phrase weight="0.015010141987829614" count="37">built function definition builder</phrase>
+	<phrase weight="0.01460446247464503" count="36">built function definition</phrase>
+	<phrase weight="0.014198782961460446" count="35">strategies missing build</phrase>
+	<phrase weight="0.011359026369168357" count="28">table source</phrase>
+	<phrase weight="0.009330628803245436" count="23">kind scalar</phrase>
+	<phrase weight="0.008519269776876268" count="21">strategy sequence logical logical</phrase>
+	<phrase weight="0.007707910750507099" count="19">strategy sequence</phrase>
+	<phrase weight="0.007302231237322515" count="18">family character</phrase>
+	<phrase weight="0.006490872210953347" count="16">family character string</phrase>
+	<phrase weight="0.006490872210953347" count="16">kind scalar input</phrase>
+	<phrase weight="0.006085192697768763" count="15">explicit data</phrase>
+	<phrase weight="0.006085192697768763" count="15">family numeric</phrase>
+	<phrase weight="0.005679513184584178" count="14">type strategy</phrase>
+	<phrase weight="0.00486815415821501" count="12">table sink</phrase>
+	<phrase weight="0.00486815415821501" count="12">catalog table</phrase>
+	<phrase weight="0.004462474645030426" count="11">link table</phrase>
+	<phrase weight="0.004462474645030426" count="11">table column</phrase>
+	<phrase weight="0.004056795131845842" count="10">table schema</phrase>
+	<phrase weight="0.0036511156186612576" count="9">family predefined logical</phrase>
+  </topic>
+  <topic id="8" alpha="0.04758668304169367" totalTokens="19041" titles="token token, string, return, int, bytes, public, length, pos, start, long">
+	<word weight="0.036762775064334854" count="700">string</word>
+	<word weight="0.03450449031038286" count="657">return</word>
+	<word weight="0.030985767554225094" count="590">int</word>
+	<word weight="0.02983036605220314" count="568">bytes</word>
+	<word weight="0.029252665301192166" count="557">public</word>
+	<word weight="0.026154088545769654" count="498">length</word>
+	<word weight="0.025418833044482957" count="484">pos</word>
+	<word weight="0.02126989128722231" count="405">start</word>
+	<word weight="0.020377081035659893" count="388">byte</word>
+	<word weight="0.020377081035659893" count="388">long</word>
+	<word weight="0.017436059030513103" count="332">delimiter</word>
+	<word weight="0.015335329026836826" count="292">final</word>
+	<word weight="0.014862664776009664" count="283">count</word>
+	<word weight="0.014705110025733943" count="280">token</word>
+	<word weight="0.014337482275090595" count="273">parse</word>
+	<word weight="0.013969854524447245" count="266">private</word>
+	<word weight="0.01354970852371199" count="258">max</word>
+	<word weight="0.013339635523344362" count="254">override</word>
+	<word weight="0.013182080773068641" count="251">field</word>
+	<word weight="0.012289270521506223" count="234">error</word>
+	<phrase weight="0.022803114571746386" count="41">token token</phrase>
+	<phrase weight="0.010011123470522803" count="18">token keyword</phrase>
+	<phrase weight="0.006674082313681869" count="12">override public</phrase>
+	<phrase weight="0.0033370411568409346" count="6">public static</phrase>
+	<phrase weight="0.0033370411568409346" count="6">string string</phrase>
+	<phrase weight="0.0033370411568409346" count="6">int length</phrase>
+	<phrase weight="0.0027808676307007787" count="5">private static</phrase>
+	<phrase weight="0.0027808676307007787" count="5">byte array</phrase>
+	<phrase weight="0.0027808676307007787" count="5">strings bytes</phrase>
+	<phrase weight="0.0027808676307007787" count="5">charset charset</phrase>
+	<phrase weight="0.002224694104560623" count="4">field pos</phrase>
+	<phrase weight="0.002224694104560623" count="4">scala csv</phrase>
+	<phrase weight="0.002224694104560623" count="4">length int</phrase>
+	<phrase weight="0.002224694104560623" count="4">simple string</phrase>
+	<phrase weight="0.002224694104560623" count="4">input format</phrase>
+	<phrase weight="0.002224694104560623" count="4">private static final</phrase>
+	<phrase weight="0.002224694104560623" count="4">illegal argument</phrase>
+	<phrase weight="0.002224694104560623" count="4">col stats</phrase>
+	<phrase weight="0.002224694104560623" count="4">field delimiter</phrase>
+	<phrase weight="0.002224694104560623" count="4">public final</phrase>
+  </topic>
+  <topic id="9" alpha="0.043572907508008706" totalTokens="13364" titles="expression, table, api, code, call, function, return, split, public, window">
+	<word weight="0.05552229871296019" count="742">expression</word>
+	<word weight="0.02693804250224484" count="360">table</word>
+	<word weight="0.022972164022747682" count="307">api</word>
+	<word weight="0.02229871296019156" count="298">code</word>
+	<word weight="0.022149057168512423" count="296">pre</word>
+	<word weight="0.021700089793475007" count="290">call</word>
+	<word weight="0.02072732714756061" count="277">function</word>
+	<word weight="0.020502843460041904" count="274">return</word>
+	<word weight="0.019754564501646213" count="264">split</word>
+	<word weight="0.017883867105656988" count="239">public</word>
+	<word weight="0.015788686022149057" count="211">window</word>
+	<word weight="0.015489374438790782" count="207">string</word>
+	<word weight="0.015040407063753368" count="201">time</word>
+	<word weight="0.014217300209518108" count="190">aggregate</word>
+	<word weight="0.013768332834480694" count="184">specific</word>
+	<word weight="0.013094881771924574" count="175">select</word>
+	<word weight="0.0118228075426519" count="158">fields</word>
+	<word weight="0.011598323855133194" count="155">expr</word>
+	<word weight="0.011373840167614486" count="152">size</word>
+	<word weight="0.010775217000897935" count="144">unresolved</word>
+	<phrase weight="0.0070967741935483875" count="11">invalid program</phrase>
+	<phrase weight="0.005806451612903226" count="9">api specific expression unresolved call</phrase>
+	<phrase weight="0.005806451612903226" count="9">split enumerator</phrase>
+	<phrase weight="0.004516129032258065" count="7">return api specific expression unresolved call</phrase>
+	<phrase weight="0.004516129032258065" count="7">api call</phrase>
+	<phrase weight="0.004516129032258065" count="7">string public</phrase>
+	<phrase weight="0.004516129032258065" count="7">api expression</phrase>
+	<phrase weight="0.004516129032258065" count="7">function definitions</phrase>
+	<phrase weight="0.0032258064516129032" count="5">pre code</phrase>
+	<phrase weight="0.0032258064516129032" count="5">split important providing wrong</phrase>
+	<phrase weight="0.0025806451612903226" count="4">expression deprecated</phrase>
+	<phrase weight="0.0025806451612903226" count="4">properties object public split</phrase>
+	<phrase weight="0.0025806451612903226" count="4">expr returns</phrase>
+	<phrase weight="0.0025806451612903226" count="4">call expression</phrase>
+	<phrase weight="0.0025806451612903226" count="4">public static api expression</phrase>
+	<phrase weight="0.0025806451612903226" count="4">map partition</phrase>
+	<phrase weight="0.0025806451612903226" count="4">group fields</phrase>
+	<phrase weight="0.0025806451612903226" count="4">api specific expression unresolved call expr</phrase>
+	<phrase weight="0.001935483870967742" count="3">batch tables grouping</phrase>
+	<phrase weight="0.001935483870967742" count="3">semicolon character records sharing</phrase>
+  </topic>
+</topics>

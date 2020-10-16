@@ -1,0 +1,2 @@
+gateway app enable zuul proxy enable feign client enable base feign interceptor enable discovery client spring boot application public class gateway app public static void main string arg spring application run gateway app class arg 
+zuul gateway demo application spring boot application enable zuul proxy public class zuul gateway demo application public static void main string arg spring application run zuul gateway demo application class arg 

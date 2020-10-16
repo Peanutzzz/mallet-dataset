@@ -1,0 +1,14 @@
+namespace lock test inject mock namespace acquire lock aspect namespace lock aspect 
+namespace unlock aspect test inject mock private namespace unlock aspect namespace unlock aspect 
+namespace publish info test inject mock private namespace service namespace service 
+namespace service test spy inject mock private namespace service namespace service 
+release service test inject mock private release service release service 
+health controller unit test inject mock health controller health controller 
+health controller test inject mock private health controller health controller 
+cluster controller test inject mock private cluster controller cluster controller 
+instance controller test inject mock private instance controller instance controller 
+domain manager test spy inject mock private service manager manager 
+push service test inject mock private push service push service 
+client beat check task test inject mock spy private client beat check task client beat check task 
+raft store test inject mock spy public raft core raft core 
+deserialization schema wrapper test inject mock private deserialization schema wrapper string deserialization schema wrapper 

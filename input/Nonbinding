@@ -1,0 +1,10 @@
+sentinel resource bind nonbinding string value default 
+sentinel resource bind nonbinding entry type entry type default entry type out 
+sentinel resource bind nonbinding int resource type default 
+sentinel resource bind nonbinding string block handler default 
+sentinel resource bind nonbinding class block handler class default 
+sentinel resource bind nonbinding string fallback default 
+sentinel resource bind nonbinding string default fallback default 
+sentinel resource bind nonbinding class fallback class default 
+sentinel resource bind nonbinding class extend throwable exception to trace default throwable class 
+sentinel resource bind nonbinding class extend throwable exception to ignore default 

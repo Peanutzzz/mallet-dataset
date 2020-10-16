@@ -1,0 +1,6 @@
+instance id generate value strategy generation type identity column name id private long id 
+instance config id generate value strategy generation type identity column name id private long id 
+release message id generate value strategy generation type identity column name id private long id 
+base entity id generate value strategy generation type identity column name id private long id 
+consumer audit id generate value strategy generation type identity column name id private long id 
+user p o id generate value strategy generation type identity column name id private long id 

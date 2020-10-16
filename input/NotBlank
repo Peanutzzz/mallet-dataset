@@ -1,0 +1,15 @@
+cluster d t o not blank message cluster name can not be blank pattern regexp input validator cluster namespace validator message invalid cluster format input validator invalid cluster namespace message private string name 
+cluster d t o not blank message app id can not be blank private string app id 
+app not blank message name can not be blank column name name nullable false private string name 
+app not blank message app id can not be blank pattern regexp input validator cluster namespace validator message input validator invalid cluster namespace message column name app id nullable false private string app id 
+app not blank message owner name can not be blank column name owner name nullable false private string owner name 
+app not blank message owner email can not be blank column name owner email nullable false private string owner email 
+app namespace not blank message app namespace name can not be blank pattern regexp input validator cluster namespace validator message invalid namespace format input validator invalid cluster namespace message input validator invalid namespace namespace message column name name nullable false private string name 
+app namespace not blank message app id can not be blank column name app id nullable false private string app id 
+app model not blank message name can not be blank private string name 
+app model not blank message app id can not be blank pattern regexp input validator cluster namespace validator message invalid app id format input validator invalid cluster namespace message private string app id 
+app model not blank message org id can not be blank private string org id 
+app model not blank message org name can not be blank private string org name 
+app model not blank message owner name can not be blank private string owner name 
+server config not blank message server config key can not be blank column name key nullable false private string key 
+server config not blank message server config value can not be blank column name value nullable false private string value 

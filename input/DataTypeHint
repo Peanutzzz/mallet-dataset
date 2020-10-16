@@ -1,0 +1,116 @@
+expression resolver test input datum type hint input group input group any 
+expression resolver test output datum type hint value integer not null bridge to int class 
+value operation tree builder test output datum type hint row f0 int f1 string 
+function hint datum type hint input default datum type hint 
+function hint datum type hint accumulator default datum type hint 
+function hint datum type hint output default datum type hint 
+datum type template datum type hint private static class default annotation helper no implementation 
+datum type extractor test suppress warning unused datum type hint allow raw globally hint flag true public static class complex pojo public map string integer map field public simple pojo simple pojo field public object some object 
+datum type extractor test datum type hint allow raw globally hint flag true public object some object 
+datum type extractor test private datum type hint raw object some object 
+datum type extractor test suppress warning unused datum type hint force raw pattern java lang public static class simple pojo with many annotation public datum type hint int integer int field public datum type hint bridge to boolean class object primitive boolean field public datum type hint value int not null bridge to int class object primitive int field datum type hint force raw pattern public string string field 
+datum type extractor test public datum type hint int integer int field 
+datum type extractor test public datum type hint bridge to boolean class object primitive boolean field 
+datum type extractor test public datum type hint value int not null bridge to int class object primitive int field 
+datum type extractor test datum type hint force raw pattern public string string field 
+datum type extractor test suppress warning unused datum type hint allow raw pattern java lang public static class complex pojo with many annotation public datum type hint map string int object map field public simple pojo simple pojo field public object some object 
+datum type extractor test public datum type hint map string int object map field 
+datum type extractor test datum type hint value raw bridge to pojo with raw self reference class public pojo with raw self reference reference 
+type inference extractor test datum type hint int datum type hint string 
+type inference extractor test datum type hint int datum type hint string 
+type inference extractor test output datum type hint boolean 
+type inference extractor test datum type hint int datum type hint input group input group any 
+type inference extractor test datum type hint int datum type hint input group input group any 
+type inference extractor test output datum type hint boolean 
+type inference extractor test input datum type hint int 
+type inference extractor test output datum type hint int 
+type inference extractor test input datum type hint bigint 
+type inference extractor test output datum type hint bigint 
+type inference extractor test output datum type hint int 
+type inference extractor test input datum type hint int 
+type inference extractor test input datum type hint string 
+type inference extractor test output datum type hint int 
+type inference extractor test output datum type hint tinyint 
+type inference extractor test input datum type hint int 
+type inference extractor test output datum type hint int 
+type inference extractor test input datum type hint bigint 
+type inference extractor test output datum type hint bigint 
+type inference extractor test input datum type hint int 
+type inference extractor test output datum type hint int 
+type inference extractor test input datum type hint int 
+type inference extractor test output datum type hint bigint 
+type inference extractor test input datum type hint int 
+type inference extractor test output datum type hint int 
+type inference extractor test input datum type hint int 
+type inference extractor test output datum type hint bigint 
+type inference extractor test input datum type hint int 
+type inference extractor test output datum type hint int 
+type inference extractor test output datum type hint string 
+type inference extractor test datum type hint int datum type hint 
+type inference extractor test datum type hint int datum type hint 
+type inference extractor test output datum type hint boolean 
+type inference extractor test input datum type hint int 
+type inference extractor test input datum type hint bigint 
+type inference extractor test output datum type hint int 
+type inference extractor test output datum type hint int 
+type inference extractor test datum type hint int datum type hint boolean 
+type inference extractor test datum type hint int datum type hint boolean 
+type inference extractor test input datum type hint bigint 
+type inference extractor test accumulator datum type hint row f bigint 
+type inference extractor test input datum type hint string 
+type inference extractor test accumulator datum type hint row f string 
+type inference extractor test output datum type hint string 
+type inference extractor test accumulator datum type hint row b boolean 
+type inference extractor test datum type hint row i int b boolean row r 
+type inference extractor test output datum type hint row i int b boolean 
+type inference extractor test output datum type hint string 
+type inference extractor test accumulator datum type hint int 
+type inference extractor test datum type hint decimal object n 
+type inference extractor test datum type hint input group input group any object o 
+type inference extractor test datum type hint input group input group any object o 
+type inference extractor test input datum type hint bigint 
+type inference extractor test output datum type hint bigint 
+type inference extractor test input datum type hint int 
+type inference extractor test output datum type hint int 
+type inference extractor test input datum type hint bigint 
+type inference extractor test output datum type hint bigint 
+type inference extractor test input datum type hint int 
+type inference extractor test output datum type hint int 
+datum type hint mock datum type hint private static class default annotation helper no implementation 
+composite type access expression i t case public datum type hint row nest int not null row eval return null 
+composite type access expression i t case public datum type hint row nest int not null not null row eval int nest return row of nest 
+composite type access expression i t case output datum type hint row s string sa array string not null 
+null type test public datum type hint null object eval integer i return null 
+null type test public datum type hint array null object eval integer i return null 
+function i t case public datum type hint row f0 int f1 string row eval datum type hint row f0 int f1 string row row return row 
+function i t case datum type hint row f0 int f1 string row row 
+function i t case datum type hint input group input group any object o 
+function i t case public datum type hint decimal big decimal eval return new big decimal 123.4 digit be miss 
+function i t case public datum type hint raw byte buffer eval byte byte if byte null return null return byte buffer wrap byte 
+function i t case output datum type hint row s string sa array string not null 
+function i t case output datum type hint string 
+function i t case output datum type hint int 
+function i t case datum type hint null object o 
+function i t case output datum type hint row s string sa array string 
+function i t case output datum type hint row s string sa array string 
+value i t case output datum type hint string 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+value i t case datum type hint tinyint datum type hint smallint datum type hint int datum type hint bigint datum type hint float datum type hint double datum type hint decimal datum type hint boolean datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp with local time zone datum type hint char datum type hint binary datum type hint array decimal datum type hint map char decimal 
+java user define scalar function public datum type hint timestamp timestamp eval datum type hint timestamp timestamp datum timestamp datum integer offset if open call fail open be not call before run if timestamp datum null offset null return null else long t timestamp datum get millisecond offset int tz offset time zone get default get offset t return new timestamp t tz offset 
+java user define scalar function datum type hint timestamp timestamp datum timestamp datum 
+datum structure converter test private datum type hint row age int name string mask array boolean row preference 
+datum structure converter test private datum type hint decimal big decimal balance 

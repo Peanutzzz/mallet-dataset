@@ -1,0 +1,5 @@
+receive service stream listener sink input public void receive input string receive msg system out println input receive receive msg 
+receive service stream listener input2 public void receive input2 payload order order system out println input2 receive order 
+receive service stream listener input3 public void receive input3 message msg system out println input3 receive msg 
+integral receive service stream listener sink input public void receive message message string consume error string message get header get consume error if equal consume error system err println exception commit throw new runtime exception system out println message 
+integral receive service stream listener input dlq public void receive dlq message message string order id string message get header get order id system err println order id 

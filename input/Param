@@ -1,0 +1,91 @@
+sy generator mapper param p map string object map 
+file mapper param f map string object param 
+sy role mapper param r map string object param 
+sy role menu mapper param role id long role id 
+sy role menu mapper param menu id long menu id 
+sy role menu mapper param role id long role id 
+sy role menu mapper param menu id long menu id 
+sy role menu mapper param role id set long role id 
+sy role menu mapper param type integer type 
+sy role menu mapper param role code set string role code 
+sy role menu mapper param type integer type 
+sy user mapper param u map string object param 
+sy user role mapper param user id long user id 
+sy user role mapper param role id long role id 
+sy user role mapper param user id long user id 
+sy user role mapper param role id long role id 
+sy user role mapper param user id long user id 
+xxl job group dao param address type int address type 
+xxl job group dao param id int id 
+xxl job group dao param id int id 
+xxl job info dao param offset int offset 
+xxl job info dao param pagesize int pagesize 
+xxl job info dao param job group int job group 
+xxl job info dao param job desc string job desc 
+xxl job info dao param executor handler string executor handler 
+xxl job info dao param offset int offset 
+xxl job info dao param pagesize int pagesize 
+xxl job info dao param job group int job group 
+xxl job info dao param job desc string job desc 
+xxl job info dao param executor handler string executor handler 
+xxl job info dao param id int id 
+xxl job info dao param id int id 
+xxl job info dao param job group int job group 
+xxl job log dao param offset int offset 
+xxl job log dao param pagesize int pagesize 
+xxl job log dao param job group int job group 
+xxl job log dao param job id int job id 
+xxl job log dao param trigger time start date trigger time start 
+xxl job log dao param trigger time end date trigger time end 
+xxl job log dao param log status int log status 
+xxl job log dao param offset int offset 
+xxl job log dao param pagesize int pagesize 
+xxl job log dao param job group int job group 
+xxl job log dao param job id int job id 
+xxl job log dao param trigger time start date trigger time start 
+xxl job log dao param trigger time end date trigger time end 
+xxl job log dao param log status int log status 
+xxl job log dao param id int id 
+xxl job log dao param job id int job id 
+xxl job log dao param handle code int handle code 
+xxl job log dao param from date from 
+xxl job log dao param to date to 
+xxl job log dao param job group int job group 
+xxl job log dao param job id int job id 
+xxl job log dao param clear before time date clear before time 
+xxl job log dao param clear before num int clear before num 
+xxl job log dao param pagesize int pagesize 
+xxl job log dao param log id int log id 
+xxl job log dao param old alarm status int old alarm status 
+xxl job log dao param new alarm status int new alarm status 
+xxl job log glue dao param job id int job id 
+xxl job log glue dao param job id int job id 
+xxl job log glue dao param limit int limit 
+xxl job log glue dao param job id int job id 
+xxl job registry dao param timeout int timeout 
+xxl job registry dao param timeout int timeout 
+xxl job registry dao param registry group string registry group 
+xxl job registry dao param registry key string registry key 
+xxl job registry dao param registry value string registry value 
+xxl job registry dao param registry group string registry group 
+xxl job registry dao param registry key string registry key 
+xxl job registry dao param registry value string registry value 
+xxl job registry dao param registry group string regist group 
+xxl job registry dao param registry key string registry key 
+xxl job registry dao param registry value string registry value 
+client mapper param param map string object param 
+app repository param name string name 
+audit repository param owner string owner 
+audit repository param owner string owner 
+audit repository param entity string entity 
+audit repository param op string op 
+instance config repository param instance app id string instance app id 
+instance config repository param config app id string config app id 
+instance config repository param cluster name string cluster name 
+instance config repository param namespace name string namespace name 
+instance config repository param valid date date valid date 
+release message repository param message collection string message 
+release repository param app id string app id 
+release repository param cluster name string cluster name 
+release repository param namespace name string namespace name 
+sentinel entry benchmark param private int length 

@@ -1,0 +1,113 @@
+default asyc task config value asyc task core pool size private int core pool size 
+default asyc task config value asyc task max pool size private int max pool size 
+default asyc task config value asyc task queue capacity private int queue capacity 
+default asyc task config value asyc task thread name prefix zlt executor private string thread name prefix 
+audit log aspect value spring application name private string application name 
+lb isolation filter value config constant config ribbon isolation enable false private boolean enable isolation 
+security config value security oauth2 sso login path private string login path 
+sso logout success handler value zlt logout uri private string logout uri 
+api controller value zlt sso client id private string client id 
+api controller value zlt sso client secret private string client secret 
+api controller value zlt sso redirect uri private string redirect uri 
+api controller value zlt sso access token uri private string access token uri 
+api controller value zlt sso user info uri private string user info uri 
+xxl job admin config value xxl job login username private string login username 
+xxl job admin config value xxl job login password private string login password 
+xxl job admin config value xxl job i18n private string i18n 
+xxl job admin config value xxl job access token private string access token 
+xxl job admin config value spring mail username private string email user name 
+xxl job config value xxl job admin address private string admin address 
+xxl job config value xxl job executor appname private string app name 
+xxl job config value xxl job executor ip private string ip 
+xxl job config value xxl job executor port private int port 
+xxl job config value xxl job access token private string access token 
+xxl job config value xxl job executor logpath private string log path 
+xxl job config value xxl job executor logretentionday private int log retention day 
+abstract controller test value local server port int port 
+bootstrap config test value some property private string some inject value 
+java config placeholder auto update test value timeout int timeout 
+java config placeholder auto update test value batch int batch 
+java config placeholder auto update test value batch private int batch 
+java config placeholder auto update test bean value timeout test java config bean2 test java config bean2 int timeout test java config bean2 bean new test java config bean2 bean set timeout timeout bean set batch batch return bean 
+java config placeholder auto update test value timeout private int timeout 
+java config placeholder auto update test value batch public void set batch int batch this batch batch 
+java config placeholder auto update test value timeout int timeout 
+java config placeholder auto update test value batch int batch 
+java config placeholder auto update test value batch public void set value int batch value timeout int timeout this batch batch this timeout timeout 
+java config placeholder auto update test value timeout int timeout 
+java config placeholder auto update test value timeout private int timeout 
+java config placeholder auto update test value batch public void set batch int batch this batch batch 
+java config placeholder auto update test value some key another key private int nest property 
+java config placeholder auto update test value some key another key private int nest property 
+java config placeholder auto update test value int property private int int property 
+java config placeholder auto update test value int array property private int int array property 
+java config placeholder auto update test value long property private long long property 
+java config placeholder auto update test value short property private short short property 
+java config placeholder auto update test value float property private float float property 
+java config placeholder auto update test value double property private double double property 
+java config placeholder auto update test value byte property private byte byte property 
+java config placeholder auto update test value boolean property private boolean boolean property 
+java config placeholder auto update test value string property private string string property 
+java config placeholder auto update test value new java text simple date format date format parse date property private date date property 
+java config placeholder test value timeout int timeout 
+java config placeholder test value batch int batch 
+java config placeholder test value timeout private int timeout 
+java config placeholder test value batch public void set batch int batch this batch batch 
+java config placeholder test value timeout int timeout 
+java config placeholder test value batch int batch 
+java config placeholder test value a b c private int nest property 
+xml config placeholder auto update test value timeout private int timeout 
+titan setting value fat titan url private string fat titan url 
+titan setting value uat titan url private string uat titan url 
+titan setting value pro titan url private string pro titan url 
+titan setting value fat titan dbname private string fat titan dbname 
+titan setting value uat titan dbname private string uat titan dbname 
+titan setting value pro titan dbname private string pro titan dbname 
+abstract base integration test value local server port int port 
+annotate bean value batch public void set batch int batch logger info update batch old value new value this batch batch this batch batch 
+annotate bean value timeout public void set timeout int timeout logger info update timeout old value new value this timeout timeout this timeout timeout 
+apollo mock server spring integration test value key1 default private string key1 
+apollo mock server spring integration test value key2 default private string key2 
+prefix path controller value prefix path private string prefix path 
+ldap user service value spring ldap base private string base 
+ldap user service value ldap mapping object class private string object class attr name 
+ldap user service value ldap mapping login id private string login id attr name 
+ldap user service value ldap mapping user display name private string user display name attr name 
+ldap user service value ldap mapping email private string email attr name 
+ldap user service value ldap mapping rdn key private string rdn key 
+ldap user service value ldap filter member of split private string member of 
+ldap user service value ldap group group base private string group base 
+ldap user service value ldap group group search private string group search 
+ldap user service value ldap group group membership private string group membership attr name 
+switch and option value naco cmdb dump task interval private int dump task interval 
+switch and option value naco cmdb event task interval private int event task interval 
+switch and option value naco cmdb label task interval private int label task interval 
+switch and option value naco cmdb load datum at start false private boolean load datum at start 
+jwt token util value naco security token secret key default private string custom secret key str 
+auth config value naco core auth default token secret key private string secret key 
+auth config value naco core auth default token expire seconds private long token validity in seconds 
+auth config value naco core auth system type private string naco auth system type 
+controller method cache value server servlet context path naco private string context path 
+reloadable config value spring config location private string path 
+istio config value naco istio mcp server enable false private final boolean mcp server enable false 
+service manager value naco name empty service auto clean false private boolean empty service auto clean 
+service manager value naco name empty service clean initial delay m private int clean empty service delay 
+service manager value naco name empty service clean period time ms private int clean empty service period 
+global config value naco name distro task dispatch period private int task dispatch period 
+global config value naco name distro batch sync key count private int batch sync key count 
+global config value naco name distro sync retry delay private long sync retry delay l 
+global config value naco name datum warmup false private boolean datum warmup false 
+global config value naco name expire instance true private boolean expire instance true 
+global config value naco name distro load datum retry delay milli private long load datum retry delay milli 
+sentinel apache http client test value server port private integer port 
+sentinel ok http interceptor test value server port private integer port 
+login authentication filter value auth filter exclude url split private list string auth filter exclude url 
+login authentication filter value auth filter exclude url suffix split private list string auth filter exclude url suffix 
+auth controller value auth username sentinel private string auth username 
+auth controller value auth password sentinel private string auth password 
+version controller value sentinel dashboard version private string sentinel dashboard version 
+apache http client test controller value server port private integer port 
+ok http test controller value server port private integer port 
+eureka datum source test value server port private int port 
+eureka datum source test value eureka instance appname private string appname 
+eureka datum source test value eureka instance instance id private string instance id 

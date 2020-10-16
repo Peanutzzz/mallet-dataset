@@ -1,0 +1,173 @@
+apollo mock server api test class rule public static embed apollo embed apollo new embed apollo 
+apollo mock server spring integration test class rule public static embed apollo embed apollo new embed apollo 
+class path package program retriever test class rule public static final temporary folder job dir new temporary folder 
+client test class rule public static final mini cluster resource mini cluster resource new mini cluster resource new mini cluster resource configuration builder build 
+cassandra connector i t case class rule public static final temporary folder temporary folder new temporary folder 
+elasticsearch sink test base class rule public static elasticsearch resource elasticsearch resource new elasticsearch resource cluster name 
+elasticsearch6 dynamic sink i t case class rule public static elasticsearch resource elasticsearch resource new elasticsearch resource e dynamic sink test 
+elasticsearch7 dynamic sink i t case class rule public static elasticsearch resource elasticsearch resource new elasticsearch resource e dynamic sink it test 
+bucket sink fault tolerance i t case class rule public static temporary folder temp folder new temporary folder 
+bucket sink migration test class rule public static temporary folder temp folder new temporary folder 
+bucket sink test class rule public static temporary folder temp folder new temporary folder 
+string writer test class rule public static final temporary folder temporary folder new temporary folder 
+hive table file input format test class rule public static final temporary folder temporary folder new temporary folder 
+jdbc catalog factory test class rule public static single instance postgre rule pg embed postgre rule single instance 
+postgre catalog test base class rule public static single instance postgre rule pg embed postgre rule single instance 
+unsigned type conversion i t case class rule public static maria d b4j rule db4j rule new maria d b4j rule d b configuration builder new builder build default db name null 
+kafka short retention test base class rule public static mini cluster with client resource flink new mini cluster with client resource new mini cluster resource configuration builder set configuration get configuration set number task manager num tm set number slot per task manager tm slot build 
+kafka short retention test base class rule public static temporary folder temp folder new temporary folder 
+kafka test base class rule public static temporary folder temp folder new temporary folder 
+kafka test base with flink class rule public static mini cluster with client resource flink new mini cluster with client resource new mini cluster resource configuration builder set configuration get flink configuration set number task manager num tm set number slot per task manager tm slot build 
+delimit input format sampling test class rule public static temporary folder temp folder new temporary folder 
+enum serializer compatibility test class rule public static temporary folder temporary folder new temporary folder 
+type serializer serialization util test class rule public static temporary folder temporary folder new temporary folder 
+entropy injector test class rule public static final temporary folder tmp folder new temporary folder 
+local file system recoverable writer test class rule public static final temporary folder temp folder new temporary folder 
+plugin config test class rule public static temporary folder temporary folder new temporary folder 
+instantiation util test class rule public static temporary folder temporary folder new temporary folder 
+config option doc generator test class rule public static final temporary folder tmp new temporary folder 
+allround mini cluster test class rule public static mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set number task manager set number slot per task manager set configuration create configuration build 
+allround mini cluster test class rule public static temporary folder temporary folder new temporary folder 
+file util test class rule public static final temporary folder tmp new temporary folder 
+s q l client kafka i t case class rule public static final download cache download cache download cache get 
+s q l client h base i t case class rule public static final download cache download cache download cache get 
+top speed window example i t case class rule public static temporary folder temporary folder new temporary folder 
+top speed window example i t case class rule public static mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set number task manager set number slot per task manager build 
+g p u driver test class rule public static final temporary folder temp folder new temporary folder 
+hadoop recoverable writer old hadoop with no truncate support test class rule public static final temporary folder temp folder new temporary folder 
+hadoop recoverable writer test class rule public static final temporary folder temp folder new temporary folder 
+hdf behavior test class rule public static final temporary folder tmp new temporary folder 
+s3 recoverable f datum output stream test class rule public static final temporary folder temp folder new temporary folder 
+hadoop s3 recoverable writer exception i t case class rule public static final temporary folder temp folder new temporary folder 
+hadoop s3 recoverable writer i t case class rule public static final temporary folder temp folder new temporary folder 
+compress writer factory test class rule public static final temporary folder temporary folder new temporary folder 
+hadoop rename committer h d f s test class rule public static final temporary folder class temporary folder new temporary folder 
+orc columnar row split reader test class rule public static final temporary folder temporary folder new temporary folder 
+orc bulk writer i t case class rule public static final temporary folder temporary folder new temporary folder 
+orc bulk writer test class rule public static final temporary folder temporary folder new temporary folder 
+parquet map input format test class rule public static temporary folder temp root new temporary folder 
+parquet pojo input format test class rule public static temporary folder temp root new temporary folder 
+parquet row input format test class rule public static temporary folder temp root new temporary folder 
+parquet table source i t case class rule public static temporary folder temp root new temporary folder 
+parquet table source test class rule public static temporary folder temp root new temporary folder 
+parquet row datum writer test class rule public static final temporary folder temporary folder new temporary folder 
+test util class rule public static temporary folder temp root new temporary folder 
+parquet columnar row split reader test class rule public static final temporary folder temporary folder new temporary folder 
+continuous file processing migration test class rule public static temporary folder temp folder new temporary folder 
+continuous file processing test class rule public static temporary folder temp folder new temporary folder 
+distribute cache df test class rule public static final temporary folder temp folder new temporary folder 
+distribute cache df test class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set number task manager set number slot per task manager build 
+j m x job manager metric test class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set configuration get configuration set number slot per task manager set number task manager build 
+h a queryable state f backend i t case class rule public static temporary folder temporary folder new temporary folder 
+h a queryable state rock d b backend i t case class rule public static temporary folder temporary folder new temporary folder 
+non h a queryable state f backend i t case class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set configuration get config set number task manager num tm set number slot per task manager num slot per tm build 
+non h a queryable state rock d b backend i t case class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set configuration get config set number task manager num tm set number slot per task manager num slot per tm build 
+blob client ssl test class rule public static temporary folder temporary ssl folder new temporary folder 
+blob client test class rule public static temporary folder temporary folder new temporary folder 
+blob server test class rule public static temporary folder temporary folder new temporary folder 
+zoo keeper complete checkpoint store test class rule public static zoo keeper resource zoo keeper resource new zoo keeper resource 
+client util test class rule public static temporary folder temporary folder new temporary folder 
+dispatcher resource cleanup test class rule public static temporary folder temporary folder new temporary folder 
+file archive execution graph store test class rule public static temporary folder temporary folder new temporary folder 
+mini dispatcher test class rule public static temporary folder temporary folder new temporary folder 
+default dispatcher runner i t case class rule public static testing rpc service resource rpc service resource new testing rpc service resource 
+default dispatcher runner i t case class rule public static blob server resource blob server resource new blob server resource 
+zoo keeper default dispatcher runner test class rule public static zoo keeper resource zoo keeper resource new zoo keeper resource 
+zoo keeper default dispatcher runner test class rule public static temporary folder temporary folder new temporary folder 
+zoo keeper default dispatcher runner test class rule public static testing rpc service resource testing rpc service resource new testing rpc service resource 
+file job graph retriever test class rule public static final temporary folder temporary folder new temporary folder 
+flink user code class loader test class rule public static temporary folder temporary folder new temporary folder 
+execution partition lifecycle test class rule public static final testing component main thread executor resource executor resource new testing component main thread executor resource 
+execution test class rule public static final testing component main thread executor resource executor resource new testing component main thread executor resource 
+high availability service util test class rule public static temporary folder temporary folder new temporary folder 
+zoo keeper ha service test class rule public static final zoo keeper resource zoo keeper resource new zoo keeper resource 
+partition request queue test class rule public static final temporary folder temporary folder new temporary folder 
+bound block subpartition availability test class rule public static final temporary folder tmp folder new temporary folder 
+bound block subpartition test class rule public static final temporary folder tmp dir new temporary folder 
+bound block subpartition write read test class rule public static final temporary folder tmp folder new temporary folder 
+bind datum test base class rule public static final temporary folder tmp folder new temporary folder 
+buffer reader writer util test class rule public static final temporary folder tmp folder new temporary folder 
+partial consume pipelined result test class rule public static final mini cluster resource mini cluster resource new mini cluster resource new mini cluster resource configuration builder set configuration get flink configuration set number task manager number of tm set number slot per task manager number of slot per tm build 
+blob cleanup i t case class rule public static final temporary folder temporary folder new temporary folder 
+schedule or update consumer test class rule public static final mini cluster resource mini cluster resource new mini cluster resource new mini cluster resource configuration builder set configuration get flink configuration set number task manager number of tm set number slot per task manager number of slot per tm build 
+scheduler isolate task test class rule public static final testing component main thread executor resource testing component main thread executor resource new testing component main thread executor resource 
+slot count exceed parallelism test class rule public static final mini cluster resource mini cluster resource new mini cluster resource new mini cluster resource configuration builder set configuration get flink configuration set number task manager number of tm set number slot per task manager number of slot per tm build 
+job manager runner impl test class rule public static temporary folder temporary folder new temporary folder 
+job master execution deployment reconciliation test class rule public static final testing rpc service resource rpc service resource new testing rpc service resource 
+job master partition release test class rule public static temporary folder temporary folder new temporary folder 
+job master test class rule public static temporary folder temporary folder new temporary folder 
+job recovery i t case class rule public static final mini cluster resource mini cluster resource new mini cluster resource new mini cluster resource configuration builder set number task manager num tm set number slot per task manager slot per tm build 
+slot pool interaction test class rule public static final testing component main thread executor resource executor resource new testing component main thread executor resource 10 l 
+standalone resource manager test class rule public static final testing rpc service resource rpc service new testing rpc service resource 
+file upload handler test class rule public static final multipart upload resource multipart upload resource new multipart upload resource 
+file upload handler test class rule public static final netty leak detection resource leak detection new netty leak detection resource 
+job submit handler test class rule public static final temporary folder temporary folder new temporary folder 
+abstract task manager file handler test class rule public static temporary folder temporary folder new temporary folder 
+rest client multipart test class rule public static final multipart upload resource multipart upload resource new multipart upload resource 
+task executor local state store manager test class rule public static temporary folder temporary folder new temporary folder 
+task executor execution deployment reconciliation test class rule public static final testing rpc service resource rpc service resource new testing rpc service resource 
+task executor partition lifecycle test class rule public static final test executor resource test executor service resource new test executor resource java util concurrent executor new fix thread pool 
+task executor slot lifetime test class rule public static final testing rpc service resource testing rpc service resource new testing rpc service resource 
+task manager runner startup test class rule public static final testing rpc service resource rpc service resource new testing rpc service resource 
+task cancel async producer consumer i t case class rule public static final mini cluster resource mini cluster resource new mini cluster resource new mini cluster resource configuration builder set configuration get flink configuration build 
+task test class rule public static final temporary folder temporary folder new temporary folder 
+jar handler parameter test class rule public static final temporary folder tmp new temporary folder 
+jar handler parameter test class rule public static final blob server resource blob server resource new blob server resource 
+jar handler test class rule public static final temporary folder tmp new temporary folder 
+web frontend i t case class rule public static final mini cluster with client resource cluster new mini cluster with client resource new mini cluster resource configuration builder set configuration cluster configuration set number task manager num task manager set number slot per task manager num slot build 
+rock d b operation util test class rule public static final temporary folder tmp dir new temporary folder 
+rock d b resource container test class rule public static final temporary folder tmp folder new temporary folder 
+bucket assigner i t case class rule public static final temporary folder temp folder new temporary folder 
+bucket state serializer test class rule public static temporary folder temp folder new temporary folder 
+bucket test class rule public static final temporary folder temp folder new temporary folder 
+bucket test class rule public static final temporary folder temp folder new temporary folder 
+bulk writer test class rule public static final temporary folder temp folder new temporary folder 
+local streaming file sink test class rule public static final temporary folder temp folder new temporary folder 
+roll policy test class rule public static final temporary folder temp folder new temporary folder 
+local executor i t case class rule public static temporary folder temp folder new temporary folder 
+local executor i t case class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set configuration get config set number task manager num tm set number slot per task manager num slot per tm build 
+build in function test base class rule public static mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set number task manager set number slot per task manager build 
+batch abstract test base class rule public static mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set configuration get configuration set number task manager set number slot per task manager default parallelism build 
+batch abstract test base class rule public static final temporary folder temporary folder new temporary folder 
+file system committer test class rule public static final temporary folder temp folder new temporary folder 
+file system output format test class rule public static final temporary folder temp folder new temporary folder 
+partition writer test class rule public static final temporary folder temp folder new temporary folder 
+abstract test base class rule public static mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set number task manager set number slot per task manager default parallelism build 
+abstract test base class rule public static final temporary folder temporary folder new temporary folder 
+job manager metric i t case class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set configuration get configuration set number task manager set number slot per task manager build 
+system resource metric i t case class rule public static final mini cluster resource mini cluster resource new mini cluster resource new mini cluster resource configuration builder set configuration get configuration set number task manager set number slot per task manager build 
+exception util i t case class rule public static final temporary folder temporary folder new temporary folder 
+accumulator error i t case class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set number task manager set number slot per task manager build 
+accumulator live i t case class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set configuration get configuration set number task manager set number slot per task manager build 
+cancel test base class rule public static final mini cluster with client resource cluster new mini cluster with client resource new mini cluster resource configuration builder set configuration configuration set number task manager set number slot per task manager build 
+event time all window checkpoint i t case class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set configuration get configuration set number task manager set number slot per task manager parallelism build 
+event time window checkpoint i t case class rule public static temporary folder temp folder new temporary folder 
+key state checkpoint i t case class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set configuration get configuration set number task manager num task manager set number slot per task manager num task slot build 
+notify checkpoint abort i t case class rule public static final temporary folder temporary folder new temporary folder 
+region failover i t case class rule public static final temporary folder temporary folder new temporary folder 
+rescale i t case class rule public static temporary folder temporary folder new temporary folder 
+resume checkpoint manually i t case class rule public static temporary folder temporary folder new temporary folder 
+savepoint migration test base class rule public static final temporary folder temp folder new temporary folder 
+window checkpoint i t case class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set configuration get configuration set number task manager set number slot per task manager parallelism build 
+zoo keeper high availability i t case class rule public static final temporary folder temporary folder new temporary folder 
+class loader i t case class rule public static final temporary folder folder new temporary folder 
+job retrieval i t case class rule public static final mini cluster resource cluster new mini cluster resource new mini cluster resource configuration builder set number task manager set number slot per task manager build 
+job submission fail i t case class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set configuration get configuration set number task manager num tm set number slot per task manager num slot num tm build 
+job listener i t case class rule public static mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder build 
+aggregator i t case class rule public static temporary folder temp folder new temporary folder 
+custom serialization i t case class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set configuration get configuration set number task manager set number slot per task manager parllelism build 
+miscellaneous issue i t case class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set number task manager set number slot per task manager build 
+success after network buffer failure i t case class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set configuration get configuration set number task manager set number slot per task manager build 
+custom distribution i t case class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set number task manager set number slot per task manager build 
+remote environment i t case class rule public static final mini cluster resource mini cluster resource new mini cluster resource new mini cluster resource configuration builder set number slot per task manager tm slot build 
+simple recovery failure rate strategy i t base class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set configuration get configuration set number task manager set number slot per task manager build 
+simple recovery fix delay restart strategy i t base class rule public static final mini cluster with client resource mini cluster resource new mini cluster with client resource new mini cluster resource configuration builder set configuration get configuration set number task manager set number slot per task manager build 
+big user program job submit i t case class rule public static final mini cluster resource mini cluster resource new mini cluster resource new mini cluster resource configuration builder build 
+timestamp i t case class rule public static final mini cluster with client resource cluster new mini cluster with client resource new mini cluster resource configuration builder set configuration get configuration set number task manager num task manager set number slot per task manager num task slot build 
+pojo serializer upgrade test class rule public static temporary folder temporary folder new temporary folder 
+yarn entrypoint util test class rule public static final temporary folder temporary folder new temporary folder 
+yarn file stage test class rule public static final temporary folder class temp dir new temporary folder 
+yarn file stage test s3 i t case class rule public static final temporary folder temp folder new temporary folder 
+y a r n high availability i t case class rule public static final temporary folder folder new temporary folder 
+yarn test base class rule public static temporary folder tmp new temporary folder 
+yarn test base class rule public static temporary folder tmp h d f s new temporary folder 

@@ -1,0 +1,6 @@
+sy user excel excel name height width be import field true st private string username 
+sy user excel excel name height width be import field true st private string nickname 
+sy user excel excel name height width be import field true st private string mobile 
+sy user excel excel name replace be import field true st private integer sex 
+sy user excel excel name format common constant datetime format be import field true st width private date create time 
+sy user excel excel name format common constant datetime format be import field true st width private date update time 

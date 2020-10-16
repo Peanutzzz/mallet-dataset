@@ -1,0 +1,8 @@
+core option config group name environment key prefix env 
+restart strategy option config group name fix delay restart strategy key prefix restart strategy fix delay config group name failure rate restart strategy key prefix restart strategy failure rate 
+restart strategy option config group name fix delay restart strategy key prefix restart strategy fix delay config group name failure rate restart strategy key prefix restart strategy failure rate 
+task manager option group config group name task manager memory key prefix taskmanager memory 
+config option doc generator test config group name group1 key prefix a b config group name group2 key prefix a b c d 
+config option doc generator test config group name group1 key prefix a b config group name group2 key prefix a b c d 
+config option doc generator test config group name first group key prefix first config group name second group key prefix second 
+config option doc generator test config group name first group key prefix first config group name second group key prefix second 

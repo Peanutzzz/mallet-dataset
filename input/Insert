@@ -1,0 +1,3 @@
+sy role menu mapper insert insert into sy role menu role id menu id value role id menu id int save param role id long role id param menu id long menu id 
+sy user role mapper insert insert into sy role user user id role id value user id role id int save user role param user id long user id param role id long role id 
+base demo mapper insert insert into t demo kid demo field group id create time app name value kid demo field group id create time app name void save demo demo 

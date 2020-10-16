@@ -1,0 +1,1 @@
+admin service transaction test after transaction public void verify final database state assert assert equal app repository count assert assert equal app namespace repository count assert assert equal namespace repository count assert assert equal cluster repository count 

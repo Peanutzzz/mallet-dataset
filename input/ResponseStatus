@@ -1,0 +1,8 @@
+default exception advice response status http status bad request exception handler illegal argument exception class public result bad request exception illegal argument exception e return def handler e 
+default exception advice response status http status forbid exception handler access deny exception class public result bad method express exception access deny exception e return def handler e 
+default exception advice response status http status method not allow exception handler http request method not support exception class public result handle http request method not support exception http request method not support exception e return def handler e 
+default exception advice response status http status unsupported media type exception handler http media type not support exception class public result handle http media type not support exception http media type not support exception e return def handler e 
+default exception advice response status http status internal server error exception handler s q l exception class public result handle s q l exception s q l exception e return def handler s q l exception e 
+default exception advice response status http status internal server error exception handler business exception class public result handle exception business exception e return def handler e 
+default exception advice response status http status ok exception handler idempotency exception class public result handle exception idempotency exception e return result fail e get message 
+default exception advice response status http status internal server error exception handler exception class public result handle exception exception e return def handler e 

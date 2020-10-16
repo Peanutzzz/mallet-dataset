@@ -1,0 +1,30 @@
+naco async rest template i t case local server port private int port 
+naco rest template interceptor i t case local server port private int port 
+naco rest template i t case local server port private int port 
+config a p i c i t case local server port private int port 
+config beta c i t case local server port private int port 
+config export and import a p i c i t case local server port private int port 
+config long poll return change c i t case local server port private int port 
+config long poll c i t case local server port private int port 
+config auth i t case local server port private int port 
+name auth i t case local server port private int port 
+permission i t case local server port private int port 
+role i t case local server port private int port 
+user i t case local server port private int port 
+auto deregister instance i t case local server port private int port 
+client beat i t case local server port private int port 
+cmdb i t case local server port private int port 
+c p instance a p i i t case local server port private int port 
+deregister instance i t case local server port private int port 
+multi tenant instance a p i i t case local server port private int port 
+multi tenant i t case local server port private int port 
+name maintain service i t case local server port private int port 
+name proxy i t case local server port private int port 
+register instance i t case local server port private int port 
+rest a p i i t case local server port private int port 
+select instance i t case local server port private int port 
+select one healthy instance i t case local server port private int port 
+service list test i t case local server port private int port 
+subscribe cluster i t case local server port private int port 
+subscribe i t case local server port private int port 
+unsubscribe i t case local server port private int port 

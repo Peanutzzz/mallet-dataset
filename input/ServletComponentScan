@@ -1,0 +1,1 @@
+naco spring boot application scan base package com alibaba naco servlet component scan enable schedule public class naco public static void main string arg spring application run naco class arg 

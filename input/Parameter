@@ -1,0 +1,26 @@
+local executor i t case parameter public string planner 
+user define function helper test parameter public test spec test spec 
+datum type test parameter public test spec test spec 
+datum type extractor test parameter public test spec test spec 
+type inference extractor test parameter public test spec test spec 
+type strategy test parameter public test spec test spec 
+legacy type info datum type converter test parameter public type information input type info 
+legacy type info datum type converter test parameter public datum type datum type 
+logical common type test parameter public list logical type type 
+logical common type test parameter public logical type common type 
+logical type cast avoidance test parameter public logical type source type 
+logical type cast avoidance test parameter public logical type target type 
+logical type cast avoidance test parameter public boolean equal 
+logical type cast test parameter public logical type source type 
+logical type cast test parameter public logical type target type 
+logical type cast test parameter public boolean support implicit 
+logical type cast test parameter public boolean support explicit 
+logical type duplicator test parameter public logical type logical type 
+logical type duplicator test parameter public logical type replace logical type 
+logical type parser test parameter public test spec test spec 
+path resolution test parameter public test spec test spec 
+build in function test base parameter public test spec test spec 
+datum structure converter test parameter public test spec test spec 
+logical type assignable test parameter public logical type source type 
+logical type assignable test parameter public logical type target type 
+logical type assignable test parameter public boolean equal 

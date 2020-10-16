@@ -1,0 +1,690 @@
+server http agent json property value access key id private string access key id 
+server http agent json property value access key secret private string access key secret 
+server http agent json property value expiration private date expiration 
+server http agent json property value security token private string security token 
+server http agent json property value last update private date last update 
+server http agent json property value code private string code 
+hardware description json property field name cpu core private final int number of c p u core 
+hardware description json property field name size physical memory private final long size of physical memory 
+hardware description json property field name size jvm heap private final long size of jvm heap 
+hardware description json property field name size manage memory private final long size of manage memory 
+hardware description json property field name cpu core int number of c p u core 
+hardware description json property field name size physical memory long size of physical memory 
+hardware description json property field name size jvm heap long size of jvm heap 
+hardware description json property field name size manage memory long size of manage memory 
+cluster overview json property field name taskmanager private final int num task manager connect 
+cluster overview json property field name slot total private final int num slot total 
+cluster overview json property field name slot available private final int num slot available 
+cluster overview json property field name taskmanager int num task manager connect 
+cluster overview json property field name slot total int num slot total 
+cluster overview json property field name slot available int num slot available 
+cluster overview json property field name job run int num job run or pend 
+cluster overview json property field name job finish int num job finish 
+cluster overview json property field name job cancel int num job cancel 
+cluster overview json property field name job fail int num job fail 
+job id with status overview json property field name job private final collection job id with status job with status 
+job id with status overview json property field name job collection job id with status job with status 
+job id with status overview json property field name job id json serialize use job i d serializer class private final job i d job id 
+job id with status overview json property field name job status private final job status job status 
+job id with status overview json property field name job id json deserialize use job i d deserializer class job i d job id 
+job id with status overview json property field name job status job status job status 
+job overview json property field name job run private final int num job run or pend 
+job overview json property field name job finish private final int num job finish 
+job overview json property field name job cancel private final int num job cancel 
+job overview json property field name job fail private final int num job fail 
+job overview json property field name job run int num job run or pend 
+job overview json property field name job finish int num job finish 
+job overview json property field name job cancel int num job cancel 
+job overview json property field name job fail int num job fail 
+multiple job detail json property field name job private final collection job detail job 
+multiple job detail json property field name job collection job detail job 
+asynchronous operation info json property field name failure cause json serialize use serialize throwable serializer class nullable private final serialize throwable failure cause 
+asynchronous operation info json property field name failure cause json deserialize use serialize throwable deserializer class nullable serialized throwable failure cause 
+asynchronous operation result json property field name status private final queue status queue status 
+asynchronous operation result json property field name operation nullable private final v value 
+asynchronous operation result json property field name status queue status queue status 
+asynchronous operation result json property field name operation nullable v value 
+trigger response json property field name request id private final trigger id trigger id 
+trigger response json property field name request id trigger id trigger id 
+cluster overview with version json property field name version private final string version 
+cluster overview with version json property field name commit private final string commit id 
+cluster overview with version json property field name taskmanager int num task manager connect 
+cluster overview with version json property field name slot total int num slot total 
+cluster overview with version json property field name slot available int num slot available 
+cluster overview with version json property field name job run int num job run or pend 
+cluster overview with version json property field name job finish int num job finish 
+cluster overview with version json property field name job cancel int num job cancel 
+cluster overview with version json property field name job fail int num job fail 
+cluster overview with version json property field name version string version 
+cluster overview with version json property field name commit string commit id 
+checkpoint config info json property field name processing mode private final processing mode processing mode 
+checkpoint config info json property field name checkpoint interval private final long checkpoint interval 
+checkpoint config info json property field name checkpoint timeout private final long checkpoint timeout 
+checkpoint config info json property field name checkpoint min pause private final long min pause between checkpoint 
+checkpoint config info json property field name checkpoint max concurrent private final long max concurrent checkpoint 
+checkpoint config info json property field name externalize checkpoint config private final externalized checkpoint info externalize checkpoint info 
+checkpoint config info json property field name state backend private final string state backend 
+checkpoint config info json property field name processing mode processing mode processing mode 
+checkpoint config info json property field name checkpoint interval long checkpoint interval 
+checkpoint config info json property field name checkpoint timeout long checkpoint timeout 
+checkpoint config info json property field name checkpoint min pause long min pause between checkpoint 
+checkpoint config info json property field name checkpoint max concurrent int max concurrent checkpoint 
+checkpoint config info json property field name externalize checkpoint config externalize checkpoint info externalize checkpoint info 
+checkpoint config info json property field name state backend string state backend 
+checkpoint config info json property field name enable private final boolean enable 
+checkpoint config info json property field name delete on cancellation private final boolean delete on cancellation 
+checkpoint config info json property field name enable boolean enable 
+checkpoint config info json property field name delete on cancellation boolean delete on cancellation 
+checkpoint statistics json property field name count private final count count 
+checkpoint statistics json property field name summary private final summary summary 
+checkpoint statistics json property field name latest checkpoint private final latest checkpoint latest checkpoint 
+checkpoint statistics json property field name history private final list checkpoint statistics history 
+checkpoint statistics json property field name count count count 
+checkpoint statistics json property field name summary summary summary 
+checkpoint statistics json property field name latest checkpoint latest checkpoint latest checkpoint 
+checkpoint statistics json property field name history list checkpoint statistics history 
+checkpoint statistics json property field name restore checkpoint private final long number restore checkpoint 
+checkpoint statistics json property field name total checkpoint private final long total number checkpoint 
+checkpoint statistics json property field name in progress checkpoint private final int number in progress checkpoint 
+checkpoint statistics json property field name complete checkpoint private final long number complete checkpoint 
+checkpoint statistics json property field name fail checkpoint private final long number fail checkpoint 
+checkpoint statistics json property field name restore checkpoint long number restore checkpoint 
+checkpoint statistics json property field name total checkpoint long total number checkpoint 
+checkpoint statistics json property field name in progress checkpoint int number in progress checkpoint 
+checkpoint statistics json property field name complete checkpoint long number complete checkpoint 
+checkpoint statistics json property field name fail checkpoint long number fail checkpoint 
+checkpoint statistics json property field name state size private final min max avg statistics state size 
+checkpoint statistics json property field name duration private final min max avg statistics duration 
+checkpoint statistics json property field name alignment buffer private final min max avg statistics alignment buffer 
+checkpoint statistics json property field name state size min max avg statistics state size 
+checkpoint statistics json property field name duration min max avg statistics duration 
+checkpoint statistics json property field name alignment buffer min max avg statistics alignment buffer 
+checkpoint statistics json property field name complete nullable private final checkpoint statistics complete checkpoint statistics complete checkpoint statistics 
+checkpoint statistics json property field name savepoint nullable private final checkpoint statistics complete checkpoint statistics savepoint statistics 
+checkpoint statistics json property field name fail nullable private final checkpoint statistics fail checkpoint statistics fail checkpoint statistics 
+checkpoint statistics json property field name restore nullable private final restore checkpoint statistics restore checkpoint statistics 
+checkpoint statistics json property field name complete nullable checkpoint statistics complete checkpoint statistics complete checkpoint statistics 
+checkpoint statistics json property field name savepoint nullable checkpoint statistics complete checkpoint statistics savepoint statistics 
+checkpoint statistics json property field name fail nullable checkpoint statistics fail checkpoint statistics fail checkpoint statistics 
+checkpoint statistics json property field name restore nullable restore checkpoint statistics restore checkpoint statistics 
+checkpoint statistics json property field name id private final long id 
+checkpoint statistics json property field name restore timestamp private final long restore timestamp 
+checkpoint statistics json property field name be savepoint private final boolean savepoint 
+checkpoint statistics json property field name external path nullable private final string external path 
+checkpoint statistics json property field name id long id 
+checkpoint statistics json property field name restore timestamp long restore timestamp 
+checkpoint statistics json property field name be savepoint boolean savepoint 
+checkpoint statistics json property field name external path nullable string external path 
+checkpoint statistics json property field name id private final long id 
+checkpoint statistics json property field name status private final checkpoint stats status status 
+checkpoint statistics json property field name be savepoint private final boolean savepoint 
+checkpoint statistics json property field name trigger timestamp private final long trigger timestamp 
+checkpoint statistics json property field name latest ack timestamp private final long latest ack timestamp 
+checkpoint statistics json property field name state size private final long state size 
+checkpoint statistics json property field name duration private final long duration 
+checkpoint statistics json property field name alignment buffer private final long alignment buffer 
+checkpoint statistics json property field name num subtask private final int num subtask 
+checkpoint statistics json property field name num ack subtask private final int num ack subtask 
+checkpoint statistics json property field name task json serialize key use job vertex i d key serializer class private final map job vertex i d task checkpoint statistics checkpoint statistics per task 
+checkpoint statistics json property field name id long id 
+checkpoint statistics json property field name status checkpoint stats status status 
+checkpoint statistics json property field name be savepoint boolean savepoint 
+checkpoint statistics json property field name trigger timestamp long trigger timestamp 
+checkpoint statistics json property field name latest ack timestamp long latest ack timestamp 
+checkpoint statistics json property field name state size long state size 
+checkpoint statistics json property field name duration long duration 
+checkpoint statistics json property field name alignment buffer long alignment buffer 
+checkpoint statistics json property field name num subtask int num subtask 
+checkpoint statistics json property field name num ack subtask int num ack subtask 
+checkpoint statistics json deserialize key use job vertex i d key deserializer class json property field name task map job vertex i d task checkpoint statistics checkpoint statistics per task 
+checkpoint statistics json property field name external path nullable private final string external path 
+checkpoint statistics json property field name discard private final boolean discard 
+checkpoint statistics json property field name id long id 
+checkpoint statistics json property field name status checkpoint stats status status 
+checkpoint statistics json property field name be savepoint boolean savepoint 
+checkpoint statistics json property field name trigger timestamp long trigger timestamp 
+checkpoint statistics json property field name latest ack timestamp long latest ack timestamp 
+checkpoint statistics json property field name state size long state size 
+checkpoint statistics json property field name duration long duration 
+checkpoint statistics json property field name alignment buffer long alignment buffer 
+checkpoint statistics json property field name num subtask int num subtask 
+checkpoint statistics json property field name num ack subtask int num ack subtask 
+checkpoint statistics json deserialize key use job vertex i d key deserializer class json property field name task map job vertex i d task checkpoint statistics checkpoint statistics per task 
+checkpoint statistics json property field name external path nullable string external path 
+checkpoint statistics json property field name discard boolean discard 
+checkpoint statistics json property field name failure timestamp private final long failure timestamp 
+checkpoint statistics json property field name failure message nullable private final string failure message 
+checkpoint statistics json property field name id long id 
+checkpoint statistics json property field name status checkpoint stats status status 
+checkpoint statistics json property field name be savepoint boolean savepoint 
+checkpoint statistics json property field name trigger timestamp long trigger timestamp 
+checkpoint statistics json property field name latest ack timestamp long latest ack timestamp 
+checkpoint statistics json property field name state size long state size 
+checkpoint statistics json property field name duration long duration 
+checkpoint statistics json property field name alignment buffer long alignment buffer 
+checkpoint statistics json property field name num subtask int num subtask 
+checkpoint statistics json property field name num ack subtask int num ack subtask 
+checkpoint statistics json deserialize key use job vertex i d key deserializer class json property field name task map job vertex i d task checkpoint statistics checkpoint statistics per task 
+checkpoint statistics json property field name failure timestamp long failure timestamp 
+checkpoint statistics json property field name failure message nullable string failure message 
+checkpoint statistics json property field name id long id 
+checkpoint statistics json property field name status checkpoint stats status status 
+checkpoint statistics json property field name be savepoint boolean savepoint 
+checkpoint statistics json property field name trigger timestamp long trigger timestamp 
+checkpoint statistics json property field name latest ack timestamp long latest ack timestamp 
+checkpoint statistics json property field name state size long state size 
+checkpoint statistics json property field name duration long duration 
+checkpoint statistics json property field name alignment buffer long alignment buffer 
+checkpoint statistics json property field name num subtask int num subtask 
+checkpoint statistics json property field name num ack subtask int num ack subtask 
+checkpoint statistics json deserialize key use job vertex i d key deserializer class json property field name task map job vertex i d task checkpoint statistics checkpoint statistics per task 
+min max avg statistics json property field name minimum private final long minimum 
+min max avg statistics json property field name maximum private final long maximum 
+min max avg statistics json property field name average private final long average 
+min max avg statistics json property field name minimum long minimum 
+min max avg statistics json property field name maximum long maximum 
+min max avg statistics json property field name average long average 
+subtask checkpoint statistics json property field name index private final int index 
+subtask checkpoint statistics json property field name checkpoint status private final string checkpoint status 
+subtask checkpoint statistics json property field name index int index 
+subtask checkpoint statistics json property field name checkpoint status string checkpoint status 
+subtask checkpoint statistics json property field name ack timestamp private final long ack timestamp 
+subtask checkpoint statistics json property field name duration private final long duration 
+subtask checkpoint statistics json property field name state size private final long state size 
+subtask checkpoint statistics json property field name checkpoint duration private final checkpoint duration checkpoint duration 
+subtask checkpoint statistics json property field name alignment private final checkpoint alignment alignment 
+subtask checkpoint statistics json property field name start delay private final long start delay 
+subtask checkpoint statistics json property field name index int index 
+subtask checkpoint statistics json property field name ack timestamp long ack timestamp 
+subtask checkpoint statistics json property field name duration long duration 
+subtask checkpoint statistics json property field name state size long state size 
+subtask checkpoint statistics json property field name checkpoint duration checkpoint duration checkpoint duration 
+subtask checkpoint statistics json property field name alignment checkpoint alignment alignment 
+subtask checkpoint statistics json property field name start delay long start delay 
+subtask checkpoint statistics json property field name sync duration private final long sync duration 
+subtask checkpoint statistics json property field name async duration private final long async duration 
+subtask checkpoint statistics json property field name sync duration long sync duration 
+subtask checkpoint statistics json property field name async duration long async duration 
+subtask checkpoint statistics json property field name alignment buffer private final long alignment buffer 
+subtask checkpoint statistics json property field name alignment duration private final long alignment duration 
+subtask checkpoint statistics json property field name alignment buffer long alignment buffer 
+subtask checkpoint statistics json property field name alignment duration long alignment duration 
+subtask checkpoint statistics json property field name index int index 
+task checkpoint statistics json property field name id private final long checkpoint id 
+task checkpoint statistics json property field name checkpoint status private final checkpoint stats status checkpoint status 
+task checkpoint statistics json property field name latest ack timestamp private final long latest ack timestamp 
+task checkpoint statistics json property field name state size private final long state size 
+task checkpoint statistics json property field name duration private final long duration 
+task checkpoint statistics json property field name alignment buffer private final long alignment buffer 
+task checkpoint statistics json property field name num subtask private final int num subtask 
+task checkpoint statistics json property field name num ack subtask private final int num ack subtask 
+task checkpoint statistics json property field name id long checkpoint id 
+task checkpoint statistics json property field name checkpoint status checkpoint stats status checkpoint status 
+task checkpoint statistics json property field name latest ack timestamp long latest ack timestamp 
+task checkpoint statistics json property field name state size long state size 
+task checkpoint statistics json property field name duration long duration 
+task checkpoint statistics json property field name alignment buffer long alignment buffer 
+task checkpoint statistics json property field name num subtask int num subtask 
+task checkpoint statistics json property field name num ack subtask int num ack subtask 
+task checkpoint statistics with subtask detail json property field name summary private final summary summary 
+task checkpoint statistics with subtask detail json property field name subtask checkpoint statistics private final list subtask checkpoint statistics subtask checkpoint statistics 
+task checkpoint statistics with subtask detail json property field name id long checkpoint id 
+task checkpoint statistics with subtask detail json property field name checkpoint status checkpoint stats status checkpoint status 
+task checkpoint statistics with subtask detail json property field name latest ack timestamp long latest ack timestamp 
+task checkpoint statistics with subtask detail json property field name state size long state size 
+task checkpoint statistics with subtask detail json property field name duration long duration 
+task checkpoint statistics with subtask detail json property field name alignment buffer long alignment buffer 
+task checkpoint statistics with subtask detail json property field name num subtask int num subtask 
+task checkpoint statistics with subtask detail json property field name num ack subtask int num ack subtask 
+task checkpoint statistics with subtask detail json property field name summary summary summary 
+task checkpoint statistics with subtask detail json property field name subtask checkpoint statistics list subtask checkpoint statistics subtask checkpoint statistics 
+task checkpoint statistics with subtask detail json property field name state size private final min max avg statistics state size 
+task checkpoint statistics with subtask detail json property field name duration private final min max avg statistics duration 
+task checkpoint statistics with subtask detail json property field name checkpoint duration private final checkpoint duration checkpoint duration 
+task checkpoint statistics with subtask detail json property field name alignment private final checkpoint alignment checkpoint alignment 
+task checkpoint statistics with subtask detail json property field name start delay private final min max avg statistics checkpoint start delay 
+task checkpoint statistics with subtask detail json property field name state size min max avg statistics state size 
+task checkpoint statistics with subtask detail json property field name duration min max avg statistics duration 
+task checkpoint statistics with subtask detail json property field name checkpoint duration checkpoint duration checkpoint duration 
+task checkpoint statistics with subtask detail json property field name alignment checkpoint alignment checkpoint alignment 
+task checkpoint statistics with subtask detail json property field name start delay min max avg statistics checkpoint start delay 
+task checkpoint statistics with subtask detail json property field name synchronous duration private final min max avg statistics synchronous duration 
+task checkpoint statistics with subtask detail json property field name asynchronous duration private final min max avg statistics asynchronous duration 
+task checkpoint statistics with subtask detail json property field name synchronous duration min max avg statistics synchronous duration 
+task checkpoint statistics with subtask detail json property field name asynchronous duration min max avg statistics asynchronous duration 
+task checkpoint statistics with subtask detail json property field name buffer datum private final min max avg statistics buffer datum 
+task checkpoint statistics with subtask detail json property field name duration private final min max avg statistics duration 
+task checkpoint statistics with subtask detail json property field name buffer datum min max avg statistics buffer datum 
+task checkpoint statistics with subtask detail json property field name duration min max avg statistics duration 
+cluster configuration info entry json property field name config key private final string key 
+cluster configuration info entry json property field name config value private final string value 
+cluster configuration info entry json property field name config key string key 
+cluster configuration info entry json property field name config value string value 
+dashboard configuration json property field name refresh interval private final long refresh interval 
+dashboard configuration json property field name timezone name private final string time zone name 
+dashboard configuration json property field name timezone offset private final int time zone offset 
+dashboard configuration json property field name flink version private final string flink version 
+dashboard configuration json property field name flink revision private final string flink revision 
+dashboard configuration json property field name flink feature private final feature feature 
+dashboard configuration json property field name refresh interval long refresh interval 
+dashboard configuration json property field name timezone name string time zone name 
+dashboard configuration json property field name timezone offset int time zone offset 
+dashboard configuration json property field name flink version string flink version 
+dashboard configuration json property field name flink revision string flink revision 
+dashboard configuration json property field name flink feature feature feature 
+dashboard configuration json property field name feature web submit private final boolean web submit enable 
+dashboard configuration json property field name feature web submit boolean web submit enable 
+cluster datum set entry json property field name datum set id private final string datum set id 
+cluster datum set entry json property field name complete private final boolean be complete 
+cluster datum set entry json property field name datum set id string datum set id 
+cluster datum set entry json property field name complete boolean be complete 
+cluster datum set list response body json property field name partition private final list cluster datum set entry data set 
+cluster datum set list response body json property field name partition list cluster datum set entry data set 
+error response body json property field name error public final list string error 
+error response body json property field name error list string error 
+client coordination request body json property field name serialize coordination request json serialize use serialize value serializer class json deserialize use serialize value deserializer class private final serialize value coordination request serialize coordination request 
+client coordination request body json property field name serialize coordination request serialize value coordination request serialize coordination request 
+client coordination response body json property field name serialize coordination result json serialize use serialize value serializer class json deserialize use serialize value deserializer class private final serialize value coordination response serialize coordination response 
+client coordination response body json property field name serialize coordination result serialize value coordination response serialize coordination response 
+job detail info json property field name job id json serialize use job i d serializer class private final job i d job id 
+job detail info json property field name job name private final string name 
+job detail info json property field name be stoppable private final boolean be stoppable 
+job detail info json property field name job status private final job status job status 
+job detail info json property field name start time private final long start time 
+job detail info json property field name end time private final long end time 
+job detail info json property field name duration private final long duration 
+job detail info json property field name now private final long now 
+job detail info json property field name timestamp private final map job status long timestamp 
+job detail info json property field name job vertex info private final collection job vertex detail info job vertex info 
+job detail info json property field name job vertex per state private final map execution state integer job vertex per state 
+job detail info json property field name json plan json raw value private final string json plan 
+job detail info json deserialize use job i d deserializer class json property field name job id job i d job id 
+job detail info json property field name job name string name 
+job detail info json property field name be stoppable boolean be stoppable 
+job detail info json property field name job status job status job status 
+job detail info json property field name start time long start time 
+job detail info json property field name end time long end time 
+job detail info json property field name duration long duration 
+job detail info json property field name now long now 
+job detail info json property field name timestamp map job status long timestamp 
+job detail info json property field name job vertex info collection job vertex detail info job vertex info 
+job detail info json property field name job vertex per state map execution state integer job vertex per state 
+job detail info json property field name json plan json deserialize use raw json deserializer class string json plan 
+job detail info json property field name job vertex id json serialize use job vertex i d serializer class private final job vertex i d job vertex i d 
+job detail info json property field name job vertex name private final string name 
+job detail info json property field name parallelism private final int parallelism 
+job detail info json property field name job vertex state private final execution state execution state 
+job detail info json property field name job vertex start time private final long start time 
+job detail info json property field name job vertex end time private final long end time 
+job detail info json property field name job vertex duration private final long duration 
+job detail info json property field name task per state private final map execution state integer task per state 
+job detail info json property field name job vertex metric private final i o metric info job vertex metric 
+job detail info json deserialize use job vertex i d deserializer class json property field name job vertex id job vertex i d job vertex i d 
+job detail info json property field name job vertex name string name 
+job detail info json property field name parallelism int parallelism 
+job detail info json property field name job vertex state execution state execution state 
+job detail info json property field name job vertex start time long start time 
+job detail info json property field name job vertex end time long end time 
+job detail info json property field name job vertex duration long duration 
+job detail info json property field name task per state map execution state integer task per state 
+job detail info json property field name job vertex metric i o metric info job vertex metric 
+job execution result response body json property value status require true private final queue status status 
+job execution result response body json property value job execution result json serialize use job result serializer class json deserialize use job result deserializer class nullable private final job result job execution result 
+job execution result response body json property value status require true final queue status status 
+job execution result response body json property value job execution result json deserialize use job result deserializer class nullable final job result job execution result 
+job submit request body json property field name job graph nullable public final string job graph file name 
+job submit request body json property field name job jar nonnull public final collection string jar file name 
+job submit request body json property field name job artifact nonnull public final collection distribute cache file artifact file name 
+job submit request body nullable json property field name job graph string job graph file name 
+job submit request body nullable json property field name job jar collection string jar file name 
+job submit request body nullable json property field name job artifact collection distribute cache file artifact file name 
+job submit request body json property field name entry name public final string entry name 
+job submit request body json property field name file name public final string file name 
+job submit request body json property field name entry name string entry name 
+job submit request body json property field name file name string file name 
+job submit response body json property field name job url public final string job url 
+job submit response body json property field name job url string job url 
+aggregate metric json property value field name id require true private final string id 
+aggregate metric json include json include include non null json property field name min private final double min 
+aggregate metric json include json include include non null json property field name max private final double max 
+aggregate metric json include json include include non null json property field name avg private final double avg 
+aggregate metric json include json include include non null json property field name sum private final double sum 
+aggregate metric final json property value field name id require true string id 
+aggregate metric final nullable json property field name min double min 
+aggregate metric final nullable json property field name max double max 
+aggregate metric final nullable json property field name avg double avg 
+aggregate metric final nullable json property field name sum double sum 
+aggregate metric final json property value field name id require true string id 
+i o metric info json property field name byte read private final long byte read 
+i o metric info json property field name byte read complete private final boolean byte read complete 
+i o metric info json property field name byte write private final long byte write 
+i o metric info json property field name byte write complete private final boolean byte write complete 
+i o metric info json property field name record read private final long record read 
+i o metric info json property field name record read complete private final boolean record read complete 
+i o metric info json property field name record write private final long record write 
+i o metric info json property field name record write complete private final boolean record write complete 
+i o metric info json property field name byte read long byte read 
+i o metric info json property field name byte read complete boolean byte read complete 
+i o metric info json property field name byte write long byte write 
+i o metric info json property field name byte write complete boolean byte write complete 
+i o metric info json property field name record read long record read 
+i o metric info json property field name record read complete boolean record read complete 
+i o metric info json property field name record write long record write 
+i o metric info json property field name record write complete boolean record write complete 
+metric json property value field name id require true private final string id 
+metric json include json include include non null json property value field name value private final string value 
+metric final json property value field name id require true string id 
+metric final nullable json property field name value string value 
+savepoint disposal request json property field name savepoint path nullable private final string savepoint path 
+savepoint disposal request nullable json property field name savepoint path string savepoint path 
+savepoint info json property field name location nullable private final string location 
+savepoint info json property field name failure cause json serialize use serialize throwable serializer class json deserialize use serialize throwable deserializer class nullable private final serialize throwable failure cause 
+savepoint info json property field name location nullable final string location 
+savepoint info json property field name failure cause json deserialize use serialize throwable deserializer class nullable final serialize throwable failure cause 
+savepoint trigger request body json property field name target directory nullable private final string target directory 
+savepoint trigger request body json property field name cancel job private final boolean cancel job 
+savepoint trigger request body nullable json property field name target directory final string target directory 
+savepoint trigger request body json property value field name cancel job default value false final boolean cancel job 
+stop with savepoint request body json property field name target directory nullable private final string target directory 
+stop with savepoint request body json property field name drain private final boolean drain 
+stop with savepoint request body nullable json property field name target directory final string target directory 
+stop with savepoint request body json property value field name drain default value false final boolean drain 
+subtask execution attempt accumulator info json property field name subtask index private final int subtask index 
+subtask execution attempt accumulator info json property field name attempt num private final int attempt num 
+subtask execution attempt accumulator info json property field name id private final string id 
+subtask execution attempt accumulator info json property field name user accumulator private final collection user accumulator user accumulator list 
+subtask execution attempt accumulator info json property field name subtask index int subtask index 
+subtask execution attempt accumulator info json property field name attempt num int attempt num 
+subtask execution attempt accumulator info json property field name id string id 
+subtask execution attempt accumulator info json property field name user accumulator collection user accumulator user accumulator list 
+subtask execution attempt detail info json property field name subtask index private final int subtask index 
+subtask execution attempt detail info json property field name status private final execution state status 
+subtask execution attempt detail info json property field name attempt private final int attempt 
+subtask execution attempt detail info json property field name host private final string host 
+subtask execution attempt detail info json property field name start time private final long start time 
+subtask execution attempt detail info json property field name compatible start time private final long start time compatible 
+subtask execution attempt detail info json property field name end time private final long end time 
+subtask execution attempt detail info json property field name duration private final long duration 
+subtask execution attempt detail info json property field name metric private final i o metric info io metric info 
+subtask execution attempt detail info json property field name taskmanager id private final string taskmanager id 
+subtask execution attempt detail info json property field name subtask index int subtask index 
+subtask execution attempt detail info json property field name status execution state status 
+subtask execution attempt detail info json property field name attempt int attempt 
+subtask execution attempt detail info json property field name host string host 
+subtask execution attempt detail info json property field name start time long start time 
+subtask execution attempt detail info json property field name end time long end time 
+subtask execution attempt detail info json property field name duration long duration 
+subtask execution attempt detail info json property field name metric i o metric info io metric info 
+subtask execution attempt detail info json property field name taskmanager id string taskmanager id 
+subtask all accumulator info json property field name job vertex id json serialize use job vertex i d serializer class private final job vertex i d job vertex id 
+subtask all accumulator info json property field name parallelism private final int parallelism 
+subtask all accumulator info json property field name subtask private final collection subtask accumulator info subtask accumulator info 
+subtask all accumulator info json deserialize use job vertex i d deserializer class json property field name job vertex id job vertex i d job vertex id 
+subtask all accumulator info json property field name parallelism int parallelism 
+subtask all accumulator info json property field name subtask collection subtask accumulator info subtask accumulator info 
+subtask all accumulator info json property field name subtask index private final int subtask index 
+subtask all accumulator info json property field name attempt num private final int attempt num 
+subtask all accumulator info json property field name host private final string host 
+subtask all accumulator info json property field name user accumulator private final collection user accumulator user accumulator 
+subtask all accumulator info json property field name subtask index int subtask index 
+subtask all accumulator info json property field name attempt num int attempt num 
+subtask all accumulator info json property field name host string host 
+subtask all accumulator info json property field name user accumulator collection user accumulator user accumulator 
+user accumulator json property field name acc name private string name 
+user accumulator json property field name acc type private string type 
+user accumulator json property field name acc value private string value 
+user accumulator json property field name acc name string name 
+user accumulator json property field name acc type string type 
+user accumulator json property field name acc value string value 
+job accumulator info json property field name job accumulator private list job accumulator job accumulator 
+job accumulator info json property field name user task accumulator private list user task accumulator user accumulator 
+job accumulator info json property field name serialize user task accumulator json serialize content use serialize value serializer class private map string serialize value optional failure object serialize user accumulator 
+job accumulator info json property field name job accumulator list job accumulator job accumulator 
+job accumulator info json property field name user task accumulator list user task accumulator user accumulator 
+job accumulator info json deserialize content use serialize value deserializer class json property field name serialize user task accumulator map string serialize value optional failure object serialize user accumulator 
+job accumulator info json property field name acc name private string name 
+job accumulator info json property field name acc type private string type 
+job accumulator info json property field name acc value private string value 
+job accumulator info json property field name acc name string name 
+job accumulator info json property field name acc type string type 
+job accumulator info json property field name acc value string value 
+job config info json property field name execution mode private final string execution mode 
+job config info json property field name restart strategy private final string restart strategy 
+job config info json property field name parallelism private final int parallelism 
+job config info json property field name object reuse mode private final boolean be object reuse 
+job config info json property field name global job parameter private final map string string global job parameter 
+job config info json property field name execution mode string execution mode 
+job config info json property field name restart strategy string restart strategy 
+job config info json property field name parallelism int parallelism 
+job config info json property field name object reuse mode boolean be object reuse 
+job config info json property field name global job parameter map string string global job parameter 
+job exception info json property field name root exception private final string root exception 
+job exception info json property field name timestamp private final long root timestamp 
+job exception info json property field name all exception private final list execution exception info all exception 
+job exception info json property field name truncate private final boolean truncate 
+job exception info json property field name root exception string root exception 
+job exception info json property field name timestamp long root timestamp 
+job exception info json property field name all exception list execution exception info all exception 
+job exception info json property field name truncate boolean truncate 
+job exception info json property field name exception private final string exception 
+job exception info json property field name task private final string task 
+job exception info json property field name location private final string location 
+job exception info json property field name timestamp private final long timestamp 
+job exception info json property field name exception string exception 
+job exception info json property field name task string task 
+job exception info json property field name location string location 
+job exception info json property field name timestamp long timestamp 
+job plan info json property field name plan private final raw json json plan 
+job plan info json property field name plan raw json json plan 
+job vertex accumulator info json property field name id private string id 
+job vertex accumulator info json property field name user accumulator private collection user accumulator user accumulator list 
+job vertex accumulator info json property field name id string id 
+job vertex accumulator info json property field name user accumulator collection user accumulator user accumulator list 
+job vertex back pressure info json property field name status private final vertex back pressure status status 
+job vertex back pressure info json property field name backpressure level private final vertex back pressure level backpressure level 
+job vertex back pressure info json property field name end timestamp private final long end timestamp 
+job vertex back pressure info json property field name subtask private final list subtask back pressure info subtask 
+job vertex back pressure info json property field name status vertex back pressure status status 
+job vertex back pressure info json property field name backpressure level vertex back pressure level backpressure level 
+job vertex back pressure info json property field name end timestamp long end timestamp 
+job vertex back pressure info json property field name subtask list subtask back pressure info subtask 
+job vertex back pressure info json property field name subtask private final int subtask 
+job vertex back pressure info json property field name backpressure level private final vertex back pressure level backpressure level 
+job vertex back pressure info json property field name ratio private final double ratio 
+job vertex back pressure info json property field name subtask int subtask 
+job vertex back pressure info json property field name backpressure level vertex back pressure level backpressure level 
+job vertex back pressure info json property field name ratio double ratio 
+job vertex detail info json property field name vertex id json serialize use job vertex i d serializer class private final job vertex i d id 
+job vertex detail info json property field name vertex name private final string name 
+job vertex detail info json property field name parallelism private final int parallelism 
+job vertex detail info json property field name now private final long now 
+job vertex detail info json property field name subtask private final list subtask execution attempt detail info subtask 
+job vertex detail info json deserialize use job vertex i d deserializer class json property field name vertex id job vertex i d id 
+job vertex detail info json property field name vertex name string name 
+job vertex detail info json property field name parallelism int parallelism 
+job vertex detail info json property field name now long now 
+job vertex detail info json property field name subtask list subtask execution attempt detail info subtask 
+job vertex task manager info json property vertex task field id json serialize use job vertex i d serializer class private final job vertex i d job vertex i d 
+job vertex task manager info json property vertex task field name private final string name 
+job vertex task manager info json property vertex task field now private final long now 
+job vertex task manager info json property vertex task field task manager private collection task manager info task manager info 
+job vertex task manager info json deserialize use job vertex i d deserializer class json property vertex task field id job vertex i d job vertex i d 
+job vertex task manager info json property vertex task field name string name 
+job vertex task manager info json property vertex task field now long now 
+job vertex task manager info json property vertex task field task manager collection task manager info task manager info 
+job vertex task manager info json property task manager field host private final string host 
+job vertex task manager info json property task manager field status private final execution state status 
+job vertex task manager info json property task manager field start time private final long start time 
+job vertex task manager info json property task manager field end time private final long end time 
+job vertex task manager info json property task manager field duration private final long duration 
+job vertex task manager info json property task manager field metric private final i o metric info metric 
+job vertex task manager info json property task manager field status count private final map execution state integer status count 
+job vertex task manager info json property task manager field taskmanager id private final string taskmanager id 
+job vertex task manager info json property task manager field host string host 
+job vertex task manager info json property task manager field status execution state status 
+job vertex task manager info json property task manager field start time long start time 
+job vertex task manager info json property task manager field end time long end time 
+job vertex task manager info json property task manager field duration long duration 
+job vertex task manager info json property task manager field metric i o metric info metric 
+job vertex task manager info json property task manager field status count map execution state integer status count 
+job vertex task manager info json property task manager field taskmanager id string taskmanager id 
+log info json property name private final string name 
+log info json property size private final long size 
+log info json property name string name 
+log info json property size long size 
+log list info json property field name log private final collection log info log info 
+log list info json property field name log collection log info log info 
+queue status json property value field name id require true private final id id 
+queue status json property value field name id require true final id id 
+resource profile info json property field name cpu private final double cpu 
+resource profile info json property field name task heap private final int task heap m b 
+resource profile info json property field name task offheap private final int task off heap m b 
+resource profile info json property field name manage private final int manage m b 
+resource profile info json property field name network private final int network m b 
+resource profile info json property field name extend private final map string double extended resource 
+resource profile info json property field name cpu double cpu 
+resource profile info json property field name task heap int task heap m b 
+resource profile info json property field name task offheap int task off heap m b 
+resource profile info json property field name manage int manage m b 
+resource profile info json property field name network int network m b 
+resource profile info json property field name extend map string double extended resource 
+subtask time info json property field name id private final string id 
+subtask time info json property field name name private final string name 
+subtask time info json property field name now private final long now 
+subtask time info json property field name subtask private final list subtask time info subtask 
+subtask time info json property field name id string id 
+subtask time info json property field name name string name 
+subtask time info json property field name now long now 
+subtask time info json property field name subtask list subtask time info subtask 
+subtask time info json property field name subtask private final int subtask 
+subtask time info json property field name host private final string host 
+subtask time info json property field name duration private final long duration 
+subtask time info json property field name timestamp private final map execution state long timestamp 
+subtask time info json property field name subtask int subtask 
+subtask time info json property field name host string host 
+subtask time info json property field name duration long duration 
+subtask time info json property field name timestamp map execution state long timestamp 
+task manager detail info json property field name metric private final task manager metric info task manager metric 
+task manager detail info json deserialize use resource i d deserializer class json property field name resource id resource i d resource id 
+task manager detail info json property field name address string address 
+task manager detail info json property field name datum port int datum port 
+task manager detail info json property field name last heartbeat long last heartbeat 
+task manager detail info json property field name number slot int number slot 
+task manager detail info json property field name number available slot int number available slot 
+task manager detail info json property field name total resource resource profile info total resource 
+task manager detail info json property field name available resource resource profile info free resource 
+task manager detail info json property field name hardware hardware description hardware description 
+task manager detail info json property field name metric task manager metric info task manager metric 
+task manager info json property field name resource id json serialize use resource i d serializer class private final resource i d resource id 
+task manager info json property field name address private final string address 
+task manager info json property field name datum port private final int datum port 
+task manager info json property field name last heartbeat private final long last heartbeat 
+task manager info json property field name number slot private final int number slot 
+task manager info json property field name number available slot private final int number available slot 
+task manager info json property field name total resource private final resource profile info total resource 
+task manager info json property field name available resource private final resource profile info free resource 
+task manager info json property field name hardware private final hardware description hardware description 
+task manager info json deserialize use resource i d deserializer class json property field name resource id resource i d resource id 
+task manager info json property field name address string address 
+task manager info json property field name datum port int datum port 
+task manager info json property field name last heartbeat long last heartbeat 
+task manager info json property field name number slot int number slot 
+task manager info json property field name number available slot int number available slot 
+task manager info json property field name total resource resource profile info total resource 
+task manager info json property field name available resource resource profile info free resource 
+task manager info json property field name hardware hardware description hardware description 
+task manager metric info json property field name heap use private final long heap use 
+task manager metric info json property field name heap commit private final long heap commit 
+task manager metric info json property field name heap max private final long heap max 
+task manager metric info json property field name non heap use private final long non heap use 
+task manager metric info json property field name non heap commit private final long non heap commit 
+task manager metric info json property field name non heap max private final long non heap max 
+task manager metric info json property field name direct count private final long direct count 
+task manager metric info json property field name direct use private final long direct use 
+task manager metric info json property field name direct max private final long direct max 
+task manager metric info json property field name map count private final long map count 
+task manager metric info json property field name map use private final long map use 
+task manager metric info json property field name map max private final long map max 
+task manager metric info json property field name network memory segment available private final long memory segment available 
+task manager metric info json property field name network memroy segment total private final long memory segment total 
+task manager metric info json property field name garbage collector private final list garbage collector info garbage collector info 
+task manager metric info json property field name heap use long heap use 
+task manager metric info json property field name heap commit long heap commit 
+task manager metric info json property field name heap max long heap max 
+task manager metric info json property field name non heap use long non heap use 
+task manager metric info json property field name non heap commit long non heap commit 
+task manager metric info json property field name non heap max long non heap max 
+task manager metric info json property field name direct count long direct count 
+task manager metric info json property field name direct use long direct use 
+task manager metric info json property field name direct max long direct max 
+task manager metric info json property field name map count long map count 
+task manager metric info json property field name map use long map use 
+task manager metric info json property field name map max long map max 
+task manager metric info json property field name network memory segment available long memory segment available 
+task manager metric info json property field name network memroy segment total long memory segment total 
+task manager metric info json property field name garbage collector list garbage collector info garbage collector info 
+task manager metric info json property field name name private final string name 
+task manager metric info json property field name count private final long count 
+task manager metric info json property field name time private final long time 
+task manager metric info json property field name name string name 
+task manager metric info json property field name count long count 
+task manager metric info json property field name time long time 
+task manager info json property field name task manager private final collection task manager info task manager info 
+task manager info json property field name task manager collection task manager info task manager info 
+thread dump info json property field name thread info private final collection thread info thread info 
+thread dump info json property field name thread info collection thread info thread info 
+thread dump info json property field name thread name private final string thread name 
+thread dump info json property field name thread info private final string stringify thread info 
+thread dump info json property field name thread name string thread name 
+thread dump info json property field name thread info string stringify thread info 
+multipart upload resource json property field name index private final int index 
+multipart upload resource json property field name index int index 
+rest server endpoint i t case json property id int id 
+rest server endpoint i t case json property content final string content 
+rest server endpoint i t case json property id int id 
+rest server endpoint i t case json property content string content 
+jar list info json property jar list field address private string address 
+jar list info json property jar list field file public list jar file info jar file list 
+jar list info json property jar list field address string address 
+jar list info json property jar list field file list jar file info jar file list 
+jar list info json property jar file field id public string id 
+jar list info json property jar file field name public string name 
+jar list info json property jar file field upload private long upload 
+jar list info json property jar file field entry private list jar entry info jar entry list 
+jar list info json property jar file field id string id 
+jar list info json property jar file field name string name 
+jar list info json property jar file field upload long upload 
+jar list info json property jar file field entry list jar entry info jar entry list 
+jar list info json property jar entry field name private string name 
+jar list info json property jar entry field desc nullable private string description 
+jar list info json property jar entry field name string name 
+jar list info json property jar entry field desc nullable string description 
+jar plan request body nullable json property field name entry class string entry class name 
+jar plan request body nullable json property field name program argument string program argument 
+jar plan request body nullable json property field name program argument list list string program argument list 
+jar plan request body nullable json property field name parallelism integer parallelism 
+jar plan request body nullable json property field name job id job i d job id 
+jar request body json property field name entry class nullable private string entry class name 
+jar request body json property field name program argument nullable private string program argument 
+jar request body json property field name program argument list nullable private list string program argument list 
+jar request body json property field name parallelism nullable private integer parallelism 
+jar request body json property field name job id json deserialize use job i d deserializer class json serialize use job i d serializer class nullable private job i d job id 
+jar request body nullable json property field name entry class string entry class name 
+jar request body nullable json property field name program argument string program argument 
+jar request body nullable json property field name program argument list list string program argument list 
+jar request body nullable json property field name parallelism integer parallelism 
+jar request body nullable json property field name job id job i d job id 
+jar run request body json property field name allow non restore state nullable private boolean allow non restore state 
+jar run request body json property field name savepoint path nullable private string savepoint path 
+jar run request body nullable json property field name entry class string entry class name 
+jar run request body nullable json property field name program argument string program argument 
+jar run request body nullable json property field name program argument list list string program argument list 
+jar run request body nullable json property field name parallelism integer parallelism 
+jar run request body nullable json property field name job id job i d job id 
+jar run request body nullable json property field name allow non restore state boolean allow non restore state 
+jar run request body nullable json property field name savepoint path string savepoint path 
+jar run response body json property jobid json deserialize use job i d deserializer class json serialize use job i d serializer class private final job i d job id 
+jar run response body json property jobid json deserialize use job i d deserializer class final job i d job id 
+jar upload response body json property field name status private final upload status status upload status success 
+jar upload response body json property field name filename private final string filename 
+jar upload response body json property field name filename final string filename 

@@ -1,0 +1,16 @@
+app controller valid request body app d t o dto 
+cluster controller valid request body cluster d t o dto 
+namespace controller valid request body namespace d t o dto 
+cluster controller valid request body open cluster d t o cluster 
+app controller valid request body app model app model 
+app controller valid request body app model app model 
+app controller valid request body app app 
+cluster controller valid request body cluster d t o cluster 
+commit controller valid positive or zero message page should be positive or request param default value int page 
+commit controller valid positive message size should be positive number request param default value int size 
+namespace controller valid request body app namespace app namespace 
+release controller valid positive or zero message page should be positive or request param default value int page 
+release controller valid positive message size should be positive number request param default value int size 
+release controller valid positive or zero message page should be positive or request param default value int page 
+release controller valid positive message size should be positive number request param default value int size 
+server config controller valid request body server config server config 

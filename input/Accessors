@@ -1,0 +1,3 @@
+account datum accessor chain true table name account tbl public class account table id private long id private string user id private integer money 
+order datum accessor chain true table name order tbl public class order table id type id type auto private integer id private string user id private string commodity code private integer count private integer money 
+storage datum accessor chain true table name storage tbl public class storage table id private long id private string commodity code private long count 

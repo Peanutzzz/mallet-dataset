@@ -1,0 +1,425 @@
+sys generator controller autowire private sy generator service sy generator service 
+sy generator service impl autowire private sy generator mapper sy generator mapper 
+aliyun o s s auto configure autowire private file server property file property 
+aliyun o s s auto configure autowire private o s s client oss client 
+fastdf auto configure autowire private file server property file property 
+fastdf auto configure autowire private fast file storage client storage client 
+qiniu o s s auto configure autowire private file server property file property 
+qiniu o s s auto configure autowire private upload manager upload manager 
+qiniu o s s auto configure autowire private bucket manager bucket manager 
+qiniu o s s auto configure autowire private auth auth 
+index controller autowire private i index service index service 
+index controller autowire private index property index property 
+sy menu controller autowire private i sy menu service menu service 
+sy role controller autowire private i sy role service sy role service 
+sy user controller autowire private i sy user service app user service 
+sy user controller autowire private i query service query service 
+sy role service impl autowire private distribute lock lock 
+sy user service impl autowire private password encoder password encoder 
+sy user service impl autowire private distribute lock lock 
+sy user controller test autowire private web application context wac 
+sy user service test autowire private i sy user service sy user service 
+default resource server conf autowire private token store token store 
+default resource server conf autowire private security property security property 
+default permission service impl autowire private security property security property 
+auth db token store autowire private datum source datum source 
+re jwt token store autowire private resource server property resource 
+default web mvc config lazy autowired private user service user service 
+login arg resolver config lazy autowired private user service user service 
+lock aspect autowired require false private distribute lock locker 
+mybatis plus auto configure autowire private tenant handler tenant handler 
+mybatis plus auto configure autowire private i sql parser filter sql parser filter 
+mybatis plus auto configure autowire private tenant property tenant property 
+mybatis plus auto configure autowire private mybatis plus auto fill property auto fill property 
+tenant auto configure autowire private tenant property tenant property 
+db audit service impl autowired require false log db property log db property 
+redus distribute lock autowired private redis template string object redis template 
+redisson distribute lock autowired private redisson client redisson 
+redi auto configure autowire private cache manager property cache manager property 
+rest template auto configure autowire private rest template property rest template property 
+default property factory autowire private environment environment 
+sender service autowire private my source source 
+rocket mq produce application autowired private sender service sender service 
+order controller autowire public order controller source source this source source 
+order transaction listener impl autowire private i order service order service 
+user controller autowire public user controller i user service user service this user service user service 
+demo controller autowire public demo controller demo service demo service this demo service demo service 
+demo controller autowire private demo service demo service 
+demo controller autowire private demo service demo service 
+dynamic route config autowire private application event publisher publisher 
+dynamic route config autowire private naco config property naco config property 
+resource server configuration autowire private security property security property 
+resource server configuration autowire private token store token store 
+resource server configuration autowire private permission auth manager permission auth manager 
+trace filter autowire private trace property trace property 
+swagger handler autowire required false private security configuration security configuration 
+swagger handler autowire required false private ui configuration ui configuration 
+swagger handler autowire public swagger handler swagger resource provider swagger resource this swagger resource swagger resource 
+dynamic zuul route config autowire private zuul property zuul property 
+dynamic zuul route config autowire private dispatcher servlet path dispatcher servlet path 
+dynamic zuul route config autowire private naco config property naco config property 
+dynamic zuul route config autowire private application event publisher publisher 
+trace filter autowire private trace property trace property 
+abstract spring mvc test autowire private web application context application context 
+aggregation controller autowire private i query service query service 
+slow query log controller autowire private i query service query service 
+sy log controller autowire private i query service query service 
+authorization server config autowire private authentication manager authentication manager 
+authorization server config autowire private token store token store 
+authorization server config autowired require false private jwt access token converter jwt access token converter 
+authorization server config autowired require false private token enhancer token enhancer 
+authorization server config autowire private web response exception translator web response exception translator 
+authorization server config autowire private redis client detail service client detail service 
+authorization server config autowire private random value authorization code service authorization code service 
+authorization server config autowire private token granter token granter 
+security config autowire private authentication success handler authentication success handler 
+security config autowired require false private authentication entry point authentication entry point 
+security config autowire private password encoder password encoder 
+security config autowire private open id authentication security config open id authentication security config 
+security config autowire private mobile authentication security config mobile authentication security config 
+security config autowire private authentication manager authentication manager 
+security config autowire private tenant authentication security config tenant authentication security config 
+security config autowire private tenant property tenant property 
+security config autowire public void global user detail authentication manager builder auth throw exception auth user detail service user detail service password encoder password encoder 
+token granter config autowire private client detail service client detail service 
+token granter config autowire private user detail service user detail service 
+token granter config autowire private authentication manager authentication manager 
+token granter config autowire private token store token store 
+token granter config autowired require false private token enhancer token enhancer 
+token granter config autowire private i validate code service validate code service 
+token granter config autowire private random value authorization code service authorization code service 
+client controller autowire private i client service client service 
+token controller autowire private i token service token service 
+validate code controller autowire private i validate code service validate code service 
+oauth logout handler autowire private token store token store 
+mobile authentication security config autowire private zlt user detail service user detail service 
+mobile authentication security config autowire private password encoder password encoder 
+open id authentication security config autowire private social user detail service user detail service 
+client service impl autowire private redis repository redis repository 
+client service impl autowire private password encoder password encoder 
+client service impl autowire private distribute lock lock 
+redis token service impl autowire private redis repository redis repository 
+validate code service impl autowire private redis repository redis repository 
+oauth authorize aspect autowired private user service user service 
+abstract controller test autowire private http message converter http message converter 
+app controller test autowire app repository app repository 
+app namespace controller test autowire private app namespace repository namespace repository 
+controller integration exception test autowire app controller app controller 
+controller integration exception test autowire app service app service 
+item set controller test autowire item repository item repository 
+release controller test autowire release repository release repository 
+web security config autowire public void configure global authentication manager builder auth throw exception auth in memory authentication with user user password role user and with user apollo password role user admin 
+gray release rule holder autowire private gray release rule repository gray release rule repository 
+gray release rule holder autowire private biz config biz config 
+release message scanner autowire private biz config biz config 
+release message scanner autowire private release message repository release message repository 
+biz d b property source autowired private server config repository server config repository 
+access key repository test autowire private access key repository access key repository 
+app namespace repository test autowire private app namespace repository repository 
+app repository test autowire private app repository app repository 
+instance config repository test autowire private instance config repository instance config repository 
+instance config repository test autowire private instance repository instance repository 
+access key service test autowire private access key service access key service 
+admin service test autowire private admin service admin service 
+admin service test autowire private audit service audit service 
+admin service test autowire private app repository app repository 
+admin service test autowire private cluster service cluster service 
+admin service test autowire private namespace service namespace service 
+admin service test autowire private app namespace service app namespace service 
+admin service transaction test autowire admin service admin service 
+admin service transaction test autowire private app repository app repository 
+admin service transaction test autowire private app namespace repository app namespace repository 
+admin service transaction test autowire private namespace repository namespace repository 
+admin service transaction test autowire private cluster repository cluster repository 
+cluster service test autowire private admin service admin service 
+cluster service test autowire private cluster service cluster service 
+instance service test autowire private instance service instance service 
+namespace branch service test autowire private namespace branch service namespace branch service 
+namespace branch service test autowire private release history service release history service 
+namespace service integration test autowire private namespace service namespace service 
+namespace service integration test autowire private item service item service 
+namespace service integration test autowire private commit service commit service 
+namespace service integration test autowire private app namespace service app namespace service 
+namespace service integration test autowire private cluster service cluster service 
+namespace service integration test autowire private release service release service 
+namespace service integration test autowire private release history service release history service 
+namespace service integration test autowire private instance config repository instance config repository 
+release creation test autowire private release service release service 
+release creation test autowire private namespace branch service namespace branch service 
+release creation test autowire private release history service release history service 
+bootstrap config test autowire required false private test bean test bean 
+bootstrap config test autowire required false private test bean test bean 
+bootstrap config test autowire required false private test bean test bean 
+bootstrap config test autowire required false private test bean test bean 
+bootstrap config test autowire required false private test bean test bean 
+bootstrap config test autowire required false private test bean test bean 
+bootstrap config test autowire required false private test bean test bean 
+bootstrap config test autowire required false private test bean test bean 
+bootstrap config test autowire required false private test bean test bean 
+java config placeholder auto update test autowire public test java config bean3 value timeout int timeout value batch int batch this timeout timeout this batch batch 
+java config placeholder test autowire public test java config bean3 value timeout int timeout value batch int batch this timeout timeout this batch batch 
+refreshable config autowire private configurable environment environment 
+notification controller v2 autowire public notification controller v2 final watch key util watch key util final release message service with cache release message service final entity manager util entity manager util final namespace util namespace util final gson gson final biz config biz config large notification batch executor service executor new single thread executor apollo thread factory create notification controller v2 true this watch key util watch key util this release message service release message service this entity manager util entity manager util this namespace util namespace util this gson gson this biz config biz config 
+access key service with cache autowire public access key service with cache access key repository access key repository biz config biz config this access key repository access key repository this biz config biz config initialize 
+abstract config service autowire private gray release rule holder gray release rule holder 
+config service with cache autowire private release service release service 
+config service with cache autowire private release message service release message service 
+default config service autowire private release service release service 
+abstract base integration test autowire private release message repository release message repository 
+abstract base integration test autowire private release repository release repository 
+config controller integration test autowire private app namespace service with cache app namespace service with cache 
+config file controller integration test autowire private app namespace service with cache app namespace service with cache 
+notification controller integration test autowire private release message service with cache release message service with cache 
+notification controller integration test autowire private app namespace service with cache app namespace service with cache 
+notification controller v2 integration test autowire private gson gson 
+notification controller v2 integration test autowire private release message service with cache release message service with cache 
+apollo mock server spring integration test autowire private test bean test bean 
+apollo mock server spring integration test autowire private test interested key prefix bean test interested key prefix bean 
+api autowire protect retryable rest template rest template 
+config publish email builder autowire private role permission service role permission service 
+config publish email builder autowire private release service release service 
+config publish email builder autowire private app namespace service app namespace service 
+config publish email builder autowire private user service user service 
+config publish email builder autowire protect portal config portal config 
+permission validator autowire public permission validator final user info holder user info holder final role permission service role permission service final portal config portal config final app namespace service app namespace service final system role manager service system role manager service this user info holder user info holder this role permission service role permission service this portal config portal config this app namespace service app namespace service this system role manager service system role manager service 
+rest template factory autowire private http message converter http message converter 
+rest template factory autowire private portal config portal config 
+permission controller autowire public permission controller final user info holder user info holder final role permission service role permission service final user service user service final role initialization service role initialization service final system role manager service system role manager service final permission validator permission validator this user info holder user info holder this role permission service role permission service this user service user service this role initialization service role initialization service this system role manager service system role manager service this permission validator permission validator 
+portal d b property source autowired private server config repository server config repository 
+system role manager service autowire public system role manager service final role permission service role permission service final portal config portal config final role initialization service role initialization service this role permission service role permission service this portal config portal config this role initialization service role initialization service 
+ctrip email request builder autowire private portal config portal config 
+ctrip email service autowire private ctrip email request builder email request builder 
+ctrip email service autowire private portal config portal config 
+ctrip logout handler autowire private portal config portal config 
+ctrip m q service autowire private app service app service 
+ctrip m q service autowire private release service release service 
+ctrip m q service autowire private portal config portal config 
+default role initialization service autowire private role permission service role permission service 
+default role initialization service autowire private portal config portal config 
+default role initialization service autowire private permission repository permission repository 
+default role permission service autowire private role repository role repository 
+default role permission service autowire private role permission repository role permission repository 
+default role permission service autowire private user role repository user role repository 
+default role permission service autowire private permission repository permission repository 
+default role permission service autowire private portal config portal config 
+default role permission service autowire private consumer role repository consumer role repository 
+ldap user service autowire private ldap property ldap property 
+ldap user service autowire private ldap extend property ldap extend property 
+ldap user service autowire private ldap template ldap template 
+spring security user service autowire private jdbc user detail manager user detail manager 
+spring security user service autowire private user repository user repository 
+address server cluster controller autowire private service manager service manager 
+address server cluster controller autowire private address server manager address server manager 
+address server cluster controller autowire private address server generator manager address server generator manager 
+server list controller autowire private service manager service manager 
+server list controller autowire private address server generator manager address server builder manager 
+operation controller autowire private cmdb provider cmdb provider 
+cmdb provider autowire private switch and option switch 
+capacity management aspect autowire private capacity service capacity service 
+capacity management aspect autowire private persist service persist service 
+embed permission persist service impl autowire private database operate database operate 
+embed permission persist service impl autowire private embed storage persist service impl persist service 
+embed role persist service impl autowire private database operate database operate 
+embed role persist service impl autowire private embed storage persist service impl persist service 
+embed user persist service impl autowire private database operate database operate 
+embed user persist service impl autowire private embed storage persist service impl persist service 
+external permission persist service impl autowire private external storage persist service impl persist service 
+external role persist service impl autowire private external storage persist service impl persist service 
+external user persist service impl autowire private external storage persist service impl persist service 
+capacity controller autowire public capacity controller capacity service capacity service this capacity service capacity service 
+communication controller autowire public communication controller dump service dump service long polling service long polling service this dump service dump service this long polling service long polling service 
+config controller autowire public config controller config servlet inner config servlet inner persist service persist service config sub service config sub service this inner config servlet inner this persist service persist service this config sub service config sub service 
+config op controller autowire public config op controller persist service persist service dump service dump service this persist service persist service this dump service dump service 
+config servlet inner autowired private long polling service long polling service 
+config servlet inner autowired private persist service persist service 
+health controller autowire private server member manager member manager 
+history controller autowire protect persist service persist service 
+listener controller autowire public listener controller config sub service config sub service this config sub service config sub service 
+curcuit filter autowire private server member manager member manager 
+curcuit filter autowire private c p protocol protocol 
+curcuit filter autowire private controller method cache controller method cache 
+memory monitor autowire public memory monitor async notify service notify single service config executor schedule config task new print memory task delay seconds delay seconds time unit seconds config executor schedule config task new print get config respone task delay seconds delay seconds time unit seconds config executor schedule config task new notify task queue monitor task notify single service delay seconds delay seconds time unit seconds 
+capacity service autowire private group capacity persist service group capacity persist service 
+capacity service autowire private tenant capacity persist service tenant capacity persist service 
+capacity service autowire private persist service persist service 
+config cache service autowire private static persist service persist service 
+config sub service autowired suppress warning pmd thread pool creation rule public config sub service server member manager member manager this member manager member manager 
+merge datum service autowire public merge datum service persist service persist service this persist service persist service merge task new task manager com alibaba naco merge datum merge task set default task processor new merge task processor persist service this 
+async notify service autowire public async notify service server member manager member manager this member manager member manager httpclient start register config datum change event to notify center notify center register to publisher config datum change event class notify center ring buffer size register a subscriber to subscribe config datum change event notify center register subscriber new subscriber override public void on event event event generate config datum change event concurrently if event instanceof config datum change event config datum change event evt config datum change event event long dump t evt last modify t string data id evt datum id string group evt group string tenant evt tenant string tag evt tag collection member ip list member manager all member in fact any type of queue here can be queue notify single task queue new link list notify single task for member member ip list queue add new notify single task datum id group tenant tag dump t member get address evt be beta config executor execute async notify new async task httpclient queue override public class extend event subscribe type return config datum change event class 
+notify service autowired public notify service server member manager member manager notify task manager new task manager com alibaba naco notify task manager notify task manager set default task processor new notify task processor member manager 
+notify single service autowire public notify single service server member manager member manager this member manager member manager setup notify executor 
+dump service test autowire dump service service 
+console config autowire private controller method cache method cache 
+health controller autowire public health controller persist service persist service operator controller api command this persist service persist service this api command api command 
+namespace controller autowire private persist service persist service 
+permission controller autowire private naco role service impl naco role service 
+role controller autowire private naco role service impl role service 
+user controller autowire private jwt token util jwt token util 
+user controller autowire private authentication manager authentication manager 
+user controller autowire private naco user detail service impl user detail service 
+user controller autowire private naco role service impl role service 
+user controller autowire private auth config auth config 
+user controller autowire private naco auth manager auth manager 
+custom authentication provider autowire private naco user detail service impl user detail service 
+jwt token manager autowire private auth config auth config 
+naco auth config autowire private environment env 
+naco auth config autowire private jwt token manager token provider 
+naco auth config autowire private auth config auth config 
+naco auth config autowire private naco user detail service impl user detail service 
+naco auth manager autowire private jwt token manager token manager 
+naco auth manager autowire private authentication manager authentication manager 
+naco auth manager autowire private naco role service impl role service 
+naco role service impl autowire private auth config auth config 
+naco role service impl autowire private role persist service role persist service 
+naco role service impl autowire private naco user detail service impl user detail service 
+naco role service impl autowire private permission persist service permission persist service 
+naco user detail service impl autowire private user persist service user persist service 
+naco user detail service impl autowire private auth config auth config 
+auth config autowire private reloadable config reloadable config 
+auth filter autowire private auth config auth config 
+auth filter autowire private auth manager auth manager 
+auth filter autowire private controller method cache method cache 
+protocol manager autowire private server member manager member manager 
+naco default property source environment post processor test autowire private configurable environment environment 
+standalone profile application listener test autowire private environment environment 
+naco mcp server autowire private istio config istio config 
+naco mcp server autowire private mcp server intercepter intercepter 
+naco mcp server autowire private naco mcp service naco mcp service 
+naco mcp service autowire private service manager service manager 
+naco mcp service autowire private istio config istio config 
+server status manager autowire private switch domain switch domain 
+task dispatcher autowire private global config partition config 
+task dispatcher autowire private datum syncer datum syncer 
+raft consistency service impl autowire private raft core raft core 
+raft consistency service impl autowire private raft peer set peer 
+raft consistency service impl autowire private switch domain switch domain 
+raft core autowire private raft peer set peer 
+raft core autowire private switch domain switch domain 
+raft core autowire private global config global config 
+raft core autowire private raft proxy raft proxy 
+raft core autowire private raft store raft store 
+raft listener autowire private server member manager member manager 
+api controller autowire private distro mapper distro mapper 
+api controller autowire private service manager service manager 
+catalog controller autowire protected service manager service manager 
+cluster controller autowire protected service manager service manager 
+distro controller autowire private serializer serializer 
+distro controller autowire private distro consistency service impl consistency service 
+distro controller autowire private datum store data store 
+distro controller autowire private service manager service manager 
+distro controller autowire private switch domain switch domain 
+health controller autowire private service manager service manager 
+health controller autowire private push service push service 
+instance controller autowire private switch domain switch domain 
+instance controller autowire private push service push service 
+instance controller autowire private service manager service manager 
+raft controller autowire private raft consistency service impl raft consistency service 
+raft controller autowire private service manager service manager 
+raft controller autowire private raft core raft core 
+service controller autowire protected service manager service manager 
+service controller autowire private distro mapper distro mapper 
+service controller autowire private server member manager member manager 
+service controller autowire private subscribe manager subscribe manager 
+subscribe manager autowire private push service push service 
+subscribe manager autowire private server member manager member manager 
+health check common autowired private distro mapper distro mapper 
+health check common autowired private switch domain switch domain 
+health check common autowired private server member manager member manager 
+health check common autowired private push service push service 
+health check processor delegate autowire public void add processor collection health check processor processor health check processor map put all processor stream filter processor processor get type null collect collector to map health check processor get type processor processor 
+http health check processor autowire private switch domain switch domain 
+http health check processor autowire private health check common health check common 
+mysql health check processor autowire private health check common health check common 
+mysql health check processor autowire private switch domain switch domain 
+tcp super sense processor autowire private health check common health check common 
+tcp super sense processor autowire private switch domain switch domain 
+switch manager autowire private switch domain switch domain 
+performance logger thread autowire private service manager service manager 
+performance logger thread autowire private push service push service 
+performance logger thread autowire private raft core raft core 
+push service autowire private switch domain switch domain 
+distro filter autowire private distro mapper distro mapper 
+distro filter autowire private controller method cache controller method cache 
+traffic revise filter autowired private server status manager server status manager 
+traffic revise filter autowired private switch domain switch domain 
+http client4 test autowire protected test rest template rest template 
+config beta c i t case autowire private test rest template rest template 
+config derby import c i t case autowire private application context context 
+cmdb i t case autowire private test rest template rest template 
+c p instance a p i i t case autowire private test rest template rest template 
+multi tenant instance a p i i t case autowire private test rest template rest template 
+name proxy i t case autowire private serializer serializer 
+sentinel web flux integration test autowire private web test client web client 
+sentinel spring mvc integration test autowire private mock mvc mvc 
+common filter test autowire private mock mvc mvc 
+common filter context test autowire private mock mvc mvc 
+common filter method test autowire private mock mvc mvc 
+authorization interceptor autowire private auth service http servlet request auth service 
+login authentication filter autowire private auth service http servlet request auth service 
+sentinel api client autowire private app management app management 
+web config autowire private login authentication filter login authentication filter 
+web config autowire private authorization interceptor authorization interceptor 
+app controller autowire private app management app management 
+auth controller autowire private auth service http servlet request auth service 
+authority rule controller autowire private sentinel api client sentinel api client 
+authority rule controller autowire private rule repository authority rule entity long repository 
+cluster assign controller autowired private cluster assign service cluster assign service 
+cluster config controller autowire private app management app management 
+cluster config controller autowire private cluster config service cluster config service 
+degrade controller autowired private in mem degrade rule store repository 
+degrade controller autowired private sentinel api client sentinel api client 
+flow controller v1 autowire private in memory rule repository adapter flow rule entity repository 
+flow controller v1 autowire private sentinel api client sentinel api client 
+gateway api controller autowire private in mem api definition store repository 
+gateway api controller autowire private sentinel api client sentinel api client 
+gateway flow rule controller autowire private in mem gateway flow rule store repository 
+gateway flow rule controller autowire private sentinel api client sentinel api client 
+machine registry controller autowire private app management app management 
+metric controller autowire private metric repository metric entity metric store 
+param flow rule controller autowire private sentinel api client sentinel api client 
+param flow rule controller autowire private app management app management 
+param flow rule controller autowire private rule repository param flow rule entity long repository 
+resource controller autowire private sentinel api client http fetcher 
+system controller autowire private rule repository system rule entity long repository 
+system controller autowire private sentinel api client sentinel api client 
+flow controller v2 autowire private in memory rule repository adapter flow rule entity repository 
+flow controller v2 autowire qualifier flow rule default provider private dynamic rule provider list flow rule entity rule provider 
+flow controller v2 autowire qualifier flow rule default publisher private dynamic rule publisher list flow rule entity rule publisher 
+app management autowire private application context context 
+metric fetcher autowire private metric repository metric entity metric store 
+metric fetcher autowire private app management app management 
+flow rule api provider autowire private sentinel api client sentinel api client 
+flow rule api provider autowire private app management app management 
+flow rule api publisher autowire private sentinel api client sentinel api client 
+flow rule api publisher autowire private app management app management 
+cluster assign service impl autowire private sentinel api client sentinel api client 
+cluster assign service impl autowire private cluster config service cluster config service 
+cluster config service autowire private sentinel api client sentinel api client 
+cluster config service autowire private app management app management 
+gateway api controller test autowire private mock mvc mock mvc 
+gateway api controller test autowire private in mem api definition store repository 
+gateway flow rule controller test autowire private mock mvc mock mvc 
+gateway flow rule controller test autowire private in mem gateway flow rule store repository 
+flow rule apollo provider autowire private apollo open api client apollo open api client 
+flow rule apollo provider autowire private converter string list flow rule entity converter 
+flow rule apollo publisher autowire private apollo open api client apollo open api client 
+flow rule apollo publisher autowire private converter list flow rule entity string converter 
+flow rule naco provider autowire private config service config service 
+flow rule naco provider autowire private converter string list flow rule entity converter 
+flow rule naco publisher autowire private config service config service 
+flow rule naco publisher autowire private converter list flow rule entity string converter 
+flow rule zookeeper provider autowire private curator framework zk client 
+flow rule zookeeper provider autowire private converter string list flow rule entity converter 
+flow rule zookeeper publisher autowire private curator framework zk client 
+flow rule zookeeper publisher autowire private converter list flow rule entity string converter 
+demo controller autowire private test service service 
+cluster demo controller autowire private demo service service 
+baz controller autowire private baz service baz service 
+foo controller autowire private foo service foo service 
+baz service autowire private reactive redis template string string template 
+sentinel annotation integration test autowire private foo service foo service 
+sentinel annotation integration test autowire private bar service bar service 
+datum source bootstrap configuration autowire private configurable environment environment 
+sentinel rule locator test autowire private sentinel rule locator sentinel rule source locator 
+sentinel rule locator test autowire private environment environment 
+spring could datum source test autowire private sentinel rule locator locator 

@@ -1,0 +1,5 @@
+instance pre persist protect void pre persist if this data change create time null datum change create time new date if this data change last modify time null datum change last modify time datum change create time 
+instance config pre persist protect void pre persist if this data change create time null datum change create time new date if this data change last modify time null datum change last modify time datum change create time 
+release message pre persist protect void pre persist if this data change last modify time null datum change last modify time new date 
+base entity pre persist protect void pre persist if this data change create time null datum change create time new date if this data change last modify time null datum change last modify time new date 
+consumer audit pre persist protect void pre persist if this data change create time null this data change create time new date if this data change last modify time null datum change last modify time this data change create time 

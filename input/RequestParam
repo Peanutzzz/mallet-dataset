@@ -1,0 +1,350 @@
+sys generator controller request param map string object param 
+file controller request param file multipart file file 
+file controller request param map string object param 
+index controller request param require false string query str 
+sy role controller request param map string object param 
+sy user controller request param map string object param 
+sy user controller request param map string object param 
+sy user controller request param map string object param 
+sy user controller request param file multipart file excl 
+user service request param username string username 
+user service request param mobile string mobile 
+user service request param open id string open id 
+order feign client request param user id string user id 
+order feign client request param commodity code string commodity code 
+order feign client request param count integer count 
+storage feign client request param commodity code string commodity code 
+storage feign client request param count integer count 
+account feign client request param user id string user id 
+account feign client request param money integer money 
+service b client request param value string name 
+service c client request param value string name 
+demo controller request param value string value 
+demo controller request param value ex require false string ex flag 
+demo controller request param value f require false string flag 
+demo controller request param value string value 
+demo controller request param value string value 
+job info controller request param require false default value int job group 
+job info controller request param require false default value int start 
+job info controller request param require false default value int length 
+job log controller request param require false default value integer job id 
+job log controller request param require false default value int start 
+job log controller request param require false default value int length 
+client controller request param map string object param 
+token controller request param map string object param 
+app controller request param string operator 
+app controller request param value name require false string name 
+app namespace controller request param default value false boolean silent creation 
+app namespace controller request param string operator 
+cluster controller request param value auto create private namespace default value true boolean auto create private namespace 
+cluster controller request param string operator 
+instance config controller request param release id long release id 
+instance config controller request param app id string app id 
+instance config controller request param cluster name string cluster name 
+instance config controller request param namespace name string namespace name 
+instance config controller request param release id string release id 
+instance config controller request param app id string app id 
+instance config controller request param cluster name string cluster name 
+instance config controller request param namespace name string namespace name 
+instance config controller request param value instance app id require false string instance app id 
+instance config controller request param app id string app id 
+instance config controller request param cluster name string cluster name 
+instance config controller request param namespace name string namespace name 
+item controller request param string operator 
+namespace branch controller request param operator string operator 
+namespace branch controller request param operator string operator 
+namespace controller request param string operator 
+release controller request param release id string release id 
+release controller request param name string release name 
+release controller request param name comment require false string release comment 
+release controller request param operator string operator 
+release controller request param name be emergency publish default value false boolean be emergency publish 
+release controller request param release name string release name 
+release controller request param branch name string branch name 
+release controller request param value delete branch default value true boolean delete branch 
+release controller request param name release comment require false string release comment 
+release controller request param name be emergency publish default value false boolean be emergency publish 
+release controller request param operator string operator 
+release controller request param operator string operator 
+release controller request param release name string release name 
+release controller request param name comment require false string release comment 
+release controller request param name be emergency publish default value false boolean be emergency publish 
+release controller request param name gray del key set string gray del key 
+release history controller request param release id long release id 
+release history controller request param operation int operation 
+release history controller request param previous release id long previous release id 
+release history controller request param operation int operation 
+config controller request param value datum center require false string datum center 
+config controller request param value release key default value string client side release key 
+config controller request param value ip require false string client ip 
+config controller request param value message require false string message as string 
+config file controller request param value datum center require false string datum center 
+config file controller request param value ip require false string client ip 
+config file controller request param value datum center require false string datum center 
+config file controller request param value ip require false string client ip 
+notification controller request param value app id string app id 
+notification controller request param value cluster string cluster 
+notification controller request param value namespace default value config const namespace application string namespace 
+notification controller request param value datum center require false string datum center 
+notification controller request param value notification id default value long notification id 
+notification controller request param value ip require false string client ip 
+notification controller v2 request param value app id string app id 
+notification controller v2 request param value cluster string cluster 
+notification controller v2 request param value notification string notification as string 
+notification controller v2 request param value datum center require false string datum center 
+notification controller v2 request param value ip require false string client ip 
+service controller request param value app id default value string app id 
+service controller request param value ip require false string client ip 
+app controller request param value app id require false string app id 
+item controller request param default value false boolean create if not exist 
+item controller request param string operator 
+namespace branch controller request param operator string operator 
+namespace branch controller request param operator string operator 
+namespace branch controller request param operator string operator 
+release controller request param value delete branch default value true boolean delete branch 
+release controller request param string operator 
+app controller request param value app id require false string app id 
+app controller request param value query require false string query 
+app controller request param owner string owner 
+commit controller valid positive or zero message page should be positive or request param default value int page 
+commit controller valid positive message size should be positive number request param default value int size 
+configs export controller request param file multipart file file 
+consumer controller request param value expire require false date time format pattern yyyy m mdd h hmmss date expire 
+consumer controller request param string app id 
+consumer controller request param string type 
+consumer controller request param require false string env 
+favorite controller request param value user id require false string user id 
+favorite controller request param value app id require false string app id 
+instance controller request param long release id 
+instance controller request param default value int page 
+instance controller request param default value int size 
+instance controller request param string app id 
+instance controller request param string cluster name 
+instance controller request param string namespace name 
+instance controller request param require false string instance app id 
+instance controller request param default value int page 
+instance controller request param default value int size 
+instance controller request param string app id 
+instance controller request param string cluster name 
+instance controller request param string namespace name 
+instance controller request param string app id 
+instance controller request param string cluster name 
+instance controller request param string namespace name 
+instance controller request param string release id 
+item controller request param default value line num string order by 
+namespace branch controller request param value delete branch default value true boolean delete branch 
+namespace controller request param default value true boolean append namespace prefix 
+namespace controller request param name page default value int page 
+namespace controller request param name size default value int size 
+permission controller request param string user 
+permission controller request param string user 
+permission controller request param string user 
+release controller valid positive or zero message page should be positive or request param default value int page 
+release controller valid positive message size should be positive number request param default value int size 
+release controller valid positive or zero message page should be positive or request param default value int page 
+release controller valid positive message size should be positive number request param default value int size 
+release controller request param long base release id 
+release controller request param long to compare release id 
+release history controller request param value page default value int page 
+release history controller request param value size default value int size 
+sign in controller request param value error require false string error 
+sign in controller request param value logout require false string logout 
+system info controller request param string instance id 
+user info controller request param value keyword string keyword 
+user info controller request param value offset default value int offset 
+user info controller request param value limit default value int limit 
+address server cluster controller request param require false string product 
+address server cluster controller request param require false string cluster 
+address server cluster controller request param name ip string ip 
+address server cluster controller request param require false string product 
+address server cluster controller request param require false string cluster 
+address server cluster controller request param string ip 
+capacity controller request param require false string group 
+capacity controller request param require false string tenant 
+capacity controller request param require false string group 
+capacity controller request param require false string tenant 
+capacity controller request param require false integer quota 
+capacity controller request param require false integer max size 
+capacity controller request param require false integer max aggr count 
+capacity controller request param require false integer max aggr size 
+communication controller request param datum id string datum id 
+communication controller request param group string group 
+communication controller request param value tenant require false default value string util empty string tenant 
+communication controller request param value tag require false string tag 
+communication controller request param datum id string datum id 
+communication controller request param group string group 
+communication controller request param value tenant require false string tenant 
+communication controller request param ip string ip 
+config controller request param value datum id string datum id 
+config controller request param value group string group 
+config controller request param value tenant require false default value string util empty string tenant 
+config controller request param value content string content 
+config controller request param value tag require false string tag 
+config controller request param value app name require false string app name 
+config controller request param value src user require false string src user 
+config controller request param value config tag require false string config tag 
+config controller request param value desc require false string desc 
+config controller request param value use require false string use 
+config controller request param value effect require false string effect 
+config controller request param value type require false string type 
+config controller request param value schema require false string schema 
+config controller request param datum id string datum id 
+config controller request param group string group 
+config controller request param value tenant require false default value string util empty string tenant 
+config controller request param value tag require false string tag 
+config controller request param datum id string datum id 
+config controller request param group string group 
+config controller request param value tenant require false default value string util empty string tenant 
+config controller request param datum id string datum id 
+config controller request param group string group 
+config controller request param value tenant require false default value string util empty string tenant 
+config controller request param value tag require false string tag 
+config controller request param value id list long id 
+config controller request param datum id string datum id 
+config controller request param group string group 
+config controller request param value tenant require false default value string util empty string tenant 
+config controller request param datum id string datum id 
+config controller request param group string group 
+config controller request param value tenant require false string tenant 
+config controller request param value sample time require false default value int sample time 
+config controller request param datum id string datum id 
+config controller request param group string group 
+config controller request param value app name require false string app name 
+config controller request param value tenant require false default value string util empty string tenant 
+config controller request param value config tag require false string config tag 
+config controller request param page no int page no 
+config controller request param page size int page size 
+config controller request param datum id string datum id 
+config controller request param group string group 
+config controller request param value app name require false string app name 
+config controller request param value tenant require false default value string util empty string tenant 
+config controller request param value config tag require false string config tag 
+config controller request param page no int page no 
+config controller request param page size int page size 
+config controller request param value datum id string datum id 
+config controller request param value group string group 
+config controller request param value tenant require false default value string util empty string tenant 
+config controller request param value datum id string datum id 
+config controller request param value group string group 
+config controller request param value tenant require false default value string util empty string tenant 
+config controller request param value datum id require false string datum id 
+config controller request param value group require false string group 
+config controller request param value app name require false string app name 
+config controller request param value tenant require false default value string util empty string tenant 
+config controller request param value id require false list long id 
+config controller request param value src user require false string src user 
+config controller request param value namespace require false string namespace 
+config controller request param value policy default value abort same config policy policy 
+config controller request param value src user require false string src user 
+config controller request param value tenant require true string namespace 
+config controller request param value policy default value abort same config policy policy 
+config op controller request param string log name 
+config op controller request param string log level 
+config op controller request param value sql string sql 
+config op controller request param value file multipart file multipart file 
+history controller request param datum id string datum id 
+history controller request param group string group 
+history controller request param value tenant require false default value string util empty string tenant 
+history controller request param value app name require false string app name 
+history controller request param value page no required false integer page no 
+history controller request param value page size require false integer page size 
+history controller request param nid long nid 
+listener controller request param ip string ip 
+listener controller request param value all require false boolean all 
+listener controller request param value tenant require false string tenant 
+listener controller request param value sample time require false default value int sample time 
+namespace controller request param namespace id string namespace id 
+namespace controller request param custom namespace id string namespace id 
+namespace controller request param namespace name string namespace name 
+namespace controller request param value namespace desc require false string namespace desc 
+namespace controller request param custom namespace id string namespace id 
+namespace controller request param namespace string namespace 
+namespace controller request param namespace show name string namespace show name 
+namespace controller request param value namespace desc require false string namespace desc 
+namespace controller request param namespace id string namespace id 
+permission controller request param int page no 
+permission controller request param int page size 
+permission controller request param name role default value string util empty string role 
+permission controller request param string role 
+permission controller request param string resource 
+permission controller request param string action 
+permission controller request param string role 
+permission controller request param string resource 
+permission controller request param string action 
+role controller request param int page no 
+role controller request param int page size 
+role controller request param name username default value string username 
+role controller request param string role 
+role controller request param string username 
+role controller request param string role 
+role controller request param name username default value string util empty string username 
+user controller request param string username 
+user controller request param string password 
+user controller request param string username 
+user controller request param string username 
+user controller request param string new password 
+user controller request param int page no 
+user controller request param int page size 
+user controller request param string username 
+user controller request param string password 
+user controller request param value old password string old password 
+user controller request param value new password string new password 
+naco cluster controller request param value keyword require false string ip key word 
+naco cluster controller request param name type string type 
+catalog controller request param default value constant default namespace id string namespace id 
+catalog controller request param default value constant default namespace id string namespace id 
+catalog controller request param string service name 
+catalog controller request param string cluster name 
+catalog controller request param name page no int page 
+catalog controller request param int page size 
+catalog controller request param require false boolean with instance 
+catalog controller request param default value constant default namespace id string namespace id 
+catalog controller request param require false int page no 
+catalog controller request param require false int page size 
+catalog controller request param name service name param default value string util empty string service name 
+catalog controller request param name group name param default value string util empty string group name 
+catalog controller request param name instance default value string util empty string contain instance 
+catalog controller request param require false boolean have ip count 
+distro controller request param string source 
+instance controller request param string key 
+operator controller request param require false boolean detail 
+operator controller request param require false boolean reset 
+operator controller request param require false boolean debug 
+operator controller request param string entry 
+operator controller request param string value 
+operator controller request param default value constant default namespace id string namespace id 
+operator controller request param string service name 
+operator controller request param default value view string action 
+operator controller request param require false boolean healthy 
+operator controller request param string server status 
+operator controller request param string log name 
+operator controller request param string log level 
+service controller request param default value constant default namespace id string namespace id 
+service controller request param string service name 
+service controller request param require false float protect threshold 
+service controller request param default value string util empty string metadata 
+service controller request param default value string util empty string selector 
+service controller request param default value constant default namespace id string namespace id 
+service controller request param string service name 
+service controller request param default value constant default namespace id string namespace id 
+service controller request param string service name 
+service controller request param default value string util empty string namespace id 
+service controller request param default value string util empty string expr 
+service controller request param require false boolean responsible only 
+app controller request param name ip string ip 
+app controller request param name port int port 
+authority rule controller request param string app 
+authority rule controller request param string ip 
+authority rule controller request param integer port 
+cluster config controller request param string app 
+cluster config controller request param string ip 
+cluster config controller request param integer port 
+flow controller v1 request param string app 
+flow controller v1 request param string ip 
+flow controller v1 request param integer port 
+machine registry controller request param value app type require false default value integer app type 
+param flow rule controller request param string app 
+param flow rule controller request param string ip 
+param flow rule controller request param integer port 
+flow controller v2 request param string app 
+demo controller request param require false long t 

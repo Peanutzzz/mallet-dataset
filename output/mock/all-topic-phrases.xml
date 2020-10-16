@@ -1,0 +1,43 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.8881345433126215" totalTokens="128" titles="service, repository, release, namespace, gateway, dispatcher, mock, metric, fetcher, consistency">
+	<word weight="0.171875" count="22">service</word>
+	<word weight="0.09375" count="12">repository</word>
+	<word weight="0.078125" count="10">release</word>
+	<word weight="0.0625" count="8">namespace</word>
+	<word weight="0.046875" count="6">gateway</word>
+	<word weight="0.046875" count="6">dispatcher</word>
+	<word weight="0.046875" count="6">mock</word>
+	<word weight="0.0390625" count="5">metric</word>
+	<word weight="0.03125" count="4">fetcher</word>
+	<word weight="0.03125" count="4">consistency</word>
+	<word weight="0.03125" count="4">item</word>
+	<word weight="0.03125" count="4">config</word>
+	<word weight="0.03125" count="4">message</word>
+	<word weight="0.03125" count="4">cluster</word>
+	<word weight="0.015625" count="2">container</word>
+	<word weight="0.015625" count="2">group</word>
+	<word weight="0.015625" count="2">context</word>
+	<word weight="0.015625" count="2">runtime</word>
+	<word weight="0.015625" count="2">request</word>
+	<word weight="0.015625" count="2">servlet</word>
+  </topic>
+  <topic id="1" alpha="5.714576377143192E-228" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="6.092668109467549E-228" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="7.818808307422472E-228" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="3.570143539309057E-228" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="8.466718426108882E-228" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="9.391119622780186E-228" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="6.95009525318373E-228" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="7.744584910482043E-228" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="6.967724339693435E-228" totalTokens="0" titles="">
+  </topic>
+</topics>

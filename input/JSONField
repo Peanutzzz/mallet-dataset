@@ -1,0 +1,15 @@
+authority rule entity json ignore j s o n field serialize false public string get limit app return rule get limit app 
+authority rule entity json ignore j s o n field serialize false public string get resource return rule get resource 
+authority rule entity json ignore j s o n field serialize false public int get strategy return rule get strategy 
+param flow rule entity json ignore j s o n field serialize false public string get limit app return rule get limit app 
+param flow rule entity json ignore j s o n field serialize false public string get resource return rule get resource 
+param flow rule entity json ignore j s o n field serialize false public int get grade return rule get grade 
+param flow rule entity json ignore j s o n field serialize false public integer get param idx return rule get param idx 
+param flow rule entity json ignore j s o n field serialize false public double get count return rule get count 
+param flow rule entity json ignore j s o n field serialize false public list param flow item get param flow item list return rule get param flow item list 
+param flow rule entity json ignore j s o n field serialize false public int get control behavior return rule get control behavior 
+param flow rule entity json ignore j s o n field serialize false public int get max queueing time ms return rule get max queueing time ms 
+param flow rule entity json ignore j s o n field serialize false public int get burst count return rule get burst count 
+param flow rule entity json ignore j s o n field serialize false public long get duration in sec return rule get duration in sec 
+param flow rule entity json ignore j s o n field serialize false public boolean be cluster mode return rule be cluster mode 
+param flow rule entity json ignore j s o n field serialize false public param flow cluster config get cluster config return rule get cluster config 

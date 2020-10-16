@@ -1,0 +1,20 @@
+default web mvc config lazy autowired private user service user service 
+login arg resolver config lazy autowired private user service user service 
+admin service final lazy app namespace service app namespace service 
+admin service final lazy cluster service cluster service 
+admin service final lazy namespace service namespace service 
+app namespace service final lazy namespace service namespace service 
+app namespace service final lazy cluster service cluster service 
+cluster service final lazy namespace service namespace service 
+item service final lazy namespace service namespace service 
+namespace branch service final lazy release service release service 
+namespace service final lazy app namespace service app namespace service 
+namespace service final lazy item service item service 
+namespace service final lazy release service release service 
+namespace service final lazy cluster service cluster service 
+namespace service final lazy namespace branch service namespace branch service 
+retryable rest template final lazy rest template factory rest template factory 
+retryable rest template final lazy admin service address locator admin service address locator 
+configs export controller final lazy namespace service namespace service 
+app namespace service final lazy app service app service 
+namespace service final lazy namespace branch service branch service 

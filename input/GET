@@ -1,0 +1,23 @@
+test resource path hello get produce media type application json public string say hello return hello 
+test resource path async hello get produce media type application json public void async say hello suspend final async response async response executor submit new runnable override public void run try time unit millisecond sleep catch interrupted exception e e print stack trace async response resume hello 
+test resource path hello name get produce media type application json public string say hello with name path param value name string name return hello name 
+test resource path ex get produce media type application json public string exception throw new runtime exception test exception mapper 
+test resource path get produce media type application json public string bad request throw new web application exception response status response status bad request entity test return build 
+test resource path delay seconds get produce media type application json public string delay path param value seconds long seconds throw interrupted exception time unit seconds sleep seconds return finish 
+test resource path hello get produce media type application json public string say hello return hello 
+test resource path async hello get produce media type application json public void async say hello suspend final async response async response executor submit new runnable override public void run try time unit millisecond sleep catch interrupted exception e e print stack trace async response resume hello 
+test resource path hello name get produce media type application json public string say hello with name path param value name string name return hello name 
+test resource path ex get produce media type application json public string exception throw new runtime exception test exception mapper 
+test resource path get produce media type application json public string bad request throw new web application exception response status response status bad request entity test return build 
+test resource path delay seconds get produce media type application json public string delay path param value seconds long seconds throw interrupted exception time unit seconds sleep seconds return finish 
+hello resource get public hello entity say hello return new hello entity hello 
+hello resource get path id public hello entity get path param value id long id return new hello entity id hello 
+hello resource get path list public list hello entity get all return int stream range close map to obj i new hello entity long i hello collect collector to list 
+hello resource path ex get produce media type application json public string exception throw new runtime exception test exception mapper 
+greet resource get path txt produce media type text plain public string hello throw interrupted exception time unit millisecond sleep return hello 
+greet resource get path fallback name produce media type text plain public string fallback path param value name string name return greet service greet name 
+greet resource get path fallback2 name produce media type text plain public string fallback2 path param value name string name return greet service greet with fallback name name 
+greet resource path async get produce media type application json public void async hello suspend final async response async response executor submit try time unit millisecond sleep catch interrupted exception e e print stack trace async response resume hello 
+greet resource path ex get produce media type application json public string exception throw new runtime exception test exception mapper 
+greet resource path get produce media type application json public string bad request throw new web application exception response status response status bad request entity test return build 
+greet resource path delay seconds get produce media type application json public string delay path param value seconds long seconds throw interrupted exception time unit seconds sleep seconds return finish 

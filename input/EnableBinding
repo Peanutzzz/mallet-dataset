@@ -1,0 +1,3 @@
+rocket mq config enable bind my sink class public class rocket mq config public interface my sink input sink input subscribable channel input input input2 subscribable channel input2 input input3 subscribable channel input3 
+rocket mq config enable bind my source class public class rocket mq config public interface my source output source output message channel output 
+rocket mq config enable bind source class my sink class public class rocket mq config public interface my sink input sink input subscribable channel input input input dlq subscribable channel input dlq 

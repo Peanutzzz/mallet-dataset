@@ -1,0 +1,3 @@
+service a application spring boot application enable discovery client enable distribute transaction public class service a application public static void main string arg spring application run service a application class arg 
+service b application spring boot application enable discovery client enable distribute transaction public class service b application public static void main string arg spring application run service b application class arg 
+service c application spring boot application enable discovery client enable distribute transaction public class service c application public static void main string arg spring application run service c application class arg 

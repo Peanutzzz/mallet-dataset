@@ -1,0 +1,19 @@
+java config annotation test apollo config change listener private void on change1 config change event change event this change event1 change event 
+java config annotation test apollo config change listener config const namespace application private void on change2 config change event change event this change event2 change event 
+java config annotation test apollo config change listener config const namespace application fx apollo namespace private void on change3 config change event change event this change event3 change event 
+java config annotation test apollo config change listener private void on change string event 
+java config annotation test apollo config change listener private void on change config change event event string some param 
+java config annotation test apollo config change listener private void some on change config change event change event this some change event change event 
+java config annotation test apollo config change listener interested key some key private void some on change config change event change event 
+java config annotation test apollo config change listener value config const namespace application fx apollo namespace interested key another key private void another on change config change event change event 
+java config annotation test apollo config change listener application yaml namespace private void on change config change event event config change event future set event 
+x m l config annotation test apollo config change listener private void on change1 config change event change event this change event1 change event 
+x m l config annotation test apollo config change listener config const namespace application private void on change2 config change event change event this change event2 change event 
+x m l config annotation test apollo config change listener config const namespace application fx apollo namespace private void on change3 config change event change event this change event3 change event 
+x m l config annotation test apollo config change listener private void on change string event 
+x m l config annotation test apollo config change listener private void on change config change event event string some param 
+x m l config annotation test apollo config change listener interested key some key private void some on change config change event change event 
+x m l config annotation test apollo config change listener value config const namespace application fx apollo namespace interested key another key private void another on change config change event change event 
+spring boot apollo refresh config apollo config change listener value config const namespace application t e s t1 apollo application yaml interested key prefix redi cache public void on change config change event change event logger info before refresh sample redis config to string refresh scope refresh sample redis config logger info after refresh sample redis config to string 
+apollo mock server spring integration test apollo config change listener other namespace private void on change config change event change event future datum set change event 
+apollo mock server spring integration test apollo config change listener value other namespace interested key prefix server private void on change config change event change event future datum set change event 

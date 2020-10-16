@@ -1,0 +1,476 @@
+file controller path variable string id 
+aggregation service path variable index name string index name 
+aggregation service path variable routing string routing 
+search service path variable index name string index name 
+aggregation controller path variable string index name 
+aggregation controller path variable string routing 
+search controller path variable string index name 
+sy menu controller path variable long id 
+sy menu controller path variable long role id 
+sy menu controller path variable string role code 
+sy role controller path variable long id 
+sy user controller path variable string username 
+sy user controller path variable long id 
+sy user controller path variable long id 
+sy user controller path variable long id 
+sy user controller path variable long id 
+sy user controller path variable long id 
+user service path variable username string username 
+user controller path variable long id 
+api controller path variable string code 
+menu service path variable role code string role code 
+menu service path variable role code string role code 
+client controller path variable long id 
+client controller path variable long id 
+validate code controller path variable string device id 
+validate code controller path variable string mobile 
+access key controller path variable string app id 
+access key controller path variable string app id 
+access key controller path variable string app id 
+access key controller path variable long id 
+access key controller path variable string app id 
+access key controller path variable long id 
+access key controller path variable string app id 
+access key controller path variable long id 
+app controller path variable app id string app id 
+app controller path variable string app id 
+app controller path variable app id string app id 
+app controller path variable app id string app id 
+app namespace controller path variable app id string app id 
+app namespace controller path variable namespace name string namespace name 
+app namespace controller path variable string public namespace name 
+app namespace controller path variable string public namespace name 
+app namespace controller path variable app id string app id 
+cluster controller path variable app id string app id 
+cluster controller path variable app id string app id 
+cluster controller path variable cluster name string cluster name 
+cluster controller path variable app id string app id 
+cluster controller path variable app id string app id 
+cluster controller path variable cluster name string cluster name 
+cluster controller path variable app id string app id 
+cluster controller path variable cluster name string cluster name 
+commit controller path variable string app id 
+commit controller path variable string cluster name 
+commit controller path variable string namespace name 
+item controller path variable app id string app id 
+item controller path variable cluster name string cluster name 
+item controller path variable namespace name string namespace name 
+item controller path variable app id string app id 
+item controller path variable cluster name string cluster name 
+item controller path variable namespace name string namespace name 
+item controller path variable item id long item id 
+item controller path variable item id long item id 
+item controller path variable app id string app id 
+item controller path variable cluster name string cluster name 
+item controller path variable namespace name string namespace name 
+item controller path variable app id string app id 
+item controller path variable cluster name string cluster name 
+item controller path variable namespace name string namespace name 
+item controller path variable item id long item id 
+item controller path variable app id string app id 
+item controller path variable cluster name string cluster name 
+item controller path variable namespace name string namespace name 
+item controller path variable key string key 
+item set controller path variable string app id 
+item set controller path variable string cluster name 
+item set controller path variable string namespace name 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace branch controller path variable string branch name 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace branch controller path variable string branch name 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace branch controller path variable string branch name 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace controller path variable app id string app id 
+namespace controller path variable cluster name string cluster name 
+namespace controller path variable app id string app id 
+namespace controller path variable cluster name string cluster name 
+namespace controller path variable namespace name string namespace name 
+namespace controller path variable app id string app id 
+namespace controller path variable cluster name string cluster name 
+namespace controller path variable namespace id long namespace id 
+namespace controller path variable app id string app id 
+namespace controller path variable cluster name string cluster name 
+namespace controller path variable namespace name string namespace name 
+namespace controller path variable string app id 
+namespace controller path variable string cluster name 
+namespace controller path variable string namespace name 
+namespace controller path variable string app id 
+namespace lock controller path variable string app id 
+namespace lock controller path variable string cluster name 
+namespace lock controller path variable string namespace name 
+release controller path variable release id long release id 
+release controller path variable app id string app id 
+release controller path variable cluster name string cluster name 
+release controller path variable namespace name string namespace name 
+release controller path variable app id string app id 
+release controller path variable cluster name string cluster name 
+release controller path variable namespace name string namespace name 
+release controller path variable app id string app id 
+release controller path variable cluster name string cluster name 
+release controller path variable namespace name string namespace name 
+release controller path variable app id string app id 
+release controller path variable cluster name string cluster name 
+release controller path variable namespace name string namespace name 
+release controller path variable app id string app id 
+release controller path variable cluster name string cluster name 
+release controller path variable namespace name string namespace name 
+release controller path variable release id long release id 
+release controller path variable app id string app id 
+release controller path variable cluster name string cluster name 
+release controller path variable namespace name string namespace name 
+release history controller path variable string app id 
+release history controller path variable string cluster name 
+release history controller path variable string namespace name 
+config controller path variable string app id 
+config controller path variable string cluster name 
+config controller path variable string namespace 
+config file controller path variable string app id 
+config file controller path variable string cluster name 
+config file controller path variable string namespace 
+config file controller path variable string app id 
+config file controller path variable string cluster name 
+config file controller path variable string namespace 
+app controller path variable string app id 
+cluster controller path variable app id string app id 
+cluster controller path variable string env 
+cluster controller path variable cluster name string cluster name 
+cluster controller path variable string app id 
+cluster controller path variable string env 
+item controller path variable string app id 
+item controller path variable string env 
+item controller path variable string cluster name 
+item controller path variable string namespace name 
+item controller path variable string key 
+item controller path variable string app id 
+item controller path variable string env 
+item controller path variable string cluster name 
+item controller path variable string namespace name 
+item controller path variable string app id 
+item controller path variable string env 
+item controller path variable string cluster name 
+item controller path variable string namespace name 
+item controller path variable string key 
+item controller path variable string app id 
+item controller path variable string env 
+item controller path variable string cluster name 
+item controller path variable string namespace name 
+item controller path variable string key 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string env 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string env 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string env 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace branch controller path variable string branch name 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string env 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace branch controller path variable string branch name 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string env 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace branch controller path variable string branch name 
+namespace controller path variable string app id 
+namespace controller path variable string app id 
+namespace controller path variable string env 
+namespace controller path variable string cluster name 
+namespace controller path variable string app id 
+namespace controller path variable string env 
+namespace controller path variable string cluster name 
+namespace controller path variable string namespace name 
+namespace controller path variable string app id 
+namespace controller path variable string env 
+namespace controller path variable string cluster name 
+namespace controller path variable string namespace name 
+release controller path variable string app id 
+release controller path variable string env 
+release controller path variable string cluster name 
+release controller path variable string namespace name 
+release controller path variable string app id 
+release controller path variable string env 
+release controller path variable string cluster name 
+release controller path variable string namespace name 
+release controller path variable string app id 
+release controller path variable string env 
+release controller path variable string cluster name 
+release controller path variable string namespace name 
+release controller path variable string branch name 
+release controller path variable string app id 
+release controller path variable string env 
+release controller path variable string cluster name 
+release controller path variable string namespace name 
+release controller path variable string branch name 
+release controller path variable string app id 
+release controller path variable string env 
+release controller path variable string cluster name 
+release controller path variable string namespace name 
+release controller path variable string branch name 
+release controller path variable string env 
+release controller path variable long release id 
+access key controller path variable string app id 
+access key controller path variable string env 
+access key controller path variable string app id 
+access key controller path variable string env 
+access key controller path variable string app id 
+access key controller path variable string env 
+access key controller path variable long id 
+access key controller path variable string app id 
+access key controller path variable string env 
+access key controller path variable long id 
+access key controller path variable string app id 
+access key controller path variable string env 
+access key controller path variable long id 
+app controller path variable string app id 
+app controller path variable string app id 
+app controller path variable string env 
+app controller path variable string app id 
+app controller path variable string app id 
+app controller path variable string app id 
+cluster controller path variable string app id 
+cluster controller path variable string env 
+cluster controller path variable string app id 
+cluster controller path variable string env 
+cluster controller path variable string cluster name 
+cluster controller path variable app id string app id 
+cluster controller path variable string env 
+cluster controller path variable cluster name string cluster name 
+commit controller path variable string app id 
+commit controller path variable string env 
+commit controller path variable string cluster name 
+commit controller path variable string namespace name 
+configs export controller path variable string app id 
+configs export controller path variable string env 
+configs export controller path variable string cluster name 
+configs export controller path variable string namespace name 
+configs export controller path variable string app id 
+configs export controller path variable string env 
+configs export controller path variable string cluster name 
+configs export controller path variable string namespace name 
+consumer controller path variable string token 
+favorite controller path variable long favorite id 
+favorite controller path variable long favorite id 
+instance controller path variable string env 
+instance controller path variable string env 
+instance controller path variable string env 
+instance controller path variable string env 
+item controller path variable string app id 
+item controller path variable string env 
+item controller path variable string cluster name 
+item controller path variable string namespace name 
+item controller path variable string app id 
+item controller path variable string env 
+item controller path variable string cluster name 
+item controller path variable string namespace name 
+item controller path variable string app id 
+item controller path variable string env 
+item controller path variable string cluster name 
+item controller path variable string namespace name 
+item controller path variable string app id 
+item controller path variable string env 
+item controller path variable string cluster name 
+item controller path variable string namespace name 
+item controller path variable long item id 
+item controller path variable string app id 
+item controller path variable string env 
+item controller path variable string cluster name 
+item controller path variable string namespace name 
+item controller path variable app id string app id 
+item controller path variable string env 
+item controller path variable cluster name string cluster name 
+item controller path variable namespace name string namespace name 
+item controller path variable branch name string branch name 
+item controller path variable string app id 
+item controller path variable string namespace name 
+item controller path variable string app id 
+item controller path variable string env 
+item controller path variable string cluster name 
+item controller path variable string namespace name 
+item controller path variable string app id 
+item controller path variable string env 
+item controller path variable string cluster name 
+item controller path variable string namespace name 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string env 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string env 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string env 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace branch controller path variable string branch name 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string env 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace branch controller path variable string branch name 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string env 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace branch controller path variable string branch name 
+namespace branch controller path variable string app id 
+namespace branch controller path variable string env 
+namespace branch controller path variable string cluster name 
+namespace branch controller path variable string namespace name 
+namespace branch controller path variable string branch name 
+namespace controller path variable string app id 
+namespace controller path variable string env 
+namespace controller path variable string cluster name 
+namespace controller path variable string app id 
+namespace controller path variable string env 
+namespace controller path variable string cluster name 
+namespace controller path variable string namespace name 
+namespace controller path variable string env 
+namespace controller path variable string app id 
+namespace controller path variable string namespace name 
+namespace controller path variable string cluster name 
+namespace controller path variable string app id 
+namespace controller path variable string app id 
+namespace controller path variable string env 
+namespace controller path variable string cluster name 
+namespace controller path variable string namespace name 
+namespace controller path variable string app id 
+namespace controller path variable string namespace name 
+namespace controller path variable string app id 
+namespace controller path variable string namespace name 
+namespace controller path variable string app id 
+namespace controller path variable string app id 
+namespace controller path variable string env 
+namespace controller path variable string public namespace name 
+namespace controller path variable string app id 
+namespace controller path variable string env 
+namespace controller path variable string cluster name 
+namespace controller path variable string app id 
+namespace controller path variable string env 
+namespace controller path variable string cluster name 
+namespace lock controller path variable string app id 
+namespace lock controller path variable string env 
+namespace lock controller path variable string cluster name 
+namespace lock controller path variable string namespace name 
+namespace lock controller path variable string app id 
+namespace lock controller path variable string env 
+namespace lock controller path variable string cluster name 
+namespace lock controller path variable string namespace name 
+permission controller path variable string app id 
+permission controller path variable string app id 
+permission controller path variable string permission type 
+permission controller path variable string app id 
+permission controller path variable string namespace name 
+permission controller path variable string permission type 
+permission controller path variable string app id 
+permission controller path variable string env 
+permission controller path variable string namespace name 
+permission controller path variable string permission type 
+permission controller path variable string app id 
+permission controller path variable string env 
+permission controller path variable string namespace name 
+permission controller path variable string app id 
+permission controller path variable string env 
+permission controller path variable string namespace name 
+permission controller path variable string role type 
+permission controller path variable string app id 
+permission controller path variable string env 
+permission controller path variable string namespace name 
+permission controller path variable string role type 
+permission controller path variable string app id 
+permission controller path variable string namespace name 
+permission controller path variable string app id 
+permission controller path variable string namespace name 
+permission controller path variable string role type 
+permission controller path variable string app id 
+permission controller path variable string namespace name 
+permission controller path variable string role type 
+permission controller path variable string app id 
+permission controller path variable string app id 
+permission controller path variable string role type 
+permission controller path variable string app id 
+permission controller path variable string role type 
+permission controller path variable user id string user id 
+permission controller path variable string user id 
+permission controller path variable string app id 
+permission controller path variable string user id 
+permission controller path variable string app id 
+permission controller path variable string user id 
+release controller path variable string app id 
+release controller path variable string env 
+release controller path variable string cluster name 
+release controller path variable string namespace name 
+release controller path variable string app id 
+release controller path variable string env 
+release controller path variable string cluster name 
+release controller path variable string namespace name 
+release controller path variable string branch name 
+release controller path variable string app id 
+release controller path variable string env 
+release controller path variable string cluster name 
+release controller path variable string namespace name 
+release controller path variable string app id 
+release controller path variable string env 
+release controller path variable string cluster name 
+release controller path variable string namespace name 
+release controller path variable string env 
+release controller path variable string env 
+release controller path variable long release id 
+release history controller path variable string app id 
+release history controller path variable string env 
+release history controller path variable string cluster name 
+release history controller path variable string namespace name 
+server config controller path variable string key 
+user info controller path variable string user id 
+server list controller path variable string product 
+server list controller path variable string cluster 
+test controller path variable string id 
+test controller path variable string id 
+web flux test controller path variable id long id 
+test controller path variable id long id 
+test controller path variable id long id 
+test controller path variable id long id 
+test controller path variable id long id 
+app controller path variable app string app 
+app controller path variable app string app 
+authority rule controller path variable id long id 
+authority rule controller path variable id long id 
+cluster assign controller path variable string app 
+cluster assign controller path variable string app 
+cluster assign controller path variable string app 
+cluster config controller path variable string app 
+cluster config controller path variable string app 
+cluster config controller path variable string app 
+param flow rule controller path variable id long id 
+param flow rule controller path variable id long id 
+flow controller v2 path variable id long id 
+flow controller v2 path variable id long id 
+demo controller path variable name string name 
+apache http client test controller path variable string id 
+apache http client test controller path variable string id 
+cluster demo controller path variable string name 
+ok http test controller path variable string id 
+ok http test controller path variable string id 
+baz controller path variable id long id 
+baz controller path variable id long id 
+web mvc test controller path variable id long id 
+web mvc test controller path variable id long id 

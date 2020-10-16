@@ -1,0 +1,74 @@
+file controller resource private i file service file service 
+query service impl resource private search service search service 
+query service impl resource private aggregation service aggregation service 
+sy menu service impl resource private i sy role menu service role menu service 
+sy role menu service impl resource private sy role menu mapper sy role menu mapper 
+sy role service impl resource private sy user role mapper user role mapper 
+sy role service impl resource private sy role menu mapper role menu mapper 
+sy role user service impl resource private sy user role mapper sy user role mapper 
+sy user service impl resource private i sy role user service role user service 
+sy user service impl resource private sy role menu mapper role menu mapper 
+sy user mapper test resource private sy user mapper sy user mapper 
+default resource server conf resource private authentication entry point authentication entry point 
+default resource server conf resource private o auth2 web security expression handler expression handler 
+default resource server conf resource private o auth2 access deny handler o auth2 access deny handler 
+default security handler config resource private object mapper object mapper 
+auth jwt token store resource name key prop private key property key property 
+trace filter resource private trace property trace property 
+account controller resource private account service account service 
+account service resource private account mapper account mapper 
+business controller resource private business service business service 
+business service resource private order feign client order feign client 
+business service resource private storage feign client storage feign client 
+order controller resource private order service order service 
+order service resource private account feign client account feign client 
+order service resource private order mapper order mapper 
+storage controller resource private storage service storage service 
+storage service resource private storage mapper storage mapper 
+security config resource private logout success handler sso logout success handler 
+demo service impl resource private demo mapper demo mapper 
+demo service impl resource private service b client service b client 
+demo service impl resource private service c client service c client 
+demo service impl resource private demo mapper demo mapper 
+demo service impl resource private demo mapper demo mapper 
+permission auth manager resource private menu service menu service 
+swagger provider resource private swagger agg property swagger agg property 
+permission service impl resource private menu service menu service 
+index controller resource private xxl job service xxl job service 
+web mvc config resource private permission interceptor permission interceptor 
+web mvc config resource private cookie interceptor cookie interceptor 
+job code controller resource private xxl job info dao xxl job info dao 
+job code controller resource private xxl job log glue dao xxl job log glue dao 
+job group controller resource public xxl job info dao xxl job info dao 
+job group controller resource public xxl job group dao xxl job group dao 
+job info controller resource private xxl job group dao xxl job group dao 
+job info controller resource private xxl job service xxl job service 
+job log controller resource private xxl job group dao xxl job group dao 
+job log controller resource public xxl job info dao xxl job info dao 
+job log controller resource public xxl job log dao xxl job log dao 
+xxl job admin config resource private xxl job log dao xxl job log dao 
+xxl job admin config resource private xxl job info dao xxl job info dao 
+xxl job admin config resource private xxl job registry dao xxl job registry dao 
+xxl job admin config resource private xxl job group dao xxl job group dao 
+xxl job admin config resource private admin biz admin biz 
+xxl job admin config resource private java mail sender mail sender 
+admin biz impl resource public xxl job log dao xxl job log dao 
+admin biz impl resource private xxl job info dao xxl job info dao 
+admin biz impl resource private xxl job registry dao xxl job registry dao 
+xxl job service impl resource private xxl job group dao xxl job group dao 
+xxl job service impl resource private xxl job info dao xxl job info dao 
+xxl job service impl resource public xxl job log dao xxl job log dao 
+xxl job service impl resource private xxl job log glue dao xxl job log glue dao 
+xxl job group dao test resource private xxl job group dao xxl job group dao 
+xxl job info dao test resource private xxl job info dao xxl job info dao 
+xxl job log dao test resource private xxl job log dao xxl job log dao 
+xxl job log glue dao test resource private xxl job log glue dao xxl job log glue dao 
+xxl job registry dao test resource private xxl job registry dao xxl job registry dao 
+authorization server config resource private user detail service user detail service 
+security config resource private user detail service user detail service 
+security config resource private logout handler oauth logout handler 
+user detail service impl resource private user service user service 
+validate code service impl resource private user service user service 
+server status manager resource name consistency delegate private consistency service consistency service 
+service manager resource name consistency delegate private consistency service consistency service 
+switch manager resource name consistency delegate private consistency service consistency service 

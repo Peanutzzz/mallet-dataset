@@ -1,0 +1,135 @@
+access key column name app id nullable false private string app id 
+access key column name secret nullable false private string secret 
+access key column name be enable column definition bit default private boolean enable 
+audit column name entity name nullable false private string entity name 
+audit column name entity id private long entity id 
+audit column name op name nullable false private string op name 
+audit column name comment private string comment 
+cluster column name name nullable false private string name 
+cluster column name app id nullable false private string app id 
+cluster column name parent cluster id nullable false private long parent cluster id 
+commit lob column name change set nullable false private string change set 
+commit column name app id nullable false private string app id 
+commit column name cluster name nullable false private string cluster name 
+commit column name namespace name nullable false private string namespace name 
+commit column name comment private string comment 
+gray release rule column name app id nullable false private string app id 
+gray release rule column name cluster name nullable false private string cluster name 
+gray release rule column name namespace name nullable false private string namespace name 
+gray release rule column name branch name nullable false private string branch name 
+gray release rule column name rule private string rule 
+gray release rule column name release id nullable false private long release id 
+gray release rule column name branch status nullable false private int branch status 
+instance id generate value strategy generation type identity column name id private long id 
+instance column name app id nullable false private string app id 
+instance column name cluster name nullable false private string cluster name 
+instance column name datum center nullable false private string datum center 
+instance column name ip nullable false private string ip 
+instance column name datum change create time nullable false private date datum change create time 
+instance column name datum change last time private date datum change last modify time 
+instance config id generate value strategy generation type identity column name id private long id 
+instance config column name instance id private long instance id 
+instance config column name config app id nullable false private string config app id 
+instance config column name config cluster name nullable false private string config cluster name 
+instance config column name config namespace name nullable false private string config namespace name 
+instance config column name release key nullable false private string release key 
+instance config column name release delivery time nullable false private date release delivery time 
+instance config column name datum change create time nullable false private date datum change create time 
+instance config column name datum change last time private date datum change last modify time 
+item column name namespace id nullable false private long namespace id 
+item column name key nullable false private string key 
+item column name value lob private string value 
+item column name comment private string comment 
+item column name line num private integer line num 
+namespace column name app id nullable false private string app id 
+namespace column name cluster name nullable false private string cluster name 
+namespace column name namespace name nullable false private string namespace name 
+namespace lock column name namespace id private long namespace id 
+privilege column name name nullable false private string name 
+privilege column name privil type nullable false private string privil type 
+privilege column name namespace id private long namespace id 
+release column name release key nullable false private string release key 
+release column name name nullable false private string name 
+release column name app id nullable false private string app id 
+release column name cluster name nullable false private string cluster name 
+release column name namespace name nullable false private string namespace name 
+release column name configuration nullable false lob private string configuration 
+release column name comment nullable false private string comment 
+release column name be abandon column definition bit default private boolean be abandon 
+release history column name app id nullable false private string app id 
+release history column name cluster name nullable false private string cluster name 
+release history column name namespace name nullable false private string namespace name 
+release history column name branch name nullable false private string branch name 
+release history column name release id private long release id 
+release history column name previous release id private long previous release id 
+release history column name operation private int operation 
+release history column name operation context nullable false private string operation context 
+release message id generate value strategy generation type identity column name id private long id 
+release message column name message nullable false private string message 
+release message column name datum change last time private date datum change last modify time 
+server config column name key nullable false private string key 
+server config column name cluster nullable false private string cluster 
+server config column name value nullable false private string value 
+server config column name comment nullable false private string comment 
+app not blank message name can not be blank column name name nullable false private string name 
+app not blank message app id can not be blank pattern regexp input validator cluster namespace validator message input validator invalid cluster namespace message column name app id nullable false private string app id 
+app column name org id nullable false private string org id 
+app column name org name nullable false private string org name 
+app not blank message owner name can not be blank column name owner name nullable false private string owner name 
+app not blank message owner email can not be blank column name owner email nullable false private string owner email 
+app namespace not blank message app namespace name can not be blank pattern regexp input validator cluster namespace validator message invalid namespace format input validator invalid cluster namespace message input validator invalid namespace namespace message column name name nullable false private string name 
+app namespace not blank message app id can not be blank column name app id nullable false private string app id 
+app namespace column name format nullable false private string format 
+app namespace column name be public column definition bit default private boolean be public false 
+app namespace column name comment private string comment 
+base entity id generate value strategy generation type identity column name id private long id 
+base entity column name be delete column definition bit default protect boolean be delete false 
+base entity column name datum change create by nullable false private string datum change create by 
+base entity column name datum change create time nullable false private date datum change create time 
+base entity column name datum change last modify by private string datum change last modify by 
+base entity column name datum change last time private date datum change last modify time 
+consumer column name name nullable false private string name 
+consumer column name app id nullable false private string app id 
+consumer column name org id nullable false private string org id 
+consumer column name org name nullable false private string org name 
+consumer column name owner name nullable false private string owner name 
+consumer column name owner email nullable false private string owner email 
+consumer audit id generate value strategy generation type identity column name id private long id 
+consumer audit column name consumer id nullable false private long consumer id 
+consumer audit column name uri nullable false private string uri 
+consumer audit column name method nullable false private string method 
+consumer audit column name datum change create time private date datum change create time 
+consumer audit column name datum change last time private date datum change last modify time 
+consumer role column name consumer id nullable false private long consumer id 
+consumer role column name role id nullable false private long role id 
+consumer token column name consumer id nullable false private long consumer id 
+consumer token column name token nullable false private string token 
+consumer token column name expire nullable false private date expire 
+favorite column name app id nullable false private string app id 
+favorite column name user id nullable false private string user id 
+favorite column name position private long position 
+permission column name permission type nullable false private string permission type 
+permission column name target id nullable false private string target id 
+role column name role name nullable false private string role name 
+role permission column name role id nullable false private long role id 
+role permission column name permission id nullable false private long permission id 
+server config not blank message server config key can not be blank column name key nullable false private string key 
+server config not blank message server config value can not be blank column name value nullable false private string value 
+server config column name comment nullable false private string comment 
+user p o id generate value strategy generation type identity column name id private long id 
+user p o column name username nullable false private string username 
+user p o column name password nullable false private string password 
+user p o column name email nullable false private string email 
+user p o column name enable nullable false private int enable 
+user role column name user id nullable false private string user id 
+user role column name role id nullable false private long role id 
+custom cassandra annotate pojo column name id private string id 
+custom cassandra annotate pojo column name counter private integer counter 
+custom cassandra annotate pojo column name batch id private integer batch id 
+message column name body private string message 
+pojo column name id private string id 
+pojo column name counter private int counter 
+pojo column name batch id private int batch i d 
+pojo no annotated keyspace column name id private string id 
+pojo no annotated keyspace column name counter private int counter 
+pojo no annotated keyspace column name batch id private int batch i d 

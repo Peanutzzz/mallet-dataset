@@ -1,0 +1,6 @@
+process python environment manager not null private final python dependency info dependency info 
+process python environment manager not null private final map string string system env 
+process python environment manager not null private final string tmp directory 
+process python environment manager not null python dependency info dependency info 
+process python environment manager not null string tmp directory 
+process python environment manager not null map string string system env 
