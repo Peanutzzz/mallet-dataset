@@ -1,0 +1,233 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.7927739714357762" totalTokens="56" titles="builder, binary, warning, zip, schema, existing, specific, apache, writer, constructor">
+	<word weight="0.42857142857142855" count="24">builder</word>
+	<word weight="0.16071428571428573" count="9">binary</word>
+	<word weight="0.08928571428571429" count="5">warning</word>
+	<word weight="0.05357142857142857" count="3">zip</word>
+	<word weight="0.05357142857142857" count="3">schema</word>
+	<word weight="0.03571428571428571" count="2">existing</word>
+	<word weight="0.03571428571428571" count="2">specific</word>
+	<word weight="0.03571428571428571" count="2">apache</word>
+	<word weight="0.017857142857142856" count="1">build</word>
+	<word weight="0.017857142857142856" count="1">writer</word>
+	<word weight="0.017857142857142856" count="1">constructor</word>
+	<word weight="0.017857142857142856" count="1">find</word>
+	<word weight="0.017857142857142856" count="1">encoder</word>
+	<word weight="0.017857142857142856" count="1">address</word>
+	<phrase weight="0.5" count="1">schema binary</phrase>
+	<phrase weight="0.5" count="1">builder builder</phrase>
+  </topic>
+  <topic id="1" alpha="0.4729312821495595" totalTokens="4" titles="resolver, put, encoder, ">
+	<word weight="0.5" count="2">resolver</word>
+	<word weight="0.25" count="1">put</word>
+	<word weight="0.25" count="1">encoder</word>
+  </topic>
+  <topic id="2" alpha="4.199975798909617" totalTokens="292" titles="java lang, state, zip, builder, record, param, flag, datum, create, integer">
+	<word weight="0.18835616438356165" count="55">java</word>
+	<word weight="0.1643835616438356" count="48">lang</word>
+	<word weight="0.11301369863013698" count="33">state</word>
+	<word weight="0.08904109589041095" count="26">builder</word>
+	<word weight="0.08904109589041095" count="26">zip</word>
+	<word weight="0.05821917808219178" count="17">param</word>
+	<word weight="0.05821917808219178" count="17">record</word>
+	<word weight="0.05136986301369863" count="15">flag</word>
+	<word weight="0.0410958904109589" count="12">datum</word>
+	<word weight="0.03424657534246575" count="10">create</word>
+	<word weight="0.02054794520547945" count="6">validate</word>
+	<word weight="0.02054794520547945" count="6">integer</word>
+	<word weight="0.0136986301369863" count="4">num</word>
+	<word weight="0.0136986301369863" count="4">address</word>
+	<word weight="0.00684931506849315" count="2">read</word>
+	<word weight="0.00684931506849315" count="2">copy</word>
+	<word weight="0.00684931506849315" count="2">object</word>
+	<word weight="0.00684931506849315" count="2">code</word>
+	<word weight="0.00684931506849315" count="2">street</word>
+	<word weight="0.003424657534246575" count="1">index</word>
+	<phrase weight="0.42105263157894735" count="24">java lang</phrase>
+	<phrase weight="0.07017543859649122" count="4">state java lang</phrase>
+	<phrase weight="0.05263157894736842" count="3">zip java lang</phrase>
+	<phrase weight="0.05263157894736842" count="3">record builder</phrase>
+	<phrase weight="0.05263157894736842" count="3">zip zip</phrase>
+	<phrase weight="0.03508771929824561" count="2">state state</phrase>
+	<phrase weight="0.03508771929824561" count="2">builder create</phrase>
+	<phrase weight="0.03508771929824561" count="2">java object</phrase>
+	<phrase weight="0.017543859649122806" count="1">state zip zip</phrase>
+	<phrase weight="0.017543859649122806" count="1">lang integer</phrase>
+	<phrase weight="0.017543859649122806" count="1">address builder</phrase>
+	<phrase weight="0.017543859649122806" count="1">state state param zip zip param</phrase>
+	<phrase weight="0.017543859649122806" count="1">state state datum</phrase>
+	<phrase weight="0.017543859649122806" count="1">street java lang</phrase>
+	<phrase weight="0.017543859649122806" count="1">builder record</phrase>
+	<phrase weight="0.017543859649122806" count="1">create builder</phrase>
+	<phrase weight="0.017543859649122806" count="1">param street</phrase>
+	<phrase weight="0.017543859649122806" count="1">java lang integer</phrase>
+	<phrase weight="0.017543859649122806" count="1">flag state java lang</phrase>
+	<phrase weight="0.017543859649122806" count="1">code builder code</phrase>
+  </topic>
+  <topic id="3" alpha="6.696220881117512" totalTokens="501" titles="field, set, avro, string, appno, num, flink, true, schema, generate">
+	<word weight="0.249500998003992" count="125">field</word>
+	<word weight="0.1157684630738523" count="58">set</word>
+	<word weight="0.09381237524950099" count="47">avro</word>
+	<word weight="0.07584830339321358" count="38">string</word>
+	<word weight="0.06187624750499002" count="31">appno</word>
+	<word weight="0.05189620758483034" count="26">num</word>
+	<word weight="0.04590818363273453" count="23">flink</word>
+	<word weight="0.03992015968063872" count="20">true</word>
+	<word weight="0.03992015968063872" count="20">schema</word>
+	<word weight="0.03992015968063872" count="20">generate</word>
+	<word weight="0.033932135728542916" count="17">apache</word>
+	<word weight="0.031936127744510975" count="16">org</word>
+	<word weight="0.023952095808383235" count="12">false</word>
+	<word weight="0.023952095808383235" count="12">type</word>
+	<word weight="0.017964071856287425" count="9">java</word>
+	<word weight="0.013972055888223553" count="7">zip</word>
+	<word weight="0.005988023952095809" count="3">override</word>
+	<word weight="0.005988023952095809" count="3">exception</word>
+	<word weight="0.005988023952095809" count="3">decoder</word>
+	<word weight="0.005988023952095809" count="3">state</word>
+	<phrase weight="0.16071428571428573" count="18">field set</phrase>
+	<phrase weight="0.07142857142857142" count="8">flink avro generate</phrase>
+	<phrase weight="0.044642857142857144" count="5">avro generate</phrase>
+	<phrase weight="0.044642857142857144" count="5">apache avro</phrase>
+	<phrase weight="0.026785714285714284" count="3">field schema</phrase>
+	<phrase weight="0.026785714285714284" count="3">org apache avro</phrase>
+	<phrase weight="0.026785714285714284" count="3">org apache flink avro generate</phrase>
+	<phrase weight="0.026785714285714284" count="3">string string</phrase>
+	<phrase weight="0.026785714285714284" count="3">type type</phrase>
+	<phrase weight="0.026785714285714284" count="3">num field set</phrase>
+	<phrase weight="0.026785714285714284" count="3">field set true</phrase>
+	<phrase weight="0.026785714285714284" count="3">apache flink avro generate</phrase>
+	<phrase weight="0.017857142857142856" count="2">set set</phrase>
+	<phrase weight="0.017857142857142856" count="2">num num</phrase>
+	<phrase weight="0.017857142857142856" count="2">field set false</phrase>
+	<phrase weight="0.017857142857142856" count="2">set num field</phrase>
+	<phrase weight="0.017857142857142856" count="2">avro avro</phrase>
+	<phrase weight="0.017857142857142856" count="2">num field</phrase>
+	<phrase weight="0.017857142857142856" count="2">appno field set</phrase>
+	<phrase weight="0.017857142857142856" count="2">string field</phrase>
+  </topic>
+  <topic id="4" alpha="2.319012048081592" totalTokens="215" titles="address, city, string, flag, org, apache, schema, deep, num, reader">
+	<word weight="0.18604651162790697" count="40">address</word>
+	<word weight="0.13023255813953488" count="28">city</word>
+	<word weight="0.10232558139534884" count="22">string</word>
+	<word weight="0.09302325581395349" count="20">flag</word>
+	<word weight="0.09302325581395349" count="20">org</word>
+	<word weight="0.08837209302325581" count="19">apache</word>
+	<word weight="0.04186046511627907" count="9">schema</word>
+	<word weight="0.037209302325581395" count="8">deep</word>
+	<word weight="0.03255813953488372" count="7">num</word>
+	<word weight="0.027906976744186046" count="6">reader</word>
+	<word weight="0.027906976744186046" count="6">lang</word>
+	<word weight="0.027906976744186046" count="6">message</word>
+	<word weight="0.027906976744186046" count="6">model</word>
+	<word weight="0.018604651162790697" count="4">generate</word>
+	<word weight="0.013953488372093023" count="3">decoder</word>
+	<word weight="0.013953488372093023" count="3">record</word>
+	<word weight="0.009302325581395349" count="2">call</word>
+	<word weight="0.009302325581395349" count="2">link</word>
+	<word weight="0.009302325581395349" count="2">implement</word>
+	<word weight="0.004651162790697674" count="1">encode</word>
+	<phrase weight="0.34615384615384615" count="9">org apache</phrase>
+	<phrase weight="0.23076923076923078" count="6">city city</phrase>
+	<phrase weight="0.07692307692307693" count="2">generate address</phrase>
+	<phrase weight="0.038461538461538464" count="1">serialize address</phrase>
+	<phrase weight="0.038461538461538464" count="1">address model</phrase>
+	<phrase weight="0.038461538461538464" count="1">address record</phrase>
+	<phrase weight="0.038461538461538464" count="1">address implement</phrase>
+	<phrase weight="0.038461538461538464" count="1">message decoder address</phrase>
+	<phrase weight="0.038461538461538464" count="1">lang string</phrase>
+	<phrase weight="0.038461538461538464" count="1">reader address model</phrase>
+	<phrase weight="0.038461538461538464" count="1">address model schema</phrase>
+	<phrase weight="0.038461538461538464" count="1">reader address reader</phrase>
+  </topic>
+  <topic id="5" alpha="1.532142397947558" totalTokens="55" titles="clear, address, param, unchecked, exception, suppress, runtime, message, true, zip">
+	<word weight="0.21818181818181817" count="12">clear</word>
+	<word weight="0.16363636363636364" count="9">address</word>
+	<word weight="0.10909090909090909" count="6">param</word>
+	<word weight="0.07272727272727272" count="4">unchecked</word>
+	<word weight="0.07272727272727272" count="4">exception</word>
+	<word weight="0.05454545454545454" count="3">suppress</word>
+	<word weight="0.05454545454545454" count="3">runtime</word>
+	<word weight="0.05454545454545454" count="3">message</word>
+	<word weight="0.03636363636363636" count="2">true</word>
+	<word weight="0.03636363636363636" count="2">zip</word>
+	<word weight="0.03636363636363636" count="2">java</word>
+	<word weight="0.01818181818181818" count="1">output</word>
+	<word weight="0.01818181818181818" count="1">desire</word>
+	<word weight="0.01818181818181818" count="1">buffer</word>
+	<word weight="0.01818181818181818" count="1">datum</word>
+	<word weight="0.01818181818181818" count="1">parser</word>
+	<phrase weight="1.0" count="1">unchecked address</phrase>
+  </topic>
+  <topic id="6" alpha="2.7580983310418707" totalTokens="85" titles="set, copy, valid, specific, instance, builder, external, deep, exist, base">
+	<word weight="0.23529411764705882" count="20">set</word>
+	<word weight="0.2" count="17">copy</word>
+	<word weight="0.1411764705882353" count="12">valid</word>
+	<word weight="0.09411764705882353" count="8">specific</word>
+	<word weight="0.08235294117647059" count="7">instance</word>
+	<word weight="0.07058823529411765" count="6">builder</word>
+	<word weight="0.023529411764705882" count="2">external</word>
+	<word weight="0.023529411764705882" count="2">deep</word>
+	<word weight="0.023529411764705882" count="2">exist</word>
+	<word weight="0.023529411764705882" count="2">base</word>
+	<word weight="0.011764705882352941" count="1">check</word>
+	<word weight="0.011764705882352941" count="1">initialize</word>
+	<word weight="0.011764705882352941" count="1">note</word>
+	<word weight="0.011764705882352941" count="1">constructor</word>
+	<word weight="0.011764705882352941" count="1">fingerprint</word>
+	<word weight="0.011764705882352941" count="1">decoder</word>
+	<word weight="0.011764705882352941" count="1">serial</word>
+	<phrase weight="0.3333333333333333" count="2">instance copy</phrase>
+	<phrase weight="0.3333333333333333" count="2">deep copy</phrase>
+	<phrase weight="0.16666666666666666" count="1">constructor note initialize</phrase>
+	<phrase weight="0.16666666666666666" count="1">copy exist</phrase>
+  </topic>
+  <topic id="7" alpha="1.6485189718531095" totalTokens="17" titles="store, decoder, deep, street, input, bad, field, namespace, schema, specific">
+	<word weight="0.17647058823529413" count="3">store</word>
+	<word weight="0.17647058823529413" count="3">decoder</word>
+	<word weight="0.11764705882352941" count="2">deep</word>
+	<word weight="0.11764705882352941" count="2">street</word>
+	<word weight="0.058823529411764705" count="1">input</word>
+	<word weight="0.058823529411764705" count="1">bad</word>
+	<word weight="0.058823529411764705" count="1">field</word>
+	<word weight="0.058823529411764705" count="1">namespace</word>
+	<word weight="0.058823529411764705" count="1">schema</word>
+	<word weight="0.058823529411764705" count="1">specific</word>
+	<word weight="0.058823529411764705" count="1">avro</word>
+  </topic>
+  <topic id="8" alpha="0.8805124446429918" totalTokens="68" titles="street, city, appno, exist, write, true, object, extend, flag, writer">
+	<word weight="0.5" count="34">street</word>
+	<word weight="0.14705882352941177" count="10">city</word>
+	<word weight="0.10294117647058823" count="7">appno</word>
+	<word weight="0.058823529411764705" count="4">exist</word>
+	<word weight="0.029411764705882353" count="2">write</word>
+	<word weight="0.029411764705882353" count="2">true</word>
+	<word weight="0.029411764705882353" count="2">object</word>
+	<word weight="0.029411764705882353" count="2">extend</word>
+	<word weight="0.014705882352941176" count="1">flag</word>
+	<word weight="0.014705882352941176" count="1">writer</word>
+	<word weight="0.014705882352941176" count="1">arg</word>
+	<word weight="0.014705882352941176" count="1">exception</word>
+	<word weight="0.014705882352941176" count="1">java</word>
+	<phrase weight="0.8571428571428571" count="6">street street</phrase>
+	<phrase weight="0.14285714285714285" count="1">street city</phrase>
+  </topic>
+  <topic id="9" alpha="1.0985512761600684" totalTokens="41" titles="datum, check, writer, buffer, decoder, encoder, org, application, state, copy">
+	<word weight="0.2926829268292683" count="12">datum</word>
+	<word weight="0.12195121951219512" count="5">check</word>
+	<word weight="0.0975609756097561" count="4">writer</word>
+	<word weight="0.0975609756097561" count="4">buffer</word>
+	<word weight="0.07317073170731707" count="3">decoder</word>
+	<word weight="0.07317073170731707" count="3">encoder</word>
+	<word weight="0.07317073170731707" count="3">org</word>
+	<word weight="0.04878048780487805" count="2">application</word>
+	<word weight="0.04878048780487805" count="2">state</word>
+	<word weight="0.024390243902439025" count="1">copy</word>
+	<word weight="0.024390243902439025" count="1">decode</word>
+	<word weight="0.024390243902439025" count="1">apache</word>
+	<phrase weight="0.3333333333333333" count="1">buffer buffer</phrase>
+	<phrase weight="0.3333333333333333" count="1">datum writer</phrase>
+	<phrase weight="0.3333333333333333" count="1">datum encoder</phrase>
+  </topic>
+</topics>

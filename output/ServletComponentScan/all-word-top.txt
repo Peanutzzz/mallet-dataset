@@ -1,0 +1,15 @@
+0 boot 0:1
+1 application 0:2
+2 scan 0:2
+3 base 0:1
+4 alibaba 0:1
+5 naco 0:3
+6 servlet 0:1
+7 component 0:1
+8 enable 0:1
+9 schedule 0:1
+10 main 0:1
+11 string 0:1
+12 arg 0:2
+13 spring 0:1
+14 run 0:1

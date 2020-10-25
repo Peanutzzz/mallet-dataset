@@ -1,0 +1,10 @@
+0	0.06175	url path serial time del enable sex set exist hidden parent source img datum 
+1	0.76102	string table false field code integer user call equal extend hash type serial order password version oauth company method role 
+2	0.03536	fill file info update date insert val serializable override content table 
+3	0.16425	exist role menu entity field version datum password list false open username sort css hash 
+4	0.14586	true tbl chain accessor storage count commodity money account table authority authorization authorize detail auto integer 
+5	0.04056	validity seconds autoapprove uri grant scope secret entity 
+6	0.03015	client string token refresh access information additional redirect server web credentials str secret resource version 
+7	0.03555	protect oss size img 
+8	0.05392	logic mobile head nickname type 
+9	0.10956	role menu user constructor arg model getter setter code extend 

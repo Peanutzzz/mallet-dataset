@@ -1,0 +1,10 @@
+0	5.63143	rule cluster flow node reset slot builder list array load manager exception set test adapter quarkus 
+1	0.00002	
+2	0.00002	
+3	0.00002	
+4	0.00002	
+5	0.00002	
+6	0.00002	
+7	0.00002	
+8	0.00002	
+9	0.00002	

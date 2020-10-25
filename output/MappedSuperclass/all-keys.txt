@@ -1,0 +1,10 @@
+0	7.0546	date false object superclass 
+1	24.00886	datum pre delete update nullable inheritance omit entity 
+2	18.75771	change modify bit generate 
+3	9.79179	time column add helper set remove pre generation base map 
+4	4.52904	time 
+5	6.53769	date identity table 
+6	6.21178	strategy false definition 
+7	9.24046	string protect 
+8	14.38263	create data delete persist type 
+9	4.25033	set data 

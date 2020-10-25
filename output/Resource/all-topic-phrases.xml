@@ -1,0 +1,126 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.0017891191778724174" totalTokens="71" titles="service, user, resource, mapper, role, impl, detail, business, config, test">
+	<word weight="0.2535211267605634" count="18">service</word>
+	<word weight="0.23943661971830985" count="17">user</word>
+	<word weight="0.1267605633802817" count="9">resource</word>
+	<word weight="0.09859154929577464" count="7">mapper</word>
+	<word weight="0.08450704225352113" count="6">role</word>
+	<word weight="0.08450704225352113" count="6">impl</word>
+	<word weight="0.056338028169014086" count="4">detail</word>
+	<word weight="0.028169014084507043" count="2">business</word>
+	<word weight="0.014084507042253521" count="1">config</word>
+	<word weight="0.014084507042253521" count="1">test</word>
+	<phrase weight="1.0" count="1">service impl</phrase>
+  </topic>
+  <topic id="1" alpha="0.0019864383951869124" totalTokens="73" titles="menu, mapper, service, resource, impl, role, demo, search, manager, ">
+	<word weight="0.1780821917808219" count="13">menu</word>
+	<word weight="0.1643835616438356" count="12">mapper</word>
+	<word weight="0.1643835616438356" count="12">service</word>
+	<word weight="0.136986301369863" count="10">resource</word>
+	<word weight="0.1232876712328767" count="9">impl</word>
+	<word weight="0.1095890410958904" count="8">role</word>
+	<word weight="0.0821917808219178" count="6">demo</word>
+	<word weight="0.0273972602739726" count="2">search</word>
+	<word weight="0.0136986301369863" count="1">manager</word>
+  </topic>
+  <topic id="2" alpha="5.880034371331966E-4" totalTokens="22" titles="admin, config, resource, sender, mail, biz, object, mapper, java, handler">
+	<word weight="0.18181818181818182" count="4">admin</word>
+	<word weight="0.13636363636363635" count="3">config</word>
+	<word weight="0.13636363636363635" count="3">resource</word>
+	<word weight="0.09090909090909091" count="2">sender</word>
+	<word weight="0.09090909090909091" count="2">mail</word>
+	<word weight="0.09090909090909091" count="2">biz</word>
+	<word weight="0.09090909090909091" count="2">object</word>
+	<word weight="0.09090909090909091" count="2">mapper</word>
+	<word weight="0.045454545454545456" count="1">java</word>
+	<word weight="0.045454545454545456" count="1">handler</word>
+  </topic>
+  <topic id="3" alpha="0.0015729605015844092" totalTokens="88" titles="log, dao, job, xxl, resource, glue, impl, controller, test, service">
+	<word weight="0.20454545454545456" count="18">log</word>
+	<word weight="0.18181818181818182" count="16">dao</word>
+	<word weight="0.17045454545454544" count="15">job</word>
+	<word weight="0.1590909090909091" count="14">xxl</word>
+	<word weight="0.09090909090909091" count="8">resource</word>
+	<word weight="0.07954545454545454" count="7">glue</word>
+	<word weight="0.03409090909090909" count="3">impl</word>
+	<word weight="0.022727272727272728" count="2">controller</word>
+	<word weight="0.022727272727272728" count="2">test</word>
+	<word weight="0.022727272727272728" count="2">service</word>
+	<word weight="0.011363636363636364" count="1">admin</word>
+	<phrase weight="1.0" count="1">job log</phrase>
+  </topic>
+  <topic id="4" alpha="3.917758685105801E-4" totalTokens="12" titles="interceptor, cookie, permission, config, resource, ">
+	<word weight="0.3333333333333333" count="4">interceptor</word>
+	<word weight="0.16666666666666666" count="2">cookie</word>
+	<word weight="0.16666666666666666" count="2">permission</word>
+	<word weight="0.16666666666666666" count="2">config</word>
+	<word weight="0.16666666666666666" count="2">resource</word>
+  </topic>
+  <topic id="5" alpha="0.002361061085787363" totalTokens="69" titles="service, resource, client, storage, feign, order, account, mapper, impl, aggregation">
+	<word weight="0.17391304347826086" count="12">service</word>
+	<word weight="0.17391304347826086" count="12">resource</word>
+	<word weight="0.14492753623188406" count="10">client</word>
+	<word weight="0.08695652173913043" count="6">storage</word>
+	<word weight="0.08695652173913043" count="6">feign</word>
+	<word weight="0.08695652173913043" count="6">order</word>
+	<word weight="0.08695652173913043" count="6">account</word>
+	<word weight="0.08695652173913043" count="6">mapper</word>
+	<word weight="0.043478260869565216" count="3">impl</word>
+	<word weight="0.028985507246376812" count="2">aggregation</word>
+  </topic>
+  <topic id="6" alpha="5.879753714604394E-4" totalTokens="21" titles="property, key, resource, agg, swagger, trace, store, token, ">
+	<word weight="0.2857142857142857" count="6">property</word>
+	<word weight="0.14285714285714285" count="3">key</word>
+	<word weight="0.14285714285714285" count="3">resource</word>
+	<word weight="0.09523809523809523" count="2">agg</word>
+	<word weight="0.09523809523809523" count="2">swagger</word>
+	<word weight="0.09523809523809523" count="2">trace</word>
+	<word weight="0.047619047619047616" count="1">prop</word>
+	<word weight="0.047619047619047616" count="1">store</word>
+	<word weight="0.047619047619047616" count="1">token</word>
+  </topic>
+  <topic id="7" alpha="8.235434728743118E-4" totalTokens="27" titles="consistency, service, resource, delegate, file, manager, ">
+	<word weight="0.3333333333333333" count="9">consistency</word>
+	<word weight="0.2962962962962963" count="8">service</word>
+	<word weight="0.14814814814814814" count="4">resource</word>
+	<word weight="0.1111111111111111" count="3">delegate</word>
+	<word weight="0.07407407407407407" count="2">file</word>
+	<word weight="0.037037037037037035" count="1">manager</word>
+  </topic>
+  <topic id="8" alpha="0.003639390636857348" totalTokens="190" titles="xxl, dao, job, resource, info, group, registry, controller, service, config">
+	<word weight="0.2" count="38">xxl</word>
+	<word weight="0.19473684210526315" count="37">dao</word>
+	<word weight="0.19473684210526315" count="37">job</word>
+	<word weight="0.09473684210526316" count="18">resource</word>
+	<word weight="0.07894736842105263" count="15">info</word>
+	<word weight="0.06842105263157895" count="13">group</word>
+	<word weight="0.03684210526315789" count="7">registry</word>
+	<word weight="0.03684210526315789" count="7">controller</word>
+	<word weight="0.02631578947368421" count="5">service</word>
+	<word weight="0.021052631578947368" count="4">config</word>
+	<word weight="0.015789473684210527" count="3">admin</word>
+	<word weight="0.015789473684210527" count="3">test</word>
+	<word weight="0.015789473684210527" count="3">impl</word>
+	<phrase weight="1.0" count="1">xxl job</phrase>
+  </topic>
+  <topic id="9" alpha="9.812967719789322E-4" totalTokens="44" titles="handler, resource, logout, auth, conf, server, success, deny, access, expression">
+	<word weight="0.18181818181818182" count="8">handler</word>
+	<word weight="0.11363636363636363" count="5">resource</word>
+	<word weight="0.09090909090909091" count="4">logout</word>
+	<word weight="0.06818181818181818" count="3">auth</word>
+	<word weight="0.06818181818181818" count="3">conf</word>
+	<word weight="0.06818181818181818" count="3">server</word>
+	<word weight="0.045454545454545456" count="2">success</word>
+	<word weight="0.045454545454545456" count="2">deny</word>
+	<word weight="0.045454545454545456" count="2">access</word>
+	<word weight="0.045454545454545456" count="2">expression</word>
+	<word weight="0.045454545454545456" count="2">point</word>
+	<word weight="0.045454545454545456" count="2">entry</word>
+	<word weight="0.045454545454545456" count="2">authentication</word>
+	<word weight="0.022727272727272728" count="1">oauth</word>
+	<word weight="0.022727272727272728" count="1">sso</word>
+	<word weight="0.022727272727272728" count="1">security</word>
+	<word weight="0.022727272727272728" count="1">web</word>
+  </topic>
+</topics>

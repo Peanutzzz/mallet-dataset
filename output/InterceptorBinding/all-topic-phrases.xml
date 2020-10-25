@@ -1,0 +1,87 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="27.851869798220992" totalTokens="17" titles="throwable, note, original, trace, user, type, parameter, ">
+	<word weight="0.23529411764705882" count="4">throwable</word>
+	<word weight="0.17647058823529413" count="3">note</word>
+	<word weight="0.17647058823529413" count="3">original</word>
+	<word weight="0.11764705882352941" count="2">trace</word>
+	<word weight="0.11764705882352941" count="2">user</word>
+	<word weight="0.11764705882352941" count="2">type</word>
+	<word weight="0.058823529411764705" count="1">parameter</word>
+	<phrase weight="0.5" count="1">trace throwable</phrase>
+	<phrase weight="0.5" count="1">parameter type</phrase>
+  </topic>
+  <topic id="1" alpha="42.87451747962645" totalTokens="20" titles="method, bind, higher, compatible, provide, inherit, target, interceptor, ">
+	<word weight="0.55" count="11">method</word>
+	<word weight="0.15" count="3">bind</word>
+	<word weight="0.05" count="1">higher</word>
+	<word weight="0.05" count="1">compatible</word>
+	<word weight="0.05" count="1">provide</word>
+	<word weight="0.05" count="1">inherit</word>
+	<word weight="0.05" count="1">target</word>
+	<word weight="0.05" count="1">interceptor</word>
+	<phrase weight="0.6666666666666666" count="2">method method</phrase>
+	<phrase weight="0.3333333333333333" count="1">bind interceptor bind target</phrase>
+  </topic>
+  <topic id="2" alpha="40.250898703765586" totalTokens="16" titles="code, empty, function, outbound, link, ">
+	<word weight="0.375" count="6">code</word>
+	<word weight="0.25" count="4">empty</word>
+	<word weight="0.1875" count="3">function</word>
+	<word weight="0.125" count="2">outbound</word>
+	<word weight="0.0625" count="1">link</word>
+	<phrase weight="0.6666666666666666" count="2">function empty</phrase>
+	<phrase weight="0.3333333333333333" count="1">outbound outbound</phrase>
+  </topic>
+  <topic id="3" alpha="26.95642937552806" totalTokens="11" titles="exception, trace, set, ">
+	<word weight="0.8181818181818182" count="9">exception</word>
+	<word weight="0.09090909090909091" count="1">trace</word>
+	<word weight="0.09090909090909091" count="1">set</word>
+	<phrase weight="1.0" count="1">exception trace</phrase>
+  </topic>
+  <topic id="4" alpha="42.06574853361726" totalTokens="17" titles="ignore, resource, locate, extend, accept, exist, runtime, ">
+	<word weight="0.29411764705882354" count="5">ignore</word>
+	<word weight="0.23529411764705882" count="4">resource</word>
+	<word weight="0.17647058823529413" count="3">locate</word>
+	<word weight="0.11764705882352941" count="2">extend</word>
+	<word weight="0.058823529411764705" count="1">accept</word>
+	<word weight="0.058823529411764705" count="1">exist</word>
+	<word weight="0.058823529411764705" count="1">runtime</word>
+  </topic>
+  <topic id="5" alpha="55.12172705855448" totalTokens="16" titles="nonbinding, string, intend, ">
+	<word weight="0.625" count="10">nonbinding</word>
+	<word weight="0.25" count="4">string</word>
+	<word weight="0.125" count="2">intend</word>
+	<phrase weight="1.0" count="2">nonbinding string</phrase>
+  </topic>
+  <topic id="6" alpha="28.684790666331903" totalTokens="12" titles="handler, sentinel, retention, precedence, ">
+	<word weight="0.5833333333333334" count="7">handler</word>
+	<word weight="0.16666666666666666" count="2">sentinel</word>
+	<word weight="0.16666666666666666" count="2">retention</word>
+	<word weight="0.08333333333333333" count="1">precedence</word>
+  </topic>
+  <topic id="7" alpha="27.55361416120742" totalTokens="12" titles="set, share, signature, element, time, inbound, ">
+	<word weight="0.25" count="3">set</word>
+	<word weight="0.25" count="3">share</word>
+	<word weight="0.16666666666666666" count="2">signature</word>
+	<word weight="0.16666666666666666" count="2">element</word>
+	<word weight="0.08333333333333333" count="1">time</word>
+	<word weight="0.08333333333333333" count="1">inbound</word>
+  </topic>
+  <topic id="8" alpha="50.87560223615399" totalTokens="21" titles="fallback, block, universal, ">
+	<word weight="0.5714285714285714" count="12">fallback</word>
+	<word weight="0.38095238095238093" count="8">block</word>
+	<word weight="0.047619047619047616" count="1">universal</word>
+	<phrase weight="1.0" count="1">fallback universal fallback</phrase>
+  </topic>
+  <topic id="9" alpha="35.032565335188465" totalTokens="19" titles="type, entry, list, exist, single, classification, policy, ">
+	<word weight="0.42105263157894735" count="8">type</word>
+	<word weight="0.21052631578947367" count="4">entry</word>
+	<word weight="0.10526315789473684" count="2">list</word>
+	<word weight="0.10526315789473684" count="2">exist</word>
+	<word weight="0.05263157894736842" count="1">single</word>
+	<word weight="0.05263157894736842" count="1">classification</word>
+	<word weight="0.05263157894736842" count="1">policy</word>
+	<phrase weight="0.5" count="1">type type</phrase>
+	<phrase weight="0.5" count="1">entry type entry type classification type</phrase>
+  </topic>
+</topics>

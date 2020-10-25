@@ -1,0 +1,186 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.6809878687970652" totalTokens="99" titles="string, field, table, serial, entity, type, exist, url, code, list">
+	<word weight="0.41414141414141414" count="41">string</word>
+	<word weight="0.1414141414141414" count="14">field</word>
+	<word weight="0.10101010101010101" count="10">table</word>
+	<word weight="0.06060606060606061" count="6">serial</word>
+	<word weight="0.050505050505050504" count="5">entity</word>
+	<word weight="0.050505050505050504" count="5">type</word>
+	<word weight="0.04040404040404041" count="4">exist</word>
+	<word weight="0.030303030303030304" count="3">url</word>
+	<word weight="0.030303030303030304" count="3">code</word>
+	<word weight="0.020202020202020204" count="2">list</word>
+	<word weight="0.020202020202020204" count="2">version</word>
+	<word weight="0.010101010101010102" count="1">authorization</word>
+	<word weight="0.010101010101010102" count="1">sex</word>
+	<word weight="0.010101010101010102" count="1">mobile</word>
+	<word weight="0.010101010101010102" count="1">parent</word>
+	<phrase weight="0.14285714285714285" count="2">table field exist</phrase>
+	<phrase weight="0.14285714285714285" count="2">entity serial</phrase>
+	<phrase weight="0.07142857142857142" count="1">version parent string string</phrase>
+	<phrase weight="0.07142857142857142" count="1">string type string</phrase>
+	<phrase weight="0.07142857142857142" count="1">string code string table field exist</phrase>
+	<phrase weight="0.07142857142857142" count="1">entity serial version string</phrase>
+	<phrase weight="0.07142857142857142" count="1">string url string</phrase>
+	<phrase weight="0.07142857142857142" count="1">field exist</phrase>
+	<phrase weight="0.07142857142857142" count="1">type authorization code</phrase>
+	<phrase weight="0.07142857142857142" count="1">string string</phrase>
+	<phrase weight="0.07142857142857142" count="1">type string</phrase>
+	<phrase weight="0.07142857142857142" count="1">url string mobile</phrase>
+  </topic>
+  <topic id="1" alpha="0.07158030302787516" totalTokens="12" titles="menu, constructor, setter, hash, ">
+	<word weight="0.4166666666666667" count="5">menu</word>
+	<word weight="0.3333333333333333" count="4">constructor</word>
+	<word weight="0.16666666666666666" count="2">setter</word>
+	<word weight="0.08333333333333333" count="1">hash</word>
+	<phrase weight="1.0" count="1">menu setter</phrase>
+  </topic>
+  <topic id="2" alpha="0.07900009718385176" totalTokens="16" titles="file, info, insert, img, override, create, path, size, model, ">
+	<word weight="0.25" count="4">file</word>
+	<word weight="0.1875" count="3">info</word>
+	<word weight="0.125" count="2">insert</word>
+	<word weight="0.125" count="2">img</word>
+	<word weight="0.0625" count="1">override</word>
+	<word weight="0.0625" count="1">create</word>
+	<word weight="0.0625" count="1">path</word>
+	<word weight="0.0625" count="1">size</word>
+	<word weight="0.0625" count="1">model</word>
+	<phrase weight="0.5" count="1">file info file info</phrase>
+	<phrase weight="0.5" count="1">model file info</phrase>
+  </topic>
+  <topic id="3" alpha="0.05069251423144286" totalTokens="21" titles="fill, table, update, time, oss, val, protect, source, content, extend">
+	<word weight="0.19047619047619047" count="4">fill</word>
+	<word weight="0.19047619047619047" count="4">table</word>
+	<word weight="0.09523809523809523" count="2">update</word>
+	<word weight="0.09523809523809523" count="2">time</word>
+	<word weight="0.09523809523809523" count="2">date</word>
+	<word weight="0.09523809523809523" count="2">oss</word>
+	<word weight="0.047619047619047616" count="1">val</word>
+	<word weight="0.047619047619047616" count="1">protect</word>
+	<word weight="0.047619047619047616" count="1">source</word>
+	<word weight="0.047619047619047616" count="1">content</word>
+	<word weight="0.047619047619047616" count="1">extend</word>
+	<phrase weight="0.3333333333333333" count="1">update date update time</phrase>
+	<phrase weight="0.3333333333333333" count="1">oss oss</phrase>
+	<phrase weight="0.3333333333333333" count="1">time table</phrase>
+  </topic>
+  <topic id="4" alpha="0.07888656312843996" totalTokens="22" titles="menu, exist, password, path, table, head, nickname, username, method, hidden">
+	<word weight="0.22727272727272727" count="5">menu</word>
+	<word weight="0.18181818181818182" count="4">exist</word>
+	<word weight="0.09090909090909091" count="2">password</word>
+	<word weight="0.09090909090909091" count="2">path</word>
+	<word weight="0.09090909090909091" count="2">table</word>
+	<word weight="0.045454545454545456" count="1">head</word>
+	<word weight="0.045454545454545456" count="1">nickname</word>
+	<word weight="0.045454545454545456" count="1">username</word>
+	<word weight="0.045454545454545456" count="1">method</word>
+	<word weight="0.045454545454545456" count="1">hidden</word>
+	<word weight="0.045454545454545456" count="1">css</word>
+	<word weight="0.045454545454545456" count="1">role</word>
+	<phrase weight="0.5" count="2">menu menu</phrase>
+	<phrase weight="0.25" count="1">role table</phrase>
+	<phrase weight="0.25" count="1">path method</phrase>
+  </topic>
+  <topic id="5" alpha="0.10310536000642785" totalTokens="31" titles="client, token, validity, seconds, password, table, true, authority, redirect, server">
+	<word weight="0.22580645161290322" count="7">client</word>
+	<word weight="0.16129032258064516" count="5">token</word>
+	<word weight="0.12903225806451613" count="4">validity</word>
+	<word weight="0.06451612903225806" count="2">seconds</word>
+	<word weight="0.06451612903225806" count="2">password</word>
+	<word weight="0.06451612903225806" count="2">table</word>
+	<word weight="0.03225806451612903" count="1">true</word>
+	<word weight="0.03225806451612903" count="1">authority</word>
+	<word weight="0.03225806451612903" count="1">redirect</word>
+	<word weight="0.03225806451612903" count="1">server</word>
+	<word weight="0.03225806451612903" count="1">web</word>
+	<word weight="0.03225806451612903" count="1">refresh</word>
+	<word weight="0.03225806451612903" count="1">authorize</word>
+	<word weight="0.03225806451612903" count="1">str</word>
+	<word weight="0.03225806451612903" count="1">call</word>
+	<phrase weight="0.2857142857142857" count="2">token validity</phrase>
+	<phrase weight="0.14285714285714285" count="1">token client</phrase>
+	<phrase weight="0.14285714285714285" count="1">web server redirect</phrase>
+	<phrase weight="0.14285714285714285" count="1">authority table</phrase>
+	<phrase weight="0.14285714285714285" count="1">token validity seconds</phrase>
+	<phrase weight="0.14285714285714285" count="1">refresh token validity seconds</phrase>
+  </topic>
+  <topic id="6" alpha="0.11002004023110931" totalTokens="21" titles="integer, refresh, information, additional, uri, credentials, grant, resource, detail, routing">
+	<word weight="0.3333333333333333" count="7">integer</word>
+	<word weight="0.09523809523809523" count="2">refresh</word>
+	<word weight="0.047619047619047616" count="1">information</word>
+	<word weight="0.047619047619047616" count="1">additional</word>
+	<word weight="0.047619047619047616" count="1">uri</word>
+	<word weight="0.047619047619047616" count="1">credentials</word>
+	<word weight="0.047619047619047616" count="1">grant</word>
+	<word weight="0.047619047619047616" count="1">resource</word>
+	<word weight="0.047619047619047616" count="1">detail</word>
+	<word weight="0.047619047619047616" count="1">routing</word>
+	<word weight="0.047619047619047616" count="1">col</word>
+	<word weight="0.047619047619047616" count="1">limit</word>
+	<word weight="0.047619047619047616" count="1">query</word>
+	<word weight="0.047619047619047616" count="1">search</word>
+	<phrase weight="0.5" count="1">integer limit</phrase>
+	<phrase weight="0.5" count="1">additional information</phrase>
+  </topic>
+  <topic id="7" alpha="1.2062065818934768" totalTokens="121" titles="false, equal, call, hash, code, order, version, serializable, extend, datum">
+	<word weight="0.1652892561983471" count="20">false</word>
+	<word weight="0.09917355371900827" count="12">equal</word>
+	<word weight="0.09090909090909091" count="11">call</word>
+	<word weight="0.09090909090909091" count="11">hash</word>
+	<word weight="0.08264462809917356" count="10">code</word>
+	<word weight="0.0743801652892562" count="9">order</word>
+	<word weight="0.06611570247933884" count="8">version</word>
+	<word weight="0.04132231404958678" count="5">serializable</word>
+	<word weight="0.04132231404958678" count="5">extend</word>
+	<word weight="0.04132231404958678" count="5">datum</word>
+	<word weight="0.03305785123966942" count="4">constructor</word>
+	<word weight="0.03305785123966942" count="4">arg</word>
+	<word weight="0.03305785123966942" count="4">implement</word>
+	<word weight="0.03305785123966942" count="4">serial</word>
+	<word weight="0.01652892561983471" count="2">sort</word>
+	<word weight="0.008264462809917356" count="1">company</word>
+	<word weight="0.008264462809917356" count="1">set</word>
+	<word weight="0.008264462809917356" count="1">highlighter</word>
+	<word weight="0.008264462809917356" count="1">page</word>
+	<word weight="0.008264462809917356" count="1">str</word>
+	<phrase weight="0.26666666666666666" count="4">datum equal hash code call false</phrase>
+	<phrase weight="0.13333333333333333" count="2">arg constructor arg constructor equal hash code call false order implement serializable serial version order</phrase>
+	<phrase weight="0.13333333333333333" count="2">equal hash code call false</phrase>
+	<phrase weight="0.06666666666666667" count="1">code call false</phrase>
+	<phrase weight="0.06666666666666667" count="1">false set</phrase>
+	<phrase weight="0.06666666666666667" count="1">call false</phrase>
+	<phrase weight="0.06666666666666667" count="1">datum equal hash</phrase>
+	<phrase weight="0.06666666666666667" count="1">dto implement serializable</phrase>
+	<phrase weight="0.06666666666666667" count="1">equal hash</phrase>
+	<phrase weight="0.06666666666666667" count="1">equal hash code call false order implement serializable serial version order</phrase>
+  </topic>
+  <topic id="8" alpha="0.3185329882496556" totalTokens="42" titles="role, user, arg, table, getter, model, extend, logic, open, enable">
+	<word weight="0.30952380952380953" count="13">role</word>
+	<word weight="0.23809523809523808" count="10">user</word>
+	<word weight="0.09523809523809523" count="4">arg</word>
+	<word weight="0.09523809523809523" count="4">table</word>
+	<word weight="0.047619047619047616" count="2">getter</word>
+	<word weight="0.047619047619047616" count="2">model</word>
+	<word weight="0.047619047619047616" count="2">extend</word>
+	<word weight="0.023809523809523808" count="1">del</word>
+	<word weight="0.023809523809523808" count="1">logic</word>
+	<word weight="0.023809523809523808" count="1">open</word>
+	<word weight="0.023809523809523808" count="1">enable</word>
+	<word weight="0.023809523809523808" count="1">code</word>
+	<phrase weight="0.25" count="2">role role</phrase>
+	<phrase weight="0.125" count="1">user user</phrase>
+	<phrase weight="0.125" count="1">user user extend</phrase>
+	<phrase weight="0.125" count="1">logic del table</phrase>
+	<phrase weight="0.125" count="1">extend model role</phrase>
+	<phrase weight="0.125" count="1">getter arg</phrase>
+	<phrase weight="0.125" count="1">role user role user</phrase>
+  </topic>
+  <topic id="9" alpha="0.04007462841855189" totalTokens="7" titles="access, secret, autoapprove, scope, oauth, ">
+	<word weight="0.2857142857142857" count="2">access</word>
+	<word weight="0.2857142857142857" count="2">secret</word>
+	<word weight="0.14285714285714285" count="1">autoapprove</word>
+	<word weight="0.14285714285714285" count="1">scope</word>
+	<word weight="0.14285714285714285" count="1">oauth</word>
+  </topic>
+</topics>

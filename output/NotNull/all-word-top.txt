@@ -1,0 +1,11 @@
+0 environment 0:6
+1 manager 0:6
+2 python 0:2
+3 dependency 0:4
+4 info 0:4
+5 map 0:2
+6 string 0:6
+7 system 0:2
+8 env 0:2
+9 tmp 0:2
+10 directory 0:2

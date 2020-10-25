@@ -1,0 +1,90 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="35.72577527017445" totalTokens="18" titles="hint, reflection, intermediate, false, multi, repeatable, ">
+	<word weight="0.4444444444444444" count="8">hint</word>
+	<word weight="0.3333333333333333" count="6">reflection</word>
+	<word weight="0.05555555555555555" count="1">intermediate</word>
+	<word weight="0.05555555555555555" count="1">false</word>
+	<word weight="0.05555555555555555" count="1">multi</word>
+	<word weight="0.05555555555555555" count="1">repeatable</word>
+  </topic>
+  <topic id="1" alpha="29.342431764314014" totalTokens="9" titles="output, extraction, retention, support, method, ">
+	<word weight="0.3333333333333333" count="3">output</word>
+	<word weight="0.2222222222222222" count="2">extraction</word>
+	<word weight="0.2222222222222222" count="2">retention</word>
+	<word weight="0.1111111111111111" count="1">support</word>
+	<word weight="0.1111111111111111" count="1">method</word>
+	<phrase weight="1.0" count="1">retention retention</phrase>
+  </topic>
+  <topic id="2" alpha="26.278879084250562" totalTokens="9" titles="undefined, result, variable, disable, extraction, ">
+	<word weight="0.4444444444444444" count="4">undefined</word>
+	<word weight="0.2222222222222222" count="2">result</word>
+	<word weight="0.1111111111111111" count="1">variable</word>
+	<word weight="0.1111111111111111" count="1">disable</word>
+	<word weight="0.1111111111111111" count="1">extraction</word>
+  </topic>
+  <topic id="3" alpha="30.303117770686725" totalTokens="16" titles="input, type, element, provide, policy, ">
+	<word weight="0.625" count="10">input</word>
+	<word weight="0.125" count="2">type</word>
+	<word weight="0.125" count="2">element</word>
+	<word weight="0.0625" count="1">provide</word>
+	<word weight="0.0625" count="1">policy</word>
+  </topic>
+  <topic id="4" alpha="31.760150825979512" totalTokens="16" titles="base, parameter, ignore, manually, level, target, ">
+	<word weight="0.375" count="6">base</word>
+	<word weight="0.25" count="4">parameter</word>
+	<word weight="0.125" count="2">ignore</word>
+	<word weight="0.125" count="2">manually</word>
+	<word weight="0.0625" count="1">level</word>
+	<word weight="0.0625" count="1">target</word>
+	<phrase weight="1.0" count="1">parameter ignore</phrase>
+  </topic>
+  <topic id="5" alpha="53.02322392580039" totalTokens="29" titles="type, var, accumulator, explicit, list, entire, runtime, ">
+	<word weight="0.5172413793103449" count="15">type</word>
+	<word weight="0.13793103448275862" count="4">var</word>
+	<word weight="0.10344827586206896" count="3">accumulator</word>
+	<word weight="0.10344827586206896" count="3">explicit</word>
+	<word weight="0.06896551724137931" count="2">list</word>
+	<word weight="0.034482758620689655" count="1">entire</word>
+	<word weight="0.034482758620689655" count="1">runtime</word>
+	<phrase weight="0.3333333333333333" count="1">type type</phrase>
+	<phrase weight="0.3333333333333333" count="1">accumulator explicit accumulator type</phrase>
+	<phrase weight="0.3333333333333333" count="1">type var</phrase>
+  </topic>
+  <topic id="6" alpha="26.969919109865046" totalTokens="14" titles="argument, explicit, order, evolve, ">
+	<word weight="0.7857142857142857" count="11">argument</word>
+	<word weight="0.07142857142857142" count="1">explicit</word>
+	<word weight="0.07142857142857142" count="1">order</word>
+	<word weight="0.07142857142857142" count="1">evolve</word>
+  </topic>
+  <topic id="7" alpha="31.822505638235356" totalTokens="14" titles="define, note, decide, length, require, implementer, ">
+	<word weight="0.5714285714285714" count="8">define</word>
+	<word weight="0.14285714285714285" count="2">note</word>
+	<word weight="0.07142857142857142" count="1">decide</word>
+	<word weight="0.07142857142857142" count="1">length</word>
+	<word weight="0.07142857142857142" count="1">require</word>
+	<word weight="0.07142857142857142" count="1">implementer</word>
+	<phrase weight="1.0" count="1">note implementer</phrase>
+  </topic>
+  <topic id="8" alpha="41.910050621054985" totalTokens="21" titles="datum, arg, explicitly, annotation, string, flag, link, unknown, ">
+	<word weight="0.2857142857142857" count="6">datum</word>
+	<word weight="0.19047619047619047" count="4">arg</word>
+	<word weight="0.19047619047619047" count="4">explicitly</word>
+	<word weight="0.14285714285714285" count="3">annotation</word>
+	<word weight="0.047619047619047616" count="1">string</word>
+	<word weight="0.047619047619047616" count="1">flag</word>
+	<word weight="0.047619047619047616" count="1">link</word>
+	<word weight="0.047619047619047616" count="1">unknown</word>
+	<phrase weight="0.3333333333333333" count="1">annotation annotation</phrase>
+	<phrase weight="0.3333333333333333" count="1">annotation explicitly</phrase>
+	<phrase weight="0.3333333333333333" count="1">arg flag</phrase>
+  </topic>
+  <topic id="9" alpha="27.41055610263864" totalTokens="18" titles="link, function, extraction, treat, merge, representation, ">
+	<word weight="0.3333333333333333" count="6">link</word>
+	<word weight="0.3333333333333333" count="6">function</word>
+	<word weight="0.16666666666666666" count="3">extraction</word>
+	<word weight="0.05555555555555555" count="1">treat</word>
+	<word weight="0.05555555555555555" count="1">merge</word>
+	<word weight="0.05555555555555555" count="1">representation</word>
+  </topic>
+</topics>

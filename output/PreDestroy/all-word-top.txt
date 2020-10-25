@@ -1,0 +1,16 @@
+0 manager 0:1
+1 pre 0:1
+2 destroy 0:2
+3 shutdown 0:2
+4 naco 0:1
+5 exception 0:1
+6 server 0:1
+7 list 0:1
+8 clear 0:2
+9 member 0:1
+10 address 0:1
+11 info 0:2
+12 report 0:1
+13 task 0:1
+14 lookup 0:1
+15 factory 0:1

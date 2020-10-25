@@ -1,0 +1,405 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.013115699821716868" totalTokens="1093" titles="test, credentials, table, conf, key, string, configuration, set, path, postgre">
+	<word weight="0.07959743824336687" count="87">test</word>
+	<word weight="0.06495882891125343" count="71">credentials</word>
+	<word weight="0.053064958828911254" count="58">table</word>
+	<word weight="0.05123513266239707" count="56">conf</word>
+	<word weight="0.04025617566331199" count="44">key</word>
+	<word weight="0.03385178408051235" count="37">string</word>
+	<word weight="0.03019213174748399" count="33">configuration</word>
+	<word weight="0.028362305580969808" count="31">set</word>
+	<word weight="0.025617566331198535" count="28">path</word>
+	<word weight="0.024702653247941447" count="27">postgre</word>
+	<word weight="0.022872827081427266" count="25">system</word>
+	<word weight="0.021957913998170174" count="24">access</word>
+	<word weight="0.021043000914913082" count="23">assume</word>
+	<word weight="0.021043000914913082" count="23">initialize</word>
+	<word weight="0.021043000914913082" count="23">file</word>
+	<word weight="0.018298261665141813" count="20">check</word>
+	<word weight="0.01646843549862763" count="18">secret</word>
+	<word weight="0.01463860933211345" count="16">dir</word>
+	<word weight="0.013723696248856358" count="15">exist</word>
+	<word weight="0.013723696248856358" count="15">base</word>
+	<phrase weight="0.043478260869565216" count="1">whitespace access key initialize configuration valid credentials</phrase>
+	<phrase weight="0.043478260869565216" count="1">access key</phrase>
+	<phrase weight="0.043478260869565216" count="1">serial table schema sql execute postgre catalog database string format insert simple table execute postgre catalog database string format insert table primitive</phrase>
+	<phrase weight="0.043478260869565216" count="1">container initializer container</phrase>
+	<phrase weight="0.043478260869565216" count="1">access key conf set string azure account key account blob core</phrase>
+	<phrase weight="0.043478260869565216" count="1">key string</phrase>
+	<phrase weight="0.043478260869565216" count="1">conf string</phrase>
+	<phrase weight="0.043478260869565216" count="1">assume true azure container configure skip test</phrase>
+	<phrase weight="0.043478260869565216" count="1">container initializer</phrase>
+	<phrase weight="0.043478260869565216" count="1">test base init exception jdbc postgresql localhost postgre user postgre string embed jdbc url embed postgre jdbc url test username test pwd jdbc postgresql localhost base url embed jdbc url substr embed jdbc url index catalog postgre catalog test catalog postgre catalog database test username test pwd base url create test database schema create database test create schema test test schema create test table table postgre table postgre table postgre create table postgre table path flink table simple table schema sql create table postgre table path flink table simple table schema sql create table postgre table path flink table simple table schema sql table test table test test schema table postgre table postgre create table test postgre table path flink table simple table schema sql create table test postgre table path test schema simple table schema sql create table postgre table path flink table table primitive</phrase>
+	<phrase weight="0.043478260869565216" count="1">stage test check credentials</phrase>
+	<phrase weight="0.043478260869565216" count="1">execute create</phrase>
+	<phrase weight="0.043478260869565216" count="1">array table execute postgre catalog database string format insert table serial</phrase>
+	<phrase weight="0.043478260869565216" count="1">array table schema sql create table postgre table path flink table table serial</phrase>
+	<phrase weight="0.043478260869565216" count="1">primitive table execute postgre catalog database string format insert table</phrase>
+	<phrase weight="0.043478260869565216" count="1">whitespace container assume assume true azure access key configure skip</phrase>
+	<phrase weight="0.043478260869565216" count="1">system behavior check credentials setup exception check credentials container</phrase>
+	<phrase weight="0.043478260869565216" count="1">conf configuration azure account key youraccount blob core</phrase>
+	<phrase weight="0.043478260869565216" count="1">exception check credentials exist test credentials assume credentials skip test false</phrase>
+	<phrase weight="0.043478260869565216" count="1">format min</phrase>
+  </topic>
+  <topic id="1" alpha="0.015634796310764986" totalTokens="824" titles="file, path, dir, test, jar, zip, zipfile, entry, user, tmp">
+	<word weight="0.12864077669902912" count="106">file</word>
+	<word weight="0.05946601941747573" count="49">path</word>
+	<word weight="0.05825242718446602" count="48">dir</word>
+	<word weight="0.04004854368932039" count="33">test</word>
+	<word weight="0.03398058252427184" count="28">jar</word>
+	<word weight="0.03033980582524272" count="25">zip</word>
+	<word weight="0.02669902912621359" count="22">zipfile</word>
+	<word weight="0.025485436893203883" count="21">entry</word>
+	<word weight="0.024271844660194174" count="20">user</word>
+	<word weight="0.021844660194174758" count="18">tmp</word>
+	<word weight="0.02063106796116505" count="17">stream</word>
+	<word weight="0.02063106796116505" count="17">set</word>
+	<word weight="0.02063106796116505" count="17">exception</word>
+	<word weight="0.019417475728155338" count="16">output</word>
+	<word weight="0.019417475728155338" count="16">temp</word>
+	<word weight="0.019417475728155338" count="16">string</word>
+	<word weight="0.01820388349514563" count="15">manager</word>
+	<word weight="0.01699029126213592" count="14">channel</word>
+	<word weight="0.015776699029126214" count="13">write</word>
+	<word weight="0.014563106796116505" count="12">create</word>
+	<phrase weight="0.04" count="2">write file</phrase>
+	<phrase weight="0.02" count="1">tmp copy cassandra yaml inject absolute path cassandra yaml scanner scanner scanner file scanner line string line scanner line line line replace path tmp</phrase>
+	<phrase weight="0.02" count="1">info job lib jar path user lib jar path file create file user dir entry path resolve text file file copy test job info</phrase>
+	<phrase weight="0.02" count="1">test temp folder temp folder</phrase>
+	<phrase weight="0.02" count="1">debug connection establish system current time millis</phrase>
+	<phrase weight="0.02" count="1">target dir</phrase>
+	<phrase weight="0.02" count="1">file test</phrase>
+	<phrase weight="0.02" count="1">exception string text file test txt string user dir entry test user dir entry string user dir entry test user dir entry user dir entry</phrase>
+	<phrase weight="0.02" count="1">throwable fail load</phrase>
+	<phrase weight="0.02" count="1">query replace</phrase>
+	<phrase weight="0.02" count="1">exception test path create</phrase>
+	<phrase weight="0.02" count="1">file system</phrase>
+	<phrase weight="0.02" count="1">jar path file path user lib jar path user dir entry path resolve test job info job lib jar path file user dir entry</phrase>
+	<phrase weight="0.02" count="1">file write line flush cassandra</phrase>
+	<phrase weight="0.02" count="1">loader loader cassandra connector loader file file file loader</phrase>
+	<phrase weight="0.02" count="1">file path path</phrase>
+	<phrase weight="0.02" count="1">path jar</phrase>
+	<phrase weight="0.02" count="1">rock library load exception library loader instance load library tmp</phrase>
+	<phrase weight="0.02" count="1">dir resolve</phrase>
+	<phrase weight="0.02" count="1">sampling test</phrase>
+  </topic>
+  <topic id="2" alpha="0.018276861902103946" totalTokens="755" titles="job, hive, graph, catalog, test, vertex, create, execution, conf, handler">
+	<word weight="0.10596026490066225" count="80">job</word>
+	<word weight="0.07549668874172186" count="57">hive</word>
+	<word weight="0.06225165562913907" count="47">graph</word>
+	<word weight="0.04768211920529802" count="36">catalog</word>
+	<word weight="0.0423841059602649" count="32">test</word>
+	<word weight="0.04105960264900662" count="31">vertex</word>
+	<word weight="0.02781456953642384" count="21">create</word>
+	<word weight="0.026490066225165563" count="20">execution</word>
+	<word weight="0.02384105960264901" count="18">conf</word>
+	<word weight="0.02384105960264901" count="18">handler</word>
+	<word weight="0.018543046357615896" count="14">map</word>
+	<word weight="0.018543046357615896" count="14">set</word>
+	<word weight="0.015894039735099338" count="12">collection</word>
+	<word weight="0.015894039735099338" count="12">helper</word>
+	<word weight="0.015894039735099338" count="12">pubsub</word>
+	<word weight="0.015894039735099338" count="12">list</word>
+	<word weight="0.015894039735099338" count="12">init</word>
+	<word weight="0.01456953642384106" count="11">empty</word>
+	<word weight="0.01456953642384106" count="11">util</word>
+	<word weight="0.01456953642384106" count="11">exception</word>
+	<phrase weight="0.0625" count="4">job graph</phrase>
+	<phrase weight="0.03125" count="2">handler parameter</phrase>
+	<phrase weight="0.03125" count="2">collection singleton list</phrase>
+	<phrase weight="0.03125" count="2">handler map</phrase>
+	<phrase weight="0.03125" count="2">runtime graph</phrase>
+	<phrase weight="0.015625" count="1">job job job</phrase>
+	<phrase weight="0.015625" count="1">job graph submit job graph reference set job graph job plan</phrase>
+	<phrase weight="0.015625" count="1">unregistered metric group checkpoint coordinator configuration chk</phrase>
+	<phrase weight="0.015625" count="1">invokable invokable job graph job graph job graph execution</phrase>
+	<phrase weight="0.015625" count="1">request coordinator</phrase>
+	<phrase weight="0.015625" count="1">setup exception init handler</phrase>
+	<phrase weight="0.015625" count="1">execution job vertex job vertex array list job vertex add runtime graph job vertex job vertex add runtime graph job vertex checkpoint stats tracker stats tracker checkpoint stats tracker job vertex</phrase>
+	<phrase weight="0.015625" count="1">execution graph exception</phrase>
+	<phrase weight="0.015625" count="1">log list handler test setup handler request exception</phrase>
+	<phrase weight="0.015625" count="1">sink jar handler jar</phrase>
+	<phrase weight="0.015625" count="1">invokable invokable</phrase>
+	<phrase weight="0.015625" count="1">vertex source job vertex source job vertex</phrase>
+	<phrase weight="0.015625" count="1">parameter collection singleton map</phrase>
+	<phrase weight="0.015625" count="1">job vertex</phrase>
+	<phrase weight="0.015625" count="1">header instance</phrase>
+  </topic>
+  <topic id="3" alpha="0.02588079493631186" totalTokens="626" titles="service, rpc, test, akka, system, actor, configuration, setup, util, testing">
+	<word weight="0.13099041533546327" count="82">service</word>
+	<word weight="0.0878594249201278" count="55">rpc</word>
+	<word weight="0.06230031948881789" count="39">test</word>
+	<word weight="0.054313099041533544" count="34">akka</word>
+	<word weight="0.04952076677316294" count="31">system</word>
+	<word weight="0.038338658146964855" count="24">actor</word>
+	<word weight="0.038338658146964855" count="24">configuration</word>
+	<word weight="0.036741214057507986" count="23">setup</word>
+	<word weight="0.03035143769968051" count="19">util</word>
+	<word weight="0.023961661341853034" count="15">testing</word>
+	<word weight="0.020766773162939296" count="13">application</word>
+	<word weight="0.01757188498402556" count="11">call</word>
+	<word weight="0.01757188498402556" count="11">create</word>
+	<word weight="0.01597444089456869" count="10">forbid</word>
+	<word weight="0.01597444089456869" count="10">spring</word>
+	<word weight="0.01597444089456869" count="10">port</word>
+	<word weight="0.01597444089456869" count="10">string</word>
+	<word weight="0.012779552715654952" count="8">heartbeat</word>
+	<word weight="0.012779552715654952" count="8">builder</word>
+	<word weight="0.011182108626198083" count="7">time</word>
+	<phrase weight="0.06060606060606061" count="2">string akka</phrase>
+	<phrase weight="0.06060606060606061" count="2">forbid call string constructor forbid call</phrase>
+	<phrase weight="0.030303030303030304" count="1">time timeout time seconds</phrase>
+	<phrase weight="0.030303030303030304" count="1">test setup exception configuration configuration configuration configuration</phrase>
+	<phrase weight="0.030303030303030304" count="1">string response</phrase>
+	<phrase weight="0.030303030303030304" count="1">path port socket util find tcp port rest assure port port spring application spring application spring application test application ctx spring application run spring profile active</phrase>
+	<phrase weight="0.030303030303030304" count="1">parser test method test delimiter forbidden call</phrase>
+	<phrase weight="0.030303030303030304" count="1">forbid call</phrase>
+	<phrase weight="0.030303030303030304" count="1">http port spring application spring application spring application</phrase>
+	<phrase weight="0.030303030303030304" count="1">program eager</phrase>
+	<phrase weight="0.030303030303030304" count="1">test setup</phrase>
+	<phrase weight="0.030303030303030304" count="1">configuration configuration configuration</phrase>
+	<phrase weight="0.030303030303030304" count="1">testing dispatcher</phrase>
+	<phrase weight="0.030303030303030304" count="1">completable future complete future</phrase>
+	<phrase weight="0.030303030303030304" count="1">framesize framesize rpc service akka rpc service util remote service builder configuration localhost create</phrase>
+	<phrase weight="0.030303030303030304" count="1">builder builder connect timeout time unit seconds read timeout time unit seconds</phrase>
+	<phrase weight="0.030303030303030304" count="1">retriever timeout</phrase>
+	<phrase weight="0.030303030303030304" count="1">exception forbid call</phrase>
+	<phrase weight="0.030303030303030304" count="1">application ctx spring application run spring profile active</phrase>
+	<phrase weight="0.030303030303030304" count="1">forbid call string method</phrase>
+  </topic>
+  <topic id="4" alpha="0.013135779845243483" totalTokens="627" titles="yarn, configuration, test, set, client, security, secure, scheduler, start, flink">
+	<word weight="0.11004784688995216" count="69">yarn</word>
+	<word weight="0.10207336523125997" count="64">configuration</word>
+	<word weight="0.09569377990430622" count="60">test</word>
+	<word weight="0.044657097288676235" count="28">set</word>
+	<word weight="0.03508771929824561" count="22">client</word>
+	<word weight="0.03189792663476874" count="20">security</word>
+	<word weight="0.030303030303030304" count="19">secure</word>
+	<word weight="0.028708133971291867" count="18">scheduler</word>
+	<word weight="0.028708133971291867" count="18">start</word>
+	<word weight="0.028708133971291867" count="18">config</word>
+	<word weight="0.02711323763955343" count="17">flink</word>
+	<word weight="0.02073365231259968" count="13">setup</word>
+	<word weight="0.019138755980861243" count="12">rest</word>
+	<word weight="0.017543859649122806" count="11">environment</word>
+	<word weight="0.01594896331738437" count="10">hadoop</word>
+	<word weight="0.01594896331738437" count="10">cluster</word>
+	<word weight="0.01594896331738437" count="10">util</word>
+	<word weight="0.014354066985645933" count="9">context</word>
+	<word weight="0.014354066985645933" count="9">info</word>
+	<word weight="0.014354066985645933" count="9">base</word>
+	<phrase weight="0.030303030303030304" count="1">security option kerberos login principal secure test environment hadoop</phrase>
+	<phrase weight="0.030303030303030304" count="1">factory test</phrase>
+	<phrase weight="0.030303030303030304" count="1">scheduler capacity scheduler</phrase>
+	<phrase weight="0.030303030303030304" count="1">custom codec set compression codec org apache flink</phrase>
+	<phrase weight="0.030303030303030304" count="1">info secure test environment</phrase>
+	<phrase weight="0.030303030303030304" count="1">scheduler yarn configuration</phrase>
+	<phrase weight="0.030303030303030304" count="1">security option kerberos login keytab secure test environment test keytab flink config set</phrase>
+	<phrase weight="0.030303030303030304" count="1">descriptor test setup yarn configuration yarn configuration yarn client yarn client</phrase>
+	<phrase weight="0.030303030303030304" count="1">start secure mode yarn configuration secure test environment hadoop</phrase>
+	<phrase weight="0.030303030303030304" count="1">util start</phrase>
+	<phrase weight="0.030303030303030304" count="1">rest cluster client savepoint</phrase>
+	<phrase weight="0.030303030303030304" count="1">log info</phrase>
+	<phrase weight="0.030303030303030304" count="1">yarn test base test cluster key log</phrase>
+	<phrase weight="0.030303030303030304" count="1">yarn configuration</phrase>
+	<phrase weight="0.030303030303030304" count="1">configuration log info base</phrase>
+	<phrase weight="0.030303030303030304" count="1">info log info start</phrase>
+	<phrase weight="0.030303030303030304" count="1">localhost test util</phrase>
+	<phrase weight="0.030303030303030304" count="1">populate yarn secure configuration yarn configuration secure test environment hadoop</phrase>
+	<phrase weight="0.030303030303030304" count="1">principal set customize security module test hadoop module factory hadoop configuration yarn configuration flink config set security option security module factory collection singleton list org apache flink yarn util test hadoop module factory flink config set security option security context factory collection singleton list org apache flink yarn util test hadoop security context factory security configuration security config security configuration flink config test security context install security config secure test environment client security configuration map ensure security util run ugi section log security context work true hadoop security context install security util install context hadoop security context security</phrase>
+	<phrase weight="0.030303030303030304" count="1">client savepoint</phrase>
+  </topic>
+  <topic id="5" alpha="0.026228906213608495" totalTokens="1141" titles="config, set, cluster, configuration, server, mini, client, folder, blob, task">
+	<word weight="0.056091148115687994" count="64">config</word>
+	<word weight="0.05521472392638037" count="63">set</word>
+	<word weight="0.05346187554776512" count="61">cluster</word>
+	<word weight="0.051709027169149865" count="59">configuration</word>
+	<word weight="0.04382120946538125" count="50">server</word>
+	<word weight="0.035056967572304996" count="40">mini</word>
+	<word weight="0.03418054338299737" count="39">client</word>
+	<word weight="0.03242769500438212" count="37">folder</word>
+	<word weight="0.03155127081507449" count="36">blob</word>
+	<word weight="0.026292725679228746" count="30">task</word>
+	<word weight="0.025416301489921123" count="29">resource</word>
+	<word weight="0.024539877300613498" count="28">exception</word>
+	<word weight="0.02366345311130587" count="27">option</word>
+	<word weight="0.02366345311130587" count="27">manager</word>
+	<word weight="0.02366345311130587" count="27">string</word>
+	<word weight="0.021910604732690624" count="25">start</word>
+	<word weight="0.016652059596844872" count="19">num</word>
+	<word weight="0.015775635407537247" count="18">temporary</word>
+	<word weight="0.015775635407537247" count="18">test</word>
+	<word weight="0.013146362839614373" count="15">ssl</word>
+	<phrase weight="0.022222222222222223" count="1">high availability setup exception server testing server configuration config configuration config set integer config constant local number job manager num config set integer config constant local number task manager num tms config set integer task manager option num task slot num slot file storage root dir temporary folder folder string cluster uuid random string storage dir file storage root</phrase>
+	<phrase weight="0.022222222222222223" count="1">start cluster</phrase>
+	<phrase weight="0.022222222222222223" count="1">exception configuration config configuration config set string rest option bind port mini</phrase>
+	<phrase weight="0.022222222222222223" count="1">cluster configuration</phrase>
+	<phrase weight="0.022222222222222223" count="1">ssl test start server exception configuration config util</phrase>
+	<phrase weight="0.022222222222222223" count="1">num set num slot task manager slot build high availability</phrase>
+	<phrase weight="0.022222222222222223" count="1">setup exception blob base dir temporary folder folder configuration cfg configuration cfg set string blob server option storage directory blob base dir absolute path cfg set string restart</phrase>
+	<phrase weight="0.022222222222222223" count="1">server port</phrase>
+	<phrase weight="0.022222222222222223" count="1">resource container</phrase>
+	<phrase weight="0.022222222222222223" count="1">mini cluster testing mini cluster testing mini cluster configuration</phrase>
+	<phrase weight="0.022222222222222223" count="1">setup exception cluster client mini cluster resource cluster client</phrase>
+	<phrase weight="0.022222222222222223" count="1">exception configuration configuration configuration configuration</phrase>
+	<phrase weight="0.022222222222222223" count="1">force config set restart strategy restart</phrase>
+	<phrase weight="0.022222222222222223" count="1">setup exception</phrase>
+	<phrase weight="0.022222222222222223" count="1">registry host task manager</phrase>
+	<phrase weight="0.022222222222222223" count="1">directory folder folder absolute file string savepoint path config set string checkpointing option savepoint directory folder folder absolute file string require</phrase>
+	<phrase weight="0.022222222222222223" count="1">high availability setup</phrase>
+	<phrase weight="0.022222222222222223" count="1">reporter slf slf reporter delimiter registry delimiter task metric</phrase>
+	<phrase weight="0.022222222222222223" count="1">task manager resource string</phrase>
+	<phrase weight="0.022222222222222223" count="1">create internal ssl config key trust store security option ssl provider config set string blob server option storage directory temporary ssl folder folder absolute path config set blob server option ssl</phrase>
+  </topic>
+  <topic id="6" alpha="0.008383580455344247" totalTokens="1408" titles="type, field, row, add, writer, timestamp, arrow, test, var, reader">
+	<word weight="0.1953125" count="275">type</word>
+	<word weight="0.13068181818181818" count="184">field</word>
+	<word weight="0.11150568181818182" count="157">row</word>
+	<word weight="0.06605113636363637" count="93">add</word>
+	<word weight="0.0546875" count="77">writer</word>
+	<word weight="0.053267045454545456" count="75">timestamp</word>
+	<word weight="0.040482954545454544" count="57">arrow</word>
+	<word weight="0.03409090909090909" count="48">time</word>
+	<word weight="0.024857954545454544" count="35">test</word>
+	<word weight="0.02130681818181818" count="30">var</word>
+	<word weight="0.019886363636363636" count="28">reader</word>
+	<word weight="0.019886363636363636" count="28">tuple</word>
+	<word weight="0.019176136363636364" count="27">array</word>
+	<word weight="0.01775568181818182" count="25">vector</word>
+	<word weight="0.01775568181818182" count="25">column</word>
+	<word weight="0.014204545454545454" count="20">list</word>
+	<word weight="0.01278409090909091" count="18">datum</word>
+	<word weight="0.01065340909090909" count="15">allocator</word>
+	<word weight="0.009232954545454546" count="13">custom</word>
+	<word weight="0.009232954545454546" count="13">unit</word>
+	<phrase weight="0.16666666666666666" count="1">row type</phrase>
+	<phrase weight="0.16666666666666666" count="1">datum type</phrase>
+	<phrase weight="0.16666666666666666" count="1">function test init field type add var type list row type row field row field array list field type size row field add row type row field field type row type row type row field datum type type conversion logical datum type row type serializer row datum serializer</phrase>
+	<phrase weight="0.16666666666666666" count="1">string type</phrase>
+	<phrase weight="0.16666666666666666" count="1">field type type</phrase>
+	<phrase weight="0.16666666666666666" count="1">field field type</phrase>
+  </topic>
+  <topic id="7" alpha="0.025253232828809997" totalTokens="757" titles="executor, kafka, test, server, thread, property, prepare, set, producer, log">
+	<word weight="0.07793923381770146" count="59">executor</word>
+	<word weight="0.0726552179656539" count="55">kafka</word>
+	<word weight="0.05548216644649934" count="42">test</word>
+	<word weight="0.0488771466314399" count="37">server</word>
+	<word weight="0.04491413474240423" count="34">thread</word>
+	<word weight="0.035667107001321" count="27">property</word>
+	<word weight="0.03302509907529723" count="25">prepare</word>
+	<word weight="0.03302509907529723" count="25">set</word>
+	<word weight="0.03038309114927345" count="23">producer</word>
+	<word weight="0.02774108322324967" count="21">log</word>
+	<word weight="0.02509907529722589" count="19">schedule</word>
+	<word weight="0.02509907529722589" count="19">service</word>
+	<word weight="0.023778071334214" count="18">exception</word>
+	<word weight="0.019815059445178335" count="15">main</word>
+	<word weight="0.019815059445178335" count="15">single</word>
+	<word weight="0.019815059445178335" count="15">base</word>
+	<word weight="0.018494055482166448" count="14">semantic</word>
+	<word weight="0.018494055482166448" count="14">info</word>
+	<word weight="0.018494055482166448" count="14">size</word>
+	<word weight="0.018494055482166448" count="14">environment</word>
+	<phrase weight="0.047619047619047616" count="2">server endpoint</phrase>
+	<phrase weight="0.047619047619047616" count="2">set kafka</phrase>
+	<phrase weight="0.047619047619047616" count="2">server property</phrase>
+	<phrase weight="0.047619047619047616" count="2">leader rebalance</phrase>
+	<phrase weight="0.023809523809523808" count="1">kafka test base prepare kafka kafka server</phrase>
+	<phrase weight="0.023809523809523808" count="1">set kafka server number</phrase>
+	<phrase weight="0.023809523809523808" count="1">init http server</phrase>
+	<phrase weight="0.023809523809523808" count="1">clear create http server http server http server</phrase>
+	<phrase weight="0.023809523809523808" count="1">process failure</phrase>
+	<phrase weight="0.023809523809523808" count="1">set accessible true atomic declare</phrase>
+	<phrase weight="0.023809523809523808" count="1">producer prepare exception log info log info</phrase>
+	<phrase weight="0.023809523809523808" count="1">init executor declare</phrase>
+	<phrase weight="0.023809523809523808" count="1">kafka server</phrase>
+	<phrase weight="0.023809523809523808" count="1">set hide kafka</phrase>
+	<phrase weight="0.023809523809523808" count="1">hide kafka</phrase>
+	<phrase weight="0.023809523809523808" count="1">retention test base prepare exception log info log info start kafka retention test base log info dynamically load implementation test</phrase>
+	<phrase weight="0.023809523809523808" count="1">streaming connector kafka kafka test environment impl kafka server kafka test environment instantiation</phrase>
+	<phrase weight="0.023809523809523808" count="1">log info</phrase>
+	<phrase weight="0.023809523809523808" count="1">test equal http server handler</phrase>
+	<phrase weight="0.023809523809523808" count="1">test set</phrase>
+  </topic>
+  <topic id="8" alpha="0.019332520812330993" totalTokens="817" titles="cluster, hdf, test, assume, builder, conf, system, hadoop, window, mini">
+	<word weight="0.08078335373317014" count="66">cluster</word>
+	<word weight="0.06364749082007344" count="52">hdf</word>
+	<word weight="0.04895960832313342" count="40">test</word>
+	<word weight="0.042839657282741736" count="35">assume</word>
+	<word weight="0.04039167686658507" count="33">builder</word>
+	<word weight="0.03916768665850673" count="32">conf</word>
+	<word weight="0.03916768665850673" count="32">system</word>
+	<word weight="0.03427172582619339" count="28">hadoop</word>
+	<word weight="0.03427172582619339" count="28">window</word>
+	<word weight="0.033047735618115054" count="27">mini</word>
+	<word weight="0.033047735618115054" count="27">file</word>
+	<word weight="0.022031823745410038" count="18">folder</word>
+	<word weight="0.022031823745410038" count="18">dir</word>
+	<word weight="0.0208078335373317" count="17">path</word>
+	<word weight="0.0208078335373317" count="17">true</word>
+	<word weight="0.019583843329253364" count="16">configuration</word>
+	<word weight="0.017135862913096694" count="14">base</word>
+	<word weight="0.01591187270501836" count="13">version</word>
+	<word weight="0.01591187270501836" count="13">apache</word>
+	<word weight="0.01591187270501836" count="13">org</word>
+	<phrase weight="0.047619047619047616" count="2">org apache</phrase>
+	<phrase weight="0.047619047619047616" count="2">test file</phrase>
+	<phrase weight="0.047619047619047616" count="2">assume true</phrase>
+	<phrase weight="0.023809523809523808" count="1">absolute path mini cluster builder builder mini cluster builder conf hdf cluster builder build</phrase>
+	<phrase weight="0.023809523809523808" count="1">exception base</phrase>
+	<phrase weight="0.023809523809523808" count="1">test setup exception</phrase>
+	<phrase weight="0.023809523809523808" count="1">system uri hdf test</phrase>
+	<phrase weight="0.023809523809523808" count="1">hdf hdfs net util host port url</phrase>
+	<phrase weight="0.023809523809523808" count="1">port number vary</phrase>
+	<phrase weight="0.023809523809523808" count="1">check assume assume false test fail window due</phrase>
+	<phrase weight="0.023809523809523808" count="1">util cluster</phrase>
+	<phrase weight="0.023809523809523808" count="1">base activate base cluster exception</phrase>
+	<phrase weight="0.023809523809523808" count="1">operate system restriction</phrase>
+	<phrase weight="0.023809523809523808" count="1">assume assume true</phrase>
+	<phrase weight="0.023809523809523808" count="1">hadoop version</phrase>
+	<phrase weight="0.023809523809523808" count="1">configurator configure</phrase>
+	<phrase weight="0.023809523809523808" count="1">cluster https</phrase>
+	<phrase weight="0.023809523809523808" count="1">base minicluster start</phrase>
+	<phrase weight="0.023809523809523808" count="1">mini cluster test loader</phrase>
+	<phrase weight="0.023809523809523808" count="1">test create exception file base dir</phrase>
+  </topic>
+  <topic id="9" alpha="0.01429757476888263" totalTokens="691" titles="config, property, set, mock, test, system, string, application, key, setting">
+	<word weight="0.11722141823444283" count="81">config</word>
+	<word weight="0.10419681620839363" count="72">property</word>
+	<word weight="0.06801736613603473" count="47">set</word>
+	<word weight="0.0361794500723589" count="25">mock</word>
+	<word weight="0.03473227206946455" count="24">test</word>
+	<word weight="0.03328509406657019" count="23">system</word>
+	<word weight="0.02894356005788712" count="20">string</word>
+	<word weight="0.027496382054992764" count="19">application</word>
+	<word weight="0.027496382054992764" count="19">key</word>
+	<word weight="0.02604920405209841" count="18">setting</word>
+	<word weight="0.02604920405209841" count="18">naco</word>
+	<word weight="0.02604920405209841" count="18">apollo</word>
+	<word weight="0.024602026049204053" count="17">namespace</word>
+	<word weight="0.024602026049204053" count="17">source</word>
+	<word weight="0.02170767004341534" count="15">true</word>
+	<word weight="0.02170767004341534" count="15">enable</word>
+	<word weight="0.020260492040520984" count="14">constant</word>
+	<word weight="0.01881331403762663" count="13">put</word>
+	<word weight="0.01881331403762663" count="13">bootstrap</word>
+	<word weight="0.01881331403762663" count="13">exception</word>
+	<phrase weight="0.16666666666666666" count="3">property put</phrase>
+	<phrase weight="0.05555555555555555" count="1">test init</phrase>
+	<phrase weight="0.05555555555555555" count="1">node initialization complete property setting property string server setting put property key server addr server setting put property key username naco setting put property key password naco iconfig naco factory create config</phrase>
+	<phrase weight="0.05555555555555555" count="1">latch await system println</phrase>
+	<phrase weight="0.05555555555555555" count="1">setting inaming naco factory create naming service setting property setting property string server setting put property key server addr server setting put property key username naco setting put property key password naco iconfig naco factory create config</phrase>
+	<phrase weight="0.05555555555555555" count="1">standalone true application</phrase>
+	<phrase weight="0.05555555555555555" count="1">setting inaming naco factory</phrase>
+	<phrase weight="0.05555555555555555" count="1">test exception system set property config apollo meta key meta</phrase>
+	<phrase weight="0.05555555555555555" count="1">setting inaming naco factory create naming</phrase>
+	<phrase weight="0.05555555555555555" count="1">set source</phrase>
+	<phrase weight="0.05555555555555555" count="1">test exception count latch latch count latch runnable runnable url runner url file console target url url url runner url loader loader url runner load alibaba naco naco</phrase>
+	<phrase weight="0.05555555555555555" count="1">file replication</phrase>
+	<phrase weight="0.05555555555555555" count="1">latch runner exception latch count thread runnable</phrase>
+	<phrase weight="0.05555555555555555" count="1">setting property setting property string server setting put property key server addr server setting put property key username naco setting put property key password naco iconfig naco factory create config</phrase>
+	<phrase weight="0.05555555555555555" count="1">jar program set</phrase>
+	<phrase weight="0.05555555555555555" count="1">system set property constant naco server system set</phrase>
+  </topic>
+</topics>

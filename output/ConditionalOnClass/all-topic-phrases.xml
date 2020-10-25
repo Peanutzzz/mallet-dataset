@@ -1,0 +1,283 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.018159308465082437" totalTokens="26" titles="isolation, version, rule, bean, conditional, miss, server, naco, false, ">
+	<word weight="0.3076923076923077" count="8">isolation</word>
+	<word weight="0.2692307692307692" count="7">version</word>
+	<word weight="0.11538461538461539" count="3">rule</word>
+	<word weight="0.07692307692307693" count="2">bean</word>
+	<word weight="0.07692307692307693" count="2">conditional</word>
+	<word weight="0.038461538461538464" count="1">miss</word>
+	<word weight="0.038461538461538464" count="1">server</word>
+	<word weight="0.038461538461538464" count="1">naco</word>
+	<word weight="0.038461538461538464" count="1">false</word>
+  </topic>
+  <topic id="1" alpha="0.008934447388621215" totalTokens="164" titles="audit, method, request, signature, string, point, join, expression, context, header">
+	<word weight="0.18292682926829268" count="30">audit</word>
+	<word weight="0.07317073170731707" count="12">method</word>
+	<word weight="0.07317073170731707" count="12">request</word>
+	<word weight="0.06097560975609756" count="10">signature</word>
+	<word weight="0.054878048780487805" count="9">string</word>
+	<word weight="0.04878048780487805" count="8">point</word>
+	<word weight="0.04878048780487805" count="8">join</word>
+	<word weight="0.04878048780487805" count="8">expression</word>
+	<word weight="0.042682926829268296" count="7">context</word>
+	<word weight="0.036585365853658534" count="6">header</word>
+	<word weight="0.03048780487804878" count="5">attribute</word>
+	<word weight="0.03048780487804878" count="5">arg</word>
+	<word weight="0.03048780487804878" count="5">aspect</word>
+	<word weight="0.024390243902439025" count="4">discoverer</word>
+	<word weight="0.024390243902439025" count="4">param</word>
+	<word weight="0.024390243902439025" count="4">servlet</word>
+	<word weight="0.018292682926829267" count="3">parameter</word>
+	<word weight="0.012195121951219513" count="2">evaluation</word>
+	<word weight="0.012195121951219513" count="2">length</word>
+	<word weight="0.012195121951219513" count="2">object</word>
+	<phrase weight="0.07407407407407407" count="2">annotation audit</phrase>
+	<phrase weight="0.07407407407407407" count="2">request header</phrase>
+	<phrase weight="0.037037037037037035" count="1">audit string</phrase>
+	<phrase weight="0.037037037037037035" count="1">method join point join point</phrase>
+	<phrase weight="0.037037037037037035" count="1">join point audit</phrase>
+	<phrase weight="0.037037037037037035" count="1">audit audit audit audit</phrase>
+	<phrase weight="0.037037037037037035" count="1">arg join point arg</phrase>
+	<phrase weight="0.037037037037037035" count="1">spring evaluation context context standard evaluation context arg length context set variable param args expression context string</phrase>
+	<phrase weight="0.037037037037037035" count="1">audit audit</phrase>
+	<phrase weight="0.037037037037037035" count="1">aspect audit</phrase>
+	<phrase weight="0.037037037037037035" count="1">join point join point</phrase>
+	<phrase weight="0.037037037037037035" count="1">method signature</phrase>
+	<phrase weight="0.037037037037037035" count="1">header audit</phrase>
+	<phrase weight="0.037037037037037035" count="1">string method signature method signature object arg string param discoverer parameter method signature method param param length expression expression</phrase>
+	<phrase weight="0.037037037037037035" count="1">header string</phrase>
+	<phrase weight="0.037037037037037035" count="1">signature arg</phrase>
+	<phrase weight="0.037037037037037035" count="1">method signature servlet request attribute attribute servlet request attribute request context holder request attribute</phrase>
+	<phrase weight="0.037037037037037035" count="1">http servlet request request context holder audit</phrase>
+	<phrase weight="0.037037037037037035" count="1">parameter discoverer discoverer parameter discoverer audit</phrase>
+	<phrase weight="0.037037037037037035" count="1">audit audit audit</phrase>
+  </topic>
+  <topic id="2" alpha="0.020830352559101133" totalTokens="67" titles="handler, result, response, block, configure, request, status, configuration, exception, body">
+	<word weight="0.08955223880597014" count="6">handler</word>
+	<word weight="0.07462686567164178" count="5">result</word>
+	<word weight="0.07462686567164178" count="5">response</word>
+	<word weight="0.05970149253731343" count="4">block</word>
+	<word weight="0.05970149253731343" count="4">configure</word>
+	<word weight="0.05970149253731343" count="4">request</word>
+	<word weight="0.04477611940298507" count="3">status</word>
+	<word weight="0.04477611940298507" count="3">configuration</word>
+	<word weight="0.04477611940298507" count="3">exception</word>
+	<word weight="0.029850746268656716" count="2">body</word>
+	<word weight="0.029850746268656716" count="2">webflux</word>
+	<word weight="0.029850746268656716" count="2">json</word>
+	<word weight="0.029850746268656716" count="2">message</word>
+	<word weight="0.029850746268656716" count="2">webmvc</word>
+	<word weight="0.029850746268656716" count="2">server</word>
+	<word weight="0.029850746268656716" count="2">bean</word>
+	<word weight="0.029850746268656716" count="2">fail</word>
+	<word weight="0.029850746268656716" count="2">type</word>
+	<word weight="0.029850746268656716" count="2">http</word>
+	<word weight="0.029850746268656716" count="2">conditional</word>
+	<phrase weight="0.25" count="1">status result result result fail message response writer print</phrase>
+	<phrase weight="0.25" count="1">configure configuration conditional http</phrase>
+	<phrase weight="0.25" count="1">configure configuration</phrase>
+	<phrase weight="0.25" count="1">request webmvc handler bean block exception handler webmvc block exception handler request response response</phrase>
+  </topic>
+  <topic id="3" alpha="0.019079625419739902" totalTokens="183" titles="property, server, web, error, configurer, handler, application, exception, codec, resolver">
+	<word weight="0.09289617486338798" count="17">property</word>
+	<word weight="0.08743169398907104" count="16">server</word>
+	<word weight="0.060109289617486336" count="11">web</word>
+	<word weight="0.0546448087431694" count="10">error</word>
+	<word weight="0.04918032786885246" count="9">configurer</word>
+	<word weight="0.04918032786885246" count="9">handler</word>
+	<word weight="0.04918032786885246" count="9">application</word>
+	<word weight="0.04918032786885246" count="9">exception</word>
+	<word weight="0.04371584699453552" count="8">codec</word>
+	<word weight="0.04371584699453552" count="8">resolver</word>
+	<word weight="0.04371584699453552" count="8">view</word>
+	<word weight="0.04371584699453552" count="8">resource</word>
+	<word weight="0.03825136612021858" count="7">context</word>
+	<word weight="0.03278688524590164" count="6">configuration</word>
+	<word weight="0.0273224043715847" count="5">flux</word>
+	<word weight="0.0273224043715847" count="5">auto</word>
+	<word weight="0.01639344262295082" count="3">provider</word>
+	<word weight="0.01639344262295082" count="3">list</word>
+	<word weight="0.01639344262295082" count="3">attribute</word>
+	<word weight="0.01639344262295082" count="3">set</word>
+  </topic>
+  <topic id="4" alpha="0.008132356316929682" totalTokens="121" titles="utf, comment, general, collate, character, jdbc, varchar, template, source, datum">
+	<word weight="0.1322314049586777" count="16">utf</word>
+	<word weight="0.06611570247933884" count="8">comment</word>
+	<word weight="0.06611570247933884" count="8">general</word>
+	<word weight="0.06611570247933884" count="8">collate</word>
+	<word weight="0.06611570247933884" count="8">character</word>
+	<word weight="0.06611570247933884" count="8">jdbc</word>
+	<word weight="0.05785123966942149" count="7">varchar</word>
+	<word weight="0.05785123966942149" count="7">template</word>
+	<word weight="0.04132231404958678" count="5">source</word>
+	<word weight="0.04132231404958678" count="5">datum</word>
+	<word weight="0.024793388429752067" count="3">sql</word>
+	<word weight="0.024793388429752067" count="3">insert</word>
+	<word weight="0.024793388429752067" count="3">impl</word>
+	<word weight="0.024793388429752067" count="3">timestamp</word>
+	<word weight="0.024793388429752067" count="3">method</word>
+	<word weight="0.024793388429752067" count="3">string</word>
+	<word weight="0.01652892561983471" count="2">logger</word>
+	<word weight="0.01652892561983471" count="2">sys</word>
+	<word weight="0.008264462809917356" count="1">update</word>
+	<word weight="0.008264462809917356" count="1">execute</word>
+	<phrase weight="0.18181818181818182" count="4">varchar character</phrase>
+	<phrase weight="0.13636363636363635" count="3">utf collate utf general comment</phrase>
+	<phrase weight="0.045454545454545456" count="1">source datum source</phrase>
+	<phrase weight="0.045454545454545456" count="1">utf collate utf general</phrase>
+	<phrase weight="0.045454545454545456" count="1">jdbc template jdbc template</phrase>
+	<phrase weight="0.045454545454545456" count="1">utf collate utf general comment varchar character</phrase>
+	<phrase weight="0.045454545454545456" count="1">utf collate utf general comment timestamp varchar character</phrase>
+	<phrase weight="0.045454545454545456" count="1">url datum source</phrase>
+	<phrase weight="0.045454545454545456" count="1">impl autowired require false</phrase>
+	<phrase weight="0.045454545454545456" count="1">template update insert sql</phrase>
+	<phrase weight="0.045454545454545456" count="1">datum source</phrase>
+	<phrase weight="0.045454545454545456" count="1">jdbc template execute sql</phrase>
+	<phrase weight="0.045454545454545456" count="1">jdbc template jdbc template datum source post</phrase>
+	<phrase weight="0.045454545454545456" count="1">insert sys logger</phrase>
+	<phrase weight="0.045454545454545456" count="1">utf collate utf general comment primary key btree</phrase>
+	<phrase weight="0.045454545454545456" count="1">utf collate utf general comment method varchar character</phrase>
+	<phrase weight="0.045454545454545456" count="1">init string sql create table exist sys logger</phrase>
+  </topic>
+  <topic id="5" alpha="0.009728806124737775" totalTokens="195" titles="redis, key, template, string, result, set, uuid, expire, serialize, serializer">
+	<word weight="0.1282051282051282" count="25">redis</word>
+	<word weight="0.07179487179487179" count="14">key</word>
+	<word weight="0.07179487179487179" count="14">template</word>
+	<word weight="0.06666666666666667" count="13">string</word>
+	<word weight="0.041025641025641026" count="8">result</word>
+	<word weight="0.035897435897435895" count="7">set</word>
+	<word weight="0.03076923076923077" count="6">uuid</word>
+	<word weight="0.03076923076923077" count="6">expire</word>
+	<word weight="0.02564102564102564" count="5">serialize</word>
+	<word weight="0.02564102564102564" count="5">serializer</word>
+	<word weight="0.02564102564102564" count="5">connection</word>
+	<word weight="0.02564102564102564" count="5">retry</word>
+	<word weight="0.02564102564102564" count="5">redi</word>
+	<word weight="0.02564102564102564" count="5">lua</word>
+	<word weight="0.02564102564102564" count="5">thread</word>
+	<word weight="0.02564102564102564" count="5">param</word>
+	<word weight="0.020512820512820513" count="4">sleep</word>
+	<word weight="0.020512820512820513" count="4">flag</word>
+	<word weight="0.020512820512820513" count="4">distribute</word>
+	<word weight="0.020512820512820513" count="4">log</word>
+	<phrase weight="0.07692307692307693" count="2">redis template</phrase>
+	<phrase weight="0.038461538461538464" count="1">log debug redi</phrase>
+	<phrase weight="0.038461538461538464" count="1">slf conditional redis template deprecate redis distribute</phrase>
+	<phrase weight="0.038461538461538464" count="1">redis template string</phrase>
+	<phrase weight="0.038461538461538464" count="1">lua connection</phrase>
+	<phrase weight="0.038461538461538464" count="1">redis template string serializer serialize key redis template string serializer serialize</phrase>
+	<phrase weight="0.038461538461538464" count="1">flag thread local string</phrase>
+	<phrase weight="0.038461538461538464" count="1">string command set option absent result status exception log error set redis distribute</phrase>
+	<phrase weight="0.038461538461538464" count="1">flag set uuid</phrase>
+	<phrase weight="0.038461538461538464" count="1">redis template thread local string</phrase>
+	<phrase weight="0.038461538461538464" count="1">thread sleep sleep milli</phrase>
+	<phrase weight="0.038461538461538464" count="1">sleep millis result set redis key expire result retry</phrase>
+	<phrase weight="0.038461538461538464" count="1">occur exception</phrase>
+	<phrase weight="0.038461538461538464" count="1">exception log warn interrupted thread current thread interrupt result set redis key expire result set redis string key expire status redis template execute redis callback connection string uuid uuid random string</phrase>
+	<phrase weight="0.038461538461538464" count="1">flag result exception log error release redis distribute</phrase>
+	<phrase weight="0.038461538461538464" count="1">flag remove</phrase>
+	<phrase weight="0.038461538461538464" count="1">param sleep millis lock string key expire retry</phrase>
+	<phrase weight="0.038461538461538464" count="1">uuid expiration expire</phrase>
+	<phrase weight="0.038461538461538464" count="1">object redis template redi template redis template param key key param expire param retry</phrase>
+	<phrase weight="0.038461538461538464" count="1">serializer serialize key uuid redis template string serializer serialize uuid result connection set</phrase>
+  </topic>
+  <topic id="6" alpha="7.135136265665534E-188" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="0.03221575569998941" totalTokens="195" titles="filter, request, servlet, tenant, trace, chain, response, http, constant, exception">
+	<word weight="0.13846153846153847" count="27">filter</word>
+	<word weight="0.10256410256410256" count="20">request</word>
+	<word weight="0.06153846153846154" count="12">servlet</word>
+	<word weight="0.06153846153846154" count="12">tenant</word>
+	<word weight="0.046153846153846156" count="9">trace</word>
+	<word weight="0.046153846153846156" count="9">chain</word>
+	<word weight="0.046153846153846156" count="9">response</word>
+	<word weight="0.041025641025641026" count="8">http</word>
+	<word weight="0.03076923076923077" count="6">constant</word>
+	<word weight="0.03076923076923077" count="6">exception</word>
+	<word weight="0.02564102564102564" count="5">header</word>
+	<word weight="0.02564102564102564" count="5">util</word>
+	<word weight="0.02564102564102564" count="5">str</word>
+	<word weight="0.02564102564102564" count="5">protect</word>
+	<word weight="0.02564102564102564" count="5">override</word>
+	<word weight="0.020512820512820513" count="4">enable</word>
+	<word weight="0.020512820512820513" count="4">holder</word>
+	<word weight="0.020512820512820513" count="4">context</word>
+	<word weight="0.020512820512820513" count="4">empty</word>
+	<word weight="0.020512820512820513" count="4">common</word>
+	<phrase weight="0.125" count="1">filter extend request filter config constant config ribbon</phrase>
+	<phrase weight="0.125" count="1">str util empty</phrase>
+	<phrase weight="0.125" count="1">request header common constant</phrase>
+	<phrase weight="0.125" count="1">filter chain filter request response</phrase>
+	<phrase weight="0.125" count="1">override protect filter http servlet request request enable</phrase>
+	<phrase weight="0.125" count="1">filter conditional filter</phrase>
+	<phrase weight="0.125" count="1">override protect filter internal http servlet request request http servlet response response filter chain filter chain exception servlet exception string</phrase>
+	<phrase weight="0.125" count="1">context holder set</phrase>
+  </topic>
+  <topic id="8" alpha="0.028863747218943723" totalTokens="184" titles="audit, log, set, property, user, service, operation, application, client, parser">
+	<word weight="0.17391304347826086" count="32">audit</word>
+	<word weight="0.16847826086956522" count="31">log</word>
+	<word weight="0.08695652173913043" count="16">set</word>
+	<word weight="0.07608695652173914" count="14">property</word>
+	<word weight="0.07065217391304347" count="13">user</word>
+	<word weight="0.07065217391304347" count="13">service</word>
+	<word weight="0.05434782608695652" count="10">operation</word>
+	<word weight="0.03804347826086957" count="7">application</word>
+	<word weight="0.03260869565217391" count="6">client</word>
+	<word weight="0.021739130434782608" count="4">parser</word>
+	<word weight="0.021739130434782608" count="4">spel</word>
+	<word weight="0.021739130434782608" count="4">conditional</word>
+	<word weight="0.010869565217391304" count="2">auto</word>
+	<word weight="0.010869565217391304" count="2">hikari</word>
+	<word weight="0.010869565217391304" count="2">type</word>
+	<word weight="0.010869565217391304" count="2">val</word>
+	<word weight="0.010869565217391304" count="2">save</word>
+	<word weight="0.010869565217391304" count="2">declare</word>
+	<word weight="0.010869565217391304" count="2">slf</word>
+	<word weight="0.005434782608695652" count="1">async</word>
+	<phrase weight="0.0625" count="2">log property</phrase>
+	<phrase weight="0.0625" count="2">parser spel</phrase>
+	<phrase weight="0.03125" count="1">slf conditional property</phrase>
+	<phrase weight="0.03125" count="1">audit service</phrase>
+	<phrase weight="0.03125" count="1">application audit audit</phrase>
+	<phrase weight="0.03125" count="1">log audit log audit log property</phrase>
+	<phrase weight="0.03125" count="1">parser parse</phrase>
+	<phrase weight="0.03125" count="1">val operation</phrase>
+	<phrase weight="0.03125" count="1">user user audit set user user</phrase>
+	<phrase weight="0.03125" count="1">type audit set</phrase>
+	<phrase weight="0.03125" count="1">audit log log type conditional</phrase>
+	<phrase weight="0.03125" count="1">set client client</phrase>
+	<phrase weight="0.03125" count="1">log property audit log property</phrase>
+	<phrase weight="0.03125" count="1">save audit audit</phrase>
+	<phrase weight="0.03125" count="1">local date</phrase>
+	<phrase weight="0.03125" count="1">implement audit service</phrase>
+	<phrase weight="0.03125" count="1">log operation operation</phrase>
+	<phrase weight="0.03125" count="1">audit set application application</phrase>
+	<phrase weight="0.03125" count="1">enable configuration property log property log auto</phrase>
+	<phrase weight="0.03125" count="1">set operation operation</phrase>
+  </topic>
+  <topic id="9" alpha="0.014395334690603799" totalTokens="244" titles="lock, time, key, unit, fair, string, override, wait, lease, redisson">
+	<word weight="0.2786885245901639" count="68">lock</word>
+	<word weight="0.11065573770491803" count="27">time</word>
+	<word weight="0.0942622950819672" count="23">key</word>
+	<word weight="0.0778688524590164" count="19">unit</word>
+	<word weight="0.045081967213114756" count="11">fair</word>
+	<word weight="0.045081967213114756" count="11">string</word>
+	<word weight="0.036885245901639344" count="9">override</word>
+	<word weight="0.03278688524590164" count="8">wait</word>
+	<word weight="0.03278688524590164" count="8">lease</word>
+	<word weight="0.02459016393442623" count="6">redisson</word>
+	<word weight="0.02459016393442623" count="6">false</word>
+	<word weight="0.02459016393442623" count="6">exception</word>
+	<word weight="0.020491803278688523" count="5">interrupted</word>
+	<word weight="0.020491803278688523" count="5">unlock</word>
+	<word weight="0.012295081967213115" count="3">prefix</word>
+	<word weight="0.012295081967213115" count="3">distribute</word>
+	<word weight="0.012295081967213115" count="3">type</word>
+	<word weight="0.00819672131147541" count="2">autowired</word>
+	<word weight="0.00819672131147541" count="2">client</word>
+	<word weight="0.00819672131147541" count="2">object</word>
+	<phrase weight="0.5" count="1">unit millisecond</phrase>
+	<phrase weight="0.5" count="1">exception false</phrase>
+  </topic>
+</topics>

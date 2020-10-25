@@ -1,0 +1,95 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.1563656499171135" totalTokens="42" titles="exception, argument, func, util, monitor, ignore, cheer, ">
+	<word weight="0.4523809523809524" count="19">exception</word>
+	<word weight="0.2619047619047619" count="11">argument</word>
+	<word weight="0.09523809523809523" count="4">func</word>
+	<word weight="0.07142857142857142" count="3">util</word>
+	<word weight="0.047619047619047616" count="2">monitor</word>
+	<word weight="0.047619047619047616" count="2">ignore</word>
+	<word weight="0.023809523809523808" count="1">cheer</word>
+	<phrase weight="1.0" count="4">argument exception</phrase>
+  </topic>
+  <topic id="1" alpha="0.2365801017221509" totalTokens="9" titles="exception, trace, current, ">
+	<word weight="0.6666666666666666" count="6">exception</word>
+	<word weight="0.2222222222222222" count="2">trace</word>
+	<word weight="0.1111111111111111" count="1">current</word>
+  </topic>
+  <topic id="2" alpha="0.3348056774563488" totalTokens="11" titles="service, fallback, println, override, message, throwable, handle, ">
+	<word weight="0.18181818181818182" count="2">service</word>
+	<word weight="0.18181818181818182" count="2">fallback</word>
+	<word weight="0.18181818181818182" count="2">println</word>
+	<word weight="0.18181818181818182" count="2">override</word>
+	<word weight="0.09090909090909091" count="1">message</word>
+	<word weight="0.09090909090909091" count="1">throwable</word>
+	<word weight="0.09090909090909091" count="1">handle</word>
+	<phrase weight="1.0" count="1">println message</phrase>
+  </topic>
+  <topic id="3" alpha="2.219343617963836" totalTokens="66" titles="illegal, string, resource, sentinel, api, fail, state, ">
+	<word weight="0.25757575757575757" count="17">illegal</word>
+	<word weight="0.24242424242424243" count="16">string</word>
+	<word weight="0.19696969696969696" count="13">resource</word>
+	<word weight="0.19696969696969696" count="13">sentinel</word>
+	<word weight="0.07575757575757576" count="5">api</word>
+	<word weight="0.015151515151515152" count="1">fail</word>
+	<word weight="0.015151515151515152" count="1">state</word>
+	<phrase weight="0.3125" count="5">sentinel resource api</phrase>
+	<phrase weight="0.3125" count="5">sentinel resource</phrase>
+	<phrase weight="0.125" count="2">sentinel resource string illegal</phrase>
+	<phrase weight="0.0625" count="1">fail illegal</phrase>
+	<phrase weight="0.0625" count="1">illegal state</phrase>
+	<phrase weight="0.0625" count="1">string illegal</phrase>
+	<phrase weight="0.0625" count="1">string string</phrase>
+  </topic>
+  <topic id="4" alpha="0.3155918605693656" totalTokens="8" titles="state, access, format, arg, invalid, ">
+	<word weight="0.375" count="3">state</word>
+	<word weight="0.25" count="2">access</word>
+	<word weight="0.125" count="1">format</word>
+	<word weight="0.125" count="1">arg</word>
+	<word weight="0.125" count="1">invalid</word>
+	<phrase weight="1.0" count="1">invalid arg</phrase>
+  </topic>
+  <topic id="5" alpha="1.0192003177016096" totalTokens="36" titles="handler, block, global, impl, random, local, thread, ">
+	<word weight="0.3611111111111111" count="13">handler</word>
+	<word weight="0.3611111111111111" count="13">block</word>
+	<word weight="0.08333333333333333" count="3">global</word>
+	<word weight="0.08333333333333333" count="3">impl</word>
+	<word weight="0.05555555555555555" count="2">random</word>
+	<word weight="0.027777777777777776" count="1">local</word>
+	<word weight="0.027777777777777776" count="1">thread</word>
+	<phrase weight="0.7272727272727273" count="8">block handler</phrase>
+	<phrase weight="0.09090909090909091" count="1">random thread local random</phrase>
+	<phrase weight="0.09090909090909091" count="1">handler global block handler block handler</phrase>
+	<phrase weight="0.09090909090909091" count="1">block handler block handler</phrase>
+  </topic>
+  <topic id="6" alpha="0.17966203347672066" totalTokens="8" titles="baz, equal, boom, bad, ">
+	<word weight="0.375" count="3">baz</word>
+	<word weight="0.375" count="3">equal</word>
+	<word weight="0.125" count="1">boom</word>
+	<word weight="0.125" count="1">bad</word>
+  </topic>
+  <topic id="7" alpha="0.9841964842732833" totalTokens="35" titles="fallback, foo, api, bar, resource, ">
+	<word weight="0.6" count="21">fallback</word>
+	<word weight="0.3142857142857143" count="11">foo</word>
+	<word weight="0.02857142857142857" count="1">api</word>
+	<word weight="0.02857142857142857" count="1">bar</word>
+	<word weight="0.02857142857142857" count="1">resource</word>
+	<phrase weight="0.2857142857142857" count="2">foo fallback</phrase>
+	<phrase weight="0.2857142857142857" count="2">fallback fallback fallback</phrase>
+	<phrase weight="0.2857142857142857" count="2">fallback fallback</phrase>
+	<phrase weight="0.14285714285714285" count="1">resource fallback fallback</phrase>
+  </topic>
+  <topic id="8" alpha="0.6218481960033779" totalTokens="14" titles="oops, bar, eee, foo, override, ">
+	<word weight="0.5" count="7">oops</word>
+	<word weight="0.2857142857142857" count="4">bar</word>
+	<word weight="0.07142857142857142" count="1">eee</word>
+	<word weight="0.07142857142857142" count="1">foo</word>
+	<word weight="0.07142857142857142" count="1">override</word>
+  </topic>
+  <topic id="9" alpha="0.2396859425611117" totalTokens="6" titles="test, system, sentinel, ">
+	<word weight="0.5" count="3">test</word>
+	<word weight="0.3333333333333333" count="2">system</word>
+	<word weight="0.16666666666666666" count="1">sentinel</word>
+	<phrase weight="1.0" count="1">test system</phrase>
+  </topic>
+</topics>

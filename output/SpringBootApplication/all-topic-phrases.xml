@@ -1,0 +1,297 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.821410768699121" totalTokens="766" titles="application, spring, arg, boot, run, main, string, test, server, enable">
+	<word weight="0.3198433420365535" count="245">application</word>
+	<word weight="0.17232375979112272" count="132">spring</word>
+	<word weight="0.13577023498694518" count="104">arg</word>
+	<word weight="0.08224543080939947" count="63">boot</word>
+	<word weight="0.07963446475195822" count="61">run</word>
+	<word weight="0.07571801566579635" count="58">main</word>
+	<word weight="0.07049608355091384" count="54">string</word>
+	<word weight="0.02349869451697128" count="18">test</word>
+	<word weight="0.006527415143603133" count="5">server</word>
+	<word weight="0.006527415143603133" count="5">enable</word>
+	<word weight="0.005221932114882507" count="4">simple</word>
+	<word weight="0.005221932114882507" count="4">job</word>
+	<word weight="0.005221932114882507" count="4">rocket</word>
+	<word weight="0.0039164490861618795" count="3">admin</word>
+	<word weight="0.0039164490861618795" count="3">consume</word>
+	<word weight="0.0026109660574412533" count="2">cmdb</word>
+	<word weight="0.0013054830287206266" count="1">obj</word>
+	<phrase weight="0.1574074074074074" count="17">application spring boot application</phrase>
+	<phrase weight="0.1388888888888889" count="15">boot application</phrase>
+	<phrase weight="0.10185185185185185" count="11">spring boot application</phrase>
+	<phrase weight="0.08333333333333333" count="9">arg spring application run</phrase>
+	<phrase weight="0.07407407407407407" count="8">main string arg spring application run</phrase>
+	<phrase weight="0.06481481481481481" count="7">application main string arg spring application run</phrase>
+	<phrase weight="0.05555555555555555" count="6">string arg spring application run</phrase>
+	<phrase weight="0.037037037037037035" count="4">application run</phrase>
+	<phrase weight="0.027777777777777776" count="3">main string</phrase>
+	<phrase weight="0.027777777777777776" count="3">spring boot</phrase>
+	<phrase weight="0.027777777777777776" count="3">string arg spring application</phrase>
+	<phrase weight="0.018518518518518517" count="2">spring application run</phrase>
+	<phrase weight="0.018518518518518517" count="2">application main</phrase>
+	<phrase weight="0.018518518518518517" count="2">application main string</phrase>
+	<phrase weight="0.009259259259259259" count="1">spring application</phrase>
+	<phrase weight="0.009259259259259259" count="1">main string arg</phrase>
+	<phrase weight="0.009259259259259259" count="1">test application main string arg spring application run</phrase>
+	<phrase weight="0.009259259259259259" count="1">application main string arg</phrase>
+	<phrase weight="0.009259259259259259" count="1">admin server</phrase>
+	<phrase weight="0.009259259259259259" count="1">application main string arg spring application run test</phrase>
+  </topic>
+  <topic id="1" alpha="0.06723007457997655" totalTokens="114" titles="service, enable, client, arg, discovery, mapper, local, distribute, storage, auto">
+	<word weight="0.16666666666666666" count="19">service</word>
+	<word weight="0.11403508771929824" count="13">enable</word>
+	<word weight="0.08771929824561403" count="10">client</word>
+	<word weight="0.07017543859649122" count="8">arg</word>
+	<word weight="0.06140350877192982" count="7">discovery</word>
+	<word weight="0.05263157894736842" count="6">mapper</word>
+	<word weight="0.03508771929824561" count="4">local</word>
+	<word weight="0.02631578947368421" count="3">distribute</word>
+	<word weight="0.02631578947368421" count="3">storage</word>
+	<word weight="0.02631578947368421" count="3">auto</word>
+	<word weight="0.02631578947368421" count="3">source</word>
+	<word weight="0.02631578947368421" count="3">datum</word>
+	<word weight="0.02631578947368421" count="3">exclude</word>
+	<word weight="0.02631578947368421" count="3">account</word>
+	<word weight="0.02631578947368421" count="3">central</word>
+	<word weight="0.02631578947368421" count="3">scan</word>
+	<word weight="0.02631578947368421" count="3">order</word>
+	<word weight="0.02631578947368421" count="3">transaction</word>
+	<word weight="0.02631578947368421" count="3">feign</word>
+	<word weight="0.02631578947368421" count="3">configuration</word>
+	<phrase weight="0.2727272727272727" count="3">discovery client enable distribute transaction service</phrase>
+	<phrase weight="0.09090909090909091" count="1">feign client</phrase>
+	<phrase weight="0.09090909090909091" count="1">datum source auto configuration account service</phrase>
+	<phrase weight="0.09090909090909091" count="1">enable discovery client enable feign client mapper scan central order mapper</phrase>
+	<phrase weight="0.09090909090909091" count="1">datum source auto configuration storage service</phrase>
+	<phrase weight="0.09090909090909091" count="1">datum source auto configuration order service</phrase>
+	<phrase weight="0.09090909090909091" count="1">enable discovery client</phrase>
+	<phrase weight="0.09090909090909091" count="1">enable discovery client mapper scan central account mapper</phrase>
+	<phrase weight="0.09090909090909091" count="1">enable discovery client enable feign client mapper scan central storage mapper</phrase>
+  </topic>
+  <topic id="2" alpha="0.05868816457591924" totalTokens="50" titles="demo, web, gateway, flux, zuul, mvc, jax, cluster, back, proxy">
+	<word weight="0.36" count="18">demo</word>
+	<word weight="0.2" count="10">web</word>
+	<word weight="0.1" count="5">gateway</word>
+	<word weight="0.08" count="4">flux</word>
+	<word weight="0.06" count="3">zuul</word>
+	<word weight="0.04" count="2">mvc</word>
+	<word weight="0.04" count="2">jax</word>
+	<word weight="0.04" count="2">cluster</word>
+	<word weight="0.04" count="2">back</word>
+	<word weight="0.04" count="2">proxy</word>
+	<phrase weight="0.3333333333333333" count="2">mvc demo</phrase>
+	<phrase weight="0.3333333333333333" count="2">flux demo</phrase>
+	<phrase weight="0.16666666666666666" count="1">zuul proxy zuul gateway demo</phrase>
+	<phrase weight="0.16666666666666666" count="1">gateway demo</phrase>
+  </topic>
+  <topic id="3" alpha="0.051958901113542295" totalTokens="78" titles="config, server, naco, alibaba, scan, base, property, scheduling, client, classpath">
+	<word weight="0.16666666666666666" count="13">config</word>
+	<word weight="0.11538461538461539" count="9">server</word>
+	<word weight="0.10256410256410256" count="8">naco</word>
+	<word weight="0.08974358974358974" count="7">alibaba</word>
+	<word weight="0.07692307692307693" count="6">scan</word>
+	<word weight="0.05128205128205128" count="4">base</word>
+	<word weight="0.05128205128205128" count="4">property</word>
+	<word weight="0.038461538461538464" count="3">scheduling</word>
+	<word weight="0.038461538461538464" count="3">client</word>
+	<word weight="0.02564102564102564" count="2">classpath</word>
+	<word weight="0.02564102564102564" count="2">istio</word>
+	<word weight="0.02564102564102564" count="2">component</word>
+	<word weight="0.02564102564102564" count="2">core</word>
+	<word weight="0.02564102564102564" count="2">address</word>
+	<word weight="0.02564102564102564" count="2">source</word>
+	<word weight="0.02564102564102564" count="2">run</word>
+	<word weight="0.01282051282051282" count="1">cloud</word>
+	<word weight="0.01282051282051282" count="1">datasource</word>
+	<word weight="0.01282051282051282" count="1">csp</word>
+	<word weight="0.01282051282051282" count="1">sentinel</word>
+	<phrase weight="0.08333333333333333" count="1">scan alibaba csp sentinel datasource</phrase>
+	<phrase weight="0.08333333333333333" count="1">schedule naco</phrase>
+	<phrase weight="0.08333333333333333" count="1">property config client</phrase>
+	<phrase weight="0.08333333333333333" count="1">property source classpath config client</phrase>
+	<phrase weight="0.08333333333333333" count="1">base alibaba naco servlet component scan</phrase>
+	<phrase weight="0.08333333333333333" count="1">config server</phrase>
+	<phrase weight="0.08333333333333333" count="1">base alibaba naco config server alibaba naco core config</phrase>
+	<phrase weight="0.08333333333333333" count="1">source classpath config server</phrase>
+	<phrase weight="0.08333333333333333" count="1">base alibaba naco alibaba naco core</phrase>
+	<phrase weight="0.08333333333333333" count="1">base alibaba naco address server</phrase>
+	<phrase weight="0.08333333333333333" count="1">cloud config</phrase>
+	<phrase weight="0.08333333333333333" count="1">property config server</phrase>
+  </topic>
+  <topic id="4" alpha="0.017893854417782473" totalTokens="259" titles="context, common, application, active, logger, portal, admin, config, builder, service">
+	<word weight="0.1776061776061776" count="46">context</word>
+	<word weight="0.07722007722007722" count="20">common</word>
+	<word weight="0.06563706563706563" count="17">application</word>
+	<word weight="0.06177606177606178" count="16">active</word>
+	<word weight="0.06177606177606178" count="16">logger</word>
+	<word weight="0.04633204633204633" count="12">portal</word>
+	<word weight="0.04633204633204633" count="12">admin</word>
+	<word weight="0.03861003861003861" count="10">config</word>
+	<word weight="0.03474903474903475" count="9">builder</word>
+	<word weight="0.03474903474903475" count="9">service</word>
+	<word weight="0.03088803088803089" count="8">info</word>
+	<word weight="0.03088803088803089" count="8">configurable</word>
+	<word weight="0.02702702702702703" count="7">source</word>
+	<word weight="0.023166023166023165" count="6">parent</word>
+	<word weight="0.023166023166023165" count="6">environment</word>
+	<word weight="0.023166023166023165" count="6">apollo</word>
+	<word weight="0.023166023166023165" count="6">property</word>
+	<word weight="0.019305019305019305" count="5">scope</word>
+	<word weight="0.019305019305019305" count="5">refresh</word>
+	<word weight="0.015444015444015444" count="4">web</word>
+	<phrase weight="0.06896551724137931" count="2">parent common context source refresh scope</phrase>
+	<phrase weight="0.06896551724137931" count="2">context admin context</phrase>
+	<phrase weight="0.06896551724137931" count="2">parent common context source refresh scope run</phrase>
+	<phrase weight="0.06896551724137931" count="2">logger info admin context active admin context active portal common context environment property portal configurable application context portal context</phrase>
+	<phrase weight="0.06896551724137931" count="2">context config context</phrase>
+	<phrase weight="0.06896551724137931" count="2">logger info common context active common context active config service common context environment property configservice configurable</phrase>
+	<phrase weight="0.06896551724137931" count="2">logger info config context active config context active admin service common context environment property adminservice configurable</phrase>
+	<phrase weight="0.034482758620689655" count="1">application builder portal application parent common context</phrase>
+	<phrase weight="0.034482758620689655" count="1">application builder portal</phrase>
+	<phrase weight="0.034482758620689655" count="1">datum source auto configuration hibernate jpa auto configuration apollo application logger logger logger factory logger apollo application</phrase>
+	<phrase weight="0.034482758620689655" count="1">admin service application</phrase>
+	<phrase weight="0.034482758620689655" count="1">builder config service</phrase>
+	<phrase weight="0.034482758620689655" count="1">datum source auto configuration hibernate jpa auto configuration local apollo application logger logger logger factory logger apollo</phrase>
+	<phrase weight="0.034482758620689655" count="1">builder admin service application parent common context source refresh scope run</phrase>
+	<phrase weight="0.034482758620689655" count="1">common configurable</phrase>
+	<phrase weight="0.034482758620689655" count="1">application builder apollo</phrase>
+	<phrase weight="0.034482758620689655" count="1">common configurable application context common context</phrase>
+	<phrase weight="0.034482758620689655" count="1">builder apollo application web web application type run</phrase>
+	<phrase weight="0.034482758620689655" count="1">web web application type</phrase>
+	<phrase weight="0.034482758620689655" count="1">application builder config service</phrase>
+  </topic>
+  <topic id="5" alpha="0.006417379647773987" totalTokens="95" titles="redis, system, sample, config, bean, input, println, annotate, demo, context">
+	<word weight="0.08421052631578947" count="8">redis</word>
+	<word weight="0.07368421052631578" count="7">system</word>
+	<word weight="0.07368421052631578" count="7">sample</word>
+	<word weight="0.07368421052631578" count="7">config</word>
+	<word weight="0.07368421052631578" count="7">bean</word>
+	<word weight="0.06315789473684211" count="6">input</word>
+	<word weight="0.042105263157894736" count="4">println</word>
+	<word weight="0.042105263157894736" count="4">annotate</word>
+	<word weight="0.042105263157894736" count="4">demo</word>
+	<word weight="0.042105263157894736" count="4">context</word>
+	<word weight="0.031578947368421054" count="3">quit</word>
+	<word weight="0.021052631578947368" count="2">reader</word>
+	<word weight="0.021052631578947368" count="2">exit</word>
+	<word weight="0.021052631578947368" count="2">print</word>
+	<word weight="0.021052631578947368" count="2">framework</word>
+	<word weight="0.021052631578947368" count="2">ctrip</word>
+	<word weight="0.021052631578947368" count="2">exception</word>
+	<word weight="0.021052631578947368" count="2">apollo</word>
+	<word weight="0.010526315789473684" count="1">ignore</word>
+	<word weight="0.010526315789473684" count="1">equal</word>
+	<phrase weight="0.1111111111111111" count="1">common ctrip framework apollo demo</phrase>
+	<phrase weight="0.1111111111111111" count="1">base ctrip framework apollo demo</phrase>
+	<phrase weight="0.1111111111111111" count="1">context context</phrase>
+	<phrase weight="0.1111111111111111" count="1">empty input input trim equal ignore quit system exit system println annotate bean</phrase>
+	<phrase weight="0.1111111111111111" count="1">input buffer reader input stream reader system charset utf read line</phrase>
+	<phrase weight="0.1111111111111111" count="1">bean annotate bean context bean annotate bean sample redis config redis config redis config context bean sample redis config bean definition exception system println sample redis config redis cache</phrase>
+	<phrase weight="0.1111111111111111" count="1">demo input key quit print input quit exit true system print</phrase>
+	<phrase weight="0.1111111111111111" count="1">redis config system println redis config</phrase>
+	<phrase weight="0.1111111111111111" count="1">set false system println</phrase>
+  </topic>
+  <topic id="6" alpha="0.012896382096948999" totalTokens="17" titles="init, executor, sentinel, trigger, dashboard, start, thread, redis, args, ">
+	<word weight="0.23529411764705882" count="4">init</word>
+	<word weight="0.17647058823529413" count="3">executor</word>
+	<word weight="0.11764705882352941" count="2">sentinel</word>
+	<word weight="0.11764705882352941" count="2">trigger</word>
+	<word weight="0.11764705882352941" count="2">dashboard</word>
+	<word weight="0.058823529411764705" count="1">start</word>
+	<word weight="0.058823529411764705" count="1">thread</word>
+	<word weight="0.058823529411764705" count="1">redis</word>
+	<word weight="0.058823529411764705" count="1">args</word>
+	<phrase weight="1.0" count="1">trigger sentinel init</phrase>
+  </topic>
+  <topic id="7" alpha="0.006926626838616714" totalTokens="54" titles="index, runner, service, sender, custom, msg, tag, produce, order, content">
+	<word weight="0.12962962962962962" count="7">index</word>
+	<word weight="0.09259259259259259" count="5">runner</word>
+	<word weight="0.07407407407407407" count="4">service</word>
+	<word weight="0.07407407407407407" count="4">sender</word>
+	<word weight="0.07407407407407407" count="4">custom</word>
+	<word weight="0.05555555555555555" count="3">msg</word>
+	<word weight="0.05555555555555555" count="3">tag</word>
+	<word weight="0.05555555555555555" count="3">produce</word>
+	<word weight="0.037037037037037035" count="2">order</word>
+	<word weight="0.037037037037037035" count="2">send</word>
+	<word weight="0.037037037037037035" count="2">content</word>
+	<word weight="0.037037037037037035" count="2">count</word>
+	<word weight="0.037037037037037035" count="2">args</word>
+	<word weight="0.037037037037037035" count="2">rocket</word>
+	<word weight="0.037037037037037035" count="2">string</word>
+	<word weight="0.018518518518518517" count="1">override</word>
+	<word weight="0.018518518518518517" count="1">autowired</word>
+	<word weight="0.018518518518518517" count="1">line</word>
+	<word weight="0.018518518518518517" count="1">command</word>
+	<word weight="0.018518518518518517" count="1">implement</word>
+	<phrase weight="0.5" count="1">args count index index count index string msg content msg index index sender service send msg content sender service send tag order index order index tag</phrase>
+	<phrase weight="0.5" count="1">args bean custom runner custom runner custom runner tag custom runner implement command line runner autowired sender service sender service override</phrase>
+  </topic>
+  <topic id="8" alpha="0.08730852817307079" totalTokens="162" titles="enable, app, client, feign, discovery, center, string, transaction, interceptor, gateway">
+	<word weight="0.2037037037037037" count="33">enable</word>
+	<word weight="0.18518518518518517" count="30">app</word>
+	<word weight="0.10493827160493827" count="17">client</word>
+	<word weight="0.06172839506172839" count="10">feign</word>
+	<word weight="0.06172839506172839" count="10">discovery</word>
+	<word weight="0.037037037037037035" count="6">center</word>
+	<word weight="0.037037037037037035" count="6">string</word>
+	<word weight="0.030864197530864196" count="5">transaction</word>
+	<word weight="0.030864197530864196" count="5">interceptor</word>
+	<word weight="0.024691358024691357" count="4">gateway</word>
+	<word weight="0.024691358024691357" count="4">search</word>
+	<word weight="0.024691358024691357" count="4">property</word>
+	<word weight="0.018518518518518517" count="3">manager</word>
+	<word weight="0.018518518518518517" count="3">file</word>
+	<word weight="0.012345679012345678" count="2">uaa</word>
+	<word weight="0.012345679012345678" count="2">monitor</word>
+	<word weight="0.012345679012345678" count="2">log</word>
+	<word weight="0.012345679012345678" count="2">base</word>
+	<word weight="0.012345679012345678" count="2">user</word>
+	<word weight="0.012345679012345678" count="2">management</word>
+	<phrase weight="0.20833333333333334" count="5">center app</phrase>
+	<phrase weight="0.08333333333333333" count="2">generator app</phrase>
+	<phrase weight="0.08333333333333333" count="2">discovery client</phrase>
+	<phrase weight="0.041666666666666664" count="1">app enable discovery client enable configuration property file</phrase>
+	<phrase weight="0.041666666666666664" count="1">app enable discovery client enable search client enable transaction management enable feign interceptor</phrase>
+	<phrase weight="0.041666666666666664" count="1">discovery client enable transaction manager</phrase>
+	<phrase weight="0.041666666666666664" count="1">gateway app enable feign client enable base feign interceptor</phrase>
+	<phrase weight="0.041666666666666664" count="1">transaction manager</phrase>
+	<phrase weight="0.041666666666666664" count="1">http session</phrase>
+	<phrase weight="0.041666666666666664" count="1">app enable discovery client</phrase>
+	<phrase weight="0.041666666666666664" count="1">app enable feign client enable feign interceptor enable discovery client enable</phrase>
+	<phrase weight="0.041666666666666664" count="1">property enable feign client enable feign interceptor</phrase>
+	<phrase weight="0.041666666666666664" count="1">enable feign client enable base feign interceptor enable discovery client</phrase>
+	<phrase weight="0.041666666666666664" count="1">enable zuul</phrase>
+	<phrase weight="0.041666666666666664" count="1">enable discovery client enable search client</phrase>
+	<phrase weight="0.041666666666666664" count="1">enable transaction management</phrase>
+	<phrase weight="0.041666666666666664" count="1">app enable discovery client enable feign client</phrase>
+	<phrase weight="0.041666666666666664" count="1">configuration property index property search center app</phrase>
+  </topic>
+  <topic id="9" alpha="0.01904733174522065" totalTokens="66" titles="string, url, demo, http, regex, request, override, client, connection, extractor">
+	<word weight="0.12121212121212122" count="8">string</word>
+	<word weight="0.09090909090909091" count="6">url</word>
+	<word weight="0.09090909090909091" count="6">demo</word>
+	<word weight="0.09090909090909091" count="6">http</word>
+	<word weight="0.06060606060606061" count="4">regex</word>
+	<word weight="0.045454545454545456" count="3">request</word>
+	<word weight="0.045454545454545456" count="3">override</word>
+	<word weight="0.045454545454545456" count="3">client</word>
+	<word weight="0.030303030303030304" count="2">connection</word>
+	<word weight="0.030303030303030304" count="2">extractor</word>
+	<word weight="0.030303030303030304" count="2">apache</word>
+	<word weight="0.030303030303030304" count="2">shard</word>
+	<word weight="0.030303030303030304" count="2">line</word>
+	<word weight="0.030303030303030304" count="2">command</word>
+	<word weight="0.030303030303030304" count="2">implement</word>
+	<word weight="0.030303030303030304" count="2">runner</word>
+	<word weight="0.015151515151515152" count="1">method</word>
+	<word weight="0.015151515151515152" count="1">length</word>
+	<word weight="0.015151515151515152" count="1">substr</word>
+	<word weight="0.015151515151515152" count="1">okhttp</word>
+	<phrase weight="0.4" count="2">implement command line runner</phrase>
+	<phrase weight="0.4" count="2">http client demo</phrase>
+	<phrase weight="0.2" count="1">client demo</phrase>
+  </topic>
+</topics>

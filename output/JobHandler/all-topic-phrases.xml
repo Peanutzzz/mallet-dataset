@@ -1,0 +1,136 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.09690243436101034" totalTokens="0" titles="">
+  </topic>
+  <topic id="1" alpha="0.11579717735920057" totalTokens="20" titles="shard, total, index, util, sharding, log, logger, ">
+	<word weight="0.45" count="9">shard</word>
+	<word weight="0.1" count="2">total</word>
+	<word weight="0.1" count="2">index</word>
+	<word weight="0.1" count="2">util</word>
+	<word weight="0.1" count="2">sharding</word>
+	<word weight="0.1" count="2">log</word>
+	<word weight="0.05" count="1">logger</word>
+	<phrase weight="0.5" count="1">util shard shard shard util shard</phrase>
+	<phrase weight="0.5" count="1">shard index shard total shard total shard index</phrase>
+  </topic>
+  <topic id="2" alpha="0.14189848400480862" totalTokens="6" titles="demo, beat, world, logger, xxl, ">
+	<word weight="0.3333333333333333" count="2">demo</word>
+	<word weight="0.16666666666666666" count="1">beat</word>
+	<word weight="0.16666666666666666" count="1">world</word>
+	<word weight="0.16666666666666666" count="1">logger</word>
+	<word weight="0.16666666666666666" count="1">xxl</word>
+  </topic>
+  <topic id="3" alpha="0.20543480616405535" totalTokens="7" titles="process, code, ">
+	<word weight="0.8571428571428571" count="6">process</word>
+	<word weight="0.14285714285714285" count="1">code</word>
+	<phrase weight="1.0" count="1">process process</phrase>
+  </topic>
+  <topic id="4" alpha="0.13282743546699258" totalTokens="60" titles="buffer, reader, command, exit, stream, input, line, fail, runtime, string">
+	<word weight="0.18333333333333332" count="11">buffer</word>
+	<word weight="0.13333333333333333" count="8">reader</word>
+	<word weight="0.13333333333333333" count="8">command</word>
+	<word weight="0.11666666666666667" count="7">exit</word>
+	<word weight="0.1" count="6">stream</word>
+	<word weight="0.1" count="6">input</word>
+	<word weight="0.06666666666666667" count="4">line</word>
+	<word weight="0.03333333333333333" count="2">fail</word>
+	<word weight="0.03333333333333333" count="2">runtime</word>
+	<word weight="0.03333333333333333" count="2">string</word>
+	<word weight="0.016666666666666666" count="1">wait</word>
+	<word weight="0.016666666666666666" count="1">logger</word>
+	<word weight="0.016666666666666666" count="1">read</word>
+	<word weight="0.016666666666666666" count="1">override</word>
+	<phrase weight="0.14285714285714285" count="1">input stream buffer reader buffer reader input stream reader buffer input stream command</phrase>
+	<phrase weight="0.14285714285714285" count="1">buffer reader buffer reader</phrase>
+	<phrase weight="0.14285714285714285" count="1">line command exit</phrase>
+	<phrase weight="0.14285714285714285" count="1">exit buffer reader buffer reader command</phrase>
+	<phrase weight="0.14285714285714285" count="1">command buffer input stream buffer input stream buffer input stream</phrase>
+	<phrase weight="0.14285714285714285" count="1">line line buffer reader read line</phrase>
+	<phrase weight="0.14285714285714285" count="1">wait exit</phrase>
+  </topic>
+  <topic id="5" alpha="0.16877165466598704" totalTokens="9" titles="logger, set, client, httpclient, url, length, job, ">
+	<word weight="0.3333333333333333" count="3">logger</word>
+	<word weight="0.1111111111111111" count="1">set</word>
+	<word weight="0.1111111111111111" count="1">client</word>
+	<word weight="0.1111111111111111" count="1">httpclient</word>
+	<word weight="0.1111111111111111" count="1">url</word>
+	<word weight="0.1111111111111111" count="1">length</word>
+	<word weight="0.1111111111111111" count="1">job</word>
+  </topic>
+  <topic id="6" alpha="0.22747307158228283" totalTokens="13" titles="status, msg, start, unit, invoke, redirect, empty, ">
+	<word weight="0.3076923076923077" count="4">status</word>
+	<word weight="0.15384615384615385" count="2">msg</word>
+	<word weight="0.15384615384615385" count="2">start</word>
+	<word weight="0.15384615384615385" count="2">unit</word>
+	<word weight="0.07692307692307693" count="1">invoke</word>
+	<word weight="0.07692307692307693" count="1">redirect</word>
+	<word weight="0.07692307692307693" count="1">empty</word>
+  </topic>
+  <topic id="7" alpha="0.15907516328181734" totalTokens="57" titles="http, client, response, request, fail, content, method, stop, invalid, send">
+	<word weight="0.2807017543859649" count="16">http</word>
+	<word weight="0.17543859649122806" count="10">client</word>
+	<word weight="0.12280701754385964" count="7">response</word>
+	<word weight="0.12280701754385964" count="7">request</word>
+	<word weight="0.05263157894736842" count="3">fail</word>
+	<word weight="0.03508771929824561" count="2">content</word>
+	<word weight="0.03508771929824561" count="2">method</word>
+	<word weight="0.017543859649122806" count="1">stop</word>
+	<word weight="0.017543859649122806" count="1">invalid</word>
+	<word weight="0.017543859649122806" count="1">send</word>
+	<word weight="0.017543859649122806" count="1">timeout</word>
+	<word weight="0.017543859649122806" count="1">configure</word>
+	<word weight="0.017543859649122806" count="1">false</word>
+	<word weight="0.017543859649122806" count="1">follow</word>
+	<word weight="0.017543859649122806" count="1">valid</word>
+	<word weight="0.017543859649122806" count="1">code</word>
+	<word weight="0.017543859649122806" count="1">handler</word>
+	<phrase weight="0.14285714285714285" count="1">false configure http client http client</phrase>
+	<phrase weight="0.14285714285714285" count="1">response content</phrase>
+	<phrase weight="0.14285714285714285" count="1">http client request request request http client request</phrase>
+	<phrase weight="0.14285714285714285" count="1">code invalid response</phrase>
+	<phrase weight="0.14285714285714285" count="1">content response response request send response</phrase>
+	<phrase weight="0.14285714285714285" count="1">request method http method request timeout</phrase>
+	<phrase weight="0.14285714285714285" count="1">http client http client http client http client</phrase>
+  </topic>
+  <topic id="8" alpha="0.8630519102796814" totalTokens="23" titles="log, extend, time, component, service, millisecond, trim, sleep, exec, ">
+	<word weight="0.43478260869565216" count="10">log</word>
+	<word weight="0.17391304347826086" count="4">extend</word>
+	<word weight="0.08695652173913043" count="2">time</word>
+	<word weight="0.08695652173913043" count="2">component</word>
+	<word weight="0.043478260869565216" count="1">service</word>
+	<word weight="0.043478260869565216" count="1">millisecond</word>
+	<word weight="0.043478260869565216" count="1">trim</word>
+	<word weight="0.043478260869565216" count="1">sleep</word>
+	<word weight="0.043478260869565216" count="1">exec</word>
+  </topic>
+  <topic id="9" alpha="1.6006571301274886" totalTokens="105" titles="job, handler, xxl, string, param, exception, logger, success, execute, override">
+	<word weight="0.2761904761904762" count="29">job</word>
+	<word weight="0.2" count="21">handler</word>
+	<word weight="0.10476190476190476" count="11">xxl</word>
+	<word weight="0.10476190476190476" count="11">string</word>
+	<word weight="0.0761904761904762" count="8">param</word>
+	<word weight="0.05714285714285714" count="6">exception</word>
+	<word weight="0.047619047619047616" count="5">logger</word>
+	<word weight="0.0380952380952381" count="4">success</word>
+	<word weight="0.0380952380952381" count="4">execute</word>
+	<word weight="0.02857142857142857" count="3">override</word>
+	<word weight="0.009523809523809525" count="1">seconds</word>
+	<word weight="0.009523809523809525" count="1">close</word>
+	<word weight="0.009523809523809525" count="1">component</word>
+	<phrase weight="0.3103448275862069" count="9">job handler</phrase>
+	<phrase weight="0.10344827586206896" count="3">handler job handler</phrase>
+	<phrase weight="0.10344827586206896" count="3">xxl job</phrase>
+	<phrase weight="0.06896551724137931" count="2">job logger</phrase>
+	<phrase weight="0.06896551724137931" count="2">job handler override string execute string param exception</phrase>
+	<phrase weight="0.034482758620689655" count="1">param exception string</phrase>
+	<phrase weight="0.034482758620689655" count="1">job handler override string execute string param exception xxl job</phrase>
+	<phrase weight="0.034482758620689655" count="1">job handler component</phrase>
+	<phrase weight="0.034482758620689655" count="1">success exception xxl job</phrase>
+	<phrase weight="0.034482758620689655" count="1">job handler success</phrase>
+	<phrase weight="0.034482758620689655" count="1">xxl job logger</phrase>
+	<phrase weight="0.034482758620689655" count="1">param param</phrase>
+	<phrase weight="0.034482758620689655" count="1">handler job</phrase>
+	<phrase weight="0.034482758620689655" count="1">string execute</phrase>
+	<phrase weight="0.034482758620689655" count="1">exception xxl job logger</phrase>
+  </topic>
+</topics>

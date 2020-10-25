@@ -1,0 +1,64 @@
+0 option 4:36 1:5 9:1
+1 documentation 4:2
+2 suffix 4:4 0:1
+3 influxdb 4:1
+4 reporter 9:2 7:1
+5 config 4:44
+6 string 8:6 4:6
+7 host 5:6
+8 key 4:31 9:1
+9 description 4:18
+10 influx 8:15
+11 server 8:2 3:2
+12 integer 8:4 7:2 0:1
+13 port 9:3 8:3
+14 username 5:3 7:1
+15 optional 8:6
+16 authentication 2:2
+17 password 8:3
+18 database 4:1
+19 store 5:1
+20 metric 4:12 0:1
+21 retention 7:3
+22 policy 7:3
+23 consistency 7:10
+24 level 8:8
+25 type 7:1
+26 connect 7:3
+27 timeout 4:6
+28 write 4:3
+29 property 4:1
+30 gateway 3:5
+31 prometheus 1:4 6:1
+32 push 3:5
+33 job 6:5 9:1
+34 random 6:3
+35 true 3:2 0:1
+36 append 1:1
+37 delete 3:3
+38 shutdown 0:3
+39 filter 0:3
+40 label 0:9
+41 character 6:5
+42 builder 0:2
+43 text 3:2 0:1
+44 enable 0:1
+45 match 1:1
+46 remove 1:2
+47 disable 0:1
+48 ensure 6:2
+49 meet 6:2
+50 link 6:4
+51 element 9:3
+52 http 0:2
+53 doc 1:2
+54 concept 1:2
+55 datum 6:2
+56 model 6:2
+57 requirement 3:2
+58 build 6:2
+59 grouping 0:4
+60 group 9:1
+61 global 9:1
+62 separate 3:2
+63 code 1:1

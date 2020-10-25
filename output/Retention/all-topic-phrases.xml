@@ -1,0 +1,355 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.04054440153127743" totalTokens="85" titles="resource, interceptor, feign, action, parser, enable, config, service, client, exclude">
+	<word weight="0.09411764705882353" count="8">resource</word>
+	<word weight="0.08235294117647059" count="7">interceptor</word>
+	<word weight="0.08235294117647059" count="7">feign</word>
+	<word weight="0.07058823529411765" count="6">action</word>
+	<word weight="0.058823529411764705" count="5">parser</word>
+	<word weight="0.047058823529411764" count="4">enable</word>
+	<word weight="0.03529411764705882" count="3">config</word>
+	<word weight="0.03529411764705882" count="3">service</word>
+	<word weight="0.03529411764705882" count="3">client</word>
+	<word weight="0.023529411764705882" count="2">exclude</word>
+	<word weight="0.023529411764705882" count="2">mode</word>
+	<word weight="0.023529411764705882" count="2">exec</word>
+	<word weight="0.023529411764705882" count="2">deny</word>
+	<word weight="0.023529411764705882" count="2">permission</word>
+	<word weight="0.023529411764705882" count="2">message</word>
+	<word weight="0.023529411764705882" count="2">privilege</word>
+	<word weight="0.023529411764705882" count="2">auth</word>
+	<word weight="0.023529411764705882" count="2">read</word>
+	<word weight="0.023529411764705882" count="2">search</word>
+	<word weight="0.023529411764705882" count="2">base</word>
+	<phrase weight="0.08333333333333333" count="1">feign interceptor</phrase>
+	<phrase weight="0.08333333333333333" count="1">auth service privilege</phrase>
+	<phrase weight="0.08333333333333333" count="1">search service fallback</phrase>
+	<phrase weight="0.08333333333333333" count="1">action privilege</phrase>
+	<phrase weight="0.08333333333333333" count="1">action type</phrase>
+	<phrase weight="0.08333333333333333" count="1">read resource relate request resource</phrase>
+	<phrase weight="0.08333333333333333" count="1">resource parser</phrase>
+	<phrase weight="0.08333333333333333" count="1">message permission deny</phrase>
+	<phrase weight="0.08333333333333333" count="1">feign client base</phrase>
+	<phrase weight="0.08333333333333333" count="1">util empty resource parser lower priority resource</phrase>
+	<phrase weight="0.08333333333333333" count="1">action action</phrase>
+	<phrase weight="0.08333333333333333" count="1">read action</phrase>
+  </topic>
+  <topic id="1" alpha="0.03322829391207589" totalTokens="103" titles="precedence, config, lowest, order, apollo, integer, max, namespace, section, command">
+	<word weight="0.13592233009708737" count="14">precedence</word>
+	<word weight="0.0970873786407767" count="10">config</word>
+	<word weight="0.08737864077669903" count="9">lowest</word>
+	<word weight="0.08737864077669903" count="9">order</word>
+	<word weight="0.07766990291262135" count="8">apollo</word>
+	<word weight="0.05825242718446602" count="6">integer</word>
+	<word weight="0.038834951456310676" count="4">max</word>
+	<word weight="0.038834951456310676" count="4">namespace</word>
+	<word weight="0.02912621359223301" count="3">section</word>
+	<word weight="0.02912621359223301" count="3">command</word>
+	<word weight="0.02912621359223301" count="3">highest</word>
+	<word weight="0.02912621359223301" count="3">application</word>
+	<word weight="0.019417475728155338" count="2">reflection</word>
+	<word weight="0.019417475728155338" count="2">position</word>
+	<word weight="0.019417475728155338" count="2">description</word>
+	<word weight="0.019417475728155338" count="2">represent</word>
+	<word weight="0.019417475728155338" count="2">spi</word>
+	<word weight="0.019417475728155338" count="2">min</word>
+	<word weight="0.019417475728155338" count="2">source</word>
+	<word weight="0.009708737864077669" count="1">reporter</word>
+	<phrase weight="0.125" count="1">config apollo namespace config application</phrase>
+	<phrase weight="0.125" count="1">description command description command</phrase>
+	<phrase weight="0.125" count="1">section config doc</phrase>
+	<phrase weight="0.125" count="1">config namespace application order apollo config</phrase>
+	<phrase weight="0.125" count="1">apollo config apollo config smaller order</phrase>
+	<phrase weight="0.125" count="1">relative position</phrase>
+	<phrase weight="0.125" count="1">apollo config apollo namespace</phrase>
+	<phrase weight="0.125" count="1">order lowest precedence integer max</phrase>
+  </topic>
+  <topic id="2" alpha="0.5753103806269416" totalTokens="738" titles="type, retention, element, policy, runtime, target, string, document, field, method">
+	<word weight="0.17615176151761516" count="130">type</word>
+	<word weight="0.15447154471544716" count="114">retention</word>
+	<word weight="0.10840108401084012" count="80">element</word>
+	<word weight="0.08265582655826559" count="61">policy</word>
+	<word weight="0.08130081300813008" count="60">runtime</word>
+	<word weight="0.07723577235772358" count="57">target</word>
+	<word weight="0.056910569105691054" count="42">string</word>
+	<word weight="0.032520325203252036" count="24">document</word>
+	<word weight="0.02981029810298103" count="22">field</word>
+	<word weight="0.025745257452574527" count="19">method</word>
+	<word weight="0.013550135501355014" count="10">parameter</word>
+	<word weight="0.01084010840108401" count="8">profile</word>
+	<word weight="0.009485094850948509" count="7">evolve</word>
+	<word weight="0.008130081300813009" count="6">internal</word>
+	<word weight="0.006775067750677507" count="5">forward</word>
+	<word weight="0.006775067750677507" count="5">extend</word>
+	<word weight="0.006775067750677507" count="5">factory</word>
+	<word weight="0.005420054200542005" count="4">option</word>
+	<word weight="0.005420054200542005" count="4">logger</word>
+	<word weight="0.005420054200542005" count="4">request</word>
+	<phrase weight="0.07017543859649122" count="4">retention retention policy runtime target element type type document</phrase>
+	<phrase weight="0.07017543859649122" count="4">target element</phrase>
+	<phrase weight="0.05263157894736842" count="3">target element type</phrase>
+	<phrase weight="0.03508771929824561" count="2">target element type type retention retention policy runtime</phrase>
+	<phrase weight="0.03508771929824561" count="2">evolve retention retention policy runtime target element</phrase>
+	<phrase weight="0.03508771929824561" count="2">element type field retention retention policy runtime internal</phrase>
+	<phrase weight="0.03508771929824561" count="2">retention policy runtime</phrase>
+	<phrase weight="0.017543859649122806" count="1">annotation type</phrase>
+	<phrase weight="0.017543859649122806" count="1">type retention retention policy runtime document</phrase>
+	<phrase weight="0.017543859649122806" count="1">element type field element type type retention retention policy runtime internal</phrase>
+	<phrase weight="0.017543859649122806" count="1">retention policy runtime document</phrase>
+	<phrase weight="0.017543859649122806" count="1">target element type type retention</phrase>
+	<phrase weight="0.017543859649122806" count="1">target element type type retention retention policy runtime evolve</phrase>
+	<phrase weight="0.017543859649122806" count="1">policy runtime</phrase>
+	<phrase weight="0.017543859649122806" count="1">target type</phrase>
+	<phrase weight="0.017543859649122806" count="1">element type method repeatable</phrase>
+	<phrase weight="0.017543859649122806" count="1">retention retention policy runtime target element type field document</phrase>
+	<phrase weight="0.017543859649122806" count="1">element type type retention retention policy runtime</phrase>
+	<phrase weight="0.017543859649122806" count="1">retention retention policy runtime document target element type method</phrase>
+	<phrase weight="0.017543859649122806" count="1">target element type type element type method retention retention policy</phrase>
+  </topic>
+  <topic id="3" alpha="0.005422655852124831" totalTokens="513" titles="placeholder, string, property, config, code, retry, key, endpoint, naco, prefix">
+	<word weight="0.10526315789473684" count="54">placeholder</word>
+	<word weight="0.08576998050682261" count="44">string</word>
+	<word weight="0.0682261208576998" count="35">property</word>
+	<word weight="0.0682261208576998" count="35">config</word>
+	<word weight="0.050682261208576995" count="26">code</word>
+	<word weight="0.04678362573099415" count="24">retry</word>
+	<word weight="0.03898635477582846" count="20">key</word>
+	<word weight="0.037037037037037035" count="19">endpoint</word>
+	<word weight="0.037037037037037035" count="19">naco</word>
+	<word weight="0.031189083820662766" count="16">prefix</word>
+	<word weight="0.025341130604288498" count="13">empty</word>
+	<word weight="0.023391812865497075" count="12">sync</word>
+	<word weight="0.023391812865497075" count="12">remote</word>
+	<word weight="0.023391812865497075" count="12">timeout</word>
+	<word weight="0.023391812865497075" count="12">poll</word>
+	<word weight="0.023391812865497075" count="12">encode</word>
+	<word weight="0.023391812865497075" count="12">max</word>
+	<word weight="0.023391812865497075" count="12">time</word>
+	<word weight="0.023391812865497075" count="12">enable</word>
+	<word weight="0.01949317738791423" count="10">password</word>
+  </topic>
+  <topic id="4" alpha="0.04270457924375032" totalTokens="149" titles="false, type, code, flag, ignore, field, bind, property, true, invalid">
+	<word weight="0.10067114093959731" count="15">false</word>
+	<word weight="0.09395973154362416" count="14">type</word>
+	<word weight="0.06711409395973154" count="10">code</word>
+	<word weight="0.06040268456375839" count="9">flag</word>
+	<word weight="0.053691275167785234" count="8">ignore</word>
+	<word weight="0.04697986577181208" count="7">field</word>
+	<word weight="0.040268456375838924" count="6">bind</word>
+	<word weight="0.040268456375838924" count="6">property</word>
+	<word weight="0.040268456375838924" count="6">true</word>
+	<word weight="0.03355704697986577" count="5">invalid</word>
+	<word weight="0.026845637583892617" count="4">unknown</word>
+	<word weight="0.026845637583892617" count="4">refresh</word>
+	<word weight="0.026845637583892617" count="4">auto</word>
+	<word weight="0.026845637583892617" count="4">configuration</word>
+	<word weight="0.020134228187919462" count="3">object</word>
+	<word weight="0.020134228187919462" count="3">deprecate</word>
+	<word weight="0.020134228187919462" count="3">set</word>
+	<word weight="0.020134228187919462" count="3">naco</word>
+	<word weight="0.020134228187919462" count="3">expression</word>
+	<word weight="0.020134228187919462" count="3">change</word>
+	<phrase weight="0.06666666666666667" count="1">auto refresh</phrase>
+	<phrase weight="0.06666666666666667" count="1">actual expression system property prop expression</phrase>
+	<phrase weight="0.06666666666666667" count="1">true flag exception</phrase>
+	<phrase weight="0.06666666666666667" count="1">expression json property</phrase>
+	<phrase weight="0.06666666666666667" count="1">type set</phrase>
+	<phrase weight="0.06666666666666667" count="1">validator validation fail set false validation error</phrase>
+	<phrase weight="0.06666666666666667" count="1">true exception invalid true</phrase>
+	<phrase weight="0.06666666666666667" count="1">type code false code deprecate</phrase>
+	<phrase weight="0.06666666666666667" count="1">configuration change code false code auto refresh false flag bind object invalid field ignore invalid</phrase>
+	<phrase weight="0.06666666666666667" count="1">code code</phrase>
+	<phrase weight="0.06666666666666667" count="1">binder field wrong type coerce correct</phrase>
+	<phrase weight="0.06666666666666667" count="1">flag false ignore invalid field false flag bind object field period ignore flag false ignore nest</phrase>
+	<phrase weight="0.06666666666666667" count="1">annotation type</phrase>
+	<phrase weight="0.06666666666666667" count="1">flag true ignore unknown</phrase>
+	<phrase weight="0.06666666666666667" count="1">false flag bind object unknown field ignore unknown field sign</phrase>
+  </topic>
+  <topic id="5" alpha="0.016273465793118787" totalTokens="313" titles="type, hint, input, datum, define, argument, extraction, link, function, explicit">
+	<word weight="0.11501597444089456" count="36">type</word>
+	<word weight="0.08626198083067092" count="27">hint</word>
+	<word weight="0.0670926517571885" count="21">input</word>
+	<word weight="0.06070287539936102" count="19">datum</word>
+	<word weight="0.051118210862619806" count="16">define</word>
+	<word weight="0.04792332268370607" count="15">argument</word>
+	<word weight="0.04472843450479233" count="14">extraction</word>
+	<word weight="0.04472843450479233" count="14">link</word>
+	<word weight="0.038338658146964855" count="12">function</word>
+	<word weight="0.025559105431309903" count="8">explicit</word>
+	<word weight="0.025559105431309903" count="8">reflection</word>
+	<word weight="0.025559105431309903" count="8">base</word>
+	<word weight="0.019169329073482427" count="6">explicitly</word>
+	<word weight="0.01597444089456869" count="5">output</word>
+	<word weight="0.01597444089456869" count="5">undefined</word>
+	<word weight="0.01597444089456869" count="5">list</word>
+	<word weight="0.012779552715654952" count="4">arg</word>
+	<word weight="0.012779552715654952" count="4">var</word>
+	<word weight="0.012779552715654952" count="4">give</word>
+	<word weight="0.012779552715654952" count="4">note</word>
+	<phrase weight="0.08" count="2">argument datum</phrase>
+	<phrase weight="0.08" count="2">var arg</phrase>
+	<phrase weight="0.04" count="1">hint input</phrase>
+	<phrase weight="0.04" count="1">reflection base extraction</phrase>
+	<phrase weight="0.04" count="1">enter leave</phrase>
+	<phrase weight="0.04" count="1">type hint enrich input argument logical</phrase>
+	<phrase weight="0.04" count="1">unknown define</phrase>
+	<phrase weight="0.04" count="1">hint function hint note implementer support annotation annotation parameter representation</phrase>
+	<phrase weight="0.04" count="1">type link</phrase>
+	<phrase weight="0.04" count="1">hint datum</phrase>
+	<phrase weight="0.04" count="1">eval datum</phrase>
+	<phrase weight="0.04" count="1">link logical</phrase>
+	<phrase weight="0.04" count="1">function hint argument</phrase>
+	<phrase weight="0.04" count="1">entire reflection base extraction argument link var arg link argument manually require datum type hint input datum type hint define argument type define link input treat variable length argument link input define argument type var arg link input define reflection base extraction</phrase>
+	<phrase weight="0.04" count="1">order merge multi level annotation explicitly list argument type function input explicit input type undefined reflection base extraction note input argument manually</phrase>
+	<phrase weight="0.04" count="1">output datum</phrase>
+	<phrase weight="0.04" count="1">argument explicitly define intermediate result type function accumulator explicit accumulator type undefined reflection base extraction datum type hint accumulator datum</phrase>
+	<phrase weight="0.04" count="1">function hint input datum</phrase>
+	<phrase weight="0.04" count="1">explicitly list argument function input link input define explicit argument undefined parameter provide argument link input define reflection base extraction</phrase>
+	<phrase weight="0.04" count="1">explicit datum</phrase>
+  </topic>
+  <topic id="6" alpha="0.029480954769828704" totalTokens="306" titles="fallback, method, exception, type, block, handler, throwable, code, nonbinding, ignore">
+	<word weight="0.0784313725490196" count="24">fallback</word>
+	<word weight="0.0718954248366013" count="22">method</word>
+	<word weight="0.06862745098039216" count="21">exception</word>
+	<word weight="0.05555555555555555" count="17">type</word>
+	<word weight="0.05228758169934641" count="16">block</word>
+	<word weight="0.049019607843137254" count="15">handler</word>
+	<word weight="0.042483660130718956" count="13">throwable</word>
+	<word weight="0.0392156862745098" count="12">code</word>
+	<word weight="0.032679738562091505" count="10">nonbinding</word>
+	<word weight="0.032679738562091505" count="10">ignore</word>
+	<word weight="0.029411764705882353" count="9">string</word>
+	<word weight="0.026143790849673203" count="8">entry</word>
+	<word weight="0.026143790849673203" count="8">resource</word>
+	<word weight="0.026143790849673203" count="8">set</word>
+	<word weight="0.026143790849673203" count="8">empty</word>
+	<word weight="0.0196078431372549" count="6">trace</word>
+	<word weight="0.0196078431372549" count="6">note</word>
+	<word weight="0.0196078431372549" count="6">exist</word>
+	<word weight="0.0196078431372549" count="6">share</word>
+	<word weight="0.0196078431372549" count="6">original</word>
+	<phrase weight="0.09090909090909091" count="1">retention retention</phrase>
+	<phrase weight="0.09090909090909091" count="1">inbound outbound outbound nonbinding entry type entry type entry type classification type resource nonbinding resource</phrase>
+	<phrase weight="0.09090909090909091" count="1">type compatible original method fallback method empty string fallback code fallback locate original method method share signature intend set fallback user set fallback function exist note share fallback method fallback method locate single fallback list exception trace link throwable extend throwable exception trace throwable exception ignore note code exception trace code exception ignore time code exception ignore higher precedence list exception ignore empty</phrase>
+	<phrase weight="0.09090909090909091" count="1">bind interceptor bind</phrase>
+	<phrase weight="0.09090909090909091" count="1">classification type resource resource type block exception function empty string block handler code block handler locate original method method share signature intend set block handler user set block handler exist note block handler method block handler exist provide block handler fallback function empty string fallback code fallback universal fallback method accept</phrase>
+	<phrase weight="0.09090909090909091" count="1">inherit sentinel resource bind sentinel resource nonbinding string entry</phrase>
+	<phrase weight="0.09090909090909091" count="1">inherit sentinel resource sentinel resource string entry type inbound outbound outbound entry type entry type entry</phrase>
+	<phrase weight="0.09090909090909091" count="1">block exception function empty nonbinding string block handler code block handler locate original method method share signature intend set block handler user set block handler exist note block handler method block handler exist provide nonbinding block handler fallback function empty nonbinding string fallback code fallback universal fallback method accept</phrase>
+	<phrase weight="0.09090909090909091" count="1">type type retention retention</phrase>
+	<phrase weight="0.09090909090909091" count="1">throwable throwable</phrase>
+	<phrase weight="0.09090909090909091" count="1">type method</phrase>
+  </topic>
+  <topic id="7" alpha="0.01929888207293348" totalTokens="122" titles="key, code, interested, listener, prefix, change, application, notify, time, unit">
+	<word weight="0.14754098360655737" count="18">key</word>
+	<word weight="0.09016393442622951" count="11">code</word>
+	<word weight="0.08196721311475409" count="10">interested</word>
+	<word weight="0.07377049180327869" count="9">listener</word>
+	<word weight="0.05737704918032787" count="7">prefix</word>
+	<word weight="0.05737704918032787" count="7">change</word>
+	<word weight="0.04918032786885246" count="6">application</word>
+	<word weight="0.040983606557377046" count="5">notify</word>
+	<word weight="0.040983606557377046" count="5">time</word>
+	<word weight="0.040983606557377046" count="5">unit</word>
+	<word weight="0.040983606557377046" count="5">lock</word>
+	<word weight="0.03278688524590164" count="4">spring</word>
+	<word weight="0.03278688524590164" count="4">start</word>
+	<word weight="0.03278688524590164" count="4">namespace</word>
+	<word weight="0.02459016393442623" count="3">config</word>
+	<word weight="0.01639344262295082" count="2">apollo</word>
+	<word weight="0.01639344262295082" count="2">lease</word>
+	<word weight="0.01639344262295082" count="2">locker</word>
+	<word weight="0.01639344262295082" count="2">retention</word>
+	<word weight="0.00819672131147541" count="1">port</word>
+	<phrase weight="0.14285714285714285" count="1">interested key key prefix listener interested notify change key start prefix prefix simply determine code listener notify code change key start prefix spring code listener interested key start spring spring banner spring jpa application code listener interested key start application application application port code interested key code interested key prefix code listener notify key change</phrase>
+	<phrase weight="0.14285714285714285" count="1">key code unit locker lock locker lock wait time</phrase>
+	<phrase weight="0.14285714285714285" count="1">namespace lock</phrase>
+	<phrase weight="0.14285714285714285" count="1">change listener retention</phrase>
+	<phrase weight="0.14285714285714285" count="1">unit lease time lease time time unit unit time unit seconds fair</phrase>
+	<phrase weight="0.14285714285714285" count="1">config namespace application key interest listener notify interested key change code interested key code interested key prefix code listener notify key change</phrase>
+	<phrase weight="0.14285714285714285" count="1">config change listener apollo namespace config application</phrase>
+  </topic>
+  <topic id="8" alpha="0.005354375304696886" totalTokens="480" titles="type, raw, datum, code, serializer, decimal, sql, extract, precision, parameter">
+	<word weight="0.12708333333333333" count="61">type</word>
+	<word weight="0.07291666666666667" count="35">raw</word>
+	<word weight="0.058333333333333334" count="28">datum</word>
+	<word weight="0.029166666666666667" count="14">code</word>
+	<word weight="0.027083333333333334" count="13">serializer</word>
+	<word weight="0.025" count="12">decimal</word>
+	<word weight="0.020833333333333332" count="10">sql</word>
+	<word weight="0.020833333333333332" count="10">extract</word>
+	<word weight="0.020833333333333332" count="10">precision</word>
+	<word weight="0.020833333333333332" count="10">parameter</word>
+	<word weight="0.01875" count="9">pattern</word>
+	<word weight="0.01875" count="9">group</word>
+	<word weight="0.01875" count="9">link</word>
+	<word weight="0.016666666666666666" count="8">define</word>
+	<word weight="0.016666666666666666" count="8">data</word>
+	<word weight="0.014583333333333334" count="7">enable</word>
+	<word weight="0.0125" count="6">version</word>
+	<word weight="0.0125" count="6">opaque</word>
+	<word weight="0.0125" count="6">error</word>
+	<word weight="0.0125" count="6">prefix</word>
+	<phrase weight="0.028169014084507043" count="2">empty exception</phrase>
+	<phrase weight="0.028169014084507043" count="2">prefix code</phrase>
+	<phrase weight="0.028169014084507043" count="2">version version</phrase>
+	<phrase weight="0.014084507042253521" count="1">extract datum</phrase>
+	<phrase weight="0.014084507042253521" count="1">joda time handle structured type effort basis raw</phrase>
+	<phrase weight="0.014084507042253521" count="1">parameter highest precedence datum type</phrase>
+	<phrase weight="0.014084507042253521" count="1">serializer hint flag raw globally</phrase>
+	<phrase weight="0.014084507042253521" count="1">type helpful identify fix faulty implementation generally recommend sql type enable raw opaque type raw</phrase>
+	<phrase weight="0.014084507042253521" count="1">datum type specification</phrase>
+	<phrase weight="0.014084507042253521" count="1">raw raw serializer custom serializer empty string represent</phrase>
+	<phrase weight="0.014084507042253521" count="1">raw pattern define raw data type start equal</phrase>
+	<phrase weight="0.014084507042253521" count="1">highest precedence</phrase>
+	<phrase weight="0.014084507042253521" count="1">unparameterized code raw string possibly nest field structured type handle opaque</phrase>
+	<phrase weight="0.014084507042253521" count="1">logical type support</phrase>
+	<phrase weight="0.014084507042253521" count="1">avoid enable designate area prefix link raw pattern</phrase>
+	<phrase weight="0.014084507042253521" count="1">scale decimal datum type extract decimal extract link java math big decimal don define fix precision scale</phrase>
+	<phrase weight="0.014084507042253521" count="1">raw bridge custom custom raw serializer code data</phrase>
+	<phrase weight="0.014084507042253521" count="1">pre code expect integer</phrase>
+	<phrase weight="0.014084507042253521" count="1">joda time java math big decimal joda time</phrase>
+	<phrase weight="0.014084507042253521" count="1">opaque datum type</phrase>
+  </topic>
+  <topic id="9" alpha="0.03366571095454269" totalTokens="155" titles="naco, property, config, link, group, converter, datum, global, attribute, yaml">
+	<word weight="0.2" count="31">naco</word>
+	<word weight="0.1935483870967742" count="30">property</word>
+	<word weight="0.11612903225806452" count="18">config</word>
+	<word weight="0.08387096774193549" count="13">link</word>
+	<word weight="0.07096774193548387" count="11">group</word>
+	<word weight="0.03225806451612903" count="5">converter</word>
+	<word weight="0.025806451612903226" count="4">datum</word>
+	<word weight="0.01935483870967742" count="3">global</word>
+	<word weight="0.01935483870967742" count="3">attribute</word>
+	<word weight="0.012903225806451613" count="2">yaml</word>
+	<word weight="0.012903225806451613" count="2">execution</word>
+	<word weight="0.012903225806451613" count="2">require</word>
+	<word weight="0.012903225806451613" count="2">constant</word>
+	<word weight="0.012903225806451613" count="2">inject</word>
+	<word weight="0.012903225806451613" count="2">listener</word>
+	<word weight="0.0064516129032258064" count="1">caller</word>
+	<word weight="0.0064516129032258064" count="1">propagate</word>
+	<word weight="0.0064516129032258064" count="1">swallow</word>
+	<word weight="0.0064516129032258064" count="1">raise</word>
+	<word weight="0.0064516129032258064" count="1">mistake</word>
+	<phrase weight="0.1" count="2">property config</phrase>
+	<phrase weight="0.05" count="1">datum naco config type property config</phrase>
+	<phrase weight="0.05" count="1">prevent time block execution impact</phrase>
+	<phrase weight="0.05" count="1">implementation link naco config converter</phrase>
+	<phrase weight="0.05" count="1">property property naco</phrase>
+	<phrase weight="0.05" count="1">config style link config</phrase>
+	<phrase weight="0.05" count="1">group group</phrase>
+	<phrase weight="0.05" count="1">group group naco datum require</phrase>
+	<phrase weight="0.05" count="1">config listener naco group link constant group</phrase>
+	<phrase weight="0.05" count="1">property link naco config converter naco configuraion</phrase>
+	<phrase weight="0.05" count="1">spring property</phrase>
+	<phrase weight="0.05" count="1">naco group link constant group</phrase>
+	<phrase weight="0.05" count="1">propagate caller</phrase>
+	<phrase weight="0.05" count="1">property property</phrase>
+	<phrase weight="0.05" count="1">datum require</phrase>
+	<phrase weight="0.05" count="1">naco config converter converter naco config converter link naco property attribute global naco property link naco property naco property property naco property maximum</phrase>
+	<phrase weight="0.05" count="1">config registrar</phrase>
+	<phrase weight="0.05" count="1">naco property attribute global naco</phrase>
+	<phrase weight="0.05" count="1">link naco</phrase>
+  </topic>
+</topics>

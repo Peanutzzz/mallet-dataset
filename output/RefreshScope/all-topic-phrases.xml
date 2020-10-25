@@ -1,0 +1,171 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.026671286988768122" totalTokens="8" titles="log, audit, redis, logger, type, ">
+	<word weight="0.375" count="3">log</word>
+	<word weight="0.25" count="2">audit</word>
+	<word weight="0.125" count="1">redis</word>
+	<word weight="0.125" count="1">logger</word>
+	<word weight="0.125" count="1">type</word>
+  </topic>
+  <topic id="1" alpha="0.022038319184210623" totalTokens="29" titles="fill, time, update, true, auto, field, create, mybatis, enable, string">
+	<word weight="0.1724137931034483" count="5">fill</word>
+	<word weight="0.13793103448275862" count="4">time</word>
+	<word weight="0.10344827586206896" count="3">update</word>
+	<word weight="0.10344827586206896" count="3">true</word>
+	<word weight="0.10344827586206896" count="3">auto</word>
+	<word weight="0.06896551724137931" count="2">field</word>
+	<word weight="0.06896551724137931" count="2">create</word>
+	<word weight="0.06896551724137931" count="2">mybatis</word>
+	<word weight="0.06896551724137931" count="2">enable</word>
+	<word weight="0.06896551724137931" count="2">string</word>
+	<word weight="0.034482758620689655" count="1">insert</word>
+	<phrase weight="0.5" count="2">auto fill</phrase>
+	<phrase weight="0.25" count="1">enable true</phrase>
+	<phrase weight="0.25" count="1">mybatis auto fill</phrase>
+  </topic>
+  <topic id="2" alpha="9.652322594791009E-203" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="0.0236460568873689" totalTokens="25" titles="integer, connect, pool, time, max, rest, route, num, request, connection">
+	<word weight="0.2" count="5">integer</word>
+	<word weight="0.12" count="3">connect</word>
+	<word weight="0.12" count="3">pool</word>
+	<word weight="0.12" count="3">time</word>
+	<word weight="0.08" count="2">max</word>
+	<word weight="0.08" count="2">rest</word>
+	<word weight="0.04" count="1">route</word>
+	<word weight="0.04" count="1">num</word>
+	<word weight="0.04" count="1">request</word>
+	<word weight="0.04" count="1">connection</word>
+	<word weight="0.04" count="1">client</word>
+	<word weight="0.04" count="1">elasticsearch</word>
+	<word weight="0.04" count="1">getter</word>
+	<phrase weight="0.3333333333333333" count="1">rest pool</phrase>
+	<phrase weight="0.3333333333333333" count="1">rest client pool</phrase>
+	<phrase weight="0.3333333333333333" count="1">integer connect time integer</phrase>
+  </topic>
+  <topic id="4" alpha="0.029627532327782174" totalTokens="122" titles="map, list, timeout, command, node, cluster, seconds, expire, redis, string">
+	<word weight="0.09016393442622951" count="11">map</word>
+	<word weight="0.09016393442622951" count="11">list</word>
+	<word weight="0.07377049180327869" count="9">timeout</word>
+	<word weight="0.07377049180327869" count="9">command</word>
+	<word weight="0.07377049180327869" count="9">node</word>
+	<word weight="0.07377049180327869" count="9">cluster</word>
+	<word weight="0.07377049180327869" count="9">seconds</word>
+	<word weight="0.07377049180327869" count="9">expire</word>
+	<word weight="0.05737704918032787" count="7">redis</word>
+	<word weight="0.05737704918032787" count="7">string</word>
+	<word weight="0.04918032786885246" count="6">config</word>
+	<word weight="0.040983606557377046" count="5">sample</word>
+	<word weight="0.040983606557377046" count="5">logger</word>
+	<word weight="0.02459016393442623" count="3">set</word>
+	<word weight="0.01639344262295082" count="2">initialize</word>
+	<word weight="0.01639344262295082" count="2">link</word>
+	<word weight="0.01639344262295082" count="2">cache</word>
+	<word weight="0.00819672131147541" count="1">format</word>
+	<word weight="0.00819672131147541" count="1">info</word>
+	<word weight="0.00819672131147541" count="1">construct</word>
+	<phrase weight="0.16666666666666666" count="1">construct initialize logger info sample redis config initialize expire seconds cluster node command timeout map list expire seconds cluster node command timeout map list set expire seconds expire seconds expire seconds expire seconds set cluster node</phrase>
+	<phrase weight="0.16666666666666666" count="1">map map link hash map list string list list link list</phrase>
+	<phrase weight="0.16666666666666666" count="1">map map list string list list</phrase>
+	<phrase weight="0.16666666666666666" count="1">cluster node cluster node cluster node set command timeout command timeout command timeout command timeout map string</phrase>
+	<phrase weight="0.16666666666666666" count="1">sample redis config logger logger logger factory logger sample redis config expire seconds string cluster node command timeout map</phrase>
+	<phrase weight="0.16666666666666666" count="1">redis cache component sample redis config</phrase>
+  </topic>
+  <topic id="5" alpha="0.028376160528940327" totalTokens="59" titles="route, generate, size, ignore, swagger, set, string, hash, doc, api">
+	<word weight="0.2711864406779661" count="16">route</word>
+	<word weight="0.11864406779661017" count="7">generate</word>
+	<word weight="0.1016949152542373" count="6">size</word>
+	<word weight="0.1016949152542373" count="6">ignore</word>
+	<word weight="0.0847457627118644" count="5">swagger</word>
+	<word weight="0.06779661016949153" count="4">set</word>
+	<word weight="0.05084745762711865" count="3">string</word>
+	<word weight="0.03389830508474576" count="2">hash</word>
+	<word weight="0.03389830508474576" count="2">doc</word>
+	<word weight="0.03389830508474576" count="2">api</word>
+	<word weight="0.03389830508474576" count="2">agg</word>
+	<word weight="0.01694915254237288" count="1">version</word>
+	<word weight="0.01694915254237288" count="1">path</word>
+	<word weight="0.01694915254237288" count="1">json</word>
+	<word weight="0.01694915254237288" count="1">true</word>
+	<phrase weight="0.25" count="1">swagger json string api doc path api doc swagger</phrase>
+	<phrase weight="0.25" count="1">route generate route size generate route size ignore route size ignore route size generate route size generate route route</phrase>
+	<phrase weight="0.25" count="1">swagger version generate route ignore route set string generate route hash set generate route set string ignore route hash set</phrase>
+	<phrase weight="0.25" count="1">ignore route size ignore route route</phrase>
+  </topic>
+  <topic id="6" alpha="0.023710295037327564" totalTokens="23" titles="list, mapper, user, sql, array, tenant, ignore, find, central, table">
+	<word weight="0.21739130434782608" count="5">list</word>
+	<word weight="0.13043478260869565" count="3">mapper</word>
+	<word weight="0.08695652173913043" count="2">user</word>
+	<word weight="0.08695652173913043" count="2">sql</word>
+	<word weight="0.08695652173913043" count="2">array</word>
+	<word weight="0.08695652173913043" count="2">tenant</word>
+	<word weight="0.08695652173913043" count="2">ignore</word>
+	<word weight="0.043478260869565216" count="1">find</word>
+	<word weight="0.043478260869565216" count="1">central</word>
+	<word weight="0.043478260869565216" count="1">table</word>
+	<word weight="0.043478260869565216" count="1">prefix</word>
+	<word weight="0.043478260869565216" count="1">configuration</word>
+	<phrase weight="1.0" count="1">ignore table array list sql mapper central user mapper user mapper find list list</phrase>
+  </topic>
+  <topic id="7" alpha="0.02320075115700236" totalTokens="13" titles="code, auth, validate, permit, security, ignore, ">
+	<word weight="0.23076923076923078" count="3">code</word>
+	<word weight="0.23076923076923078" count="3">auth</word>
+	<word weight="0.15384615384615385" count="2">validate</word>
+	<word weight="0.15384615384615385" count="2">permit</word>
+	<word weight="0.15384615384615385" count="2">security</word>
+	<word weight="0.07692307692307693" count="1">ignore</word>
+	<phrase weight="0.25" count="1">validate code</phrase>
+	<phrase weight="0.25" count="1">auth auth</phrase>
+	<phrase weight="0.25" count="1">code validate code</phrase>
+	<phrase weight="0.25" count="1">ignore permit</phrase>
+  </topic>
+  <topic id="8" alpha="0.021528847083960606" totalTokens="19" titles="oss, fdf, fast, server, file, type, fastdf, aliyun, qiniu, refresh">
+	<word weight="0.3157894736842105" count="6">oss</word>
+	<word weight="0.10526315789473684" count="2">fdf</word>
+	<word weight="0.10526315789473684" count="2">fast</word>
+	<word weight="0.10526315789473684" count="2">server</word>
+	<word weight="0.10526315789473684" count="2">file</word>
+	<word weight="0.05263157894736842" count="1">type</word>
+	<word weight="0.05263157894736842" count="1">fastdf</word>
+	<word weight="0.05263157894736842" count="1">aliyun</word>
+	<word weight="0.05263157894736842" count="1">qiniu</word>
+	<word weight="0.05263157894736842" count="1">refresh</word>
+	<phrase weight="0.2" count="1">type oss oss</phrase>
+	<phrase weight="0.2" count="1">oss oss</phrase>
+	<phrase weight="0.2" count="1">server refresh</phrase>
+	<phrase weight="0.2" count="1">file server</phrase>
+	<phrase weight="0.2" count="1">qiniu oss aliyun oss fastdf fast</phrase>
+  </topic>
+  <topic id="9" alpha="0.40123667043701994" totalTokens="128" titles="property, string, scope, refresh, zlt, configuration, setter, getter, prefix, false">
+	<word weight="0.2734375" count="35">property</word>
+	<word weight="0.0859375" count="11">string</word>
+	<word weight="0.078125" count="10">scope</word>
+	<word weight="0.0703125" count="9">refresh</word>
+	<word weight="0.0703125" count="9">zlt</word>
+	<word weight="0.0703125" count="9">configuration</word>
+	<word weight="0.0703125" count="9">setter</word>
+	<word weight="0.0625" count="8">getter</word>
+	<word weight="0.0546875" count="7">prefix</word>
+	<word weight="0.0390625" count="5">false</word>
+	<word weight="0.0390625" count="5">enable</word>
+	<word weight="0.015625" count="2">trace</word>
+	<word weight="0.015625" count="2">show</word>
+	<word weight="0.015625" count="2">index</word>
+	<word weight="0.0078125" count="1">override</word>
+	<word weight="0.0078125" count="1">post</word>
+	<word weight="0.0078125" count="1">conditional</word>
+	<word weight="0.0078125" count="1">socket</word>
+	<word weight="0.0078125" count="1">fdfs</word>
+	<phrase weight="0.23529411764705882" count="4">refresh scope</phrase>
+	<phrase weight="0.11764705882352941" count="2">property enable false</phrase>
+	<phrase weight="0.11764705882352941" count="2">setter getter configuration property prefix zlt</phrase>
+	<phrase weight="0.11764705882352941" count="2">property setter getter configuration property prefix zlt</phrase>
+	<phrase weight="0.058823529411764705" count="1">property setter getter configuration property zlt</phrase>
+	<phrase weight="0.058823529411764705" count="1">setter getter</phrase>
+	<phrase weight="0.058823529411764705" count="1">configuration property prefix zlt</phrase>
+	<phrase weight="0.058823529411764705" count="1">fdfs property</phrase>
+	<phrase weight="0.058823529411764705" count="1">conditional property</phrase>
+	<phrase weight="0.058823529411764705" count="1">enable configuration property</phrase>
+	<phrase weight="0.058823529411764705" count="1">property setter</phrase>
+  </topic>
+</topics>

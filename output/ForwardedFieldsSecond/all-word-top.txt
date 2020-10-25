@@ -1,0 +1,110 @@
+0 forward 1:62 0:1
+1 field 1:68 5:10 9:2
+2 neighbor 5:17
+3 component 7:22
+4 join 1:60 5:12 9:11 6:1
+5 implement 1:35
+6 function 1:36 5:15 4:12
+7 tuple 1:185 0:7 7:1
+8 override 1:39
+9 vertex 9:61 5:55 3:22 8:8
+10 edge 5:75 2:48 8:46 3:4
+11 internal 1:1
+12 flat 1:13 7:1
+13 extend 0:3 7:2
+14 rich 0:3 7:2
+15 serial 5:5 7:3
+16 version 7:3
+17 collector 1:23 2:1
+18 exception 1:38
+19 collect 1:19
+20 translation 1:2
+21 test 4:5 1:2
+22 annotation 4:8 5:4 1:3
+23 operator 4:1
+24 read 4:4
+25 dummy 4:3
+26 group 8:6 5:6 4:6 7:4
+27 integer 4:26
+28 string 4:13
+29 iterable 8:6 7:4 4:4
+30 degree 9:43
+31 output 8:21 9:18 3:11 6:5
+32 projection 2:30
+33 top 2:2
+34 simple 2:2
+35 bipartite 2:8
+36 equal 2:4
+37 bottom 2:2
+38 full 2:2
+39 vvt 2:18
+40 vvb 2:18
+41 project 5:8 3:3
+42 src 3:5 5:2
+43 source 5:7
+44 target 5:8
+45 triplet 3:17
+46 val 3:5
+47 set 3:12 9:5 5:4 6:2 1:2 8:1
+48 remove 5:1
+49 position 5:5
+50 suppress 5:4
+51 warning 5:6
+52 unchecked 5:1
+53 key 5:7
+54 apply 5:2
+55 iteration 0:5 5:2 1:1
+56 coefficient 9:2
+57 triangle 9:10 3:2
+58 count 9:10
+59 result 9:8 3:8
+60 bitmask 3:1
+61 hubbiness 6:13 1:1
+62 iterator 8:10 6:9 7:7 0:1
+63 authority 6:15 8:1
+64 normalize 6:1
+65 hub 0:1
+66 root 6:6
+67 sum 6:17 0:3
+68 square 6:17
+69 open 0:6
+70 configuration 0:3
+71 parameter 0:6
+72 collection 6:2
+73 runtime 0:5 7:1
+74 context 0:5
+75 broadcast 6:2
+76 variable 6:2
+77 math 0:5
+78 sqrt 6:2
+79 squared 6:1
+80 change 0:13
+81 score 0:13 8:1
+82 initial 0:4
+83 superstep 0:5
+84 number 0:1
+85 close 0:4
+86 aggregator 0:4
+87 agg 0:4
+88 aggregate 0:2
+89 abs 0:3
+90 send 8:1
+91 representative 5:8
+92 reuse 5:6
+93 append 5:1
+94 state 5:1
+95 message 5:8
+96 connect 7:2
+97 min 7:2
+98 update 7:3
+99 current 7:7
+100 error 7:2
+101 encounter 7:2
+102 minimum 7:10
+103 max 7:2
+104 candidate 7:15
+105 solution 7:1
+106 match 7:1
+107 mirror 7:1
+108 win 4:1
+109 execute 4:1

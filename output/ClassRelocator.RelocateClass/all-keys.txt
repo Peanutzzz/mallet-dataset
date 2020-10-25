@@ -1,0 +1,10 @@
+0	0.11143	base field relocate upgrade sublass relocator 
+1	0.06287	test paula emma nathaniel peter bar foo reconfig serializer relocate relocator upgrade 
+2	0	
+3	0.13935	field access weaker warning relocate 
+4	0.09028	color favorite age married marry warning override relocate equal green blue 
+5	0.15708	subclass field pojo upgrade schema override specification 
+6	0.0397	height age relocate 
+7	0.61606	pojo string test specification suppress upgrade relocator extend type relocate 
+8	0.0795	schema upgrade obj object hash false equal relocator code modify red weaker 
+9	0	

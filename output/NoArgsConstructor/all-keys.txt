@@ -1,0 +1,10 @@
+0	0.21875	model success error resp integer getter 
+1	0.25381	string arg serializable implement random time create 
+2	0.22607	code lombok extraction field kid list page 
+3	0.12007	demo app group constructor 
+4	0.10652	user date key 
+5	0.09128	order version serial builder 
+6	0.0967	test age 
+7	0.17587	role menu extend table getter model 
+8	0.43258	code msg result data succeed fail string integer count 
+9	1.09061	constructor arg false call hash equal setter datum util 

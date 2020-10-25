@@ -1,0 +1,10 @@
+0	5.09384	string manager environment info dependency directory tmp env system map python 
+1	0.03391	
+2	0.03391	
+3	0.03391	
+4	0.03391	
+5	0.03391	
+6	0.03391	
+7	0.03391	
+8	0.03391	
+9	0.03391	

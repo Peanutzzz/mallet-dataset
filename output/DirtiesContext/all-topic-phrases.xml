@@ -1,0 +1,132 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.04323156232733535" totalTokens="217" titles="change, test, event, namespace, server, equal, exception, apollo, key, property">
+	<word weight="0.08755760368663594" count="19">change</word>
+	<word weight="0.08755760368663594" count="19">test</word>
+	<word weight="0.059907834101382486" count="13">event</word>
+	<word weight="0.055299539170506916" count="12">namespace</word>
+	<word weight="0.041474654377880185" count="9">server</word>
+	<word weight="0.041474654377880185" count="9">equal</word>
+	<word weight="0.041474654377880185" count="9">exception</word>
+	<word weight="0.041474654377880185" count="9">apollo</word>
+	<word weight="0.03686635944700461" count="8">key</word>
+	<word weight="0.03686635944700461" count="8">property</word>
+	<word weight="0.03225806451612903" count="7">spring</word>
+	<word weight="0.027649769585253458" count="6">embed</word>
+	<word weight="0.027649769585253458" count="6">add</word>
+	<word weight="0.027649769585253458" count="6">bean</word>
+	<word weight="0.02304147465437788" count="5">modify</word>
+	<word weight="0.02304147465437788" count="5">integration</word>
+	<word weight="0.02304147465437788" count="5">context</word>
+	<word weight="0.02304147465437788" count="5">dirty</word>
+	<word weight="0.018433179723502304" count="4">millisecond</word>
+	<word weight="0.018433179723502304" count="4">time</word>
+  </topic>
+  <topic id="1" alpha="3.1767593187347798E-226" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="0.024778984833086895" totalTokens="69" titles="property, file, yaml, yml, constant, content, read, prepare, clear, system">
+	<word weight="0.17391304347826086" count="12">property</word>
+	<word weight="0.13043478260869565" count="9">file</word>
+	<word weight="0.13043478260869565" count="9">yaml</word>
+	<word weight="0.11594202898550725" count="8">yml</word>
+	<word weight="0.07246376811594203" count="5">constant</word>
+	<word weight="0.043478260869565216" count="3">content</word>
+	<word weight="0.043478260869565216" count="3">read</word>
+	<word weight="0.043478260869565216" count="3">prepare</word>
+	<word weight="0.043478260869565216" count="3">clear</word>
+	<word weight="0.043478260869565216" count="3">system</word>
+	<word weight="0.043478260869565216" count="3">run</word>
+	<word weight="0.028985507246376812" count="2">apollo</word>
+	<word weight="0.014492753623188406" count="1">execute</word>
+	<word weight="0.014492753623188406" count="1">source</word>
+	<word weight="0.014492753623188406" count="1">bean</word>
+	<word weight="0.014492753623188406" count="1">namespace</word>
+	<word weight="0.014492753623188406" count="1">conditional</word>
+	<word weight="0.014492753623188406" count="1">runner</word>
+	<phrase weight="0.42857142857142855" count="3">yml read yaml content</phrase>
+	<phrase weight="0.14285714285714285" count="1">prepare yaml</phrase>
+	<phrase weight="0.14285714285714285" count="1">file property yml</phrase>
+	<phrase weight="0.14285714285714285" count="1">clear property</phrase>
+	<phrase weight="0.14285714285714285" count="1">source constant</phrase>
+  </topic>
+  <topic id="3" alpha="1.288208226339108E-25" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="0.007365534517348168" totalTokens="50" titles="processor, post, load, apollo, environment, list, eager, system, input, loader">
+	<word weight="0.12" count="6">processor</word>
+	<word weight="0.08" count="4">post</word>
+	<word weight="0.08" count="4">load</word>
+	<word weight="0.08" count="4">apollo</word>
+	<word weight="0.06" count="3">environment</word>
+	<word weight="0.06" count="3">list</word>
+	<word weight="0.06" count="3">eager</word>
+	<word weight="0.06" count="3">system</word>
+	<word weight="0.04" count="2">input</word>
+	<word weight="0.04" count="2">loader</word>
+	<word weight="0.04" count="2">factory</word>
+	<word weight="0.04" count="2">mock</word>
+	<word weight="0.02" count="1">empty</word>
+	<word weight="0.02" count="1">initializer</word>
+	<word weight="0.02" count="1">apply</word>
+	<word weight="0.02" count="1">override</word>
+	<word weight="0.02" count="1">predicate</word>
+	<word weight="0.02" count="1">filter</word>
+	<word weight="0.02" count="1">collections</word>
+	<word weight="0.02" count="1">tear</word>
+	<phrase weight="0.16666666666666666" count="1">collections filter processor list predicate environment post processor override apply environment post processor input input apollo</phrase>
+	<phrase weight="0.16666666666666666" count="1">environment post processor processor list</phrase>
+	<phrase weight="0.16666666666666666" count="1">initializer empty</phrase>
+	<phrase weight="0.16666666666666666" count="1">factory loader load factory</phrase>
+	<phrase weight="0.16666666666666666" count="1">eager load</phrase>
+	<phrase weight="0.16666666666666666" count="1">post processor loader</phrase>
+  </topic>
+  <topic id="5" alpha="2.587971952237779E-228" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="5.118741427470769E-220" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="0.12113392638251684" totalTokens="827" titles="test, config, property, bean, bootstrap, set, spring, apollo, namespace, enable">
+	<word weight="0.12212817412333736" count="101">test</word>
+	<word weight="0.09310761789600967" count="77">config</word>
+	<word weight="0.08222490931076179" count="68">property</word>
+	<word weight="0.04836759371221282" count="40">bean</word>
+	<word weight="0.044740024183796856" count="37">bootstrap</word>
+	<word weight="0.037484885126964934" count="31">set</word>
+	<word weight="0.037484885126964934" count="31">spring</word>
+	<word weight="0.03506650544135429" count="29">apollo</word>
+	<word weight="0.03506650544135429" count="29">namespace</word>
+	<word weight="0.03385731559854897" count="28">enable</word>
+	<word weight="0.032648125755743655" count="27">exception</word>
+	<word weight="0.03143893591293833" count="26">source</word>
+	<word weight="0.03143893591293833" count="26">conditional</word>
+	<word weight="0.02902055622732769" count="24">mock</word>
+	<word weight="0.026602176541717048" count="22">constant</word>
+	<word weight="0.02539298669891173" count="21">system</word>
+	<word weight="0.02176541717049577" count="18">true</word>
+	<word weight="0.019347037484885126" count="16">application</word>
+	<word weight="0.016928657799274487" count="14">string</word>
+	<word weight="0.013301088270858524" count="11">clear</word>
+	<phrase weight="0.02857142857142857" count="1">apollo bootstrap enable system</phrase>
+	<phrase weight="0.02857142857142857" count="1">property property source constant apollo bootstrap namespace tear test test exception test bean true test bean</phrase>
+	<phrase weight="0.02857142857142857" count="1">apollo namespace</phrase>
+	<phrase weight="0.02857142857142857" count="1">bootstrap enable true</phrase>
+	<phrase weight="0.02857142857142857" count="1">spring boot test configuration conditional</phrase>
+	<phrase weight="0.02857142857142857" count="1">dirty context test bootstrap enable namespace conditional</phrase>
+	<phrase weight="0.02857142857142857" count="1">enable true config config</phrase>
+	<phrase weight="0.02857142857142857" count="1">source constant</phrase>
+	<phrase weight="0.02857142857142857" count="1">clear property property source constant</phrase>
+	<phrase weight="0.02857142857142857" count="1">extend spring integration test autowire required false test bean test</phrase>
+	<phrase weight="0.02857142857142857" count="1">test set</phrase>
+	<phrase weight="0.02857142857142857" count="1">exception set system set</phrase>
+	<phrase weight="0.02857142857142857" count="1">set property property source constant</phrase>
+	<phrase weight="0.02857142857142857" count="1">config config mock config mock config config namespace application config mock config apollo namespace config exception system clear property</phrase>
+	<phrase weight="0.02857142857142857" count="1">bootstrap namespace application yml</phrase>
+	<phrase weight="0.02857142857142857" count="1">apollo bootstrap enable true</phrase>
+	<phrase weight="0.02857142857142857" count="1">extend spring integration test autowire required false test bean test bean exception set system set</phrase>
+	<phrase weight="0.02857142857142857" count="1">spring unit runner spring boot test configuration conditional property dirty context test bootstrap enable namespace conditional</phrase>
+	<phrase weight="0.02857142857142857" count="1">property source constant apollo bootstrap enable true system set</phrase>
+	<phrase weight="0.02857142857142857" count="1">bootstrap enable</phrase>
+  </topic>
+  <topic id="8" alpha="1.1731964913018264E-201" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="3.108968230810674E-182" totalTokens="0" titles="">
+  </topic>
+</topics>

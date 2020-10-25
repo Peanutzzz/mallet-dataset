@@ -1,0 +1,40 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="36.07763452538696" totalTokens="53" titles="enable, app, gateway, arg, application, spring, client, feign, run, string">
+	<word weight="0.1320754716981132" count="7">enable</word>
+	<word weight="0.09433962264150944" count="5">app</word>
+	<word weight="0.09433962264150944" count="5">gateway</word>
+	<word weight="0.07547169811320754" count="4">arg</word>
+	<word weight="0.07547169811320754" count="4">application</word>
+	<word weight="0.07547169811320754" count="4">spring</word>
+	<word weight="0.07547169811320754" count="4">client</word>
+	<word weight="0.07547169811320754" count="4">feign</word>
+	<word weight="0.03773584905660377" count="2">run</word>
+	<word weight="0.03773584905660377" count="2">string</word>
+	<word weight="0.03773584905660377" count="2">main</word>
+	<word weight="0.03773584905660377" count="2">boot</word>
+	<word weight="0.03773584905660377" count="2">discovery</word>
+	<word weight="0.03773584905660377" count="2">interceptor</word>
+	<word weight="0.03773584905660377" count="2">base</word>
+	<word weight="0.018867924528301886" count="1">proxy</word>
+	<word weight="0.018867924528301886" count="1">zuul</word>
+  </topic>
+  <topic id="1" alpha="4.848502120588842E-50" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="4.848502120588842E-50" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="4.848502120588842E-50" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="4.848502120588842E-50" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="4.848502120588842E-50" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="4.848502120588842E-50" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="4.848502120588842E-50" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="4.848502120588842E-50" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="4.848502120588842E-50" totalTokens="0" titles="">
+  </topic>
+</topics>

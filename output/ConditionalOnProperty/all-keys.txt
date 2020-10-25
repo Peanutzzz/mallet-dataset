@@ -1,0 +1,10 @@
+0	0.01033	audit utf log jdbc comment general collate character source datum set varchar template property user service timestamp operation application logger 
+1	0.00556	user auth string session username web override impl sentinel service obj simple request true implement http type privilege target servlet 
+2	0.00308	lock time key unit fair string override wait lease redisson exception interrupted false prefix unlock common distribute constant client type 
+3	0.00399	docket info path swagger property list contact base url empty license bean exclude predicate api factory configurable add group string 
+4	0.01108	file info property oss path client manager bucket upload qiniu store protect override service type auth delete storage key server 
+5	0.04527	property conditional true configuration enable bean eureka configure match auto missing client server test source config processor apollo handler zlt 
+6	0.01373	naco route property config publisher dyn dynamic prefix zuul locator repository definition gateway true zlt conditional configuration autowire servlet dispatcher 
+7	0.01377	token converter key store access jwt property resource user string bean pair http set security redis principal additional authentication factory 
+8	0.00625	config redis refresh sample string list logger map timeout command node cluster seconds expire scope apollo change cache boot spring 
+9	0.01	balancer load client ribbon exchange header isolation filter request config server property vresion choose password username uri reader constant url 

@@ -1,0 +1,10 @@
+0	3.36592	url authorize server resource configuration permission security http authentication request service access configurer authorization expression authenticate set override conf extend 
+1	0.00271	
+2	0.00271	
+3	0.00271	
+4	0.00271	
+5	0.00271	
+6	0.00271	
+7	0.00271	
+8	0.00271	
+9	0.00271	

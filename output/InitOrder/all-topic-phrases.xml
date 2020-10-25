@@ -1,0 +1,136 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.04646655455032553" totalTokens="147" titles="datum, writer, flow, client, param, init, request, decoder, type, constant">
+	<word weight="0.09523809523809523" count="14">datum</word>
+	<word weight="0.09523809523809523" count="14">writer</word>
+	<word weight="0.06802721088435375" count="10">flow</word>
+	<word weight="0.06802721088435375" count="10">client</word>
+	<word weight="0.061224489795918366" count="9">param</word>
+	<word weight="0.061224489795918366" count="9">init</word>
+	<word weight="0.05442176870748299" count="8">request</word>
+	<word weight="0.05442176870748299" count="8">decoder</word>
+	<word weight="0.047619047619047616" count="7">type</word>
+	<word weight="0.047619047619047616" count="7">constant</word>
+	<word weight="0.047619047619047616" count="7">add</word>
+	<word weight="0.047619047619047616" count="7">registry</word>
+	<word weight="0.04081632653061224" count="6">response</word>
+	<word weight="0.027210884353741496" count="4">size</word>
+	<word weight="0.027210884353741496" count="4">max</word>
+	<word weight="0.027210884353741496" count="4">ping</word>
+	<word weight="0.027210884353741496" count="4">entity</word>
+	<word weight="0.02040816326530612" count="3">decode</word>
+	<word weight="0.02040816326530612" count="3">func</word>
+	<word weight="0.013605442176870748" count="2">cluster</word>
+  </topic>
+  <topic id="1" alpha="0.04112234018143053" totalTokens="32" titles="record, interval, sentinel, exist, set, retrieve, thread, init, millisecond, throwable">
+	<word weight="0.15625" count="5">record</word>
+	<word weight="0.09375" count="3">interval</word>
+	<word weight="0.09375" count="3">sentinel</word>
+	<word weight="0.0625" count="2">exist</word>
+	<word weight="0.0625" count="2">set</word>
+	<word weight="0.0625" count="2">retrieve</word>
+	<word weight="0.0625" count="2">thread</word>
+	<word weight="0.0625" count="2">init</word>
+	<word weight="0.03125" count="1">millisecond</word>
+	<word weight="0.03125" count="1">throwable</word>
+	<word weight="0.03125" count="1">run</word>
+	<word weight="0.03125" count="1">runnable</word>
+	<word weight="0.03125" count="1">fix</word>
+	<word weight="0.03125" count="1">property</word>
+	<word weight="0.03125" count="1">transport</word>
+	<word weight="0.03125" count="1">discard</word>
+	<word weight="0.03125" count="1">true</word>
+	<word weight="0.03125" count="1">factory</word>
+	<word weight="0.03125" count="1">order</word>
+	<phrase weight="1.0" count="1">thread factory sentinel</phrase>
+  </topic>
+  <topic id="2" alpha="0.045809707397252965" totalTokens="53" titles="center, command, init, func, start, log, record, canonical, info, resolve">
+	<word weight="0.24528301886792453" count="13">center</word>
+	<word weight="0.24528301886792453" count="13">command</word>
+	<word weight="0.1320754716981132" count="7">init</word>
+	<word weight="0.07547169811320754" count="4">func</word>
+	<word weight="0.05660377358490566" count="3">start</word>
+	<word weight="0.03773584905660377" count="2">log</word>
+	<word weight="0.03773584905660377" count="2">record</word>
+	<word weight="0.018867924528301886" count="1">canonical</word>
+	<word weight="0.018867924528301886" count="1">info</word>
+	<word weight="0.018867924528301886" count="1">resolve</word>
+	<word weight="0.018867924528301886" count="1">warn</word>
+	<word weight="0.018867924528301886" count="1">provider</word>
+	<word weight="0.018867924528301886" count="1">exception</word>
+	<word weight="0.018867924528301886" count="1">override</word>
+	<word weight="0.018867924528301886" count="1">implement</word>
+	<word weight="0.018867924528301886" count="1">order</word>
+  </topic>
+  <topic id="3" alpha="4.634973197171968E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="0.0452953156760236" totalTokens="133" titles="sender, interval, heartbeat, config, init, pool, func, schedule, valid, warn">
+	<word weight="0.19548872180451127" count="26">sender</word>
+	<word weight="0.18796992481203006" count="25">interval</word>
+	<word weight="0.17293233082706766" count="23">heartbeat</word>
+	<word weight="0.07518796992481203" count="10">config</word>
+	<word weight="0.06766917293233082" count="9">init</word>
+	<word weight="0.03759398496240601" count="5">pool</word>
+	<word weight="0.03759398496240601" count="5">func</word>
+	<word weight="0.03007518796992481" count="4">schedule</word>
+	<word weight="0.022556390977443608" count="3">valid</word>
+	<word weight="0.022556390977443608" count="3">send</word>
+	<word weight="0.022556390977443608" count="3">warn</word>
+	<word weight="0.022556390977443608" count="3">log</word>
+	<word weight="0.015037593984962405" count="2">task</word>
+	<word weight="0.015037593984962405" count="2">scheduler</word>
+	<word weight="0.007518796992481203" count="1">unit</word>
+	<word weight="0.007518796992481203" count="1">time</word>
+	<word weight="0.007518796992481203" count="1">invalid</word>
+	<word weight="0.007518796992481203" count="1">property</word>
+	<word weight="0.007518796992481203" count="1">string</word>
+	<word weight="0.007518796992481203" count="1">transport</word>
+	<phrase weight="0.04" count="1">sender interval</phrase>
+	<phrase weight="0.04" count="1">interval sender</phrase>
+	<phrase weight="0.04" count="1">interval config interval config sender interval sender interval</phrase>
+	<phrase weight="0.04" count="1">interval schedule heartbeat</phrase>
+	<phrase weight="0.04" count="1">sender sender heartbeat sender provider heartbeat sender sender</phrase>
+	<phrase weight="0.04" count="1">sender init func heartbeat interval</phrase>
+	<phrase weight="0.04" count="1">config property invalid sender sender</phrase>
+	<phrase weight="0.04" count="1">heartbeat sender init heartbeat interval</phrase>
+	<phrase weight="0.04" count="1">init func</phrase>
+	<phrase weight="0.04" count="1">service pool init scheduler pool pool schedule</phrase>
+	<phrase weight="0.04" count="1">log warn heartbeat sender init func warn heartbeat sender load init scheduler interval</phrase>
+	<phrase weight="0.04" count="1">warn heartbeat sender send heartbeat</phrase>
+	<phrase weight="0.04" count="1">heartbeat sender start sender</phrase>
+	<phrase weight="0.04" count="1">interval time unit</phrase>
+	<phrase weight="0.04" count="1">config heartbeat interval string interval</phrase>
+	<phrase weight="0.04" count="1">sender interval valid heartbeat</phrase>
+	<phrase weight="0.04" count="1">send task</phrase>
+	<phrase weight="0.04" count="1">init func schedule</phrase>
+	<phrase weight="0.04" count="1">heartbeat sender</phrase>
+	<phrase weight="0.04" count="1">interval interval interval</phrase>
+  </topic>
+  <topic id="5" alpha="0.04743557676820097" totalTokens="20" titles="info, executor, log, override, error, rate, configure, set, policy, oldest">
+	<word weight="0.15" count="3">info</word>
+	<word weight="0.1" count="2">executor</word>
+	<word weight="0.1" count="2">log</word>
+	<word weight="0.1" count="2">override</word>
+	<word weight="0.05" count="1">error</word>
+	<word weight="0.05" count="1">rate</word>
+	<word weight="0.05" count="1">configure</word>
+	<word weight="0.05" count="1">set</word>
+	<word weight="0.05" count="1">policy</word>
+	<word weight="0.05" count="1">oldest</word>
+	<word weight="0.05" count="1">task</word>
+	<word weight="0.05" count="1">schedule</word>
+	<word weight="0.05" count="1">heartbeat</word>
+	<word weight="0.05" count="1">canonical</word>
+	<word weight="0.05" count="1">implement</word>
+	<phrase weight="0.5" count="1">log info</phrase>
+	<phrase weight="0.5" count="1">oldest policy override</phrase>
+  </topic>
+  <topic id="6" alpha="1.934043963030356E-84" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="2.024205153950301E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="1.0239240921538602E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="2.9497324942496304E-124" totalTokens="0" titles="">
+  </topic>
+</topics>

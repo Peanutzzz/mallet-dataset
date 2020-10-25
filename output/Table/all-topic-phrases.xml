@@ -1,0 +1,363 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.02817334317185745" totalTokens="558" titles="change, time, datum, modify, create, config, date, release, data, add">
+	<word weight="0.16487455197132617" count="92">change</word>
+	<word weight="0.16129032258064516" count="90">time</word>
+	<word weight="0.13620071684587814" count="76">datum</word>
+	<word weight="0.06989247311827956" count="39">modify</word>
+	<word weight="0.06989247311827956" count="39">create</word>
+	<word weight="0.05734767025089606" count="32">config</word>
+	<word weight="0.044802867383512544" count="25">date</word>
+	<word weight="0.03942652329749104" count="22">release</word>
+	<word weight="0.02867383512544803" count="16">data</word>
+	<word weight="0.02867383512544803" count="16">add</word>
+	<word weight="0.021505376344086023" count="12">instance</word>
+	<word weight="0.021505376344086023" count="12">column</word>
+	<word weight="0.017921146953405017" count="10">pre</word>
+	<word weight="0.017921146953405017" count="10">center</word>
+	<word weight="0.017921146953405017" count="10">key</word>
+	<word weight="0.014336917562724014" count="8">delivery</word>
+	<word weight="0.012544802867383513" count="7">persist</word>
+	<word weight="0.012544802867383513" count="7">nullable</word>
+	<word weight="0.008960573476702509" count="5">protect</word>
+	<word weight="0.007168458781362007" count="4">omit</word>
+	<phrase weight="0.06521739130434782" count="3">datum change create time date datum change create time data change create time datum change create time date datum change modify time datum change modify time</phrase>
+	<phrase weight="0.06521739130434782" count="3">datum change modify time date datum change modify time data change modify time datum change modify time</phrase>
+	<phrase weight="0.043478260869565216" count="2">datum change create time nullable</phrase>
+	<phrase weight="0.043478260869565216" count="2">datum change create time</phrase>
+	<phrase weight="0.043478260869565216" count="2">datum change create time datum change create time</phrase>
+	<phrase weight="0.021739130434782608" count="1">key release key</phrase>
+	<phrase weight="0.021739130434782608" count="1">instance instance generate strategy generation type identity column</phrase>
+	<phrase weight="0.021739130434782608" count="1">datum change create time datum change create time add datum change modify time datum change modify time</phrase>
+	<phrase weight="0.021739130434782608" count="1">release key release key release key date datum change create time datum change create time</phrase>
+	<phrase weight="0.021739130434782608" count="1">datum change time date datum change modify time pre persist protect pre persist data change create time datum change create time date data change modify time datum change modify time datum change create time</phrase>
+	<phrase weight="0.021739130434782608" count="1">add release key release key add datum change create time datum change create time add datum change modify time datum change modify time</phrase>
+	<phrase weight="0.021739130434782608" count="1">center datum center</phrase>
+	<phrase weight="0.021739130434782608" count="1">date datum change create time</phrase>
+	<phrase weight="0.021739130434782608" count="1">config instance config generate strategy generation type identity</phrase>
+	<phrase weight="0.021739130434782608" count="1">datum center</phrase>
+	<phrase weight="0.021739130434782608" count="1">data change modify time datum change modify time data change create time</phrase>
+	<phrase weight="0.021739130434782608" count="1">date release delivery time</phrase>
+	<phrase weight="0.021739130434782608" count="1">datum change modify time datum change modify time</phrase>
+	<phrase weight="0.021739130434782608" count="1">date datum change create time column datum change time date datum change modify time pre persist protect pre persist data change create time datum change create time date data change modify time datum change modify time datum change create time pre update protect pre</phrase>
+	<phrase weight="0.021739130434782608" count="1">key nullable</phrase>
+  </topic>
+  <topic id="1" alpha="0.02032696684168041" totalTokens="135" titles="user, enable, username, email, secret, info, password, position, string, column">
+	<word weight="0.22962962962962963" count="31">user</word>
+	<word weight="0.13333333333333333" count="18">enable</word>
+	<word weight="0.07407407407407407" count="10">username</word>
+	<word weight="0.07407407407407407" count="10">email</word>
+	<word weight="0.07407407407407407" count="10">secret</word>
+	<word weight="0.06666666666666667" count="9">info</word>
+	<word weight="0.05925925925925926" count="8">password</word>
+	<word weight="0.05925925925925926" count="8">position</word>
+	<word weight="0.05925925925925926" count="8">string</word>
+	<word weight="0.05185185185185185" count="7">column</word>
+	<word weight="0.02962962962962963" count="4">nullable</word>
+	<word weight="0.022222222222222223" count="3">favorite</word>
+	<word weight="0.022222222222222223" count="3">set</word>
+	<word weight="0.022222222222222223" count="3">access</word>
+	<word weight="0.007407407407407408" count="1">identity</word>
+	<word weight="0.007407407407407408" count="1">strategy</word>
+	<word weight="0.007407407407407408" count="1">generate</word>
+	<phrase weight="0.05263157894736842" count="1">password column email nullable</phrase>
+	<phrase weight="0.05263157894736842" count="1">enable set string username username</phrase>
+	<phrase weight="0.05263157894736842" count="1">password string password password password enable enable</phrase>
+	<phrase weight="0.05263157894736842" count="1">position position</phrase>
+	<phrase weight="0.05263157894736842" count="1">username string username username username string email email</phrase>
+	<phrase weight="0.05263157894736842" count="1">user user user</phrase>
+	<phrase weight="0.05263157894736842" count="1">enable enable</phrase>
+	<phrase weight="0.05263157894736842" count="1">email string email email email string password password</phrase>
+	<phrase weight="0.05263157894736842" count="1">string email</phrase>
+	<phrase weight="0.05263157894736842" count="1">user username user info</phrase>
+	<phrase weight="0.05263157894736842" count="1">enable enable enable enable user info user info user info user info user info user info set username user info</phrase>
+	<phrase weight="0.05263157894736842" count="1">enable nullable</phrase>
+	<phrase weight="0.05263157894736842" count="1">secret secret secret enable enable</phrase>
+	<phrase weight="0.05263157894736842" count="1">user string user user user position position</phrase>
+	<phrase weight="0.05263157894736842" count="1">user user generate strategy</phrase>
+	<phrase weight="0.05263157894736842" count="1">column enable column</phrase>
+	<phrase weight="0.05263157894736842" count="1">enable enable enable enable</phrase>
+	<phrase weight="0.05263157894736842" count="1">column username</phrase>
+	<phrase weight="0.05263157894736842" count="1">username column password nullable</phrase>
+  </topic>
+  <topic id="2" alpha="0.045876529445874246" totalTokens="265" titles="comment, key, string, entity, abandon, configuration, num, line, blank, server">
+	<word weight="0.2641509433962264" count="70">comment</word>
+	<word weight="0.15849056603773584" count="42">key</word>
+	<word weight="0.15471698113207547" count="41">string</word>
+	<word weight="0.0830188679245283" count="22">entity</word>
+	<word weight="0.03773584905660377" count="10">abandon</word>
+	<word weight="0.03773584905660377" count="10">configuration</word>
+	<word weight="0.03773584905660377" count="10">num</word>
+	<word weight="0.03773584905660377" count="10">line</word>
+	<word weight="0.03773584905660377" count="10">config</word>
+	<word weight="0.03018867924528302" count="8">blank</word>
+	<word weight="0.03018867924528302" count="8">server</word>
+	<word weight="0.022641509433962263" count="6">column</word>
+	<word weight="0.011320754716981131" count="3">integer</word>
+	<word weight="0.011320754716981131" count="3">item</word>
+	<word weight="0.011320754716981131" count="3">lob</word>
+	<word weight="0.011320754716981131" count="3">commit</word>
+	<word weight="0.011320754716981131" count="3">audit</word>
+	<word weight="0.0037735849056603774" count="1">message</word>
+	<word weight="0.0037735849056603774" count="1">cluster</word>
+	<word weight="0.0037735849056603774" count="1">sql</word>
+	<phrase weight="0.10256410256410256" count="4">comment comment comment</phrase>
+	<phrase weight="0.07692307692307693" count="3">comment comment</phrase>
+	<phrase weight="0.07692307692307693" count="3">key key</phrase>
+	<phrase weight="0.05128205128205128" count="2">entity entity</phrase>
+	<phrase weight="0.05128205128205128" count="2">key string key key key</phrase>
+	<phrase weight="0.05128205128205128" count="2">string string</phrase>
+	<phrase weight="0.05128205128205128" count="2">server config</phrase>
+	<phrase weight="0.02564102564102564" count="1">key key key</phrase>
+	<phrase weight="0.02564102564102564" count="1">configuration configuration configuration</phrase>
+	<phrase weight="0.02564102564102564" count="1">abandon abandon abandon abandon string</phrase>
+	<phrase weight="0.02564102564102564" count="1">string string comment comment</phrase>
+	<phrase weight="0.02564102564102564" count="1">blank message server config blank</phrase>
+	<phrase weight="0.02564102564102564" count="1">string comment comment comment</phrase>
+	<phrase weight="0.02564102564102564" count="1">comment string comment comment comment</phrase>
+	<phrase weight="0.02564102564102564" count="1">entity entity entity</phrase>
+	<phrase weight="0.02564102564102564" count="1">server config key blank</phrase>
+	<phrase weight="0.02564102564102564" count="1">num line num</phrase>
+	<phrase weight="0.02564102564102564" count="1">key string</phrase>
+	<phrase weight="0.02564102564102564" count="1">abandon abandon</phrase>
+	<phrase weight="0.02564102564102564" count="1">comment string</phrase>
+  </topic>
+  <topic id="3" alpha="0.03687153401079387" totalTokens="229" titles="role, permission, type, string, set, delete, privil, column, false, nullable">
+	<word weight="0.20087336244541484" count="46">role</word>
+	<word weight="0.09606986899563319" count="22">permission</word>
+	<word weight="0.08296943231441048" count="19">type</word>
+	<word weight="0.08296943231441048" count="19">string</word>
+	<word weight="0.0611353711790393" count="14">set</word>
+	<word weight="0.0611353711790393" count="14">delete</word>
+	<word weight="0.043668122270742356" count="10">privil</word>
+	<word weight="0.043668122270742356" count="10">column</word>
+	<word weight="0.039301310043668124" count="9">false</word>
+	<word weight="0.039301310043668124" count="9">nullable</word>
+	<word weight="0.039301310043668124" count="9">entity</word>
+	<word weight="0.034934497816593885" count="8">target</word>
+	<word weight="0.03056768558951965" count="7">table</word>
+	<word weight="0.026200873362445413" count="6">base</word>
+	<word weight="0.026200873362445413" count="6">extend</word>
+	<word weight="0.026200873362445413" count="6">update</word>
+	<word weight="0.021834061135371178" count="5">clause</word>
+	<word weight="0.021834061135371178" count="5">sql</word>
+	<word weight="0.013100436681222707" count="3">privilege</word>
+	<word weight="0.004366812227074236" count="1">generation</word>
+	<phrase weight="0.09090909090909091" count="2">entity table</phrase>
+	<phrase weight="0.045454545454545456" count="1">role extend base entity column</phrase>
+	<phrase weight="0.045454545454545456" count="1">table privilege</phrase>
+	<phrase weight="0.045454545454545456" count="1">type privil type set string set</phrase>
+	<phrase weight="0.045454545454545456" count="1">delete clause</phrase>
+	<phrase weight="0.045454545454545456" count="1">role role</phrase>
+	<phrase weight="0.045454545454545456" count="1">column role nullable false role</phrase>
+	<phrase weight="0.045454545454545456" count="1">type string privil type privil type privil type</phrase>
+	<phrase weight="0.045454545454545456" count="1">delete privilege extend base entity column</phrase>
+	<phrase weight="0.045454545454545456" count="1">role set delete clause delete</phrase>
+	<phrase weight="0.045454545454545456" count="1">type privil type</phrase>
+	<phrase weight="0.045454545454545456" count="1">column role nullable false role string</phrase>
+	<phrase weight="0.045454545454545456" count="1">role delete sql update</phrase>
+	<phrase weight="0.045454545454545456" count="1">sql update</phrase>
+	<phrase weight="0.045454545454545456" count="1">entity table role permission</phrase>
+	<phrase weight="0.045454545454545456" count="1">role extend base entity</phrase>
+	<phrase weight="0.045454545454545456" count="1">update privilege set delete</phrase>
+	<phrase weight="0.045454545454545456" count="1">role set role role role role</phrase>
+	<phrase weight="0.045454545454545456" count="1">string string</phrase>
+	<phrase weight="0.045454545454545456" count="1">type nullable false string privil type column</phrase>
+  </topic>
+  <topic id="4" alpha="0.014999081566978848" totalTokens="152" titles="release, branch, operation, string, rule, previous, context, status, cluster, history">
+	<word weight="0.29605263157894735" count="45">release</word>
+	<word weight="0.17105263157894737" count="26">branch</word>
+	<word weight="0.11842105263157894" count="18">operation</word>
+	<word weight="0.09210526315789473" count="14">string</word>
+	<word weight="0.07894736842105263" count="12">rule</word>
+	<word weight="0.06578947368421052" count="10">previous</word>
+	<word weight="0.05263157894736842" count="8">context</word>
+	<word weight="0.05263157894736842" count="8">status</word>
+	<word weight="0.02631578947368421" count="4">cluster</word>
+	<word weight="0.019736842105263157" count="3">history</word>
+	<word weight="0.019736842105263157" count="3">gray</word>
+	<word weight="0.006578947368421052" count="1">extend</word>
+	<phrase weight="0.09090909090909091" count="2">release release</phrase>
+	<phrase weight="0.09090909090909091" count="2">release rule</phrase>
+	<phrase weight="0.09090909090909091" count="2">operation context</phrase>
+	<phrase weight="0.09090909090909091" count="2">previous release previous release</phrase>
+	<phrase weight="0.09090909090909091" count="2">branch status</phrase>
+	<phrase weight="0.045454545454545456" count="1">release release release release branch status branch status</phrase>
+	<phrase weight="0.045454545454545456" count="1">release release release release previous release previous release</phrase>
+	<phrase weight="0.045454545454545456" count="1">operation operation</phrase>
+	<phrase weight="0.045454545454545456" count="1">branch branch branch release release</phrase>
+	<phrase weight="0.045454545454545456" count="1">branch branch</phrase>
+	<phrase weight="0.045454545454545456" count="1">branch branch branch string rule rule</phrase>
+	<phrase weight="0.045454545454545456" count="1">release rule extend</phrase>
+	<phrase weight="0.045454545454545456" count="1">previous release previous release previous release previous release operation operation</phrase>
+	<phrase weight="0.045454545454545456" count="1">operation operation operation operation string operation context operation context</phrase>
+	<phrase weight="0.045454545454545456" count="1">context string</phrase>
+	<phrase weight="0.045454545454545456" count="1">operation context operation context operation context string string</phrase>
+	<phrase weight="0.045454545454545456" count="1">rule rule rule release release</phrase>
+  </topic>
+  <topic id="5" alpha="0.02624058645631776" totalTokens="103" titles="message, format, validator, input, word, invalid, code, hash, equal, file">
+	<word weight="0.4368932038834951" count="45">message</word>
+	<word weight="0.14563106796116504" count="15">format</word>
+	<word weight="0.06796116504854369" count="7">validator</word>
+	<word weight="0.04854368932038835" count="5">input</word>
+	<word weight="0.038834951456310676" count="4">word</word>
+	<word weight="0.038834951456310676" count="4">invalid</word>
+	<word weight="0.019417475728155338" count="2">code</word>
+	<word weight="0.019417475728155338" count="2">hash</word>
+	<word weight="0.019417475728155338" count="2">equal</word>
+	<word weight="0.019417475728155338" count="2">file</word>
+	<word weight="0.019417475728155338" count="2">regexp</word>
+	<word weight="0.019417475728155338" count="2">pattern</word>
+	<word weight="0.019417475728155338" count="2">override</word>
+	<word weight="0.019417475728155338" count="2">false</word>
+	<word weight="0.009708737864077669" count="1">body</word>
+	<word weight="0.009708737864077669" count="1">object</word>
+	<word weight="0.009708737864077669" count="1">persist</word>
+	<word weight="0.009708737864077669" count="1">bit</word>
+	<word weight="0.009708737864077669" count="1">definition</word>
+	<word weight="0.009708737864077669" count="1">app</word>
+	<phrase weight="0.16666666666666666" count="3">message message</phrase>
+	<phrase weight="0.1111111111111111" count="2">format format</phrase>
+	<phrase weight="0.1111111111111111" count="2">message message message</phrase>
+	<phrase weight="0.05555555555555555" count="1">file format format</phrase>
+	<phrase weight="0.05555555555555555" count="1">word message word</phrase>
+	<phrase weight="0.05555555555555555" count="1">message input validator invalid</phrase>
+	<phrase weight="0.05555555555555555" count="1">format input validator invalid</phrase>
+	<phrase weight="0.05555555555555555" count="1">validator message invalid</phrase>
+	<phrase weight="0.05555555555555555" count="1">pattern regexp input validator</phrase>
+	<phrase weight="0.05555555555555555" count="1">regexp input validator</phrase>
+	<phrase weight="0.05555555555555555" count="1">file format</phrase>
+	<phrase weight="0.05555555555555555" count="1">validator message input validator invalid</phrase>
+	<phrase weight="0.05555555555555555" count="1">message message message override</phrase>
+	<phrase weight="0.05555555555555555" count="1">format format format</phrase>
+  </topic>
+  <topic id="6" alpha="0.01038547606033932" totalTokens="203" titles="owner, org, string, email, app, builder, blank, nullable, set, false">
+	<word weight="0.24630541871921183" count="50">owner</word>
+	<word weight="0.23645320197044334" count="48">org</word>
+	<word weight="0.13793103448275862" count="28">string</word>
+	<word weight="0.12315270935960591" count="25">email</word>
+	<word weight="0.09852216748768473" count="20">app</word>
+	<word weight="0.054187192118226604" count="11">builder</word>
+	<word weight="0.03940886699507389" count="8">blank</word>
+	<word weight="0.024630541871921183" count="5">nullable</word>
+	<word weight="0.019704433497536946" count="4">set</word>
+	<word weight="0.014778325123152709" count="3">false</word>
+	<word weight="0.0049261083743842365" count="1">build</word>
+	<phrase weight="0.09523809523809523" count="4">org org</phrase>
+	<phrase weight="0.07142857142857142" count="3">owner email</phrase>
+	<phrase weight="0.047619047619047616" count="2">org org org</phrase>
+	<phrase weight="0.047619047619047616" count="2">owner owner</phrase>
+	<phrase weight="0.047619047619047616" count="2">org nullable</phrase>
+	<phrase weight="0.047619047619047616" count="2">string org</phrase>
+	<phrase weight="0.047619047619047616" count="2">owner blank</phrase>
+	<phrase weight="0.047619047619047616" count="2">owner string owner owner owner</phrase>
+	<phrase weight="0.023809523809523808" count="1">owner email owner email app build</phrase>
+	<phrase weight="0.023809523809523808" count="1">owner owner builder owner email</phrase>
+	<phrase weight="0.023809523809523808" count="1">owner email owner email owner email</phrase>
+	<phrase weight="0.023809523809523808" count="1">app blank</phrase>
+	<phrase weight="0.023809523809523808" count="1">set org</phrase>
+	<phrase weight="0.023809523809523808" count="1">org org string org org</phrase>
+	<phrase weight="0.023809523809523808" count="1">owner email owner email string owner owner</phrase>
+	<phrase weight="0.023809523809523808" count="1">org string org org org set owner email string owner email owner email owner email</phrase>
+	<phrase weight="0.023809523809523808" count="1">nullable false string app</phrase>
+	<phrase weight="0.023809523809523808" count="1">owner app</phrase>
+	<phrase weight="0.023809523809523808" count="1">owner email blank</phrase>
+	<phrase weight="0.023809523809523808" count="1">owner email owner email string builder builder</phrase>
+  </topic>
+  <topic id="7" alpha="0.226248139070433" totalTokens="1206" titles="string, app, set, namespace, cluster, column, false, add, nullable, delete">
+	<word weight="0.1724709784411277" count="208">string</word>
+	<word weight="0.10945273631840796" count="132">app</word>
+	<word weight="0.10862354892205639" count="131">set</word>
+	<word weight="0.087893864013267" count="106">namespace</word>
+	<word weight="0.07711442786069651" count="93">cluster</word>
+	<word weight="0.07213930348258707" count="87">column</word>
+	<word weight="0.06550580431177445" count="79">false</word>
+	<word weight="0.06218905472636816" count="75">add</word>
+	<word weight="0.05472636815920398" count="66">nullable</word>
+	<word weight="0.04311774461028192" count="52">delete</word>
+	<word weight="0.020729684908789386" count="25">entity</word>
+	<word weight="0.017412935323383085" count="21">table</word>
+	<word weight="0.01658374792703151" count="20">helper</word>
+	<word weight="0.014925373134328358" count="18">clause</word>
+	<word weight="0.014925373134328358" count="18">update</word>
+	<word weight="0.014096185737976783" count="17">base</word>
+	<word weight="0.013266998341625208" count="16">extend</word>
+	<word weight="0.013266998341625208" count="16">sql</word>
+	<word weight="0.008291873963515755" count="10">parent</word>
+	<word weight="0.004975124378109453" count="6">override</word>
+	<phrase weight="0.08670520231213873" count="15">nullable false</phrase>
+	<phrase weight="0.06936416184971098" count="12">nullable false string</phrase>
+	<phrase weight="0.057803468208092484" count="10">set delete clause delete</phrase>
+	<phrase weight="0.04046242774566474" count="7">delete sql update</phrase>
+	<phrase weight="0.03468208092485549" count="6">extend base</phrase>
+	<phrase weight="0.03468208092485549" count="6">false string</phrase>
+	<phrase weight="0.028901734104046242" count="5">entity table</phrase>
+	<phrase weight="0.023121387283236993" count="4">app string</phrase>
+	<phrase weight="0.023121387283236993" count="4">namespace string</phrase>
+	<phrase weight="0.023121387283236993" count="4">sql update</phrase>
+	<phrase weight="0.023121387283236993" count="4">add add</phrase>
+	<phrase weight="0.017341040462427744" count="3">string string</phrase>
+	<phrase weight="0.017341040462427744" count="3">set string</phrase>
+	<phrase weight="0.017341040462427744" count="3">helper add</phrase>
+	<phrase weight="0.017341040462427744" count="3">string helper</phrase>
+	<phrase weight="0.011560693641618497" count="2">app set</phrase>
+	<phrase weight="0.011560693641618497" count="2">namespace column</phrase>
+	<phrase weight="0.011560693641618497" count="2">cluster column namespace nullable false string namespace column</phrase>
+	<phrase weight="0.011560693641618497" count="2">app app app</phrase>
+	<phrase weight="0.011560693641618497" count="2">string set</phrase>
+  </topic>
+  <topic id="8" alpha="0.016973431200598136" totalTokens="119" titles="consumer, string, token, expire, method, uri, set, date, override, delete">
+	<word weight="0.3445378151260504" count="41">consumer</word>
+	<word weight="0.13445378151260504" count="16">string</word>
+	<word weight="0.1092436974789916" count="13">token</word>
+	<word weight="0.08403361344537816" count="10">expire</word>
+	<word weight="0.08403361344537816" count="10">method</word>
+	<word weight="0.08403361344537816" count="10">uri</word>
+	<word weight="0.058823529411764705" count="7">set</word>
+	<word weight="0.04201680672268908" count="5">date</word>
+	<word weight="0.025210084033613446" count="3">override</word>
+	<word weight="0.01680672268907563" count="2">delete</word>
+	<word weight="0.008403361344537815" count="1">strategy</word>
+	<word weight="0.008403361344537815" count="1">entity</word>
+	<phrase weight="0.15789473684210525" count="3">consumer consumer</phrase>
+	<phrase weight="0.10526315789473684" count="2">token token</phrase>
+	<phrase weight="0.05263157894736842" count="1">method method method</phrase>
+	<phrase weight="0.05263157894736842" count="1">consumer consumer consumer consumer string uri uri set uri string uri uri uri string method method set method</phrase>
+	<phrase weight="0.05263157894736842" count="1">uri uri</phrase>
+	<phrase weight="0.05263157894736842" count="1">token string token token token date expire expire</phrase>
+	<phrase weight="0.05263157894736842" count="1">consumer consumer consumer consumer</phrase>
+	<phrase weight="0.05263157894736842" count="1">consumer set consumer consumer consumer consumer</phrase>
+	<phrase weight="0.05263157894736842" count="1">string method</phrase>
+	<phrase weight="0.05263157894736842" count="1">consumer token</phrase>
+	<phrase weight="0.05263157894736842" count="1">delete consumer token</phrase>
+	<phrase weight="0.05263157894736842" count="1">token set</phrase>
+	<phrase weight="0.05263157894736842" count="1">method method</phrase>
+	<phrase weight="0.05263157894736842" count="1">expire date expire expire expire override string</phrase>
+	<phrase weight="0.05263157894736842" count="1">string string string</phrase>
+	<phrase weight="0.05263157894736842" count="1">expire consumer consumer</phrase>
+  </topic>
+  <topic id="9" alpha="0.021867656807695056" totalTokens="170" titles="batch, counter, string, pojo, column, set, integer, keyspace, annotate, annotated">
+	<word weight="0.2" count="34">batch</word>
+	<word weight="0.19411764705882353" count="33">counter</word>
+	<word weight="0.1" count="17">string</word>
+	<word weight="0.058823529411764705" count="10">pojo</word>
+	<word weight="0.058823529411764705" count="10">column</word>
+	<word weight="0.058823529411764705" count="10">set</word>
+	<word weight="0.047058823529411764" count="8">integer</word>
+	<word weight="0.041176470588235294" count="7">keyspace</word>
+	<word weight="0.029411764705882353" count="5">annotate</word>
+	<word weight="0.023529411764705882" count="4">annotated</word>
+	<word weight="0.023529411764705882" count="4">cassandra</word>
+	<word weight="0.023529411764705882" count="4">custom</word>
+	<word weight="0.023529411764705882" count="4">table</word>
+	<word weight="0.01764705882352941" count="3">version</word>
+	<word weight="0.01764705882352941" count="3">serial</word>
+	<word weight="0.01764705882352941" count="3">serializable</word>
+	<word weight="0.01764705882352941" count="3">test</word>
+	<word weight="0.01764705882352941" count="3">implement</word>
+	<word weight="0.011764705882352941" count="2">flink</word>
+	<word weight="0.0058823529411764705" count="1">instanciation</word>
+	<phrase weight="0.5" count="1">implement serializable serial version column</phrase>
+	<phrase weight="0.5" count="1">keyspace test</phrase>
+  </topic>
+</topics>

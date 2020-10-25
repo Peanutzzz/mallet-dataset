@@ -1,0 +1,10 @@
+0	0.01805	service util node cluster result json string list request object jackson put empty count namespace view web replace instance detail 
+1	0.03032	list result map string rest menu role code info member set capacity find service append token tree machine success access 
+2	0.03238	response entity env http map servlet request peer info server status set application string health readiness configuration body system datum 
+3	0.02467	config string request tenant param group datum info false require util status map result app service response action file http 
+4	0.06909	namespace app cluster string path variable env find item release service list mapping branch util transform bean lock open load 
+5	0.0326	user role permission app set string order condition assign service username path variable find mapping mobile type map controller info 
+6	0.03148	api string param search map datum query implicit service dto request true type controller foo mapping require variable path integer 
+7	0.0348	page param request size instance string release map history pageable service operation client count positive authentication find rpc empty result 
+8	0.01519	rule app result throwable entity error string fail empty port flow state cluster api list logger util request param query 
+9	0.01494	release config key instance string set notification map namespace datum request result watch apollo list param time find defer cluster 

@@ -1,0 +1,10 @@
+0	0.00179	service user resource mapper role impl detail business config test 
+1	0.00199	menu mapper service resource impl role demo search manager 
+2	0.00059	admin config resource sender mail biz object mapper java handler 
+3	0.00157	log dao job xxl resource glue impl controller test service admin 
+4	0.00039	interceptor cookie permission config resource 
+5	0.00236	service resource client storage feign order account mapper impl aggregation 
+6	0.00059	property key resource agg swagger trace prop store token 
+7	0.00082	consistency service resource delegate file manager 
+8	0.00364	xxl dao job resource info group registry controller service config admin test impl 
+9	0.00098	handler resource logout auth conf server success deny access expression point entry authentication oauth sso security web 

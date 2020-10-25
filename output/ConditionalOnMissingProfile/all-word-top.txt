@@ -1,0 +1,65 @@
+0 config 2:3
+1 conditional 6:10 1:5 4:1
+2 miss 6:7 1:5 4:1 0:1
+3 profile 6:22 1:1
+4 auth 0:3 1:2 2:1
+5 configuration 6:19 1:2
+6 enable 2:6 6:4
+7 web 4:3 2:3
+8 security 0:11
+9 global 0:2 4:1
+10 method 8:1 2:1
+11 pre 2:2
+12 post 2:2
+13 true 6:4 2:2
+14 extend 0:2
+15 configurer 2:2
+16 adapter 4:1 2:1
+17 override 8:1 6:1
+18 protect 0:2
+19 configure 0:2 8:1
+20 http 0:10
+21 exception 0:3
+22 basic 8:1
+23 csrf 0:2
+24 disable 0:2
+25 header 2:2
+26 frame 0:2
+27 option 0:2
+28 origin 2:2
+29 authentication 4:4
+30 useless 0:1
+31 remove 0:4
+32 backward 4:1
+33 compatibility 2:1
+34 client 2:1
+35 send 8:1
+36 information 4:1
+37 server 0:1
+38 big 4:1
+39 problem 0:1
+40 follow 4:1
+41 spring 2:1
+42 apollo 8:2
+43 autowire 2:1
+44 manager 4:1
+45 builder 8:1
+46 memory 8:1
+47 user 1:8 4:5
+48 password 8:1 2:1
+49 role 0:2
+50 admin 0:1
+51 test 6:4
+52 combine 6:4
+53 ctrip 9:2 1:1
+54 ldap 1:1 0:1
+55 auto 1:1
+56 bean 1:8 9:3
+57 sso 1:4
+58 heartbeat 1:4
+59 handler 1:8
+60 info 1:4
+61 holder 1:4
+62 logout 1:4
+63 service 9:7 1:4
+64 email 9:5

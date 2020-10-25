@@ -1,0 +1,10 @@
+0	0.03621	test config session job string exception executor configuration server set execution client parameter request ssl rest result expect future option 
+1	0.0242	test key harness time output record timer stream element window process watermark operator type processing service event tuple equal set 
+2	0.0523	type test serializer datum string spec array expect specification field upgrade pojo row list function override version matcher strategy info 
+3	0.0232	table test string list datum function env row create sql array agg hive catalog result override retract protect environment item 
+4	0.03581	config namespace app key release property test string message set notification service exception file cluster list equal apollo find util 
+5	0.0153	partition test topic kafka state consumer shard mock source stream context fetcher list kinesis offset string set sequence equal watermark 
+6	0.05384	state file path test exception checkpoint backend stream string key write snapshot folder version configuration source override map check savepoint 
+7	0.02798	row buffer string binary datum key test num build equal size memory input probe iterator manager object table join exception 
+8	0.0416	instance service test string param group port http result equal response naming list entity append true exception naco set datum 
+9	0.05327	tuple set string integer datum result execution env test environment vertex graph edge expect exception group collect list comment reduce 

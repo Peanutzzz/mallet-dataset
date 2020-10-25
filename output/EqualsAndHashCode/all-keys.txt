@@ -1,0 +1,10 @@
+0	0.68099	string field table serial entity type exist url code list version authorization sex mobile parent 
+1	0.07158	menu constructor setter hash 
+2	0.079	file info insert img override create path size model 
+3	0.05069	fill table update time date oss val protect source content extend 
+4	0.07889	menu exist password path table head nickname username method hidden css role 
+5	0.10311	client token validity seconds password table true authority redirect server web refresh authorize str call 
+6	0.11002	integer refresh information additional uri credentials grant resource detail routing col limit query search 
+7	1.20621	false equal call hash code order version serializable extend datum constructor arg implement serial sort company set highlighter page str 
+8	0.31853	role user arg table getter model extend del logic open enable code 
+9	0.04007	access secret autoapprove scope oauth 

@@ -1,0 +1,376 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.013457123946953397" totalTokens="449" titles="entity, rule, result, app, grade, degrade, throwable, fail, set, port">
+	<word weight="0.0957683741648107" count="43">entity</word>
+	<word weight="0.08463251670378619" count="38">rule</word>
+	<word weight="0.066815144766147" count="30">result</word>
+	<word weight="0.0645879732739421" count="29">app</word>
+	<word weight="0.04899777282850779" count="22">grade</word>
+	<word weight="0.04899777282850779" count="22">degrade</word>
+	<word weight="0.044543429844097995" count="20">throwable</word>
+	<word weight="0.042316258351893093" count="19">fail</word>
+	<word weight="0.035634743875278395" count="16">set</word>
+	<word weight="0.0334075723830735" count="15">port</word>
+	<word weight="0.024498886414253896" count="11">logger</word>
+	<word weight="0.024498886414253896" count="11">count</word>
+	<word weight="0.0200445434298441" count="9">window</word>
+	<word weight="0.0200445434298441" count="9">time</word>
+	<word weight="0.0200445434298441" count="9">date</word>
+	<word weight="0.017817371937639197" count="8">repository</word>
+	<word weight="0.017817371937639197" count="8">error</word>
+	<word weight="0.017817371937639197" count="8">empty</word>
+	<word weight="0.017817371937639197" count="8">resource</word>
+	<word weight="0.015590200445434299" count="7">publish</word>
+	<phrase weight="0.08333333333333333" count="3">json auth action privilege</phrase>
+	<phrase weight="0.05555555555555555" count="2">integer port</phrase>
+	<phrase weight="0.05555555555555555" count="2">limit app</phrase>
+	<phrase weight="0.05555555555555555" count="2">write rule result degrade rule entity</phrase>
+	<phrase weight="0.027777777777777776" count="1">blank app result fail app empty</phrase>
+	<phrase weight="0.027777777777777776" count="1">logger logger logger</phrase>
+	<phrase weight="0.027777777777777776" count="1">resource count integer time window integer grade</phrase>
+	<phrase weight="0.027777777777777776" count="1">blank app entity set app app trim</phrase>
+	<phrase weight="0.027777777777777776" count="1">entity result</phrase>
+	<phrase weight="0.027777777777777776" count="1">blank limit app entity set</phrase>
+	<phrase weight="0.027777777777777776" count="1">fail resource empty count result fail count time window result fail time window grade result fail grade grade rule constant degrade grade grade rule constant degrade grade exception count result fail invalid grade grade degrade rule entity entity degrade rule entity entity set app app trim entity</phrase>
+	<phrase weight="0.027777777777777776" count="1">entity result fail dose exist</phrase>
+	<phrase weight="0.027777777777777776" count="1">blank resource entity set resource resource trim count entity set count count time window entity set time window time window grade entity set grade grade date date date entity set gmt modify date entity repository save entity throwable throwable logger error save error throwable result throwable throwable publish rule entity app entity entity port logger info publish degrade rule fail rule update result</phrase>
+	<phrase weight="0.027777777777777776" count="1">resource count integer time window integer grade result fail grade grade rule constant degrade grade grade rule constant degrade grade exception count result fail invalid grade grade degrade rule entity entity repository</phrase>
+	<phrase weight="0.027777777777777776" count="1">delete rule result delete result fail degrade rule entity entity repository</phrase>
+	<phrase weight="0.027777777777777776" count="1">rule throwable throwable logger error query app error throwable result throwable throwable</phrase>
+	<phrase weight="0.027777777777777776" count="1">integer port list degrade rule entity rule repository</phrase>
+	<phrase weight="0.027777777777777776" count="1">json degrade</phrase>
+	<phrase weight="0.027777777777777776" count="1">fail empty port result fail port</phrase>
+	<phrase weight="0.027777777777777776" count="1">app trim</phrase>
+  </topic>
+  <topic id="1" alpha="0.012364897914239005" totalTokens="153" titles="entry, time, slow, timer, thread, exit, sph, run, exception, start">
+	<word weight="0.1437908496732026" count="22">entry</word>
+	<word weight="0.10457516339869281" count="16">time</word>
+	<word weight="0.0457516339869281" count="7">slow</word>
+	<word weight="0.0392156862745098" count="6">timer</word>
+	<word weight="0.0392156862745098" count="6">thread</word>
+	<word weight="0.0392156862745098" count="6">exit</word>
+	<word weight="0.032679738562091505" count="5">sph</word>
+	<word weight="0.032679738562091505" count="5">run</word>
+	<word weight="0.032679738562091505" count="5">exception</word>
+	<word weight="0.032679738562091505" count="5">start</word>
+	<word weight="0.026143790849673203" count="4">random</word>
+	<word weight="0.026143790849673203" count="4">task</word>
+	<word weight="0.026143790849673203" count="4">loop</word>
+	<word weight="0.026143790849673203" count="4">head</word>
+	<word weight="0.026143790849673203" count="4">logger</word>
+	<word weight="0.026143790849673203" count="4">block</word>
+	<word weight="0.0196078431372549" count="3">successfully</word>
+	<word weight="0.0196078431372549" count="3">link</word>
+	<word weight="0.0196078431372549" count="3">create</word>
+	<word weight="0.0196078431372549" count="3">stop</word>
+	<phrase weight="0.16666666666666666" count="3">entry entry sph entry head entry</phrase>
+	<phrase weight="0.05555555555555555" count="1">block exception entry entry sph entry head entry</phrase>
+	<phrase weight="0.05555555555555555" count="1">logger logger logger</phrase>
+	<phrase weight="0.05555555555555555" count="1">entry exit entry exit entry exit entry exit successfully create call link</phrase>
+	<phrase weight="0.05555555555555555" count="1">time block exception thread timer thread run task time</phrase>
+	<phrase weight="0.05555555555555555" count="1">start time stop</phrase>
+	<phrase weight="0.05555555555555555" count="1">timer start successfully create loop thread run task implement runnable time stop</phrase>
+	<phrase weight="0.05555555555555555" count="1">start successfully create loop thread</phrase>
+	<phrase weight="0.05555555555555555" count="1">time slow time time slow slow override run start time</phrase>
+	<phrase weight="0.05555555555555555" count="1">time block exception thread timer thread run task time true timer</phrase>
+	<phrase weight="0.05555555555555555" count="1">current time millis context</phrase>
+	<phrase weight="0.05555555555555555" count="1">logger machine registry</phrase>
+	<phrase weight="0.05555555555555555" count="1">current time millis start time time stop</phrase>
+	<phrase weight="0.05555555555555555" count="1">run task</phrase>
+	<phrase weight="0.05555555555555555" count="1">entry sph entry slow true time unit millisecond sleep exception exit random random random time unit millisecond sleep random interrupt exception todo auto generate block</phrase>
+	<phrase weight="0.05555555555555555" count="1">stack trace context</phrase>
+  </topic>
+  <topic id="2" alpha="0.012420188125002726" totalTokens="437" titles="string, job, xxl, list, group, registry, app, util, address, jobgroup">
+	<word weight="0.10983981693363844" count="48">string</word>
+	<word weight="0.10068649885583524" count="44">job</word>
+	<word weight="0.09610983981693363" count="42">xxl</word>
+	<word weight="0.08924485125858124" count="39">list</word>
+	<word weight="0.08695652173913043" count="38">group</word>
+	<word weight="0.05491990846681922" count="24">registry</word>
+	<word weight="0.05491990846681922" count="24">app</word>
+	<word weight="0.038901601830663615" count="17">util</word>
+	<word weight="0.036613272311212815" count="16">address</word>
+	<word weight="0.029748283752860413" count="13">jobgroup</word>
+	<word weight="0.02517162471395881" count="11">dao</word>
+	<word weight="0.020594965675057208" count="9">item</word>
+	<word weight="0.018306636155606407" count="8">field</word>
+	<word weight="0.018306636155606407" count="8">blank</word>
+	<word weight="0.013729977116704805" count="6">title</word>
+	<word weight="0.013729977116704805" count="6">length</word>
+	<word weight="0.013729977116704805" count="6">ret</word>
+	<word weight="0.011441647597254004" count="5">map</word>
+	<word weight="0.009153318077803204" count="4">config</word>
+	<word weight="0.009153318077803204" count="4">addresss</word>
+	<phrase weight="0.034482758620689655" count="1">xxl job group dao xxl job group dao</phrase>
+	<phrase weight="0.034482758620689655" count="1">string list xxl job registry list xxl job admin config admin config xxl job registry dao find registry config dead timeout list xxl job registry item list registry config regist</phrase>
+	<phrase weight="0.034482758620689655" count="1">fail list string</phrase>
+	<phrase weight="0.034482758620689655" count="1">list list jobgroup jobgroup</phrase>
+	<phrase weight="0.034482758620689655" count="1">save xxl job group xxl job group valid xxl job group app string util blank xxl job group app string util string system input app xxl job group app length xxl job group app length string util string jobgroup field app length xxl job group title string util blank xxl job group title</phrase>
+	<phrase weight="0.034482758620689655" count="1">registry app</phrase>
+	<phrase weight="0.034482758620689655" count="1">job group</phrase>
+	<phrase weight="0.034482758620689655" count="1">item registry app address map put app registry list app address map app</phrase>
+	<phrase weight="0.034482758620689655" count="1">blank xxl job group address list string util string jobgroup field address</phrase>
+	<phrase weight="0.034482758620689655" count="1">remove valid count xxl job info dao</phrase>
+	<phrase weight="0.034482758620689655" count="1">util string system input util string jobgroup field title xxl job group address type string</phrase>
+	<phrase weight="0.034482758620689655" count="1">string system input app xxl job group app length xxl job group app length string util string jobgroup field app length xxl job group title string util blank xxl job group title string util string system input util string jobgroup field title xxl job group address</phrase>
+	<phrase weight="0.034482758620689655" count="1">equal item registry group string app item registry key list string registry list app address map app registry list registry list array list string registry list item registry registry list</phrase>
+	<phrase weight="0.034482758620689655" count="1">app param hash map string list string app address</phrase>
+	<phrase weight="0.034482758620689655" count="1">limit string addresss xxl job group address list split string item addresss string</phrase>
+	<phrase weight="0.034482758620689655" count="1">list string registry list find registry app xxl job group app string address list str registry list registry list empty collection sort registry list address list str string</phrase>
+	<phrase weight="0.034482758620689655" count="1">list xxl job group list xxl job group dao find list size string util string jobgroup del limit ret xxl job group dao remove ret</phrase>
+	<phrase weight="0.034482758620689655" count="1">blank item</phrase>
+	<phrase weight="0.034482758620689655" count="1">string jobgroup field registry list unvalid ret xxl job group dao update xxl job group ret</phrase>
+	<phrase weight="0.034482758620689655" count="1">registry list xxl job group</phrase>
+  </topic>
+  <topic id="3" alpha="0.23520265750794828" totalTokens="595" titles="string, request, type, util, controller, body, mapping, success, response, false">
+	<word weight="0.20672268907563024" count="123">string</word>
+	<word weight="0.08067226890756303" count="48">request</word>
+	<word weight="0.06554621848739496" count="39">type</word>
+	<word weight="0.06218487394957983" count="37">util</word>
+	<word weight="0.05546218487394958" count="33">controller</word>
+	<word weight="0.05042016806722689" count="30">body</word>
+	<word weight="0.05042016806722689" count="30">mapping</word>
+	<word weight="0.05042016806722689" count="30">map</word>
+	<word weight="0.03697478991596639" count="22">success</word>
+	<word weight="0.03529411764705882" count="21">response</word>
+	<word weight="0.02857142857142857" count="17">false</word>
+	<word weight="0.02689075630252101" count="16">param</word>
+	<word weight="0.020168067226890758" count="12">set</word>
+	<word weight="0.020168067226890758" count="12">resource</word>
+	<word weight="0.020168067226890758" count="12">index</word>
+	<word weight="0.018487394957983194" count="11">add</word>
+	<word weight="0.015126050420168067" count="9">require</word>
+	<word weight="0.013445378151260505" count="8">update</word>
+	<word weight="0.013445378151260505" count="8">limit</word>
+	<word weight="0.010084033613445379" count="6">find</word>
+	<phrase weight="0.10126582278481013" count="8">request mapping</phrase>
+	<phrase weight="0.06329113924050633" count="5">response body string</phrase>
+	<phrase weight="0.06329113924050633" count="5">map string</phrase>
+	<phrase weight="0.05063291139240506" count="4">controller controller request mapping</phrase>
+	<phrase weight="0.0379746835443038" count="3">response body</phrase>
+	<phrase weight="0.0379746835443038" count="3">controller request mapping</phrase>
+	<phrase weight="0.0379746835443038" count="3">util string</phrase>
+	<phrase weight="0.0379746835443038" count="3">body string</phrase>
+	<phrase weight="0.0379746835443038" count="3">media type</phrase>
+	<phrase weight="0.0379746835443038" count="3">body request mapping</phrase>
+	<phrase weight="0.02531645569620253" count="2">request param require false</phrase>
+	<phrase weight="0.02531645569620253" count="2">body request map</phrase>
+	<phrase weight="0.02531645569620253" count="2">map string index</phrase>
+	<phrase weight="0.02531645569620253" count="2">util blank</phrase>
+	<phrase weight="0.012658227848101266" count="1">index request mapping</phrase>
+	<phrase weight="0.012658227848101266" count="1">response body request mapping</phrase>
+	<phrase weight="0.012658227848101266" count="1">util blank resource</phrase>
+	<phrase weight="0.012658227848101266" count="1">require false string</phrase>
+	<phrase weight="0.012658227848101266" count="1">controller controller sign controller map</phrase>
+	<phrase weight="0.012658227848101266" count="1">response body string update</phrase>
+  </topic>
+  <topic id="4" alpha="0.014410989337989096" totalTokens="137" titles="machine, app, info, set, version, port, result, logger, heartbeat, fail">
+	<word weight="0.12408759124087591" count="17">machine</word>
+	<word weight="0.0948905109489051" count="13">app</word>
+	<word weight="0.0948905109489051" count="13">info</word>
+	<word weight="0.072992700729927" count="10">set</word>
+	<word weight="0.06569343065693431" count="9">version</word>
+	<word weight="0.058394160583941604" count="8">port</word>
+	<word weight="0.043795620437956206" count="6">result</word>
+	<word weight="0.043795620437956206" count="6">logger</word>
+	<word weight="0.0364963503649635" count="5">heartbeat</word>
+	<word weight="0.029197080291970802" count="4">fail</word>
+	<word weight="0.021897810218978103" count="3">hostname</word>
+	<word weight="0.021897810218978103" count="3">receive</word>
+	<word weight="0.021897810218978103" count="3">management</word>
+	<word weight="0.021897810218978103" count="3">registry</word>
+	<word weight="0.021897810218978103" count="3">type</word>
+	<word weight="0.014598540145985401" count="2">unknown</word>
+	<word weight="0.014598540145985401" count="2">millis</word>
+	<word weight="0.014598540145985401" count="2">current</word>
+	<word weight="0.014598540145985401" count="2">sentinel</word>
+	<word weight="0.014598540145985401" count="2">error</word>
+	<phrase weight="0.08333333333333333" count="1">empty unknown version version system current time millis version machine info machine info machine info machine info set app app machine info set app</phrase>
+	<phrase weight="0.08333333333333333" count="1">app type machine info set hostname hostname machine info set machine info set port port machine info set heartbeat version version machine info set heartbeat system current time millis machine info set version sentinel version app management</phrase>
+	<phrase weight="0.08333333333333333" count="1">result receive heart beat string app request</phrase>
+	<phrase weight="0.08333333333333333" count="1">autowire app management app management</phrase>
+	<phrase weight="0.08333333333333333" count="1">application json machine registry</phrase>
+	<phrase weight="0.08333333333333333" count="1">string hostname</phrase>
+	<phrase weight="0.08333333333333333" count="1">integer app type version</phrase>
+	<phrase weight="0.08333333333333333" count="1">integer port app app machine discovery unknown app result fail port result fail port port logger info receive heartbeat port set result fail port set</phrase>
+	<phrase weight="0.08333333333333333" count="1">logger logger logger factory logger machine registry</phrase>
+	<phrase weight="0.08333333333333333" count="1">machine machine info result</phrase>
+	<phrase weight="0.08333333333333333" count="1">app type</phrase>
+	<phrase weight="0.08333333333333333" count="1">sentinel version</phrase>
+  </topic>
+  <topic id="5" alpha="0.0289928057568053" totalTokens="416" titles="resource, metric, time, page, map, size, result, app, entity, query">
+	<word weight="0.08413461538461539" count="35">resource</word>
+	<word weight="0.07932692307692307" count="33">metric</word>
+	<word weight="0.07451923076923077" count="31">time</word>
+	<word weight="0.057692307692307696" count="24">page</word>
+	<word weight="0.057692307692307696" count="24">map</word>
+	<word weight="0.04326923076923077" count="18">size</word>
+	<word weight="0.040865384615384616" count="17">result</word>
+	<word weight="0.03365384615384615" count="14">app</word>
+	<word weight="0.028846153846153848" count="12">entity</word>
+	<word weight="0.028846153846153848" count="12">query</word>
+	<word weight="0.028846153846153848" count="12">list</word>
+	<word weight="0.028846153846153848" count="12">end</word>
+	<word weight="0.02403846153846154" count="10">top</word>
+	<word weight="0.02403846153846154" count="10">start</word>
+	<word weight="0.021634615384615384" count="9">index</word>
+	<word weight="0.021634615384615384" count="9">put</word>
+	<word weight="0.019230769230769232" count="8">identity</word>
+	<word weight="0.019230769230769232" count="8">vos</word>
+	<word weight="0.019230769230769232" count="8">logger</word>
+	<word weight="0.019230769230769232" count="8">empty</word>
+	<phrase weight="0.038461538461538464" count="1">top resource array list page index total page top resource resource list page index page size math min page index page size resource size map</phrase>
+	<phrase weight="0.038461538461538464" count="1">iterable metric map link hash map</phrase>
+	<phrase weight="0.038461538461538464" count="1">logger logger logger</phrase>
+	<phrase weight="0.038461538461538464" count="1">json metric</phrase>
+	<phrase weight="0.038461538461538464" count="1">max query interval autowire metric repository metric entity metric store</phrase>
+	<phrase weight="0.038461538461538464" count="1">desc collection reverse resource string</phrase>
+	<phrase weight="0.038461538461538464" count="1">iterable metric map concurrent hash map logger debug top resource top resource time system current time millis string resource top resource list metric entity entity metric store query app resource app resource start time end time logger debug resource entity size resource entity entity size list metric vos metric metric entity entity resource iterable metric vos sort sort metric distinct vos map put resource vos sort logger debug query top resource metric total query time system current time millis time map</phrase>
+	<phrase weight="0.038461538461538464" count="1">empty identity result fail identity empty end time end time system current time millis start time start time end time end time start time max query interval result fail time interval big list metric entity entity metric store query app</phrase>
+	<phrase weight="0.038461538461538464" count="1">object result map hash map result map put total count resource size result map put total page total page result map put page index page index result</phrase>
+	<phrase weight="0.038461538461538464" count="1">empty app result fail app empty page index page index page index page size page size page size page size desc desc</phrase>
+	<phrase weight="0.038461538461538464" count="1">resource resource search total page resource size page size page size list</phrase>
+	<phrase weight="0.038461538461538464" count="1">search array list</phrase>
+	<phrase weight="0.038461538461538464" count="1">identity top resource map put identity map identity result map put metric map result</phrase>
+	<phrase weight="0.038461538461538464" count="1">result map</phrase>
+	<phrase weight="0.038461538461538464" count="1">page size desc start time end time string search key string</phrase>
+	<phrase weight="0.038461538461538464" count="1">app resource json result query app resource string app</phrase>
+	<phrase weight="0.038461538461538464" count="1">put page size page size map</phrase>
+	<phrase weight="0.038461538461538464" count="1">end time end time system current time millis start time start time end time end time start time max query interval result fail time interval big list string resource metric store list resource app app logger debug query top resource metric resource size resource size resource resource empty result</phrase>
+	<phrase weight="0.038461538461538464" count="1">top resource metric json result query top resource metric string app</phrase>
+	<phrase weight="0.038461538461538464" count="1">page index</phrase>
+  </topic>
+  <topic id="6" alpha="0.02114317904057026" totalTokens="95" titles="code, captcha, validate, mobile, gif, response, exception, device, service, variable">
+	<word weight="0.11578947368421053" count="11">code</word>
+	<word weight="0.08421052631578947" count="8">captcha</word>
+	<word weight="0.07368421052631578" count="7">validate</word>
+	<word weight="0.06315789473684211" count="6">mobile</word>
+	<word weight="0.06315789473684211" count="6">gif</word>
+	<word weight="0.06315789473684211" count="6">response</word>
+	<word weight="0.05263157894736842" count="5">exception</word>
+	<word weight="0.042105263157894736" count="4">device</word>
+	<word weight="0.042105263157894736" count="4">service</word>
+	<word weight="0.021052631578947368" count="2">variable</word>
+	<word weight="0.021052631578947368" count="2">path</word>
+	<word weight="0.021052631578947368" count="2">create</word>
+	<word weight="0.021052631578947368" count="2">prefix</word>
+	<word weight="0.021052631578947368" count="2">url</word>
+	<word weight="0.021052631578947368" count="2">constant</word>
+	<word weight="0.021052631578947368" count="2">security</word>
+	<word weight="0.021052631578947368" count="2">admin</word>
+	<word weight="0.021052631578947368" count="2">set</word>
+	<word weight="0.021052631578947368" count="2">controller</word>
+	<word weight="0.010526315789473684" count="1">send</word>
+	<phrase weight="0.1" count="1">controller controller validate code</phrase>
+	<phrase weight="0.1" count="1">create code path variable</phrase>
+	<phrase weight="0.1" count="1">response response exception device captcha</phrase>
+	<phrase weight="0.1" count="1">validate code service save image code device gif captcha text lower gif captcha response output stream param mobile response</phrase>
+	<phrase weight="0.1" count="1">device http</phrase>
+	<phrase weight="0.1" count="1">response gif captcha gif captcha gif captcha gif captcha set</phrase>
+	<phrase weight="0.1" count="1">autowire validate code service validate code service exception</phrase>
+	<phrase weight="0.1" count="1">security constant validate code url prefix device create code path variable</phrase>
+	<phrase weight="0.1" count="1">map security constant mobile validate code url prefix mobile</phrase>
+	<phrase weight="0.1" count="1">initialize bean override property</phrase>
+  </topic>
+  <topic id="7" alpha="0.05994964391913926" totalTokens="275" titles="request, login, response, date, service, servlet, handler, http, limit, job">
+	<word weight="0.10181818181818182" count="28">request</word>
+	<word weight="0.06545454545454546" count="18">login</word>
+	<word weight="0.05454545454545454" count="15">response</word>
+	<word weight="0.04727272727272727" count="13">date</word>
+	<word weight="0.04727272727272727" count="13">service</word>
+	<word weight="0.04" count="11">servlet</word>
+	<word weight="0.03272727272727273" count="9">handler</word>
+	<word weight="0.03272727272727273" count="9">http</word>
+	<word weight="0.03272727272727273" count="9">limit</word>
+	<word weight="0.03272727272727273" count="9">job</word>
+	<word weight="0.02909090909090909" count="8">mapping</word>
+	<word weight="0.02909090909090909" count="8">controller</word>
+	<word weight="0.02181818181818182" count="6">heartbeat</word>
+	<word weight="0.02181818181818182" count="6">interceptor</word>
+	<word weight="0.02181818181818182" count="6">permission</word>
+	<word weight="0.02181818181818182" count="6">info</word>
+	<word weight="0.02181818181818182" count="6">model</word>
+	<word weight="0.01818181818181818" count="5">sso</word>
+	<word weight="0.01818181818181818" count="5">format</word>
+	<word weight="0.01818181818181818" count="5">binder</word>
+	<phrase weight="0.06060606060606061" count="2">method post response</phrase>
+	<phrase weight="0.06060606060606061" count="2">request mapping</phrase>
+	<phrase weight="0.06060606060606061" count="2">permession limit limit</phrase>
+	<phrase weight="0.030303030303030304" count="1">controller controller request mapping sso heartbeat sso heartbeat controller sso</phrase>
+	<phrase weight="0.030303030303030304" count="1">limit limit</phrase>
+	<phrase weight="0.030303030303030304" count="1">empty rem</phrase>
+	<phrase weight="0.030303030303030304" count="1">xxl job service xxl job service request</phrase>
+	<phrase weight="0.030303030303030304" count="1">xxl job service dashboard info model</phrase>
+	<phrase weight="0.030303030303030304" count="1">api http servlet request request http servlet response</phrase>
+	<phrase weight="0.030303030303030304" count="1">mapping logout method</phrase>
+	<phrase weight="0.030303030303030304" count="1">login model model http servlet request request permission interceptor login request redirect login request mapping login method</phrase>
+	<phrase weight="0.030303030303030304" count="1">handler handler sso heartbeat controller sso heartbeat handler handler handler handler</phrase>
+	<phrase weight="0.030303030303030304" count="1">chart info date</phrase>
+	<phrase weight="0.030303030303030304" count="1">permission interceptor login request</phrase>
+	<phrase weight="0.030303030303030304" count="1">login login ret permission interceptor login response user password rem login ret</phrase>
+	<phrase weight="0.030303030303030304" count="1">login http servlet request request http servlet response response</phrase>
+	<phrase weight="0.030303030303030304" count="1">chart info xxl job service chart info</phrase>
+	<phrase weight="0.030303030303030304" count="1">equal remember</phrase>
+	<phrase weight="0.030303030303030304" count="1">mapping permession limit limit</phrase>
+	<phrase weight="0.030303030303030304" count="1">date end date chart info</phrase>
+  </topic>
+  <topic id="8" alpha="0.04170912673186481" totalTokens="921" titles="job, log, xxl, glue, info, dao, group, list, time, model">
+	<word weight="0.15309446254071662" count="141">job</word>
+	<word weight="0.08577633007600434" count="79">log</word>
+	<word weight="0.06948968512486428" count="64">xxl</word>
+	<word weight="0.05211726384364821" count="48">glue</word>
+	<word weight="0.04777415852334419" count="44">info</word>
+	<word weight="0.03257328990228013" count="30">dao</word>
+	<word weight="0.031487513572204126" count="29">group</word>
+	<word weight="0.02823018458197611" count="26">list</word>
+	<word weight="0.02714440825190011" count="25">time</word>
+	<word weight="0.026058631921824105" count="24">model</word>
+	<word weight="0.021715526601520086" count="20">trigger</word>
+	<word weight="0.021715526601520086" count="20">executor</word>
+	<word weight="0.019543973941368076" count="18">result</word>
+	<word weight="0.018458197611292075" count="17">date</word>
+	<word weight="0.018458197611292075" count="17">add</word>
+	<word weight="0.01737242128121607" count="16">clear</word>
+	<word weight="0.01737242128121607" count="16">code</word>
+	<word weight="0.01520086862106406" count="14">attribute</word>
+	<word weight="0.011943539630836048" count="11">num</word>
+	<word weight="0.011943539630836048" count="11">start</word>
+	<phrase weight="0.04032258064516129" count="5">clear num</phrase>
+	<phrase weight="0.03225806451612903" count="4">xxl job</phrase>
+	<phrase weight="0.024193548387096774" count="3">job info</phrase>
+	<phrase weight="0.024193548387096774" count="3">clear time date</phrase>
+	<phrase weight="0.016129032258064516" count="2">page list</phrase>
+	<phrase weight="0.016129032258064516" count="2">filter time</phrase>
+	<phrase weight="0.016129032258064516" count="2">xxl job group dao xxl job group dao</phrase>
+	<phrase weight="0.016129032258064516" count="2">xxl job info dao xxl job info dao</phrase>
+	<phrase weight="0.016129032258064516" count="2">joblog kill log</phrase>
+	<phrase weight="0.016129032258064516" count="2">glue remark</phrase>
+	<phrase weight="0.016129032258064516" count="2">run result msg</phrase>
+	<phrase weight="0.016129032258064516" count="2">add month date</phrase>
+	<phrase weight="0.008064516129032258" count="1">xxl job log glue dao xxl job log glue dao</phrase>
+	<phrase weight="0.008064516129032258" count="1">filter time parse</phrase>
+	<phrase weight="0.008064516129032258" count="1">glue model add</phrase>
+	<phrase weight="0.008064516129032258" count="1">log result log detail cat</phrase>
+	<phrase weight="0.008064516129032258" count="1">xxl job log dao xxl job log dao</phrase>
+	<phrase weight="0.008064516129032258" count="1">biz executor biz xxl job</phrase>
+	<phrase weight="0.008064516129032258" count="1">log detail page model model base check</phrase>
+	<phrase weight="0.008064516129032258" count="1">code log trigger code</phrase>
+  </topic>
+  <topic id="9" alpha="0.010214429861664058" totalTokens="54" titles="authentication, map, model, detail, oauth, put, token, client, authority, home">
+	<word weight="0.2222222222222222" count="12">authentication</word>
+	<word weight="0.12962962962962962" count="7">map</word>
+	<word weight="0.1111111111111111" count="6">model</word>
+	<word weight="0.09259259259259259" count="5">detail</word>
+	<word weight="0.09259259259259259" count="5">oauth</word>
+	<word weight="0.09259259259259259" count="5">auth</word>
+	<word weight="0.05555555555555555" count="3">put</word>
+	<word weight="0.037037037037037035" count="2">token</word>
+	<word weight="0.037037037037037035" count="2">client</word>
+	<word weight="0.037037037037037035" count="2">authority</word>
+	<word weight="0.037037037037037035" count="2">home</word>
+	<word weight="0.018518518518518517" count="1">index</word>
+	<word weight="0.018518518518518517" count="1">request</word>
+	<word weight="0.018518518518518517" count="1">username</word>
+	<phrase weight="1.0" count="1">home model map model map authentication authentication auth authentication oauth authentication auth authentication authentication model map put username oauth authentication model map</phrase>
+  </topic>
+</topics>

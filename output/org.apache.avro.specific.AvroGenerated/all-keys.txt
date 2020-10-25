@@ -1,0 +1,10 @@
+0	1.79277	builder binary warning zip schema existing specific apache build writer constructor find encoder address 
+1	0.47293	resolver put encoder 
+2	4.19998	java lang state builder zip param record flag datum create validate integer num address read copy object code street index 
+3	6.69622	field set avro string appno num flink true schema generate apache org false type java zip override exception decoder state 
+4	2.31901	address city string flag org apache schema deep num reader lang message model generate decoder record call link implement encode 
+5	1.53214	clear address param unchecked exception suppress runtime message true zip java output desire buffer datum parser 
+6	2.7581	set copy valid specific instance builder external deep exist base check initialize note constructor fingerprint decoder serial 
+7	1.64852	store decoder deep street input bad field namespace schema specific avro 
+8	0.88051	street city appno exist write true object extend flag writer arg exception java 
+9	1.09855	datum check writer buffer decoder encoder org application state copy decode apache 

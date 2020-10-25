@@ -1,0 +1,17 @@
+0 accessor 0:3
+1 chain 0:3
+2 true 0:3
+3 table 0:6
+4 account 0:2
+5 tbl 0:3
+6 string 0:4
+7 user 0:2
+8 integer 0:4
+9 money 0:2
+10 order 0:2
+11 type 0:2
+12 auto 0:1
+13 commodity 0:2
+14 code 0:2
+15 count 0:2
+16 storage 0:2

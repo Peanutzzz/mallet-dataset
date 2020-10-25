@@ -1,0 +1,127 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.1784713918647884E-103" totalTokens="0" titles="">
+  </topic>
+  <topic id="1" alpha="0.3660163510367476" totalTokens="126" titles="config, configuration, apollo, auto, enable, component, scan, base, biz, common">
+	<word weight="0.2222222222222222" count="28">config</word>
+	<word weight="0.15873015873015872" count="20">configuration</word>
+	<word weight="0.1111111111111111" count="14">apollo</word>
+	<word weight="0.10317460317460317" count="13">auto</word>
+	<word weight="0.09523809523809523" count="12">enable</word>
+	<word weight="0.07936507936507936" count="10">component</word>
+	<word weight="0.07142857142857142" count="9">scan</word>
+	<word weight="0.06349206349206349" count="8">base</word>
+	<word weight="0.03968253968253968" count="5">biz</word>
+	<word weight="0.023809523809523808" count="3">common</word>
+	<word weight="0.015873015873015872" count="2">bean</word>
+	<word weight="0.007936507936507936" count="1">adminservice</word>
+	<word weight="0.007936507936507936" count="1">proxy</word>
+	<phrase weight="0.15789473684210525" count="3">scan base apollo</phrase>
+	<phrase weight="0.10526315789473684" count="2">enable auto configuration</phrase>
+	<phrase weight="0.10526315789473684" count="2">config apollo</phrase>
+	<phrase weight="0.05263157894736842" count="1">configuration enable auto</phrase>
+	<phrase weight="0.05263157894736842" count="1">component scan</phrase>
+	<phrase weight="0.05263157894736842" count="1">enable auto</phrase>
+	<phrase weight="0.05263157894736842" count="1">auto configuration component scan base apollo common config apollo biz config biz</phrase>
+	<phrase weight="0.05263157894736842" count="1">config enable auto configuration configuration component scan base</phrase>
+	<phrase weight="0.05263157894736842" count="1">config enable auto configuration configuration component scan base apollo</phrase>
+	<phrase weight="0.05263157894736842" count="1">auto proxy enable</phrase>
+	<phrase weight="0.05263157894736842" count="1">config bean</phrase>
+	<phrase weight="0.05263157894736842" count="1">config apollo biz config</phrase>
+	<phrase weight="0.05263157894736842" count="1">configuration configuration</phrase>
+	<phrase weight="0.05263157894736842" count="1">config config</phrase>
+	<phrase weight="0.05263157894736842" count="1">bean configuration enable</phrase>
+  </topic>
+  <topic id="2" alpha="7.422385656557406E-174" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="0.02368928005225331" totalTokens="21" titles="http, service, firewall, admin, meta, application, slash, encode, url, ">
+	<word weight="0.19047619047619047" count="4">http</word>
+	<word weight="0.19047619047619047" count="4">service</word>
+	<word weight="0.14285714285714285" count="3">firewall</word>
+	<word weight="0.14285714285714285" count="3">admin</word>
+	<word weight="0.09523809523809523" count="2">meta</word>
+	<word weight="0.09523809523809523" count="2">application</word>
+	<word weight="0.047619047619047616" count="1">slash</word>
+	<word weight="0.047619047619047616" count="1">encode</word>
+	<word weight="0.047619047619047616" count="1">url</word>
+	<phrase weight="1.0" count="1">application admin service application http</phrase>
+  </topic>
+  <topic id="4" alpha="0.05234898844592654" totalTokens="41" titles="configuration, type, filter, service, test, local, assignable, exclude, application, security">
+	<word weight="0.17073170731707318" count="7">configuration</word>
+	<word weight="0.14634146341463414" count="6">type</word>
+	<word weight="0.14634146341463414" count="6">filter</word>
+	<word weight="0.12195121951219512" count="5">service</word>
+	<word weight="0.0975609756097561" count="4">test</word>
+	<word weight="0.04878048780487805" count="2">local</word>
+	<word weight="0.04878048780487805" count="2">assignable</word>
+	<word weight="0.04878048780487805" count="2">exclude</word>
+	<word weight="0.04878048780487805" count="2">application</word>
+	<word weight="0.024390243902439025" count="1">security</word>
+	<word weight="0.024390243902439025" count="1">web</word>
+	<word weight="0.024390243902439025" count="1">converter</word>
+	<word weight="0.024390243902439025" count="1">message</word>
+	<word weight="0.024390243902439025" count="1">scan</word>
+	<phrase weight="0.2" count="1">service application web security</phrase>
+	<phrase weight="0.2" count="1">filter filter type filter type assignable type local</phrase>
+	<phrase weight="0.2" count="1">test configuration configuration</phrase>
+	<phrase weight="0.2" count="1">service application</phrase>
+	<phrase weight="0.2" count="1">scan exclude filter filter type filter type assignable type local</phrase>
+  </topic>
+  <topic id="5" alpha="9.566404829418988E-91" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="0.07029457306135421" totalTokens="37" titles="test, bean, configuration, conditional, property, enable, key, auto, ">
+	<word weight="0.2702702702702703" count="10">test</word>
+	<word weight="0.24324324324324326" count="9">bean</word>
+	<word weight="0.16216216216216217" count="6">configuration</word>
+	<word weight="0.10810810810810811" count="4">conditional</word>
+	<word weight="0.08108108108108109" count="3">property</word>
+	<word weight="0.08108108108108109" count="3">enable</word>
+	<word weight="0.02702702702702703" count="1">key</word>
+	<word weight="0.02702702702702703" count="1">auto</word>
+	<phrase weight="1.0" count="1">test conditional property test bean conditional key enable</phrase>
+  </topic>
+  <topic id="7" alpha="0.049609298181609626" totalTokens="15" titles="portal, api, open, exception, config, ">
+	<word weight="0.4" count="6">portal</word>
+	<word weight="0.26666666666666666" count="4">api</word>
+	<word weight="0.2" count="3">open</word>
+	<word weight="0.06666666666666667" count="1">exception</word>
+	<word weight="0.06666666666666667" count="1">config</word>
+	<phrase weight="0.5" count="1">portal open api</phrase>
+	<phrase weight="0.5" count="1">open api config portal open api</phrase>
+  </topic>
+  <topic id="8" alpha="4.4535609480228643E-88" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="0.07816247945927964" totalTokens="78" titles="application, service, arg, property, enable, run, spring, string, main, admin">
+	<word weight="0.1794871794871795" count="14">application</word>
+	<word weight="0.08974358974358974" count="7">service</word>
+	<word weight="0.07692307692307693" count="6">arg</word>
+	<word weight="0.05128205128205128" count="4">property</word>
+	<word weight="0.05128205128205128" count="4">enable</word>
+	<word weight="0.038461538461538464" count="3">run</word>
+	<word weight="0.038461538461538464" count="3">spring</word>
+	<word weight="0.038461538461538464" count="3">string</word>
+	<word weight="0.038461538461538464" count="3">main</word>
+	<word weight="0.038461538461538464" count="3">admin</word>
+	<word weight="0.038461538461538464" count="3">common</word>
+	<word weight="0.038461538461538464" count="3">management</word>
+	<word weight="0.038461538461538464" count="3">transaction</word>
+	<word weight="0.038461538461538464" count="3">aspect</word>
+	<word weight="0.02564102564102564" count="2">classpath</word>
+	<word weight="0.02564102564102564" count="2">source</word>
+	<word weight="0.02564102564102564" count="2">client</word>
+	<word weight="0.02564102564102564" count="2">eureka</word>
+	<word weight="0.02564102564102564" count="2">proxy</word>
+	<word weight="0.01282051282051282" count="1">exception</word>
+	<phrase weight="0.09090909090909091" count="1">enable transaction management</phrase>
+	<phrase weight="0.09090909090909091" count="1">service application main string arg exception spring application run</phrase>
+	<phrase weight="0.09090909090909091" count="1">property source classpath</phrase>
+	<phrase weight="0.09090909090909091" count="1">eureka client</phrase>
+	<phrase weight="0.09090909090909091" count="1">spring application run</phrase>
+	<phrase weight="0.09090909090909091" count="1">enable auto</phrase>
+	<phrase weight="0.09090909090909091" count="1">meta service</phrase>
+	<phrase weight="0.09090909090909091" count="1">application enable aspect</phrase>
+	<phrase weight="0.09090909090909091" count="1">transaction management</phrase>
+	<phrase weight="0.09090909090909091" count="1">management property source classpath configservice property</phrase>
+	<phrase weight="0.09090909090909091" count="1">application main string arg</phrase>
+  </topic>
+</topics>

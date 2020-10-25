@@ -1,0 +1,10 @@
+0	0.02938	permission type privil namespace target privilege base delete 
+1	0.05774	comment key entity config cluster server audit insert 
+2	0.02125	release branch operation namespace cluster app rule previous context status history gray add 
+3	0.06311	role consumer token expire delete date compare 
+4	0.02841	app blank format message string namespace validator input invalid file regexp pattern 
+5	0.66805	string set column false nullable add delete entity extend table update sql base clause helper override lob bit definition 
+6	0.02214	comment namespace key release abandon configuration num line integer item 
+7	0.02934	user app enable secret position favorite key access clause entity override update 
+8	0.02113	owner org email app builder consumer build override 
+9	0.06845	cluster app namespace change parent commit lock comparable implement 

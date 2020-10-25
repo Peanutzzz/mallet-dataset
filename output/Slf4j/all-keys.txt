@@ -1,0 +1,10 @@
+0	0.01945	route naco zuul config property throwable string error override factory fallback list publisher definition aggregation log listener event content service 
+1	0.03348	demo code service set string order account mapper device storage user resource exception client count override slf impl commodity money 
+2	0.01335	file string table column info map entity template path java util set separator put type mapper list generator service config 
+3	0.05954	user service app param login username result string api index map request password search find open dto operation mobile mapping 
+4	0.02143	client audit lock log detail method string arg point utf signature set expression join service context aspect property template cache 
+5	0.02864	exception response handler status http result authentication message auth type request redirect success msg entity slf handle json def access 
+6	0.03897	token request string client header auth authentication parameter method empty access http str username tenant principal web servlet security param 
+7	0.00495	datacenter timestamp worker sequence max string bit browser system mac operate agent offset filter user shift network time exception gen 
+8	0.01969	key redis string param template list redi object hash set time lock connection expire result repository map end index remove 
+9	0.05389	role menu list service page find mapper override code result set util impl save map integer param delete base permission 

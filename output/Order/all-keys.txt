@@ -1,0 +1,10 @@
+0	0.00966	ldap property search group filter extend context source auth base provider authenticator bind authentication set configuration subtree apollo authority map 
+1	0.04635	http security permit matcher ant exception web configurer request authorize disable configure protect extend point frame csrf basic override adapter 
+2	0.01843	user true logout url signin authentication login enable success auto entry role clear session invalidate failure page form prefix img 
+3	0.04089	handler exception block error server web configurer codec resolver view order attribute set reader writer message property json flux precedence 
+4	0.00969	property string source client rest http authorization map log response sentinel result profile add body credentials timeout env password execution 
+5	0.00963	cor config source configuration add base url header set parser pattern path token expose method true credentials cookie precedence highest 
+6	0.02063	block logger exception handler result wrapper rule mvc sentinel config body response factory advice controller system spring warn object info 
+7	0.01303	template environment header request state config locator exception record uri util username entity locate org read path find illegal array 
+8	0.08778	sentinel filter web flux bean order gateway register config spring test customized global exception origin highest 
+9	0.00879	label header error result token list interceptor rule set url property password text composite remote core info server status arg 

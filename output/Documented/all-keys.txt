@@ -1,0 +1,10 @@
+0	0.04613	logger command description record log user desc mapping require false full rpc true login 
+1	0.02605	deny permission message privilege auth safe testing app control service action thread documented source element 
+2	0.02628	profile conditional request condition miss active inactive policy 
+3	0.62387	type element retention target document runtime string policy method field constructor annotation expression parameter info internal extend actual json listener 
+4	0.08095	property naco config link group invalid converter datum unknown attribute exception yaml execution constant timeout global inject change mistake sign 
+5	0.03187	precedence lowest order integer highest max represent spi min policy init handle source enable document 
+6	0.01231	time unit lock lease locker code key fair seconds wait false 
+7	0.04993	false type flag code ignore bind field refresh auto configuration true object set validation deprecate system caller propagate swallow error 
+8	0.04065	key interested config apollo code prefix listener application change namespace spring notify start retention win smaller configuration registrar port jpa 
+9	0.00908	placeholder string property config code retry key endpoint naco prefix empty sync remote timeout poll encode max enable time password 

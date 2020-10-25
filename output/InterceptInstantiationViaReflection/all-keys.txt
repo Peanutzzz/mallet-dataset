@@ -1,0 +1,10 @@
+0	0.17292	prometheus 
+1	3.37673	reporter factory intercept flink apache org reflection config 
+2	0.0783	stats statsd 
+3	0.07395	gateway push 
+4	0.07944	test track type true setup runtime 
+5	2.88837	metric property instantiation create override implement 
+6	0.16161	slf influxdb 
+7	0.07208	graphite 
+8	0.13369	port arg string config jmx 
+9	0.0745	datadog http 

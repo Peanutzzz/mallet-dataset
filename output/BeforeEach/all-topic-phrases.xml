@@ -1,0 +1,39 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.63143008916858" totalTokens="20" titles="rule, cluster, flow, node, reset, slot, builder, list, array, load">
+	<word weight="0.15" count="3">rule</word>
+	<word weight="0.1" count="2">cluster</word>
+	<word weight="0.1" count="2">flow</word>
+	<word weight="0.05" count="1">node</word>
+	<word weight="0.05" count="1">reset</word>
+	<word weight="0.05" count="1">slot</word>
+	<word weight="0.05" count="1">builder</word>
+	<word weight="0.05" count="1">list</word>
+	<word weight="0.05" count="1">array</word>
+	<word weight="0.05" count="1">load</word>
+	<word weight="0.05" count="1">manager</word>
+	<word weight="0.05" count="1">exception</word>
+	<word weight="0.05" count="1">set</word>
+	<word weight="0.05" count="1">test</word>
+	<word weight="0.05" count="1">adapter</word>
+	<word weight="0.05" count="1">quarkus</word>
+  </topic>
+  <topic id="1" alpha="2.1273653794927194E-5" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="2.1273653794927194E-5" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="2.1273653794927194E-5" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="2.1273653794927194E-5" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="2.1273653794927194E-5" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="2.1273653794927194E-5" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="2.1273653794927194E-5" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="2.1273653794927194E-5" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="2.1273653794927194E-5" totalTokens="0" titles="">
+  </topic>
+</topics>

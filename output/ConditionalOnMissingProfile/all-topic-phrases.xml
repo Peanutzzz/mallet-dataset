@@ -1,0 +1,131 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.03179150616472112" totalTokens="55" titles="security, http, remove, exception, auth, role, option, frame, disable, csrf">
+	<word weight="0.2" count="11">security</word>
+	<word weight="0.18181818181818182" count="10">http</word>
+	<word weight="0.07272727272727272" count="4">remove</word>
+	<word weight="0.05454545454545454" count="3">exception</word>
+	<word weight="0.05454545454545454" count="3">auth</word>
+	<word weight="0.03636363636363636" count="2">role</word>
+	<word weight="0.03636363636363636" count="2">option</word>
+	<word weight="0.03636363636363636" count="2">frame</word>
+	<word weight="0.03636363636363636" count="2">disable</word>
+	<word weight="0.03636363636363636" count="2">csrf</word>
+	<word weight="0.03636363636363636" count="2">configure</word>
+	<word weight="0.03636363636363636" count="2">protect</word>
+	<word weight="0.03636363636363636" count="2">extend</word>
+	<word weight="0.03636363636363636" count="2">global</word>
+	<word weight="0.01818181818181818" count="1">ldap</word>
+	<word weight="0.01818181818181818" count="1">admin</word>
+	<word weight="0.01818181818181818" count="1">problem</word>
+	<word weight="0.01818181818181818" count="1">server</word>
+	<word weight="0.01818181818181818" count="1">useless</word>
+	<word weight="0.01818181818181818" count="1">miss</word>
+	<phrase weight="0.2" count="2">frame option</phrase>
+	<phrase weight="0.1" count="1">protect configure http security http exception http csrf disable http</phrase>
+	<phrase weight="0.1" count="1">problem remove</phrase>
+	<phrase weight="0.1" count="1">configure global</phrase>
+	<phrase weight="0.1" count="1">http security http exception http http</phrase>
+	<phrase weight="0.1" count="1">http csrf disable http</phrase>
+	<phrase weight="0.1" count="1">auth exception auth</phrase>
+	<phrase weight="0.1" count="1">useless remove</phrase>
+	<phrase weight="0.1" count="1">auth ldap</phrase>
+  </topic>
+  <topic id="1" alpha="0.029902157326875123" totalTokens="66" titles="handler, bean, user, miss, conditional, service, logout, holder, info, heartbeat">
+	<word weight="0.12121212121212122" count="8">handler</word>
+	<word weight="0.12121212121212122" count="8">bean</word>
+	<word weight="0.12121212121212122" count="8">user</word>
+	<word weight="0.07575757575757576" count="5">miss</word>
+	<word weight="0.07575757575757576" count="5">conditional</word>
+	<word weight="0.06060606060606061" count="4">service</word>
+	<word weight="0.06060606060606061" count="4">logout</word>
+	<word weight="0.06060606060606061" count="4">holder</word>
+	<word weight="0.06060606060606061" count="4">info</word>
+	<word weight="0.06060606060606061" count="4">heartbeat</word>
+	<word weight="0.06060606060606061" count="4">sso</word>
+	<word weight="0.030303030303030304" count="2">configuration</word>
+	<word weight="0.030303030303030304" count="2">auth</word>
+	<word weight="0.015151515151515152" count="1">auto</word>
+	<word weight="0.015151515151515152" count="1">ldap</word>
+	<word weight="0.015151515151515152" count="1">ctrip</word>
+	<word weight="0.015151515151515152" count="1">profile</word>
+  </topic>
+  <topic id="2" alpha="0.05113573403996046" totalTokens="32" titles="enable, web, config, origin, header, configurer, true, post, pre, password">
+	<word weight="0.1875" count="6">enable</word>
+	<word weight="0.09375" count="3">web</word>
+	<word weight="0.09375" count="3">config</word>
+	<word weight="0.0625" count="2">origin</word>
+	<word weight="0.0625" count="2">header</word>
+	<word weight="0.0625" count="2">configurer</word>
+	<word weight="0.0625" count="2">true</word>
+	<word weight="0.0625" count="2">post</word>
+	<word weight="0.0625" count="2">pre</word>
+	<word weight="0.03125" count="1">password</word>
+	<word weight="0.03125" count="1">autowire</word>
+	<word weight="0.03125" count="1">spring</word>
+	<word weight="0.03125" count="1">client</word>
+	<word weight="0.03125" count="1">compatibility</word>
+	<word weight="0.03125" count="1">adapter</word>
+	<word weight="0.03125" count="1">method</word>
+	<word weight="0.03125" count="1">auth</word>
+	<phrase weight="0.25" count="1">pre post enable true web</phrase>
+	<phrase weight="0.25" count="1">pre post enable true</phrase>
+	<phrase weight="0.25" count="1">enable web</phrase>
+	<phrase weight="0.25" count="1">configurer adapter</phrase>
+  </topic>
+  <topic id="3" alpha="1.4572389561950095E-83" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="0.04441218792184516" totalTokens="21" titles="user, authentication, web, manager, follow, big, information, backward, adapter, global">
+	<word weight="0.23809523809523808" count="5">user</word>
+	<word weight="0.19047619047619047" count="4">authentication</word>
+	<word weight="0.14285714285714285" count="3">web</word>
+	<word weight="0.047619047619047616" count="1">manager</word>
+	<word weight="0.047619047619047616" count="1">follow</word>
+	<word weight="0.047619047619047616" count="1">big</word>
+	<word weight="0.047619047619047616" count="1">information</word>
+	<word weight="0.047619047619047616" count="1">backward</word>
+	<word weight="0.047619047619047616" count="1">adapter</word>
+	<word weight="0.047619047619047616" count="1">global</word>
+	<word weight="0.047619047619047616" count="1">miss</word>
+	<word weight="0.047619047619047616" count="1">conditional</word>
+	<phrase weight="0.25" count="1">conditional miss</phrase>
+	<phrase weight="0.25" count="1">authentication information</phrase>
+	<phrase weight="0.25" count="1">user user</phrase>
+	<phrase weight="0.25" count="1">authentication user user</phrase>
+  </topic>
+  <topic id="5" alpha="5.43117071716884E-88" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="0.3469179785145822" totalTokens="75" titles="profile, configuration, conditional, miss, combine, test, true, enable, override, ">
+	<word weight="0.29333333333333333" count="22">profile</word>
+	<word weight="0.25333333333333335" count="19">configuration</word>
+	<word weight="0.13333333333333333" count="10">conditional</word>
+	<word weight="0.09333333333333334" count="7">miss</word>
+	<word weight="0.05333333333333334" count="4">combine</word>
+	<word weight="0.05333333333333334" count="4">test</word>
+	<word weight="0.05333333333333334" count="4">true</word>
+	<word weight="0.05333333333333334" count="4">enable</word>
+	<word weight="0.013333333333333334" count="1">override</word>
+	<phrase weight="0.3333333333333333" count="1">conditional miss</phrase>
+	<phrase weight="0.3333333333333333" count="1">configuration conditional miss profile</phrase>
+	<phrase weight="0.3333333333333333" count="1">configuration configuration conditional miss profile</phrase>
+  </topic>
+  <topic id="7" alpha="2.0784322363171175E-55" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="0.04905033943515294" totalTokens="10" titles="apollo, password, memory, builder, send, basic, configure, override, method, ">
+	<word weight="0.2" count="2">apollo</word>
+	<word weight="0.1" count="1">password</word>
+	<word weight="0.1" count="1">memory</word>
+	<word weight="0.1" count="1">builder</word>
+	<word weight="0.1" count="1">send</word>
+	<word weight="0.1" count="1">basic</word>
+	<word weight="0.1" count="1">configure</word>
+	<word weight="0.1" count="1">override</word>
+	<word weight="0.1" count="1">method</word>
+  </topic>
+  <topic id="9" alpha="0.07219541881934631" totalTokens="17" titles="service, email, bean, ctrip, ">
+	<word weight="0.4117647058823529" count="7">service</word>
+	<word weight="0.29411764705882354" count="5">email</word>
+	<word weight="0.17647058823529413" count="3">bean</word>
+	<word weight="0.11764705882352941" count="2">ctrip</word>
+  </topic>
+</topics>

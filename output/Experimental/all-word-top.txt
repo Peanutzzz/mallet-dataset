@@ -1,0 +1,580 @@
+0 input 7:55 5:31 4:14 2:13 0:4 9:3
+1 format 7:80 2:18
+2 experimental 6:20 0:10 2:6 1:3 8:2 3:2 9:1
+3 base 2:11 4:4 0:4 8:3 7:2
+4 extend 6:12 0:6 7:3 2:3
+5 tuple 2:5 4:3 7:1
+6 table 2:33 6:23 3:10
+7 serial 7:3 8:1 9:1
+8 version 7:3 4:3 8:1 9:1
+9 construct 2:1
+10 link 4:41 0:29 6:21 2:16 3:6 7:5 5:2
+11 hbase 2:4
+12 configuration 2:9 0:5 7:4 9:2
+13 read 4:17 7:7 2:5 8:4 9:3
+14 datum 4:52 0:30 8:15 9:13 2:12 6:10 7:4
+15 param 4:36 7:31 0:22 9:8 6:7 1:5 8:4 2:3
+16 conf 2:7
+17 connect 9:7 7:2 4:1
+18 zookeeper 2:2
+19 quorum 7:1
+20 znode 2:1
+21 parent 2:1 0:1 5:1
+22 set 7:67 5:13 0:11 4:8 2:4 9:1
+23 org 2:2 7:1
+24 apache 2:2 6:1
+25 hadoop 2:3
+26 instance 2:9 6:7 3:6 8:1 0:1
+27 scan 2:5
+28 retrieve 4:3 2:1
+29 require 2:3 0:1 5:1
+30 subset 2:1
+31 record 5:20 7:6 6:3 9:2 2:2 4:1
+32 usecase 2:1
+33 protect 7:21 5:19 8:2 0:2
+34 scanner 2:2
+35 derivative 2:1
+36 single 0:3 7:1
+37 tablename 2:1
+38 string 3:48 7:27 6:21 8:14 4:9 0:3
+39 output 5:27 7:23 0:18 9:10 4:4
+40 result 7:29 2:10 0:2 9:1
+41 method 5:11 2:8 0:6
+42 copy 2:1 7:1
+43 convert 2:1
+44 information 0:14 4:12 2:4 3:2
+45 map 3:13 2:5 4:2
+46 create 5:12 6:10 0:10 2:5 9:3 7:3 3:3 8:2 4:2
+47 object 7:5 6:2 0:2
+48 open 7:7 8:5 9:4 2:3 5:1
+49 connection 7:16 9:5
+50 splits 2:1
+51 call 5:6 7:3 0:3 1:1 9:1 6:1
+52 configure 5:6 2:6 7:4 3:2 0:1
+53 close 9:17 7:12 8:1
+54 parameter 1:26 7:23 5:12 0:7 9:2
+55 override 8:24 5:22 7:11 2:7 9:6 1:2 0:1
+56 log 7:14 5:5
+57 info 7:19 0:13 4:3
+58 initialize 8:6 5:5 2:1 9:1
+59 exception 5:35 7:29 9:26 3:13 8:8 0:2
+60 error 9:15 7:2 5:2 2:1 4:1
+61 instantiate 5:2 2:1
+62 type 0:54 4:35 7:34 2:20 9:4
+63 jdbc 7:59 1:11
+64 rich 7:1 8:1 9:1
+65 row 7:27 8:7 6:3
+66 split 7:26 3:2
+67 implement 8:3 2:3 0:3 1:2 7:1 9:1
+68 queryable 7:1
+69 logger 7:6 5:4
+70 factory 0:20 5:5 7:2 2:2
+71 username 7:18
+72 password 7:17
+73 drivername 7:13
+74 query 7:21 5:2
+75 template 7:5
+76 concurrency 7:7
+77 conn 7:10
+78 prepared 7:3
+79 statement 7:34
+80 fetch 7:13 1:3
+81 size 7:23 1:20 5:8 8:7 4:5 3:1
+82 distinguish 6:1
+83 explicitly 4:3 7:2
+84 auto 7:10
+85 commit 7:10 3:10
+86 mode 2:3 7:2
+87 produce 1:5 7:1 9:1 6:1
+88 driver 7:4
+89 manager 5:26 7:2
+90 prepare 7:1 5:1
+91 integer 8:8 7:5 4:2 2:1
+92 min 1:17 8:14 5:6 7:4 4:2
+93 illegal 7:9 5:4 3:3
+94 argument 7:9 8:4 1:4 4:2 5:1
+95 fail 9:4 7:3 5:2 0:2 2:1
+96 message 7:7 9:2 4:2
+97 find 7:2 3:2
+98 cnfe 7:3
+99 inputformat 7:3
+100 couldn 7:5
+101 source 6:56 4:9 0:2
+102 database 7:2 3:2
+103 execute 7:4 0:2 8:1
+104 parallel 7:4 4:4 8:3 0:1
+105 fashion 7:2
+106 build 7:7
+107 parameterized 7:1
+108 proper 7:1
+109 provider 1:15 6:13 7:9 5:1
+110 ignore 9:6 7:1 6:1 3:1
+111 hook 5:2 7:1
+112 number 4:37 8:5 7:4 5:2 1:2 2:1 6:1
+113 execution 0:21 4:9 5:8 7:4 3:1
+114 length 7:4
+115 big 7:3 1:2
+116 decimal 7:3
+117 date 7:3 3:1
+118 time 5:60 4:14 3:8 8:7 7:3 6:3
+119 timestamp 6:6 7:3 5:3
+120 array 7:14 4:3 8:2 6:2 3:1
+121 handle 5:3 7:1 4:1 2:1
+122 debug 7:3
+123 enable 7:2 6:2
+124 deep 7:1
+125 resource 7:2 5:2
+126 closed 7:1
+127 check 6:7 8:5 1:5 7:3 4:2
+128 indication 7:1
+129 reach 7:1
+130 end 8:23 1:3 7:1 9:1
+131 store 5:3 7:1 8:1
+132 reuse 7:7 5:2
+133 pos 6:1
+134 arity 7:1
+135 field 4:9 2:4 6:3
+136 update 7:1 6:1
+137 pointer 7:1
+138 npe 7:2
+139 access 3:2 0:2 7:1
+140 statistics 7:5
+141 cache 7:2 5:1
+142 num 1:16 5:5 7:1
+143 generic 7:5 1:2
+144 ret 7:5
+145 assigner 7:3
+146 visible 5:6 7:2
+147 testing 7:2
+148 builder 7:35
+149 fluent 7:1
+150 forward 0:4 7:2
+151 high 7:1
+152 performance 6:1 2:1
+153 concur 7:1
+154 url 7:4
+155 precondition 8:6 1:5 4:2 7:1
+156 positive 1:3 7:1
+157 finish 7:2
+158 supply 7:8
+159 separately 7:2
+160 simple 5:4 7:3 8:2 0:1
+161 splitting 7:1
+162 parallelism 4:43 2:2 7:1
+163 batching 7:1
+164 batch 1:35 7:13 2:1
+165 executor 7:5 0:3 9:1
+166 sql 7:5
+167 option 5:10 7:6 3:2
+168 ctx 7:4 8:3
+169 extractor 3:15 0:1
+170 identity 7:2
+171 runtime 6:20 5:12 8:9 0:2 3:1
+172 context 8:30 5:28 6:10 3:4 0:2
+173 config 5:33 0:12 4:3 7:1
+174 function 6:49 4:9 8:7
+175 finalize 7:1
+176 validity 7:1
+177 serializable 1:7 6:2 0:1 3:1
+178 precomputed 1:1
+179 externally 1:1
+180 numeric 1:7
+181 val 1:33
+182 max 1:27 8:14
+183 constructor 1:2 0:1
+184 lower 1:2 3:1
+185 bind 1:4 9:3
+186 upper 1:2 5:1
+187 larger 1:2
+188 distance 1:1
+189 pair 1:1
+190 elem 1:10
+191 count 1:10 5:6
+192 math 8:2 1:2
+193 ceil 1:2
+194 state 5:85 8:27 1:1
+195 start 8:23 1:4 4:3
+196 shuffle 4:69
+197 flink 4:43 2:4
+198 kafka 4:116
+199 producer 4:68
+200 partition 3:61 4:54 0:13 2:5
+201 bus 4:2
+202 persist 4:8
+203 key 4:101 0:44 5:40 6:13 3:8
+204 achieve 4:2
+205 wrap 4:2
+206 consumer 4:27
+207 side 4:7
+208 similar 4:2
+209 stream 0:124 4:62 9:37 5:26
+210 selector 4:30 0:26
+211 group 5:30 4:15 2:2 3:1
+212 assignment 4:8
+213 range 4:4 8:2
+214 assign 4:7
+215 operator 5:72 0:36 4:7
+216 decide 4:4
+217 task 5:31 4:24 8:5 0:2
+218 potentially 4:4
+219 write 4:20 2:4
+220 equal 4:7 5:1 3:1
+221 characteristic 4:7
+222 event 5:11 4:7 0:5
+223 broadcast 4:4 0:1
+224 watermark 5:25 4:24 6:7
+225 make 4:11 8:1 5:1
+226 propagate 4:4 5:1
+227 correctly 4:2
+228 index 5:6 6:3 4:3 8:1
+229 maximum 4:3
+230 support 2:6 6:3 4:3
+231 responsible 4:3 5:1
+232 emit 8:23 4:6
+233 correspond 4:3
+234 notice 4:3
+235 monotonically 4:3
+236 increase 4:3
+237 topic 4:21
+238 property 4:48 5:1 9:1
+239 keyed 0:8 4:3
+240 persistent 4:9
+241 prop 4:1
+242 purely 4:1 5:1
+243 hash 3:5 4:1
+244 flatten 4:2
+245 level 4:1
+246 element 5:11 9:9 8:3 2:3 4:1 0:1
+247 util 4:6 0:3
+248 environment 0:17 4:10 5:6
+249 env 4:9 0:7
+250 position 4:2
+251 properly 8:2 4:2
+252 attention 4:3
+253 include 4:3 3:1
+254 necessarily 4:3
+255 independently 4:3
+256 serializer 9:24 5:18 4:9 0:8
+257 clean 4:1
+258 semantic 4:1
+259 pool 4:1
+260 sink 2:14 0:12 4:10 9:4
+261 missing 4:2
+262 add 4:5 5:4 0:4 8:3
+263 receive 9:3 4:1 3:1
+264 schema 4:5
+265 serialization 4:2
+266 todo 4:1
+267 situation 4:1
+268 reinterpret 0:7 4:1
+269 associate 4:1
+270 transform 0:3 4:1
+271 coax 4:1
+272 miss 4:1
+273 transformation 4:7 0:7
+274 place 4:1
+275 put 4:2 3:2
+276 avoid 4:1
+277 change 4:1 2:1
+278 basic 4:1 2:1
+279 primitive 4:1
+280 expression 4:1
+281 iterator 9:9 0:8 8:1
+282 iterate 0:1
+283 collect 0:12 8:7 9:3 3:1
+284 accumulator 0:4
+285 uuid 0:1
+286 random 8:29 0:1
+287 future 0:2
+288 job 0:11 5:3
+289 client 9:11 0:4
+290 async 6:11 2:2 9:1
+291 give 0:7 6:3
+292 extract 0:8 3:2
+293 important 0:2
+294 data 0:6 8:3
+295 define 6:9 0:3
+296 reinterpretation 0:2
+297 explicit 0:1
+298 partitioner 0:2
+299 prevent 0:1
+300 instantiation 3:2 0:1
+301 multiple 0:4
+302 connected 0:2 9:1
+303 strategy 0:20
+304 resolve 6:2
+305 generator 8:80
+306 checkpoint 5:16 8:11
+307 relate 8:1
+308 initialization 8:6 5:1
+309 snapshot 8:10 5:7
+310 run 8:6
+311 control 6:2
+312 rate 8:2
+313 true 6:4 2:4 9:2 8:2
+314 subtask 5:6 8:3
+315 system 6:6 3:3 8:1
+316 current 5:7 8:3 9:2
+317 millis 8:3
+318 synchronize 8:1
+319 lock 8:1
+320 wait 8:4
+321 thread 8:1 9:1
+322 sleep 8:1
+323 cancel 8:1 5:1
+324 false 2:3 0:3 8:1
+325 uniform 8:2
+326 len 8:2
+327 hex 8:1
+328 sequence 8:17
+329 list 3:9 8:3
+330 deque 8:2
+331 interval 8:1
+332 descriptor 5:9 8:1
+333 restore 8:2 0:1
+334 step 8:4
+335 idx 8:3
+336 congruence 8:2
+337 total 8:3
+338 abs 8:1
+339 safe 8:2
+340 divide 8:2
+341 clear 8:1
+342 empty 3:4 8:1
+343 leave 8:3
+344 left 8:1
+345 poll 8:7
+346 code 5:8 6:6 2:5
+347 process 5:11
+348 scope 5:1
+349 nullable 5:4
+350 owner 5:10
+351 user 5:8 6:7 3:3
+352 classloader 5:3
+353 mark 5:8
+354 report 5:5
+355 latency 5:32
+356 marker 5:11 6:2
+357 internal 5:11 6:3 2:1
+358 processing 5:36
+359 service 5:65
+360 aware 0:1
+361 chain 0:16 3:4
+362 checkpointed 3:1
+363 subclass 5:2
+364 streaming 5:3 2:1
+365 loader 5:6 3:4 0:2
+366 closeable 5:1
+367 registry 5:2
+368 cancelable 5:5
+369 metric 5:40
+370 stats 5:13
+371 handler 5:21
+372 track 5:2
+373 combine 5:5
+374 minimum 5:2
+375 advance 5:2
+376 downstream 5:1
+377 fill 5:1
+378 counting 5:1
+379 counter 5:1
+380 warn 5:4
+381 occur 5:2
+382 unregistered 5:4
+383 external 5:1
+384 history 5:8
+385 granularity 5:14
+386 locale 5:1
+387 root 5:1 9:1
+388 iae 5:1
+389 invalid 5:1
+390 initializer 0:1
+391 timer 5:24
+392 immediately 5:1
+393 logic 5:1
+394 implementation 6:9 5:2
+395 expect 5:2
+396 flush 5:2 9:1
+397 remain 3:7
+398 buffer 5:2
+399 order 6:2 3:1
+400 operation 3:3 5:2 9:1
+401 recognize 5:1
+402 asa 8:1
+403 item 5:1
+404 life 5:1
+405 successful 5:1
+406 completion 0:1
+407 failure 5:1
+408 effort 5:1 9:1
+409 release 5:1
+410 acquire 0:1
+411 dispose 5:2
+412 pre 5:1
+413 barrier 8:1
+414 accept 5:1 9:1
+415 optional 5:5 3:1
+416 participate 0:1
+417 provide 3:1 6:1
+418 register 5:3
+419 notify 5:4 9:1
+420 complete 5:2
+421 aborted 5:2
+422 belong 5:1
+423 interact 5:1
+424 variable 5:1
+425 manage 5:1
+426 suppress 5:3 6:1
+427 warning 5:3 2:1
+428 unchecked 5:3 0:1
+429 test 5:6
+430 backend 5:12
+431 namespace 5:19
+432 rawtype 5:2
+433 differentiate 5:1
+434 request 5:3
+435 subsequent 5:1
+436 scop 3:1
+437 active 5:2
+438 fire 5:2
+439 attach 6:1
+440 metadata 0:1
+441 don 5:2
+442 differentiation 5:1
+443 exist 6:4 0:1
+444 triggerable 5:5
+445 invoke 5:1 9:1
+446 graph 0:5
+447 generation 0:1
+448 configurable 0:2
+449 generate 0:2
+450 operate 0:1
+451 supplier 3:3 5:2
+452 dispatcher 5:9
+453 lazily 5:1
+454 yield 0:1
+455 mailbox 0:3
+456 inet 9:5
+457 address 9:13
+458 host 9:9
+459 port 9:20
+460 socket 9:36
+461 view 9:4
+462 wrapper 9:4
+463 writer 9:3 2:1
+464 send 9:3
+465 server 9:7
+466 serialize 9:1
+467 back 9:4
+468 regular 9:1
+469 attempt 9:1
+470 cleanly 9:1
+471 escalate 9:1
+472 prior 9:1
+473 throwable 9:9
+474 care 9:1
+475 listen 9:1
+476 deserialize 9:4
+477 handover 9:1
+478 specific 9:1
+479 program 9:1
+480 automatic 9:2
+481 incoming 9:2
+482 custom 3:11 9:1 2:1
+483 selection 9:1
+484 internally 9:1
+485 local 9:1 3:1
+486 semantics 9:1
+487 note 9:1
+488 block 9:3
+489 remove 9:1
+490 unsupported 3:4 9:1
+491 wake 9:1
+492 pipeline 3:2
+493 global 3:2
+494 temporary 6:6
+495 drop 6:3
+496 path 6:8 3:3
+497 consume 2:3
+498 bound 2:1 0:1
+499 exec 2:2
+500 legacy 0:1
+501 lookup 6:29
+502 dynamic 6:2
+503 serve 6:2
+504 independent 6:1
+505 work 6:1
+506 arbitrary 6:1
+507 structure 6:4
+508 offer 6:2
+509 utility 6:2
+510 planner 6:2
+511 minimal 6:2
+512 dependency 6:2
+513 helper 6:1
+514 directly 6:1
+515 pass 6:1
+516 composite 6:2
+517 possibly 6:1
+518 nest 6:1
+519 perform 6:1
+520 actual 6:1
+521 evaluation 2:2
+522 signature 2:1
+523 extraction 2:2
+524 facility 6:2
+525 sufficient 2:1
+526 wrong 2:1
+527 complex 2:1
+528 determine 2:1
+529 kind 3:10 2:3
+530 inference 2:2
+531 overwritable 2:1
+532 insert 2:1
+533 overwrite 2:3
+534 partitionable 3:3
+535 partial 2:1
+536 column 2:1
+537 javadoc 2:1
+538 detail 2:1
+539 represent 2:1
+540 encode 2:3
+541 foo 2:2
+542 bar 2:2
+543 decode 2:1
+544 original 3:1
+545 literal 2:1
+546 trust 2:1
+547 mix 2:1
+548 reduce 3:1
+549 improve 2:1
+550 behavior 2:2
+551 writing 2:1
+552 grouping 2:6 3:1
+553 sort 2:1
+554 limitable 6:1
+555 flag 6:1
+556 limit 6:8
+557 push 6:3
+558 apply 3:5 6:2
+559 clone 6:2
+560 lookupable 6:1
+561 choose 6:2
+562 pruning 3:4
+563 hold 3:2
+564 prune 3:2
+565 policy 3:26
+566 metastore 3:9
+567 success 3:6
+568 file 3:8
+569 catalog 3:2
+570 spec 3:2
+571 form 3:1
+572 collection 3:1
+573 load 3:2
+574 collector 3:1
+575 validate 3:2
+576 validation 3:1
+577 hive 3:1
+578 pattern 3:2
+579 part 3:1

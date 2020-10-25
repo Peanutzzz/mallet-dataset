@@ -1,0 +1,166 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.36699083023157064" totalTokens="111" titles="establish, resource, istio, stream, sink, instance, set, mcp, bidi, request">
+	<word weight="0.2072072072072072" count="23">establish</word>
+	<word weight="0.1891891891891892" count="21">resource</word>
+	<word weight="0.10810810810810811" count="12">istio</word>
+	<word weight="0.08108108108108109" count="9">stream</word>
+	<word weight="0.05405405405405406" count="6">sink</word>
+	<word weight="0.04504504504504504" count="5">source</word>
+	<word weight="0.036036036036036036" count="4">instance</word>
+	<word weight="0.036036036036036036" count="4">set</word>
+	<word weight="0.036036036036036036" count="4">mcp</word>
+	<word weight="0.02702702702702703" count="3">bidi</word>
+	<word weight="0.02702702702702703" count="3">request</word>
+	<word weight="0.018018018018018018" count="2">build</word>
+	<word weight="0.018018018018018018" count="2">schema</word>
+	<word weight="0.018018018018018018" count="2">protobuf</word>
+	<word weight="0.018018018018018018" count="2">local</word>
+	<word weight="0.018018018018018018" count="2">synchronize</word>
+	<word weight="0.018018018018018018" count="2">stub</word>
+	<word weight="0.018018018018018018" count="2">service</word>
+	<word weight="0.009009009009009009" count="1">tracing</word>
+	<word weight="0.009009009009009009" count="1">sample</word>
+	<phrase weight="0.23076923076923078" count="3">establish resource stream</phrase>
+	<phrase weight="0.23076923076923078" count="3">establish resource</phrase>
+	<phrase weight="0.07692307692307693" count="1">mcp request resource establish</phrase>
+	<phrase weight="0.07692307692307693" count="1">stream build establish resource</phrase>
+	<phrase weight="0.07692307692307693" count="1">resource stream build establish resource</phrase>
+	<phrase weight="0.07692307692307693" count="1">synchronize resource sink</phrase>
+	<phrase weight="0.07692307692307693" count="1">sample local tracing</phrase>
+	<phrase weight="0.07692307692307693" count="1">synchronize resource source</phrase>
+	<phrase weight="0.07692307692307693" count="1">sink establish resource</phrase>
+  </topic>
+  <topic id="1" alpha="5.531261209341564E-150" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="8.419244685282412E-163" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="6.383966655743127E-14" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="0.8879741912515491" totalTokens="43" titles="grpc, proto, istio, config, sample, builder, bidi, response, mesh, method">
+	<word weight="0.16279069767441862" count="7">grpc</word>
+	<word weight="0.11627906976744186" count="5">proto</word>
+	<word weight="0.11627906976744186" count="5">istio</word>
+	<word weight="0.11627906976744186" count="5">config</word>
+	<word weight="0.06976744186046512" count="3">sample</word>
+	<word weight="0.06976744186046512" count="3">builder</word>
+	<word weight="0.046511627906976744" count="2">bidi</word>
+	<word weight="0.046511627906976744" count="2">response</word>
+	<word weight="0.046511627906976744" count="2">mesh</word>
+	<word weight="0.046511627906976744" count="2">method</word>
+	<word weight="0.046511627906976744" count="2">service</word>
+	<word weight="0.023255813953488372" count="1">util</word>
+	<word weight="0.023255813953488372" count="1">alpha</word>
+	<word weight="0.023255813953488372" count="1">generate</word>
+	<word weight="0.023255813953488372" count="1">full</word>
+	<word weight="0.023255813953488372" count="1">annotation</word>
+	<phrase weight="1.0" count="1">grpc method</phrase>
+  </topic>
+  <topic id="5" alpha="2.596870254222277E-115" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="0.10954731264384215" totalTokens="50" titles="incremental, resource, mcp, response, model, istio, schema, instance, generate, aggregated">
+	<word weight="0.44" count="22">incremental</word>
+	<word weight="0.18" count="9">resource</word>
+	<word weight="0.12" count="6">mcp</word>
+	<word weight="0.04" count="2">response</word>
+	<word weight="0.04" count="2">model</word>
+	<word weight="0.04" count="2">istio</word>
+	<word weight="0.02" count="1">schema</word>
+	<word weight="0.02" count="1">instance</word>
+	<word weight="0.02" count="1">generate</word>
+	<word weight="0.02" count="1">aggregated</word>
+	<word weight="0.02" count="1">mesh</word>
+	<word weight="0.02" count="1">method</word>
+	<word weight="0.02" count="1">service</word>
+	<phrase weight="0.4" count="2">mcp incremental</phrase>
+	<phrase weight="0.2" count="1">istio model mcp incremental</phrase>
+	<phrase weight="0.2" count="1">response incremental</phrase>
+	<phrase weight="0.2" count="1">method generate</phrase>
+  </topic>
+  <topic id="7" alpha="6.763529661456896E-133" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="2.761474183606316" totalTokens="526" titles="method, resource, grpc, alibaba, model, mcp, naco, stream, descriptor, istio">
+	<word weight="0.1520912547528517" count="80">method</word>
+	<word weight="0.09505703422053231" count="50">resource</word>
+	<word weight="0.07984790874524715" count="42">grpc</word>
+	<word weight="0.07604562737642585" count="40">alibaba</word>
+	<word weight="0.07224334600760456" count="38">model</word>
+	<word weight="0.06463878326996197" count="34">mcp</word>
+	<word weight="0.060836501901140684" count="32">naco</word>
+	<word weight="0.057034220532319393" count="30">stream</word>
+	<word weight="0.053231939163498096" count="28">descriptor</word>
+	<word weight="0.045627376425855515" count="24">istio</word>
+	<word weight="0.04182509505703422" count="22">type</word>
+	<word weight="0.03612167300380228" count="19">request</word>
+	<word weight="0.028517110266159697" count="15">set</word>
+	<word weight="0.022813688212927757" count="12">marshaller</word>
+	<word weight="0.02091254752851711" count="11">full</word>
+	<word weight="0.015209125475285171" count="8">response</word>
+	<word weight="0.011406844106463879" count="6">protobuf</word>
+	<word weight="0.0076045627376425855" count="4">supplier</word>
+	<word weight="0.0076045627376425855" count="4">util</word>
+	<word weight="0.0076045627376425855" count="4">true</word>
+	<phrase weight="0.06060606060606061" count="6">model mcp</phrase>
+	<phrase weight="0.04040404040404041" count="4">resource method</phrase>
+	<phrase weight="0.030303030303030304" count="3">istio model mcp</phrase>
+	<phrase weight="0.030303030303030304" count="3">full method</phrase>
+	<phrase weight="0.030303030303030304" count="3">annotation rpc method full method</phrase>
+	<phrase weight="0.030303030303030304" count="3">resource stream method</phrase>
+	<phrase weight="0.020202020202020204" count="2">method type</phrase>
+	<phrase weight="0.020202020202020204" count="2">grpc protobuf</phrase>
+	<phrase weight="0.020202020202020204" count="2">request alibaba</phrase>
+	<phrase weight="0.020202020202020204" count="2">set type grpc method descriptor method type</phrase>
+	<phrase weight="0.020202020202020204" count="2">method descriptor supplier</phrase>
+	<phrase weight="0.020202020202020204" count="2">resource stream method grpc method descriptor alibaba naco</phrase>
+	<phrase weight="0.020202020202020204" count="2">resource method stream</phrase>
+	<phrase weight="0.020202020202020204" count="2">resource stream method resource</phrase>
+	<phrase weight="0.020202020202020204" count="2">resource alibaba naco</phrase>
+	<phrase weight="0.020202020202020204" count="2">grpc method descriptor alibaba naco istio model</phrase>
+	<phrase weight="0.020202020202020204" count="2">marshaller alibaba</phrase>
+	<phrase weight="0.020202020202020204" count="2">grpc grpc</phrase>
+	<phrase weight="0.020202020202020204" count="2">descriptor resource</phrase>
+	<phrase weight="0.020202020202020204" count="2">marshaller alibaba naco istio model mcp</phrase>
+  </topic>
+  <topic id="9" alpha="0.3527136550093533" totalTokens="166" titles="aggregate, config, mesh, service, naco, response, request, set, method, marshaller">
+	<word weight="0.20481927710843373" count="34">aggregate</word>
+	<word weight="0.1746987951807229" count="29">config</word>
+	<word weight="0.16265060240963855" count="27">mesh</word>
+	<word weight="0.0783132530120482" count="13">service</word>
+	<word weight="0.04819277108433735" count="8">naco</word>
+	<word weight="0.03614457831325301" count="6">response</word>
+	<word weight="0.03614457831325301" count="6">request</word>
+	<word weight="0.030120481927710843" count="5">set</word>
+	<word weight="0.030120481927710843" count="5">method</word>
+	<word weight="0.024096385542168676" count="4">marshaller</word>
+	<word weight="0.018072289156626505" count="3">util</word>
+	<word weight="0.018072289156626505" count="3">grpc</word>
+	<word weight="0.012048192771084338" count="2">build</word>
+	<word weight="0.012048192771084338" count="2">instance</word>
+	<word weight="0.012048192771084338" count="2">tracing</word>
+	<word weight="0.012048192771084338" count="2">local</word>
+	<word weight="0.012048192771084338" count="2">synchronize</word>
+	<word weight="0.012048192771084338" count="2">bidi</word>
+	<word weight="0.012048192771084338" count="2">type</word>
+	<word weight="0.012048192771084338" count="2">stub</word>
+	<phrase weight="0.09375" count="3">config response</phrase>
+	<phrase weight="0.09375" count="3">mesh config service</phrase>
+	<phrase weight="0.09375" count="3">mesh config</phrase>
+	<phrase weight="0.0625" count="2">aggregate mesh config service</phrase>
+	<phrase weight="0.0625" count="2">config request</phrase>
+	<phrase weight="0.0625" count="2">request marshaller</phrase>
+	<phrase weight="0.0625" count="2">config service</phrase>
+	<phrase weight="0.0625" count="2">local tracing</phrase>
+	<phrase weight="0.03125" count="1">stream aggregate</phrase>
+	<phrase weight="0.03125" count="1">mesh config response</phrase>
+	<phrase weight="0.03125" count="1">request response</phrase>
+	<phrase weight="0.03125" count="1">method synchronize aggregate mesh config</phrase>
+	<phrase weight="0.03125" count="1">rpc method</phrase>
+	<phrase weight="0.03125" count="1">alpha aggregate mesh config service</phrase>
+	<phrase weight="0.03125" count="1">instance set</phrase>
+	<phrase weight="0.03125" count="1">synchronize aggregate mesh config service</phrase>
+	<phrase weight="0.03125" count="1">set schema</phrase>
+	<phrase weight="0.03125" count="1">aggregated mesh config service</phrase>
+	<phrase weight="0.03125" count="1">builder set type</phrase>
+	<phrase weight="0.03125" count="1">mesh config request</phrase>
+  </topic>
+</topics>

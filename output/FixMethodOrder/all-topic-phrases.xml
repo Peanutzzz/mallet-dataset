@@ -1,0 +1,396 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.022965770661399904" totalTokens="801" titles="config, test, raft, context, string, result, cluster, content, group, application">
+	<word weight="0.08364544319600499" count="67">config</word>
+	<word weight="0.07990012484394507" count="64">test</word>
+	<word weight="0.06991260923845194" count="56">raft</word>
+	<word weight="0.0599250936329588" count="48">context</word>
+	<word weight="0.05742821473158552" count="46">string</word>
+	<word weight="0.049937578027465665" count="40">result</word>
+	<word weight="0.04868913857677903" count="39">cluster</word>
+	<word weight="0.0449438202247191" count="36">content</word>
+	<word weight="0.03870162297128589" count="31">group</word>
+	<word weight="0.03745318352059925" count="30">application</word>
+	<word weight="0.03620474406991261" count="29">datum</word>
+	<word weight="0.0299625468164794" count="24">operate</word>
+	<word weight="0.024968789013732832" count="20">publish</word>
+	<word weight="0.02247191011235955" count="18">bean</word>
+	<word weight="0.019975031210986267" count="16">transfer</word>
+	<word weight="0.019975031210986267" count="16">sleep</word>
+	<word weight="0.019975031210986267" count="16">util</word>
+	<word weight="0.018726591760299626" count="15">manager</word>
+	<word weight="0.017478152309612985" count="14">protocol</word>
+	<word weight="0.017478152309612985" count="14">true</word>
+	<phrase weight="0.07317073170731707" count="9">context bean</phrase>
+	<phrase weight="0.06504065040650407" count="8">config datum group string</phrase>
+	<phrase weight="0.056910569105691054" count="7">raft test cluster test content string operate</phrase>
+	<phrase weight="0.04878048780487805" count="6">manager config</phrase>
+	<phrase weight="0.032520325203252036" count="4">string operate</phrase>
+	<phrase weight="0.032520325203252036" count="4">operate context bean</phrase>
+	<phrase weight="0.024390243902439025" count="3">publish config raft test raft</phrase>
+	<phrase weight="0.024390243902439025" count="3">config datum group</phrase>
+	<phrase weight="0.024390243902439025" count="3">thread util sleep result</phrase>
+	<phrase weight="0.024390243902439025" count="3">raft test cluster test content array</phrase>
+	<phrase weight="0.024390243902439025" count="3">seconds sleep true protocol leader config group</phrase>
+	<phrase weight="0.016260162601626018" count="2">protocol leader config group</phrase>
+	<phrase weight="0.016260162601626018" count="2">publish config datum group content true result thread util sleep string</phrase>
+	<phrase weight="0.016260162601626018" count="2">cluster test raft cluster lessspring</phrase>
+	<phrase weight="0.016260162601626018" count="2">true result</phrase>
+	<phrase weight="0.008130081300813009" count="1">leader config group</phrase>
+	<phrase weight="0.008130081300813009" count="1">publish config raft test cluster test raft cluster lessspring true result thread util sleep</phrase>
+	<phrase weight="0.008130081300813009" count="1">node consistent datum</phrase>
+	<phrase weight="0.008130081300813009" count="1">println result datum true result</phrase>
+	<phrase weight="0.008130081300813009" count="1">test derby</phrase>
+  </topic>
+  <topic id="1" alpha="0.29169552385343056" totalTokens="335" titles="system, exception, test, string, server, hash, equal, method, println, environment">
+	<word weight="0.11940298507462686" count="40">system</word>
+	<word weight="0.11044776119402985" count="37">exception</word>
+	<word weight="0.10149253731343283" count="34">test</word>
+	<word weight="0.09850746268656717" count="33">string</word>
+	<word weight="0.05373134328358209" count="18">server</word>
+	<word weight="0.04776119402985075" count="16">hash</word>
+	<word weight="0.041791044776119404" count="14">equal</word>
+	<word weight="0.041791044776119404" count="14">method</word>
+	<word weight="0.03283582089552239" count="11">println</word>
+	<word weight="0.029850746268656716" count="10">environment</word>
+	<word weight="0.029850746268656716" count="10">list</word>
+	<word weight="0.026865671641791045" count="9">property</word>
+	<word weight="0.023880597014925373" count="8">sorter</word>
+	<word weight="0.023880597014925373" count="8">order</word>
+	<word weight="0.014925373134328358" count="5">context</word>
+	<word weight="0.014925373134328358" count="5">override</word>
+	<word weight="0.011940298507462687" count="4">empty</word>
+	<word weight="0.011940298507462687" count="4">async</word>
+	<word weight="0.011940298507462687" count="4">random</word>
+	<word weight="0.011940298507462687" count="4">servlet</word>
+	<phrase weight="0.07142857142857142" count="2">property server</phrase>
+	<phrase weight="0.07142857142857142" count="2">order method sorter ascend</phrase>
+	<phrase weight="0.07142857142857142" count="2">test test</phrase>
+	<phrase weight="0.07142857142857142" count="2">context exception</phrase>
+	<phrase weight="0.07142857142857142" count="2">order method sorter</phrase>
+	<phrase weight="0.03571428571428571" count="1">shutdown test test kis string string string</phrase>
+	<phrase weight="0.03571428571428571" count="1">method order method sorter</phrase>
+	<phrase weight="0.03571428571428571" count="1">system println array string</phrase>
+	<phrase weight="0.03571428571428571" count="1">code equal</phrase>
+	<phrase weight="0.03571428571428571" count="1">servlet context</phrase>
+	<phrase weight="0.03571428571428571" count="1">server servlet context</phrase>
+	<phrase weight="0.03571428571428571" count="1">string equal</phrase>
+	<phrase weight="0.03571428571428571" count="1">order method sorter ascend server</phrase>
+	<phrase weight="0.03571428571428571" count="1">environment random</phrase>
+	<phrase weight="0.03571428571428571" count="1">address test test</phrase>
+	<phrase weight="0.03571428571428571" count="1">property naco</phrase>
+	<phrase weight="0.03571428571428571" count="1">exception system</phrase>
+	<phrase weight="0.03571428571428571" count="1">empty override</phrase>
+	<phrase weight="0.03571428571428571" count="1">exception string</phrase>
+	<phrase weight="0.03571428571428571" count="1">string string string</phrase>
+  </topic>
+  <topic id="2" alpha="0.024658795204098628" totalTokens="233" titles="lookup, member, util, path, file, manager, application, println, standalone, conf">
+	<word weight="0.15450643776824036" count="36">lookup</word>
+	<word weight="0.08583690987124463" count="20">member</word>
+	<word weight="0.06866952789699571" count="16">util</word>
+	<word weight="0.055793991416309016" count="13">path</word>
+	<word weight="0.05150214592274678" count="12">file</word>
+	<word weight="0.03862660944206009" count="9">manager</word>
+	<word weight="0.034334763948497854" count="8">application</word>
+	<word weight="0.034334763948497854" count="8">println</word>
+	<word weight="0.030042918454935622" count="7">standalone</word>
+	<word weight="0.030042918454935622" count="7">conf</word>
+	<word weight="0.030042918454935622" count="7">factory</word>
+	<word weight="0.02575107296137339" count="6">disk</word>
+	<word weight="0.02145922746781116" count="5">func</word>
+	<word weight="0.02145922746781116" count="5">true</word>
+	<word weight="0.02145922746781116" count="5">set</word>
+	<word weight="0.017167381974248927" count="4">cluster</word>
+	<word weight="0.017167381974248927" count="4">throwable</word>
+	<word weight="0.017167381974248927" count="4">false</word>
+	<word weight="0.017167381974248927" count="4">string</word>
+	<word weight="0.017167381974248927" count="4">ignore</word>
+	<phrase weight="0.05714285714285714" count="2">application util set standalone false</phrase>
+	<phrase weight="0.05714285714285714" count="2">member manager</phrase>
+	<phrase weight="0.05714285714285714" count="2">lookup factory create member manager throwable ignore member lookup lookup lookup factory</phrase>
+	<phrase weight="0.02857142857142857" count="1">path disk util force mkdir path path conf string file file path path conf file disk util touch file</phrase>
+	<phrase weight="0.02857142857142857" count="1">user home member string string cluster conf</phrase>
+	<phrase weight="0.02857142857142857" count="1">member tmp member manager</phrase>
+	<phrase weight="0.02857142857142857" count="1">utf false member manager</phrase>
+	<phrase weight="0.02857142857142857" count="1">stack trace</phrase>
+	<phrase weight="0.02857142857142857" count="1">lookup address</phrase>
+	<phrase weight="0.02857142857142857" count="1">util ignore err msg jmenv tbsite net func member lookup lookup</phrase>
+	<phrase weight="0.02857142857142857" count="1">lookup standalone</phrase>
+	<phrase weight="0.02857142857142857" count="1">lookup start map</phrase>
+	<phrase weight="0.02857142857142857" count="1">func lookup func member lookup lookup expect size</phrase>
+	<phrase weight="0.02857142857142857" count="1">println application util cluster conf file path disk util delete file path path conf</phrase>
+	<phrase weight="0.02857142857142857" count="1">lookup tmp</phrase>
+	<phrase weight="0.02857142857142857" count="1">member lookup func lookup</phrase>
+	<phrase weight="0.02857142857142857" count="1">file config</phrase>
+	<phrase weight="0.02857142857142857" count="1">path application util inject</phrase>
+	<phrase weight="0.02857142857142857" count="1">println lookup true lookup file config member lookup func lookup</phrase>
+	<phrase weight="0.02857142857142857" count="1">inet util disk util write file file standard</phrase>
+  </topic>
+  <topic id="3" alpha="0.024815530329679748" totalTokens="273" titles="test, slow, event, publish, info, smart, expire, equal, share, sequence">
+	<word weight="0.23443223443223443" count="64">test</word>
+	<word weight="0.21978021978021978" count="60">slow</word>
+	<word weight="0.07692307692307693" count="21">event</word>
+	<word weight="0.06593406593406594" count="18">publish</word>
+	<word weight="0.054945054945054944" count="15">info</word>
+	<word weight="0.047619047619047616" count="13">smart</word>
+	<word weight="0.047619047619047616" count="13">expire</word>
+	<word weight="0.047619047619047616" count="13">equal</word>
+	<word weight="0.03663003663003663" count="10">share</word>
+	<word weight="0.03296703296703297" count="9">sequence</word>
+	<word weight="0.02564102564102564" count="7">string</word>
+	<word weight="0.02197802197802198" count="6">center</word>
+	<word weight="0.018315018315018316" count="5">util</word>
+	<word weight="0.01098901098901099" count="3">true</word>
+	<word weight="0.01098901098901099" count="3">set</word>
+	<word weight="0.01098901098901099" count="3">millis</word>
+	<word weight="0.007326007326007326" count="2">smartsubscriber</word>
+	<word weight="0.007326007326007326" count="2">sleep</word>
+	<word weight="0.003663003663003663" count="1">kind</word>
+	<word weight="0.003663003663003663" count="1">latch</word>
+	<phrase weight="0.3783783783783784" count="14">test slow</phrase>
+	<phrase weight="0.10810810810810811" count="4">test test</phrase>
+	<phrase weight="0.08108108108108109" count="3">slow event</phrase>
+	<phrase weight="0.05405405405405406" count="2">test slow event</phrase>
+	<phrase weight="0.02702702702702703" count="1">util sleep</phrase>
+	<phrase weight="0.02702702702702703" count="1">string info slow string info info set info string info info info test test share publish slow</phrase>
+	<phrase weight="0.02702702702702703" count="1">info slow</phrase>
+	<phrase weight="0.02702702702702703" count="1">expire event</phrase>
+	<phrase weight="0.02702702702702703" count="1">kind event</phrase>
+	<phrase weight="0.02702702702702703" count="1">test test publish</phrase>
+	<phrase weight="0.02702702702702703" count="1">test fix</phrase>
+	<phrase weight="0.02702702702702703" count="1">event slow</phrase>
+	<phrase weight="0.02702702702702703" count="1">event test slow</phrase>
+	<phrase weight="0.02702702702702703" count="1">slow equal slow smart</phrase>
+	<phrase weight="0.02702702702702703" count="1">info info set info string info</phrase>
+	<phrase weight="0.02702702702702703" count="1">set property</phrase>
+	<phrase weight="0.02702702702702703" count="1">test test event</phrase>
+	<phrase weight="0.02702702702702703" count="1">string info slow</phrase>
+  </topic>
+  <topic id="4" alpha="0.08459231247651361" totalTokens="867" titles="event, count, latch, notify, center, extend, override, subscriber, atomic, register">
+	<word weight="0.1903114186851211" count="165">event</word>
+	<word weight="0.11072664359861592" count="96">count</word>
+	<word weight="0.10265282583621683" count="89">latch</word>
+	<word weight="0.05651672433679354" count="49">notify</word>
+	<word weight="0.0461361014994233" count="40">center</word>
+	<word weight="0.04152249134948097" count="36">extend</word>
+	<word weight="0.0392156862745098" count="34">override</word>
+	<word weight="0.03690888119953864" count="32">subscriber</word>
+	<word weight="0.03690888119953864" count="32">atomic</word>
+	<word weight="0.03460207612456748" count="30">register</word>
+	<word weight="0.031141868512110725" count="27">type</word>
+	<word weight="0.029988465974625143" count="26">integer</word>
+	<word weight="0.02191464821222607" count="19">await</word>
+	<word weight="0.02191464821222607" count="19">time</word>
+	<word weight="0.0196078431372549" count="17">list</word>
+	<word weight="0.01845444059976932" count="16">millisecond</word>
+	<word weight="0.01845444059976932" count="16">true</word>
+	<word weight="0.01845444059976932" count="16">publisher</word>
+	<word weight="0.01730103806228374" count="15">subscribe</word>
+	<word weight="0.016147635524798153" count="14">unit</word>
+	<phrase weight="0.058394160583941604" count="8">event override event</phrase>
+	<phrase weight="0.051094890510948905" count="7">notify center</phrase>
+	<phrase weight="0.029197080291970802" count="4">event event</phrase>
+	<phrase weight="0.029197080291970802" count="4">event true notify center</phrase>
+	<phrase weight="0.029197080291970802" count="4">register subscriber subscriber</phrase>
+	<phrase weight="0.021897810218978103" count="3">notify center register publisher</phrase>
+	<phrase weight="0.021897810218978103" count="3">system current time</phrase>
+	<phrase weight="0.021897810218978103" count="3">override event</phrase>
+	<phrase weight="0.021897810218978103" count="3">event extend</phrase>
+	<phrase weight="0.021897810218978103" count="3">exception notify center register</phrase>
+	<phrase weight="0.021897810218978103" count="3">notify center register</phrase>
+	<phrase weight="0.014598540145985401" count="2">event thread</phrase>
+	<phrase weight="0.014598540145985401" count="2">event type add</phrase>
+	<phrase weight="0.014598540145985401" count="2">true notify center</phrase>
+	<phrase weight="0.014598540145985401" count="2">subscribe type</phrase>
+	<phrase weight="0.014598540145985401" count="2">count increment latch count override extend event subscribe type</phrase>
+	<phrase weight="0.014598540145985401" count="2">count count latch latch count latch</phrase>
+	<phrase weight="0.014598540145985401" count="2">latch count override extend event subscribe type</phrase>
+	<phrase weight="0.014598540145985401" count="2">notify center register subscriber subscriber</phrase>
+	<phrase weight="0.014598540145985401" count="2">decrement override</phrase>
+  </topic>
+  <topic id="5" alpha="0.023834935476566226" totalTokens="55" titles="interceptor, request, override, entity, uri, stop, stream, input, response, termination">
+	<word weight="0.12727272727272726" count="7">interceptor</word>
+	<word weight="0.09090909090909091" count="5">request</word>
+	<word weight="0.09090909090909091" count="5">override</word>
+	<word weight="0.03636363636363636" count="2">entity</word>
+	<word weight="0.03636363636363636" count="2">uri</word>
+	<word weight="0.03636363636363636" count="2">stop</word>
+	<word weight="0.03636363636363636" count="2">stream</word>
+	<word weight="0.03636363636363636" count="2">input</word>
+	<word weight="0.03636363636363636" count="2">intercept</word>
+	<word weight="0.03636363636363636" count="2">response</word>
+	<word weight="0.03636363636363636" count="2">termination</word>
+	<word weight="0.03636363636363636" count="2">header</word>
+	<word weight="0.03636363636363636" count="2">logger</word>
+	<word weight="0.03636363636363636" count="2">client</word>
+	<word weight="0.03636363636363636" count="2">server</word>
+	<word weight="0.03636363636363636" count="2">template</word>
+	<word weight="0.03636363636363636" count="2">array</word>
+	<word weight="0.01818181818181818" count="1">close</word>
+	<word weight="0.01818181818181818" count="1">text</word>
+	<word weight="0.01818181818181818" count="1">body</word>
+	<phrase weight="0.07692307692307693" count="1">request interceptor override</phrase>
+	<phrase weight="0.07692307692307693" count="1">client response override</phrase>
+	<phrase weight="0.07692307692307693" count="1">interceptor array</phrase>
+	<phrase weight="0.07692307692307693" count="1">text override close</phrase>
+	<phrase weight="0.07692307692307693" count="1">array input stream stop request override</phrase>
+	<phrase weight="0.07692307692307693" count="1">response intercept</phrase>
+	<phrase weight="0.07692307692307693" count="1">termination interceptor implement</phrase>
+	<phrase weight="0.07692307692307693" count="1">stream body</phrase>
+	<phrase weight="0.07692307692307693" count="1">entity request</phrase>
+	<phrase weight="0.07692307692307693" count="1">termination interceptor</phrase>
+	<phrase weight="0.07692307692307693" count="1">server error override</phrase>
+	<phrase weight="0.07692307692307693" count="1">interceptor run</phrase>
+	<phrase weight="0.07692307692307693" count="1">intercept uri uri</phrase>
+  </topic>
+  <topic id="6" alpha="0.09966113355399574" totalTokens="944" titles="rest, result, map, param, instance, string, naco, url, test, http">
+	<word weight="0.12182203389830508" count="115">rest</word>
+	<word weight="0.09110169491525423" count="86">result</word>
+	<word weight="0.0614406779661017" count="58">map</word>
+	<word weight="0.05084745762711865" count="48">param</word>
+	<word weight="0.048728813559322036" count="46">instance</word>
+	<word weight="0.048728813559322036" count="46">string</word>
+	<word weight="0.04766949152542373" count="45">naco</word>
+	<word weight="0.045550847457627115" count="43">url</word>
+	<word weight="0.037076271186440676" count="35">test</word>
+	<word weight="0.03177966101694915" count="30">http</word>
+	<word weight="0.03177966101694915" count="30">template</word>
+	<word weight="0.028601694915254237" count="27">callback</word>
+	<word weight="0.02754237288135593" count="26">query</word>
+	<word weight="0.02754237288135593" count="26">put</word>
+	<word weight="0.025423728813559324" count="24">header</word>
+	<word weight="0.0211864406779661" count="20">datum</word>
+	<word weight="0.0211864406779661" count="20">path</word>
+	<word weight="0.019067796610169493" count="18">config</word>
+	<word weight="0.018008474576271187" count="17">port</word>
+	<word weight="0.014830508474576272" count="14">app</word>
+	<phrase weight="0.045871559633027525" count="5">println rest result datum</phrase>
+	<phrase weight="0.045871559633027525" count="5">rest result datum</phrase>
+	<phrase weight="0.027522935779816515" count="3">naco web</phrase>
+	<phrase weight="0.027522935779816515" count="3">naco rest template</phrase>
+	<phrase weight="0.01834862385321101" count="2">map param put datum</phrase>
+	<phrase weight="0.01834862385321101" count="2">println rest result header true rest result</phrase>
+	<phrase weight="0.01834862385321101" count="2">string url config path config map string</phrase>
+	<phrase weight="0.01834862385321101" count="2">http rest result map rest result callback map rest result</phrase>
+	<phrase weight="0.01834862385321101" count="2">http rest result string rest result callback map rest result</phrase>
+	<phrase weight="0.01834862385321101" count="2">url header</phrase>
+	<phrase weight="0.01834862385321101" count="2">port fix</phrase>
+	<phrase weight="0.01834862385321101" count="2">naco rest</phrase>
+	<phrase weight="0.01834862385321101" count="2">rest result datum dom app</phrase>
+	<phrase weight="0.01834862385321101" count="2">url map</phrase>
+	<phrase weight="0.01834862385321101" count="2">string url config instance path instance map string</phrase>
+	<phrase weight="0.009174311926605505" count="1">runner spring boot test naco</phrase>
+	<phrase weight="0.009174311926605505" count="1">callback map callback map naco rest template post form url header instance query instance param string callback map thread</phrase>
+	<phrase weight="0.009174311926605505" count="1">rest result header true rest result</phrase>
+	<phrase weight="0.009174311926605505" count="1">rest template local</phrase>
+	<phrase weight="0.009174311926605505" count="1">test url put</phrase>
+  </topic>
+  <topic id="7" alpha="0.02276816029608206" totalTokens="267" titles="iconfig, persist, service, info, equal, error, find, embed, current, query">
+	<word weight="0.10486891385767791" count="28">iconfig</word>
+	<word weight="0.0898876404494382" count="24">persist</word>
+	<word weight="0.0898876404494382" count="24">service</word>
+	<word weight="0.08239700374531835" count="22">info</word>
+	<word weight="0.0749063670411985" count="20">equal</word>
+	<word weight="0.04868913857677903" count="13">error</word>
+	<word weight="0.0449438202247191" count="12">find</word>
+	<word weight="0.0449438202247191" count="12">embed</word>
+	<word weight="0.0449438202247191" count="12">current</word>
+	<word weight="0.033707865168539325" count="9">query</word>
+	<word weight="0.0299625468164794" count="8">pre</word>
+	<word weight="0.026217228464419477" count="7">exception</word>
+	<word weight="0.026217228464419477" count="7">time</word>
+	<word weight="0.02247191011235955" count="6">listener</word>
+	<word weight="0.02247191011235955" count="6">client</word>
+	<word weight="0.018726591760299626" count="5">unit</word>
+	<word weight="0.0149812734082397" count="4">protocol</word>
+	<word weight="0.0149812734082397" count="4">execute</word>
+	<word weight="0.0149812734082397" count="4">operation</word>
+	<word weight="0.0149812734082397" count="4">millis</word>
+	<phrase weight="0.5405405405405406" count="20">persist service</phrase>
+	<phrase weight="0.08108108108108109" count="3">time unit</phrase>
+	<phrase weight="0.05405405405405406" count="2">error recover</phrase>
+	<phrase weight="0.05405405405405406" count="2">query query query</phrase>
+	<phrase weight="0.02702702702702703" count="1">username naco</phrase>
+	<phrase weight="0.02702702702702703" count="1">current time millis iconfig</phrase>
+	<phrase weight="0.02702702702702703" count="1">naco list username</phrase>
+	<phrase weight="0.02702702702702703" count="1">sql update</phrase>
+	<phrase weight="0.02702702702702703" count="1">equal pre current</phrase>
+	<phrase weight="0.02702702702702703" count="1">operation system</phrase>
+	<phrase weight="0.02702702702702703" count="1">time millis</phrase>
+	<phrase weight="0.02702702702702703" count="1">equal query statement execute</phrase>
+	<phrase weight="0.02702702702702703" count="1">equal pre current pre current</phrase>
+	<phrase weight="0.02702702702702703" count="1">system current</phrase>
+  </topic>
+  <topic id="8" alpha="0.022642816485217748" totalTokens="214" titles="member, map, state, manager, set, port, node, change, copy, build">
+	<word weight="0.3037383177570093" count="65">member</word>
+	<word weight="0.0794392523364486" count="17">map</word>
+	<word weight="0.07476635514018691" count="16">state</word>
+	<word weight="0.056074766355140186" count="12">manager</word>
+	<word weight="0.04672897196261682" count="10">set</word>
+	<word weight="0.04205607476635514" count="9">port</word>
+	<word weight="0.037383177570093455" count="8">node</word>
+	<word weight="0.037383177570093455" count="8">change</word>
+	<word weight="0.03271028037383177" count="7">copy</word>
+	<word weight="0.03271028037383177" count="7">build</word>
+	<word weight="0.028037383177570093" count="6">builder</word>
+	<word weight="0.028037383177570093" count="6">put</word>
+	<word weight="0.02336448598130841" count="5">health</word>
+	<word weight="0.018691588785046728" count="4">util</word>
+	<word weight="0.014018691588785047" count="3">join</word>
+	<word weight="0.014018691588785047" count="3">list</word>
+	<word weight="0.014018691588785047" count="3">integer</word>
+	<word weight="0.009345794392523364" count="2">collection</word>
+	<word weight="0.009345794392523364" count="2">clear</word>
+	<word weight="0.009345794392523364" count="2">constant</word>
+	<phrase weight="0.06060606060606061" count="2">member map</phrase>
+	<phrase weight="0.06060606060606061" count="2">health member</phrase>
+	<phrase weight="0.030303030303030304" count="1">list member map collection</phrase>
+	<phrase weight="0.030303030303030304" count="1">member manager mock</phrase>
+	<phrase weight="0.030303030303030304" count="1">member member manager member join member member</phrase>
+	<phrase weight="0.030303030303030304" count="1">set member list copy</phrase>
+	<phrase weight="0.030303030303030304" count="1">set member copy</phrase>
+	<phrase weight="0.030303030303030304" count="1">health member set member util select target member</phrase>
+	<phrase weight="0.030303030303030304" count="1">constant naco</phrase>
+	<phrase weight="0.030303030303030304" count="1">member member map member set state node state</phrase>
+	<phrase weight="0.030303030303030304" count="1">member member</phrase>
+	<phrase weight="0.030303030303030304" count="1">map map put member builder port state node state build map put member builder port state node state build map put member builder port state node state build</phrase>
+	<phrase weight="0.030303030303030304" count="1">map map put member</phrase>
+	<phrase weight="0.030303030303030304" count="1">manager fix</phrase>
+	<phrase weight="0.030303030303030304" count="1">member util simple member member</phrase>
+	<phrase weight="0.030303030303030304" count="1">member manager</phrase>
+	<phrase weight="0.030303030303030304" count="1">member builder port build</phrase>
+	<phrase weight="0.030303030303030304" count="1">application util set standalone</phrase>
+	<phrase weight="0.030303030303030304" count="1">member manager member join member</phrase>
+	<phrase weight="0.030303030303030304" count="1">member state</phrase>
+  </topic>
+  <topic id="9" alpha="0.02981826195732792" totalTokens="70" titles="instance, service, host, equal, set, cluster, port, inaming, base, group">
+	<word weight="0.2571428571428571" count="18">instance</word>
+	<word weight="0.1" count="7">service</word>
+	<word weight="0.07142857142857142" count="5">host</word>
+	<word weight="0.07142857142857142" count="5">equal</word>
+	<word weight="0.07142857142857142" count="5">set</word>
+	<word weight="0.05714285714285714" count="4">cluster</word>
+	<word weight="0.04285714285714286" count="3">port</word>
+	<word weight="0.02857142857142857" count="2">inaming</word>
+	<word weight="0.02857142857142857" count="2">base</word>
+	<word weight="0.02857142857142857" count="2">group</word>
+	<word weight="0.02857142857142857" count="2">register</word>
+	<word weight="0.014285714285714285" count="1">fail</word>
+	<word weight="0.014285714285714285" count="1">ephemeral</word>
+	<word weight="0.014285714285714285" count="1">domain</word>
+	<word weight="0.014285714285714285" count="1">naming</word>
+	<word weight="0.014285714285714285" count="1">trace</word>
+	<word weight="0.014285714285714285" count="1">stack</word>
+	<word weight="0.014285714285714285" count="1">print</word>
+	<word weight="0.014285714285714285" count="1">message</word>
+	<word weight="0.014285714285714285" count="1">raft</word>
+	<phrase weight="0.125" count="1">extend base cluster</phrase>
+	<phrase weight="0.125" count="1">instance set service service instance set cluster instance set instance set port inaming register instance service instance</phrase>
+	<phrase weight="0.125" count="1">ignore fix</phrase>
+	<phrase weight="0.125" count="1">inaming instance service equal</phrase>
+	<phrase weight="0.125" count="1">domain instance instance instance instance set ephemeral</phrase>
+	<phrase weight="0.125" count="1">size instance host</phrase>
+	<phrase weight="0.125" count="1">print stack trace fail message list instance</phrase>
+	<phrase weight="0.125" count="1">naming base</phrase>
+  </topic>
+</topics>

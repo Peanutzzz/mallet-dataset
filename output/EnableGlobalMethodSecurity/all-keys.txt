@@ -1,0 +1,10 @@
+0	0.08296	ldap property search group extend user filter source context base provider authentication set configuration bind auto subtree populator login apollo 
+1	0	
+2	0.74201	http security auth authentication web user enable exception override configure configurer permit header true pre matcher role disable protect extend 
+3	0.07298	equal prefix authorize 
+4	0.16935	logout url true signin user authenticator point success login http ant spring authority map bean handle invalidate error failure img 
+5	0	
+6	0	
+7	0.06988	auth string ignore url token naco point entry password manager authentication encoder bean type service detail jwt system util config 
+8	0	
+9	0.08195	remove password apollo admin memory builder manager autowire spring problem big send compatibility backward useless global configuration miss conditional config 

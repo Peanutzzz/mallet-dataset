@@ -1,0 +1,309 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.05847407274342347" totalTokens="70" titles="sort, limit, merge, file, agg, operator, handle, integer, num, max">
+	<word weight="0.14285714285714285" count="10">sort</word>
+	<word weight="0.11428571428571428" count="8">limit</word>
+	<word weight="0.07142857142857142" count="5">merge</word>
+	<word weight="0.07142857142857142" count="5">file</word>
+	<word weight="0.05714285714285714" count="4">agg</word>
+	<word weight="0.05714285714285714" count="4">operator</word>
+	<word weight="0.04285714285714286" count="3">handle</word>
+	<word weight="0.04285714285714286" count="3">integer</word>
+	<word weight="0.02857142857142857" count="2">num</word>
+	<word weight="0.02857142857142857" count="2">max</word>
+	<word weight="0.02857142857142857" count="2">table</word>
+	<word weight="0.014285714285714285" count="1">dynamically</word>
+	<word weight="0.014285714285714285" count="1">nest</word>
+	<word weight="0.014285714285714285" count="1">include</word>
+	<word weight="0.014285714285714285" count="1">represent</word>
+	<word weight="0.014285714285714285" count="1">test</word>
+	<word weight="0.014285714285714285" count="1">spill</word>
+	<word weight="0.014285714285714285" count="1">asynchronously</word>
+	<word weight="0.014285714285714285" count="1">true</word>
+	<word weight="0.014285714285714285" count="1">reading</word>
+	<phrase weight="0.5" count="2">sort max num file handle</phrase>
+	<phrase weight="0.25" count="1">maximal fan external merge sort limit number file handle operator small intermediate merging</phrase>
+	<phrase weight="0.25" count="1">include nest</phrase>
+  </topic>
+  <topic id="1" alpha="0.08258808995078247" totalTokens="56" titles="join, disabled, hash, operator, broadcast, reorder, configure, threshold, optimizer, agg">
+	<word weight="0.17857142857142858" count="10">join</word>
+	<word weight="0.125" count="7">disabled</word>
+	<word weight="0.10714285714285714" count="6">hash</word>
+	<word weight="0.08928571428571429" count="5">operator</word>
+	<word weight="0.07142857142857142" count="4">broadcast</word>
+	<word weight="0.05357142857142857" count="3">reorder</word>
+	<word weight="0.03571428571428571" count="2">configure</word>
+	<word weight="0.03571428571428571" count="2">threshold</word>
+	<word weight="0.03571428571428571" count="2">optimizer</word>
+	<word weight="0.03571428571428571" count="2">agg</word>
+	<word weight="0.017857142857142856" count="1">broadcasting</word>
+	<word weight="0.017857142857142856" count="1">perform</word>
+	<word weight="0.017857142857142856" count="1">node</word>
+	<word weight="0.017857142857142856" count="1">worker</word>
+	<word weight="0.017857142857142856" count="1">loop</word>
+	<word weight="0.017857142857142856" count="1">kind</word>
+	<word weight="0.017857142857142856" count="1">comma</word>
+	<word weight="0.017857142857142856" count="1">true</word>
+	<word weight="0.017857142857142856" count="1">ignore</word>
+	<word weight="0.017857142857142856" count="1">configuration</word>
+	<phrase weight="0.2222222222222222" count="2">join reorder</phrase>
+	<phrase weight="0.1111111111111111" count="1">join hash</phrase>
+	<phrase weight="0.1111111111111111" count="1">optimizer join broadcast threshold</phrase>
+	<phrase weight="0.1111111111111111" count="1">kind disabled operator</phrase>
+	<phrase weight="0.1111111111111111" count="1">broadcast join threshold</phrase>
+	<phrase weight="0.1111111111111111" count="1">worker node perform join</phrase>
+	<phrase weight="0.1111111111111111" count="1">hash agg hash</phrase>
+	<phrase weight="0.1111111111111111" count="1">hash join broadcast hash join</phrase>
+  </topic>
+  <topic id="2" alpha="0.0383239101967597" totalTokens="56" titles="optimizer, true, reuse, source, plan, enable, predicate, table, pushdown, filterable">
+	<word weight="0.25" count="14">optimizer</word>
+	<word weight="0.14285714285714285" count="8">true</word>
+	<word weight="0.125" count="7">reuse</word>
+	<word weight="0.10714285714285714" count="6">source</word>
+	<word weight="0.07142857142857142" count="4">plan</word>
+	<word weight="0.07142857142857142" count="4">enable</word>
+	<word weight="0.05357142857142857" count="3">predicate</word>
+	<word weight="0.05357142857142857" count="3">table</word>
+	<word weight="0.03571428571428571" count="2">pushdown</word>
+	<word weight="0.017857142857142856" count="1">filterable</word>
+	<word weight="0.017857142857142856" count="1">push</word>
+	<word weight="0.017857142857142856" count="1">find</word>
+	<word weight="0.017857142857142856" count="1">optimize</word>
+	<word weight="0.017857142857142856" count="1">work</word>
+	<phrase weight="0.2" count="2">reuse plan</phrase>
+	<phrase weight="0.1" count="1">table source reuse work</phrase>
+	<phrase weight="0.1" count="1">reuse source enable true</phrase>
+	<phrase weight="0.1" count="1">optimizer source predicate pushdown</phrase>
+	<phrase weight="0.1" count="1">reuse source</phrase>
+	<phrase weight="0.1" count="1">optimizer reuse plan enable</phrase>
+	<phrase weight="0.1" count="1">true optimizer find</phrase>
+	<phrase weight="0.1" count="1">source predicate pushdown enable</phrase>
+	<phrase weight="0.1" count="1">true optimizer</phrase>
+  </topic>
+  <topic id="3" alpha="0.011912014661513405" totalTokens="87" titles="edge, pipelined, text, shuffle, code, block, pointwise, forward, mode, consumer">
+	<word weight="0.14942528735632185" count="13">edge</word>
+	<word weight="0.10344827586206896" count="9">pipelined</word>
+	<word weight="0.10344827586206896" count="9">text</word>
+	<word weight="0.10344827586206896" count="9">shuffle</word>
+	<word weight="0.09195402298850575" count="8">code</word>
+	<word weight="0.08045977011494253" count="7">block</word>
+	<word weight="0.034482758620689655" count="3">pointwise</word>
+	<word weight="0.034482758620689655" count="3">forward</word>
+	<word weight="0.034482758620689655" count="3">mode</word>
+	<word weight="0.022988505747126436" count="2">consumer</word>
+	<word weight="0.022988505747126436" count="2">send</word>
+	<word weight="0.022988505747126436" count="2">produce</word>
+	<word weight="0.022988505747126436" count="2">deprecate</word>
+	<word weight="0.022988505747126436" count="2">datum</word>
+	<word weight="0.022988505747126436" count="2">task</word>
+	<word weight="0.022988505747126436" count="2">description</word>
+	<word weight="0.011494252873563218" count="1">build</word>
+	<word weight="0.011494252873563218" count="1">rescale</word>
+	<word weight="0.011494252873563218" count="1">accept</word>
+	<word weight="0.011494252873563218" count="1">linebreak</word>
+	<phrase weight="0.2" count="1">shuffle mode linebreak text accept list text edge block shuffle code edge block text forward edge pipelined shuffle block code forward edge pipelined text pointwise edge pipelined shuffle block pointwise edge include forward rescale edge code pointwise edge pipelined text edge pipelined shuffle code edge pipelined text deprecate code</phrase>
+	<phrase weight="0.2" count="1">type edge block description description builder text</phrase>
+	<phrase weight="0.2" count="1">shuffle mode</phrase>
+	<phrase weight="0.2" count="1">code edge block text deprecate code pipelined code edge pipelined text</phrase>
+	<phrase weight="0.2" count="1">block shuffle datum</phrase>
+  </topic>
+  <topic id="4" alpha="0.03786453367531864" totalTokens="58" titles="parallelism, spill, compression, environment, execution, resource, size, datum, memory, higher">
+	<word weight="0.1206896551724138" count="7">parallelism</word>
+	<word weight="0.1206896551724138" count="7">spill</word>
+	<word weight="0.08620689655172414" count="5">compression</word>
+	<word weight="0.05172413793103448" count="3">environment</word>
+	<word weight="0.05172413793103448" count="3">execution</word>
+	<word weight="0.05172413793103448" count="3">resource</word>
+	<word weight="0.05172413793103448" count="3">size</word>
+	<word weight="0.05172413793103448" count="3">datum</word>
+	<word weight="0.05172413793103448" count="3">compress</word>
+	<word weight="0.05172413793103448" count="3">memory</word>
+	<word weight="0.034482758620689655" count="2">higher</word>
+	<word weight="0.034482758620689655" count="2">join</word>
+	<word weight="0.034482758620689655" count="2">set</word>
+	<word weight="0.017241379310344827" count="1">fallback</word>
+	<word weight="0.017241379310344827" count="1">override</word>
+	<word weight="0.017241379310344827" count="1">priority</word>
+	<word weight="0.017241379310344827" count="1">instance</word>
+	<word weight="0.017241379310344827" count="1">run</word>
+	<word weight="0.017241379310344827" count="1">filter</word>
+	<word weight="0.017241379310344827" count="1">job</word>
+	<phrase weight="0.14285714285714285" count="1">override parallelism</phrase>
+	<phrase weight="0.14285714285714285" count="1">compress spill datum support compress spill datum</phrase>
+	<phrase weight="0.14285714285714285" count="1">execution environment parallelism set fallback parallelism</phrase>
+	<phrase weight="0.14285714285714285" count="1">set parallelism operator</phrase>
+	<phrase weight="0.14285714285714285" count="1">join filter run</phrase>
+	<phrase weight="0.14285714285714285" count="1">execution environment</phrase>
+	<phrase weight="0.14285714285714285" count="1">higher priority parallelism</phrase>
+  </topic>
+  <topic id="5" alpha="0.0414394742661849" totalTokens="46" titles="async, timeout, lookup, idle, source, operation, capacity, watermark, complete, min">
+	<word weight="0.15217391304347827" count="7">async</word>
+	<word weight="0.13043478260869565" count="6">timeout</word>
+	<word weight="0.10869565217391304" count="5">lookup</word>
+	<word weight="0.08695652173913043" count="4">idle</word>
+	<word weight="0.08695652173913043" count="4">source</word>
+	<word weight="0.043478260869565216" count="2">operation</word>
+	<word weight="0.043478260869565216" count="2">capacity</word>
+	<word weight="0.043478260869565216" count="2">watermark</word>
+	<word weight="0.021739130434782608" count="1">complete</word>
+	<word weight="0.021739130434782608" count="1">min</word>
+	<word weight="0.021739130434782608" count="1">join</word>
+	<word weight="0.021739130434782608" count="1">max</word>
+	<word weight="0.021739130434782608" count="1">set</word>
+	<word weight="0.021739130434782608" count="1">don</word>
+	<word weight="0.021739130434782608" count="1">wait</word>
+	<word weight="0.021739130434782608" count="1">advance</word>
+	<word weight="0.021739130434782608" count="1">task</word>
+	<word weight="0.021739130434782608" count="1">temporarily</word>
+	<word weight="0.021739130434782608" count="1">mark</word>
+	<word weight="0.021739130434782608" count="1">time</word>
+	<phrase weight="0.25" count="2">idle timeout</phrase>
+	<phrase weight="0.125" count="1">don set</phrase>
+	<phrase weight="0.125" count="1">lookup timeout min</phrase>
+	<phrase weight="0.125" count="1">lookup timeout</phrase>
+	<phrase weight="0.125" count="1">source receive element timeout time mark temporarily idle</phrase>
+	<phrase weight="0.125" count="1">async operation async lookup join</phrase>
+	<phrase weight="0.125" count="1">async timeout</phrase>
+  </topic>
+  <topic id="6" alpha="0.04107122532106197" totalTokens="114" titles="aggregate, distinct, phase, bucket, stage, optimizer, split, aggregation, auto, strategy">
+	<word weight="0.10526315789473684" count="12">aggregate</word>
+	<word weight="0.09649122807017543" count="11">distinct</word>
+	<word weight="0.07017543859649122" count="8">phase</word>
+	<word weight="0.05263157894736842" count="6">bucket</word>
+	<word weight="0.05263157894736842" count="6">stage</word>
+	<word weight="0.05263157894736842" count="6">optimizer</word>
+	<word weight="0.05263157894736842" count="6">agg</word>
+	<word weight="0.043859649122807015" count="5">split</word>
+	<word weight="0.043859649122807015" count="5">aggregation</word>
+	<word weight="0.02631578947368421" count="3">auto</word>
+	<word weight="0.02631578947368421" count="3">strategy</word>
+	<word weight="0.02631578947368421" count="3">number</word>
+	<word weight="0.02631578947368421" count="3">num</word>
+	<word weight="0.017543859649122806" count="2">splitting</word>
+	<word weight="0.017543859649122806" count="2">calculate</word>
+	<word weight="0.017543859649122806" count="2">additional</word>
+	<word weight="0.017543859649122806" count="2">level</word>
+	<word weight="0.017543859649122806" count="2">col</word>
+	<word weight="0.017543859649122806" count="2">global</word>
+	<word weight="0.017543859649122806" count="2">enforce</word>
+	<phrase weight="0.14285714285714285" count="2">distinct agg split</phrase>
+	<phrase weight="0.07142857142857142" count="1">strategy aggregate phase auto phase phase set auto special enforcer aggregate stage choose stage aggregate stage aggregate depend cost phase enforce stage aggregate local aggregate global aggregate note aggregate call</phrase>
+	<phrase weight="0.07142857142857142" count="1">scale job</phrase>
+	<phrase weight="0.07142857142857142" count="1">agg phase strategy</phrase>
+	<phrase weight="0.07142857142857142" count="1">number bucket optimization data skew distinct aggregation give</phrase>
+	<phrase weight="0.07142857142857142" count="1">number bucket splitting distinct aggregation number level aggregation calculate bucket</phrase>
+	<phrase weight="0.07142857142857142" count="1">bucket num additional group</phrase>
+	<phrase weight="0.07142857142857142" count="1">agg phase strategy auto</phrase>
+	<phrase weight="0.07142857142857142" count="1">distinct agg split bucket num</phrase>
+	<phrase weight="0.07142857142857142" count="1">code distinct</phrase>
+	<phrase weight="0.07142857142857142" count="1">calculate hashcode distinct</phrase>
+	<phrase weight="0.07142857142857142" count="1">optimizer distinct agg split bucket num</phrase>
+	<phrase weight="0.07142857142857142" count="1">optimizer split distinct aggregation count distinct col sum distinct col level aggregation shuffle additional</phrase>
+  </topic>
+  <topic id="7" alpha="0.06761610243607169" totalTokens="114" titles="mini, buffer, batch, record, latency, size, maximum, input, minibatch, window">
+	<word weight="0.13157894736842105" count="15">mini</word>
+	<word weight="0.10526315789473684" count="12">buffer</word>
+	<word weight="0.07017543859649122" count="8">batch</word>
+	<word weight="0.06140350877192982" count="7">record</word>
+	<word weight="0.05263157894736842" count="6">latency</word>
+	<word weight="0.05263157894736842" count="6">size</word>
+	<word weight="0.043859649122807015" count="5">maximum</word>
+	<word weight="0.043859649122807015" count="5">input</word>
+	<word weight="0.043859649122807015" count="5">minibatch</word>
+	<word weight="0.043859649122807015" count="5">window</word>
+	<word weight="0.03508771929824561" count="4">optimization</word>
+	<word weight="0.03508771929824561" count="4">number</word>
+	<word weight="0.03508771929824561" count="4">set</word>
+	<word weight="0.02631578947368421" count="3">note</word>
+	<word weight="0.02631578947368421" count="3">access</word>
+	<word weight="0.02631578947368421" count="3">state</word>
+	<word weight="0.02631578947368421" count="3">reduce</word>
+	<word weight="0.02631578947368421" count="3">trigger</word>
+	<word weight="0.02631578947368421" count="3">true</word>
+	<word weight="0.017543859649122806" count="2">reach</word>
+	<phrase weight="0.2" count="3">buffer size</phrase>
+	<phrase weight="0.06666666666666667" count="1">maximum latency mini</phrase>
+	<phrase weight="0.06666666666666667" count="1">mini batch optimization buffer input record reduce state access mini</phrase>
+	<phrase weight="0.06666666666666667" count="1">set window</phrase>
+	<phrase weight="0.06666666666666667" count="1">true note mini batch</phrase>
+	<phrase weight="0.06666666666666667" count="1">group window</phrase>
+	<phrase weight="0.06666666666666667" count="1">user set</phrase>
+	<phrase weight="0.06666666666666667" count="1">maximum number input record buffer mini</phrase>
+	<phrase weight="0.06666666666666667" count="1">batch optimization mini batch optimization buffer input record reduce state access</phrase>
+	<phrase weight="0.06666666666666667" count="1">work window aggregation</phrase>
+	<phrase weight="0.06666666666666667" count="1">buffer input record mini batch optimization buffer input record reduce state access mini batch trigger latency interval maximum number buffer record reach note</phrase>
+	<phrase weight="0.06666666666666667" count="1">trigger latency interval maximum number buffer record reach note mini</phrase>
+	<phrase weight="0.06666666666666667" count="1">batch size</phrase>
+  </topic>
+  <topic id="8" alpha="0.03381958107470946" totalTokens="59" titles="sql, dialect, enforcer, support, drop, type, exception, behavior, flink, column">
+	<word weight="0.11864406779661017" count="7">sql</word>
+	<word weight="0.1016949152542373" count="6">dialect</word>
+	<word weight="0.0847457627118644" count="5">enforcer</word>
+	<word weight="0.06779661016949153" count="4">support</word>
+	<word weight="0.05084745762711865" count="3">drop</word>
+	<word weight="0.05084745762711865" count="3">type</word>
+	<word weight="0.03389830508474576" count="2">exception</word>
+	<word weight="0.03389830508474576" count="2">behavior</word>
+	<word weight="0.03389830508474576" count="2">flink</word>
+	<word weight="0.03389830508474576" count="2">column</word>
+	<word weight="0.03389830508474576" count="2">error</word>
+	<word weight="0.03389830508474576" count="2">sink</word>
+	<word weight="0.01694915254237288" count="1">hive</word>
+	<word weight="0.01694915254237288" count="1">grammar</word>
+	<word weight="0.01694915254237288" count="1">parse</word>
+	<word weight="0.01694915254237288" count="1">define</word>
+	<word weight="0.01694915254237288" count="1">lower</word>
+	<word weight="0.01694915254237288" count="1">fully</word>
+	<word weight="0.01694915254237288" count="1">record</word>
+	<word weight="0.01694915254237288" count="1">silently</word>
+	<phrase weight="0.14285714285714285" count="1">type sql dialect lower</phrase>
+	<phrase weight="0.14285714285714285" count="1">column constraint</phrase>
+	<phrase weight="0.14285714285714285" count="1">sql dialect define parse sql</phrase>
+	<phrase weight="0.14285714285714285" count="1">enforce insert</phrase>
+	<phrase weight="0.14285714285714285" count="1">sql dialect</phrase>
+	<phrase weight="0.14285714285714285" count="1">enforcer type enforcer enforcer error</phrase>
+	<phrase weight="0.14285714285714285" count="1">sql dialect key</phrase>
+  </topic>
+  <topic id="9" alpha="0.7665767549691459" totalTokens="564" titles="exec, table, option, mode, documentation, key, config, batch, description, enable">
+	<word weight="0.15602836879432624" count="88">exec</word>
+	<word weight="0.1524822695035461" count="86">table</word>
+	<word weight="0.1453900709219858" count="82">option</word>
+	<word weight="0.09219858156028368" count="52">mode</word>
+	<word weight="0.09219858156028368" count="52">documentation</word>
+	<word weight="0.05851063829787234" count="33">key</word>
+	<word weight="0.051418439716312055" count="29">config</word>
+	<word weight="0.04964539007092199" count="28">batch</word>
+	<word weight="0.044326241134751775" count="25">description</word>
+	<word weight="0.03900709219858156" count="22">enable</word>
+	<word weight="0.03546099290780142" count="20">stream</word>
+	<word weight="0.015957446808510637" count="9">string</word>
+	<word weight="0.0070921985815602835" count="4">false</word>
+	<word weight="0.005319148936170213" count="3">disable</word>
+	<word weight="0.005319148936170213" count="3">set</word>
+	<word weight="0.005319148936170213" count="3">integer</word>
+	<word weight="0.0035460992907801418" count="2">hint</word>
+	<word weight="0.0035460992907801418" count="2">dynamic</word>
+	<word weight="0.0035460992907801418" count="2">duplicate</word>
+	<word weight="0.0035460992907801418" count="2">block</word>
+	<phrase weight="0.15517241379310345" count="9">key table exec</phrase>
+	<phrase weight="0.1206896551724138" count="7">table exec</phrase>
+	<phrase weight="0.08620689655172414" count="5">key table</phrase>
+	<phrase weight="0.05172413793103448" count="3">option documentation table option exec mode documentation exec mode batch config option string table exec</phrase>
+	<phrase weight="0.05172413793103448" count="3">enable key table exec</phrase>
+	<phrase weight="0.05172413793103448" count="3">option documentation table option exec mode documentation exec mode batch config option</phrase>
+	<phrase weight="0.05172413793103448" count="3">option documentation table option exec mode documentation exec mode batch stream config option</phrase>
+	<phrase weight="0.05172413793103448" count="3">option documentation table option exec mode documentation exec mode batch stream config option table</phrase>
+	<phrase weight="0.034482758620689655" count="2">option documentation table option exec mode documentation exec mode stream config option table exec</phrase>
+	<phrase weight="0.034482758620689655" count="2">option documentation table option exec mode documentation exec mode batch stream config option integer table exec</phrase>
+	<phrase weight="0.034482758620689655" count="2">option documentation table option exec mode documentation exec mode batch config option table exec</phrase>
+	<phrase weight="0.034482758620689655" count="2">option documentation table option exec mode documentation exec mode stream config option string table exec</phrase>
+	<phrase weight="0.034482758620689655" count="2">enable key</phrase>
+	<phrase weight="0.017241379310344827" count="1">separate list</phrase>
+	<phrase weight="0.017241379310344827" count="1">option documentation table option exec mode documentation exec mode stream config option integer table</phrase>
+	<phrase weight="0.017241379310344827" count="1">option documentation table option exec mode documentation exec mode stream config option table</phrase>
+	<phrase weight="0.017241379310344827" count="1">enable false description enable</phrase>
+	<phrase weight="0.017241379310344827" count="1">size table</phrase>
+	<phrase weight="0.017241379310344827" count="1">option documentation table option exec mode documentation exec mode batch stream config option string table exec</phrase>
+	<phrase weight="0.017241379310344827" count="1">documentation table option exec mode documentation exec mode batch config option table</phrase>
+  </topic>
+</topics>

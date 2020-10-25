@@ -1,0 +1,10 @@
+0	0.0062	service release autowire test message repository util config key biz access batch integration cache timeout gson history namespace converter entity 
+1	0.01279	test autowire service app namespace repository bean management integration required false cluster controller instance admin cache transaction configuration foo branch 
+2	0.00607	domain autowire processor check common health mapper distro lock autowired filter distribute sense map syncer type protocol sender redisson parser 
+3	0.0113	autowire client api sentinel test mvc controller environment method source mock cache context application publisher locator rule apollo web provider 
+4	0.00091	task notify config member event manager datum seconds change evt queue delay single service merge executor center register processor async 
+5	0.01211	manager autowire property service authentication member server configure auto tenant security config file controller address ldap generator thread handler autowired 
+6	0.01374	service persist autowire impl controller raft capacity push demo config dump code query core polling operate database authorization storage consistency 
+7	0.01153	config autowire token property auth service portal store server servlet naco autowired request builder jwt false require resource email repository 
+8	0.01136	service user role autowire permission manager detail config repository impl auth password initialization naco portal encoder system info holder redis 
+9	0.00631	rule autowire repository template flow entity rest converter string store list provider test controller metric publisher mem redis zookeeper dynamic 

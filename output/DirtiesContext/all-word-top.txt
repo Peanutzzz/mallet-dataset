@@ -1,0 +1,89 @@
+0 test 7:101 0:19
+1 run 7:7 2:3
+2 spring 7:31 0:7
+3 unit 7:10 0:4
+4 runner 7:9 2:1
+5 boot 7:10
+6 configuration 7:9 4:1
+7 conditional 7:26 2:1
+8 property 7:68 2:12 0:8 4:1
+9 dirty 7:10 0:5
+10 context 7:11 0:5
+11 bootstrap 7:37
+12 enable 7:28
+13 namespace 7:29 0:12 2:1
+14 extend 7:9 4:1
+15 integration 7:9 0:5 4:1
+16 string 7:14
+17 autowire 7:9
+18 required 7:9
+19 false 7:11
+20 bean 7:40 0:6 2:1
+21 apollo 7:29 0:9 4:4 2:2
+22 config 7:77 0:3
+23 inject 7:2 0:1
+24 mock 7:24 4:2
+25 exception 7:27 0:9
+26 set 7:31
+27 system 7:21 4:3 2:3
+28 source 7:26 2:1
+29 constant 7:22 2:5
+30 true 7:18
+31 hash 7:4
+32 key 7:8 0:8
+33 application 7:16 0:2
+34 clear 7:11 2:3
+35 tear 7:9 4:1
+36 execute 7:5 2:1
+37 equal 0:9 7:2
+38 format 7:2
+39 yaml 2:9
+40 file 2:9
+41 yml 2:8 7:1
+42 prepare 2:3
+43 read 2:3
+44 content 2:3
+45 fail 7:2
+46 disabled 7:2
+47 eager 4:3
+48 load 4:4
+49 list 4:3
+50 environment 4:3 7:1
+51 post 4:4
+52 processor 4:6
+53 factory 4:2
+54 loader 4:2
+55 collections 4:1
+56 filter 4:1
+57 predicate 4:1
+58 override 4:1
+59 apply 4:1
+60 input 4:2
+61 initializer 4:1
+62 empty 4:1
+63 server 0:9
+64 listener 0:2
+65 trigger 0:2
+66 add 0:6
+67 interrupted 0:2
+68 execution 0:2
+69 timeout 0:3
+70 embed 0:6
+71 modify 0:5
+72 change 0:19
+73 event 0:13
+74 future 0:4
+75 datum 0:4
+76 time 0:4
+77 millisecond 0:4
+78 del 0:1
+79 delete 0:2
+80 type 0:2
+81 notify 0:2
+82 interested 0:3
+83 pattern 0:2
+84 port 0:2
+85 path 0:2
+86 prefix 0:2
+87 expect 0:1
+88 uninterested 0:1

@@ -1,0 +1,423 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.024292871689181813" totalTokens="1966" titles="set, test, object, type, state, array, list, map, user, info">
+	<word weight="0.07477110885045778" count="147">set</word>
+	<word weight="0.05239064089521872" count="103">test</word>
+	<word weight="0.044760935910478125" count="88">object</word>
+	<word weight="0.04323499491353001" count="85">type</word>
+	<word weight="0.04069175991861648" count="80">state</word>
+	<word weight="0.03814852492370295" count="75">array</word>
+	<word weight="0.037131230925737536" count="73">list</word>
+	<word weight="0.03306205493387589" count="65">map</word>
+	<word weight="0.03153611393692777" count="62">user</word>
+	<word weight="0.026449643947100712" count="52">info</word>
+	<word weight="0.02288911495422177" count="45">writer</word>
+	<word weight="0.021363173957273652" count="42">create</word>
+	<word weight="0.02034587995930824" count="40">edge</word>
+	<word weight="0.0167853509664293" count="33">buffer</word>
+	<word weight="0.01627670396744659" count="32">serializer</word>
+	<word weight="0.015768056968463885" count="31">reader</word>
+	<word weight="0.015768056968463885" count="31">graph</word>
+	<word weight="0.01271617497456765" count="25">hash</word>
+	<word weight="0.012207527975584944" count="24">file</word>
+	<word weight="0.012207527975584944" count="24">init</word>
+	<phrase weight="0.03389830508474576" count="6">array list</phrase>
+	<phrase weight="0.02824858757062147" count="5">test set</phrase>
+	<phrase weight="0.022598870056497175" count="4">parse user set type</phrase>
+	<phrase weight="0.01694915254237288" count="3">hash map</phrase>
+	<phrase weight="0.01694915254237288" count="3">test object object array list</phrase>
+	<phrase weight="0.01694915254237288" count="3">millis date</phrase>
+	<phrase weight="0.01694915254237288" count="3">type info</phrase>
+	<phrase weight="0.011299435028248588" count="2">hash map put</phrase>
+	<phrase weight="0.011299435028248588" count="2">num object</phrase>
+	<phrase weight="0.011299435028248588" count="2">micros user set type</phrase>
+	<phrase weight="0.011299435028248588" count="2">type info create</phrase>
+	<phrase weight="0.011299435028248588" count="2">set type</phrase>
+	<phrase weight="0.011299435028248588" count="2">wrapper object</phrase>
+	<phrase weight="0.011299435028248588" count="2">user set type</phrase>
+	<phrase weight="0.011299435028248588" count="2">create reader reader object</phrase>
+	<phrase weight="0.011299435028248588" count="2">create collection</phrase>
+	<phrase weight="0.011299435028248588" count="2">generate empty graph vertex edge empty graph vertex empty graph</phrase>
+	<phrase weight="0.005649717514124294" count="1">set type buffer allocate set type date</phrase>
+	<phrase weight="0.005649717514124294" count="1">set object mapper object mapper</phrase>
+	<phrase weight="0.005649717514124294" count="1">accumulator map</phrase>
+  </topic>
+  <topic id="1" alpha="0.035264840007006235" totalTokens="2188" titles="test, handler, set, metric, gateway, context, manager, mock, parameter, rule">
+	<word weight="0.06627056672760512" count="145">test</word>
+	<word weight="0.05073126142595978" count="111">handler</word>
+	<word weight="0.03976234003656307" count="87">set</word>
+	<word weight="0.03473491773308958" count="76">metric</word>
+	<word weight="0.02696526508226691" count="59">gateway</word>
+	<word weight="0.024680073126142597" count="54">context</word>
+	<word weight="0.02330895795246801" count="51">manager</word>
+	<word weight="0.021480804387568556" count="47">mock</word>
+	<word weight="0.02056672760511883" count="45">parameter</word>
+	<word weight="0.02056672760511883" count="45">rule</word>
+	<word weight="0.02056672760511883" count="45">request</word>
+	<word weight="0.019195612431444242" count="42">vertex</word>
+	<word weight="0.019195612431444242" count="42">map</word>
+	<word weight="0.015996343692870202" count="35">message</word>
+	<word weight="0.014625228519195612" count="32">exception</word>
+	<word weight="0.01416819012797075" count="31">future</word>
+	<word weight="0.01416819012797075" count="31">result</word>
+	<word weight="0.013254113345521023" count="29">job</word>
+	<word weight="0.012340036563071298" count="27">store</word>
+	<word weight="0.011425959780621572" count="25">partition</word>
+	<phrase weight="0.02127659574468085" count="3">request decoder</phrase>
+	<phrase weight="0.014184397163120567" count="2">mock gateway</phrase>
+	<phrase weight="0.014184397163120567" count="2">metadata registry clear block handler map</phrase>
+	<phrase weight="0.014184397163120567" count="2">test set</phrase>
+	<phrase weight="0.014184397163120567" count="2">complete future</phrase>
+	<phrase weight="0.014184397163120567" count="2">test setup</phrase>
+	<phrase weight="0.014184397163120567" count="2">mockito annotation init mock</phrase>
+	<phrase weight="0.014184397163120567" count="2">handler test set</phrase>
+	<phrase weight="0.0070921985815602835" count="1">interceptor integration test set exception flow rule manager load rule array list flow rule cluster builder slot reset cluster node foo</phrase>
+	<phrase weight="0.0070921985815602835" count="1">handler request</phrase>
+	<phrase weight="0.0070921985815602835" count="1">gateway retriever rpc</phrase>
+	<phrase weight="0.0070921985815602835" count="1">partition request client handler handler</phrase>
+	<phrase weight="0.0070921985815602835" count="1">set exception</phrase>
+	<phrase weight="0.0070921985815602835" count="1">handler test handler</phrase>
+	<phrase weight="0.0070921985815602835" count="1">handler clear</phrase>
+	<phrase weight="0.0070921985815602835" count="1">parameter test reset parameter</phrase>
+	<phrase weight="0.0070921985815602835" count="1">client configuration configuration</phrase>
+	<phrase weight="0.0070921985815602835" count="1">handler handler</phrase>
+	<phrase weight="0.0070921985815602835" count="1">upload header instance</phrase>
+	<phrase weight="0.0070921985815602835" count="1">client proxy</phrase>
+  </topic>
+  <topic id="2" alpha="0.02052717762097655" totalTokens="2113" titles="comparator, string, manager, memory, tuple, test, serializer, pair, record, datum">
+	<word weight="0.07051585423568386" count="149">comparator</word>
+	<word weight="0.06909607193563654" count="146">string</word>
+	<word weight="0.06436346426881212" count="136">manager</word>
+	<word weight="0.05868433506862281" count="124">memory</word>
+	<word weight="0.054424988168480834" count="115">tuple</word>
+	<word weight="0.053005205868433505" count="112">test</word>
+	<word weight="0.04969238050165641" count="105">serializer</word>
+	<word weight="0.04921911973497397" count="104">pair</word>
+	<word weight="0.04637955513487932" count="98">record</word>
+	<word weight="0.035967818267865596" count="76">datum</word>
+	<word weight="0.035494557501183154" count="75">size</word>
+	<word weight="0.027922385234264078" count="59">builder</word>
+	<word weight="0.023663038334122102" count="50">set</word>
+	<word weight="0.02129673450070989" count="45">build</word>
+	<word weight="0.017983909133932798" count="38">source</word>
+	<word weight="0.017983909133932798" count="38">type</word>
+	<word weight="0.01609086606720303" count="34">integer</word>
+	<word weight="0.015144344533838144" count="32">add</word>
+	<word weight="0.014671083767155703" count="31">iterator</word>
+	<word weight="0.01419782300047326" count="30">async</word>
+	<phrase weight="0.0375" count="3">memory size memory capacity build</phrase>
+	<phrase weight="0.0375" count="3">iterator test</phrase>
+	<phrase weight="0.0375" count="3">memory manager memman memory manager builder builder</phrase>
+	<phrase weight="0.025" count="2">record row datum</phrase>
+	<phrase weight="0.025" count="2">spill compression</phrase>
+	<phrase weight="0.025" count="2">memory size memory capacity build ioman manager async</phrase>
+	<phrase weight="0.025" count="2">tuple integer</phrase>
+	<phrase weight="0.025" count="2">memory size</phrase>
+	<phrase weight="0.0125" count="1">memory size manage memory size</phrase>
+	<phrase weight="0.0125" count="1">join iterator test</phrase>
+	<phrase weight="0.0125" count="1">tuple integer string datum</phrase>
+	<phrase weight="0.0125" count="1">sort max</phrase>
+	<phrase weight="0.0125" count="1">string override tuple integer string</phrase>
+	<phrase weight="0.0125" count="1">suppress warning</phrase>
+	<phrase weight="0.0125" count="1">hash agg test override memory manager memory manager memory manager</phrase>
+	<phrase weight="0.0125" count="1">integer serializer</phrase>
+	<phrase weight="0.0125" count="1">manager memman memory manager builder builder</phrase>
+	<phrase weight="0.0125" count="1">set integer</phrase>
+	<phrase weight="0.0125" count="1">suppress warning unchecked</phrase>
+	<phrase weight="0.0125" count="1">string tuple type</phrase>
+  </topic>
+  <topic id="3" alpha="0.015021645928553736" totalTokens="1869" titles="datum, table, timestamp, property, system, true, type, create, string, stream">
+	<word weight="0.04012841091492777" count="75">datum</word>
+	<word weight="0.03584804708400214" count="67">table</word>
+	<word weight="0.030497592295345103" count="57">timestamp</word>
+	<word weight="0.028892455858747994" count="54">time</word>
+	<word weight="0.02675227394328518" count="50">property</word>
+	<word weight="0.023006955591225255" count="43">system</word>
+	<word weight="0.02247191011235955" count="42">true</word>
+	<word weight="0.021936864633493848" count="41">type</word>
+	<word weight="0.021401819154628143" count="40">create</word>
+	<word weight="0.02086677367576244" count="39">string</word>
+	<word weight="0.01819154628143392" count="34">stream</word>
+	<word weight="0.01765650080256822" count="33">put</word>
+	<word weight="0.017121455323702513" count="32">extra</word>
+	<word weight="0.01658640984483681" count="31">local</word>
+	<word weight="0.01658640984483681" count="31">field</word>
+	<word weight="0.01658640984483681" count="31">test</word>
+	<word weight="0.0149812734082397" count="28">schema</word>
+	<word weight="0.014446227929373997" count="27">org</word>
+	<word weight="0.014446227929373997" count="27">catalog</word>
+	<word weight="0.014446227929373997" count="27">date</word>
+	<phrase weight="0.05263157894736842" count="3">local time</phrase>
+	<phrase weight="0.03508771929824561" count="2">true false true</phrase>
+	<phrase weight="0.03508771929824561" count="2">calcite connection</phrase>
+	<phrase weight="0.03508771929824561" count="2">org codehaus</phrase>
+	<phrase weight="0.03508771929824561" count="2">system exit track security</phrase>
+	<phrase weight="0.017543859649122806" count="1">java security</phrase>
+	<phrase weight="0.017543859649122806" count="1">false set true set true</phrase>
+	<phrase weight="0.017543859649122806" count="1">connection url create</phrase>
+	<phrase weight="0.017543859649122806" count="1">impl prop catalog</phrase>
+	<phrase weight="0.017543859649122806" count="1">row true integer max abcdefg big decimal timestamp datum</phrase>
+	<phrase weight="0.017543859649122806" count="1">aligner test</phrase>
+	<phrase weight="0.017543859649122806" count="1">input format</phrase>
+	<phrase weight="0.017543859649122806" count="1">system property</phrase>
+	<phrase weight="0.017543859649122806" count="1">org apache</phrase>
+	<phrase weight="0.017543859649122806" count="1">collect array</phrase>
+	<phrase weight="0.017543859649122806" count="1">terminal output array output stream terminal terminal util create dummy terminal terminal output schema table schema builder field</phrase>
+	<phrase weight="0.017543859649122806" count="1">print level level</phrase>
+	<phrase weight="0.017543859649122806" count="1">calcite schema root schema collection</phrase>
+	<phrase weight="0.017543859649122806" count="1">row false</phrase>
+	<phrase weight="0.017543859649122806" count="1">connection driver</phrase>
+  </topic>
+  <topic id="4" alpha="0.032755856936641015" totalTokens="2036" titles="configuration, set, environment, cluster, test, option, mini, catalog, client, builder">
+	<word weight="0.060903732809430254" count="124">configuration</word>
+	<word weight="0.05648330058939096" count="115">set</word>
+	<word weight="0.04469548133595285" count="91">environment</word>
+	<word weight="0.043713163064833006" count="89">cluster</word>
+	<word weight="0.04273084479371316" count="87">env</word>
+	<word weight="0.036345776031434185" count="74">test</word>
+	<word weight="0.029469548133595286" count="60">option</word>
+	<word weight="0.025540275049115914" count="52">config</word>
+	<word weight="0.02504911591355599" count="51">conf</word>
+	<word weight="0.022102161100196464" count="45">mini</word>
+	<word weight="0.022102161100196464" count="45">catalog</word>
+	<word weight="0.0206286836935167" count="42">client</word>
+	<word weight="0.0206286836935167" count="42">builder</word>
+	<word weight="0.018172888015717092" count="37">build</word>
+	<word weight="0.018172888015717092" count="37">setup</word>
+	<word weight="0.01768172888015717" count="36">execution</word>
+	<word weight="0.015225933202357564" count="31">create</word>
+	<word weight="0.014734774066797643" count="30">table</word>
+	<word weight="0.013261296660117878" count="27">setting</word>
+	<word weight="0.013261296660117878" count="27">hdf</word>
+	<phrase weight="0.028735632183908046" count="5">mini cluster</phrase>
+	<phrase weight="0.022988505747126436" count="4">configuration configuration</phrase>
+	<phrase weight="0.017241379310344827" count="3">config configuration</phrase>
+	<phrase weight="0.017241379310344827" count="3">mini cluster configuration</phrase>
+	<phrase weight="0.017241379310344827" count="3">set number</phrase>
+	<phrase weight="0.017241379310344827" count="3">execution environment env</phrase>
+	<phrase weight="0.011494252873563218" count="2">configuration set</phrase>
+	<phrase weight="0.011494252873563218" count="2">execution config option table</phrase>
+	<phrase weight="0.011494252873563218" count="2">foo env</phrase>
+	<phrase weight="0.011494252873563218" count="2">akka option</phrase>
+	<phrase weight="0.011494252873563218" count="2">configuration conf configuration</phrase>
+	<phrase weight="0.011494252873563218" count="2">execution environment execution environment</phrase>
+	<phrase weight="0.011494252873563218" count="2">env client</phrase>
+	<phrase weight="0.011494252873563218" count="2">configuration conf</phrase>
+	<phrase weight="0.011494252873563218" count="2">hdf hdf test</phrase>
+	<phrase weight="0.005747126436781609" count="1">set map map function</phrase>
+	<phrase weight="0.005747126436781609" count="1">test hdf</phrase>
+	<phrase weight="0.005747126436781609" count="1">build cluster</phrase>
+	<phrase weight="0.005747126436781609" count="1">target localf test</phrase>
+	<phrase weight="0.005747126436781609" count="1">env execution environment execution environment</phrase>
+  </topic>
+  <topic id="5" alpha="0.02846470833057608" totalTokens="2287" titles="namespace, config, service, set, app, cluster, test, util, release, cache">
+	<word weight="0.080017490161784" count="183">namespace</word>
+	<word weight="0.06821163095758635" count="156">config</word>
+	<word weight="0.06121556624398776" count="140">service</word>
+	<word weight="0.052907739396589416" count="121">set</word>
+	<word weight="0.05159597726278968" count="118">app</word>
+	<word weight="0.050721469173589856" count="116">cluster</word>
+	<word weight="0.03323130738959335" count="76">test</word>
+	<word weight="0.03235679930039353" count="74">util</word>
+	<word weight="0.031919545255793616" count="73">release</word>
+	<word weight="0.019239177962396152" count="44">cache</word>
+	<word weight="0.017052907739396588" count="39">string</word>
+	<word weight="0.016615653694796676" count="38">exception</word>
+	<word weight="0.016178399650196764" count="37">controller</word>
+	<word weight="0.01530389156099694" count="35">interval</word>
+	<word weight="0.01530389156099694" count="35">item</word>
+	<word weight="0.013117621337997376" count="30">message</word>
+	<word weight="0.012680367293397464" count="29">client</word>
+	<word weight="0.012680367293397464" count="29">key</word>
+	<word weight="0.012243113248797552" count="28">entity</word>
+	<word weight="0.012243113248797552" count="28">field</word>
+	<phrase weight="0.022556390977443608" count="3">util set field</phrase>
+	<phrase weight="0.022556390977443608" count="3">application util inject</phrase>
+	<phrase weight="0.022556390977443608" count="3">namespace namespace</phrase>
+	<phrase weight="0.015037593984962405" count="2">item config</phrase>
+	<phrase weight="0.015037593984962405" count="2">set namespace</phrase>
+	<phrase weight="0.015037593984962405" count="2">test set</phrase>
+	<phrase weight="0.015037593984962405" count="2">prefix true sentinel config set config dubbo config dubbo</phrase>
+	<phrase weight="0.015037593984962405" count="2">apollo application</phrase>
+	<phrase weight="0.007518796992481203" count="1">controller service</phrase>
+	<phrase weight="0.007518796992481203" count="1">config item</phrase>
+	<phrase weight="0.007518796992481203" count="1">config inject</phrase>
+	<phrase weight="0.007518796992481203" count="1">cluster set def</phrase>
+	<phrase weight="0.007518796992481203" count="1">app config</phrase>
+	<phrase weight="0.007518796992481203" count="1">service cache reset reflection</phrase>
+	<phrase weight="0.007518796992481203" count="1">apollo bar foo release app app release cluster cluster release</phrase>
+	<phrase weight="0.007518796992481203" count="1">cluster service</phrase>
+	<phrase weight="0.007518796992481203" count="1">result ret</phrase>
+	<phrase weight="0.007518796992481203" count="1">namespace app namespace service find app namespace app</phrase>
+	<phrase weight="0.007518796992481203" count="1">config sentinel constant sofa</phrase>
+	<phrase weight="0.007518796992481203" count="1">set exception</phrase>
+  </topic>
+  <topic id="6" alpha="0.0341702330137075" totalTokens="2580" titles="job, service, test, testing, resource, manager, blob, set, leader, exception">
+	<word weight="0.05116279069767442" count="132">job</word>
+	<word weight="0.050775193798449615" count="131">service</word>
+	<word weight="0.04689922480620155" count="121">test</word>
+	<word weight="0.04108527131782946" count="106">testing</word>
+	<word weight="0.03682170542635659" count="95">resource</word>
+	<word weight="0.034496124031007755" count="89">manager</word>
+	<word weight="0.03178294573643411" count="82">blob</word>
+	<word weight="0.029069767441860465" count="75">set</word>
+	<word weight="0.02751937984496124" count="71">leader</word>
+	<word weight="0.02248062015503876" count="58">exception</word>
+	<word weight="0.01937984496124031" count="50">slot</word>
+	<word weight="0.018604651162790697" count="48">setup</word>
+	<word weight="0.01627906976744186" count="42">executor</word>
+	<word weight="0.015503875968992248" count="40">vertex</word>
+	<word weight="0.015116279069767442" count="39">handler</word>
+	<word weight="0.01434108527131783" count="37">server</word>
+	<word weight="0.013953488372093023" count="36">configuration</word>
+	<word weight="0.01317829457364341" count="34">election</word>
+	<word weight="0.01317829457364341" count="34">store</word>
+	<word weight="0.01317829457364341" count="34">execution</word>
+	<phrase weight="0.03048780487804878" count="5">blob server</phrase>
+	<phrase weight="0.03048780487804878" count="5">high availability</phrase>
+	<phrase weight="0.018292682926829267" count="3">job vertex</phrase>
+	<phrase weight="0.012195121951219513" count="2">zoo keeper</phrase>
+	<phrase weight="0.012195121951219513" count="2">slot execution vertex</phrase>
+	<phrase weight="0.012195121951219513" count="2">exception configuration</phrase>
+	<phrase weight="0.012195121951219513" count="2">failure tracker</phrase>
+	<phrase weight="0.012195121951219513" count="2">resource manager</phrase>
+	<phrase weight="0.012195121951219513" count="2">blob server option storage</phrase>
+	<phrase weight="0.012195121951219513" count="2">provider impl</phrase>
+	<phrase weight="0.012195121951219513" count="2">blob store blob</phrase>
+	<phrase weight="0.012195121951219513" count="2">task manager</phrase>
+	<phrase weight="0.012195121951219513" count="2">blob store</phrase>
+	<phrase weight="0.006097560975609756" count="1">set exception job vertex test</phrase>
+	<phrase weight="0.006097560975609756" count="1">await latch shot latch trigger latch shot latch shuffle</phrase>
+	<phrase weight="0.006097560975609756" count="1">setup await latch shot latch trigger latch shot latch shuffle</phrase>
+	<phrase weight="0.006097560975609756" count="1">deployment option slot execution vertex</phrase>
+	<phrase weight="0.006097560975609756" count="1">availability service test high availability service</phrase>
+	<phrase weight="0.006097560975609756" count="1">set rpc service testing rpc service testing resource manager gateway testing resource manager gateway rpc service register gateway resource manager address testing resource manager</phrase>
+	<phrase weight="0.006097560975609756" count="1">gateway testing resource manager</phrase>
+  </topic>
+  <topic id="7" alpha="0.025298837633356563" totalTokens="2138" titles="stream, group, operator, key, test, state, task, input, registry, metric">
+	<word weight="0.042095416276894296" count="90">stream</word>
+	<word weight="0.042095416276894296" count="90">group</word>
+	<word weight="0.042095416276894296" count="90">operator</word>
+	<word weight="0.03788587464920486" count="81">key</word>
+	<word weight="0.037418147801683815" count="80">test</word>
+	<word weight="0.03648269410664172" count="78">state</word>
+	<word weight="0.03554724041159962" count="76">task</word>
+	<word weight="0.0304022450888681" count="65">input</word>
+	<word weight="0.026192703461178673" count="56">registry</word>
+	<word weight="0.025257249766136577" count="54">metric</word>
+	<word weight="0.01683816651075772" count="36">context</word>
+	<word weight="0.015434985968194575" count="33">buffer</word>
+	<word weight="0.015434985968194575" count="33">channel</word>
+	<word weight="0.013564078578110383" count="29">handle</word>
+	<word weight="0.013564078578110383" count="29">output</word>
+	<word weight="0.013096351730589336" count="28">exception</word>
+	<word weight="0.012628624883068288" count="27">coordinator</word>
+	<word weight="0.012628624883068288" count="27">record</word>
+	<word weight="0.012628624883068288" count="27">executor</word>
+	<word weight="0.012628624883068288" count="27">source</word>
+	<phrase weight="0.017142857142857144" count="3">output stream</phrase>
+	<phrase weight="0.011428571428571429" count="2">element datum stream</phrase>
+	<phrase weight="0.011428571428571429" count="2">group metric group</phrase>
+	<phrase weight="0.011428571428571429" count="2">memory metric</phrase>
+	<phrase weight="0.011428571428571429" count="2">element key selector element element</phrase>
+	<phrase weight="0.011428571428571429" count="2">view stream wrapper</phrase>
+	<phrase weight="0.005714285714285714" count="1">acknowledge checkpoint pub source pub source deserialization</phrase>
+	<phrase weight="0.005714285714285714" count="1">dummy environment environment dummy environment test prev environment</phrase>
+	<phrase weight="0.005714285714285714" count="1">create reporter setup test reporter prometheus reporter registry reporter task manager</phrase>
+	<phrase weight="0.005714285714285714" count="1">test async snapshot callable async snapshot</phrase>
+	<phrase weight="0.005714285714285714" count="1">runtime context mock streaming runtime</phrase>
+	<phrase weight="0.005714285714285714" count="1">output stream pos</phrase>
+	<phrase weight="0.005714285714285714" count="1">test operator override</phrase>
+	<phrase weight="0.005714285714285714" count="1">test base setup operator coordinator context mock operator coordinator context test operator num subtask split split assignment tracker split assignment tracker string coordinator thread test operator hex string source coordinator provider coordinator executor thread factory coordinator thread factory source coordinator provider coordinator executor thread factory coordinator thread coordinator executor executor single thread executor coordinator thread factory context source coordinator context coordinator executor coordinator thread factory operator coordinator context mock source split</phrase>
+	<phrase weight="0.005714285714285714" count="1">override protect</phrase>
+	<phrase weight="0.005714285714285714" count="1">test setup test environment interrupted exception task invocation</phrase>
+	<phrase weight="0.005714285714285714" count="1">input channel input channel channel</phrase>
+	<phrase weight="0.005714285714285714" count="1">block closeable test async snapshot callable test async snapshot callable test provide</phrase>
+	<phrase weight="0.005714285714285714" count="1">val write operator state add val</phrase>
+	<phrase weight="0.005714285714285714" count="1">operator state handle state meta</phrase>
+  </topic>
+  <topic id="8" alpha="0.025226150352712813" totalTokens="1937" titles="file, path, folder, test, string, dir, exception, temp, tmp, util">
+	<word weight="0.16313887454827053" count="316">file</word>
+	<word weight="0.073309241094476" count="142">path</word>
+	<word weight="0.06401652039235932" count="124">folder</word>
+	<word weight="0.034073309241094474" count="66">test</word>
+	<word weight="0.03252452245740836" count="63">string</word>
+	<word weight="0.027878162106350027" count="54">dir</word>
+	<word weight="0.027878162106350027" count="54">exception</word>
+	<word weight="0.023231801755291687" count="45">temp</word>
+	<word weight="0.01858544140423335" count="36">tmp</word>
+	<word weight="0.01858544140423335" count="36">util</word>
+	<word weight="0.018069179143004648" count="35">format</word>
+	<word weight="0.017036654620547237" count="33">jar</word>
+	<word weight="0.016520392359318535" count="32">temporary</word>
+	<word weight="0.016520392359318535" count="32">output</word>
+	<word weight="0.015487867836861126" count="30">edge</word>
+	<word weight="0.015487867836861126" count="30">directory</word>
+	<word weight="0.015487867836861126" count="30">create</word>
+	<word weight="0.013939081053175014" count="27">absolute</word>
+	<word weight="0.013939081053175014" count="27">result</word>
+	<word weight="0.013422818791946308" count="26">write</word>
+	<phrase weight="0.017241379310344827" count="3">repo maven</phrase>
+	<phrase weight="0.017241379310344827" count="3">download cache download</phrase>
+	<phrase weight="0.017241379310344827" count="3">avro jar</phrase>
+	<phrase weight="0.017241379310344827" count="3">file file</phrase>
+	<phrase weight="0.011494252873563218" count="2">delete base dir</phrase>
+	<phrase weight="0.011494252873563218" count="2">file file index file count</phrase>
+	<phrase weight="0.011494252873563218" count="2">dir mkdir</phrase>
+	<phrase weight="0.011494252873563218" count="2">temporary folder folder absolute path</phrase>
+	<phrase weight="0.011494252873563218" count="2">dir absolute path</phrase>
+	<phrase weight="0.011494252873563218" count="2">absolute path</phrase>
+	<phrase weight="0.011494252873563218" count="2">index output write</phrase>
+	<phrase weight="0.011494252873563218" count="2">dir file</phrase>
+	<phrase weight="0.011494252873563218" count="2">ref count</phrase>
+	<phrase weight="0.005747126436781609" count="1">string temporary folder folder absolute path</phrase>
+	<phrase weight="0.005747126436781609" count="1">exception rock dir tmp folder ensure rock library load</phrase>
+	<phrase weight="0.005747126436781609" count="1">temporary path tmp path result tmp path resolve result</phrase>
+	<phrase weight="0.005747126436781609" count="1">exception alloc base folder file tmp folder folder tmp folder folder tmp folder folder directory</phrase>
+	<phrase weight="0.005747126436781609" count="1">temp folder multipart upload</phrase>
+	<phrase weight="0.005747126436781609" count="1">file cache string temporary folder folder absolute path</phrase>
+	<phrase weight="0.005747126436781609" count="1">paronly csv output format</phrase>
+  </topic>
+  <topic id="9" alpha="0.028035303566425855" totalTokens="2227" titles="property, config, server, mock, factory, port, naming, service, set, key">
+	<word weight="0.0862146385271666" count="192">property</word>
+	<word weight="0.0673551863493489" count="150">config</word>
+	<word weight="0.040862146385271664" count="91">server</word>
+	<word weight="0.040862146385271664" count="91">mock</word>
+	<word weight="0.03771890435563539" count="84">factory</word>
+	<word weight="0.03367759317467445" count="75">port</word>
+	<word weight="0.027391109115401886" count="61">naming</word>
+	<word weight="0.026044005388414906" count="58">service</word>
+	<word weight="0.025594970812752582" count="57">set</word>
+	<word weight="0.02469690166142793" count="55">key</word>
+	<word weight="0.02469690166142793" count="55">exception</word>
+	<word weight="0.02469690166142793" count="55">test</word>
+	<word weight="0.022900763358778626" count="51">instance</word>
+	<word weight="0.021104625056129322" count="47">put</word>
+	<word weight="0.020655590480466997" count="46">http</word>
+	<word weight="0.019308486753480018" count="43">string</word>
+	<word weight="0.01796138302649304" count="40">injector</word>
+	<word weight="0.01706331387516839" count="38">init</word>
+	<word weight="0.01571621014818141" count="35">url</word>
+	<word weight="0.01571621014818141" count="35">create</word>
+	<phrase weight="0.013793103448275862" count="2">config factory</phrase>
+	<phrase weight="0.013793103448275862" count="2">property source</phrase>
+	<phrase weight="0.013793103448275862" count="2">mock injector reset mock injector</phrase>
+	<phrase weight="0.013793103448275862" count="2">poll service</phrase>
+	<phrase weight="0.013793103448275862" count="2">register property redis</phrase>
+	<phrase weight="0.006896551724137931" count="1">config util remote config poll</phrase>
+	<phrase weight="0.006896551724137931" count="1">poll change init naco exception property property property property put property key server addr port property put property key config poll timeout property put property key config retry time property put property key max</phrase>
+	<phrase weight="0.006896551724137931" count="1">test appname prarm put type text equal true http client post server addr config controller path prarm prarm put datum test appname property prarm put group export test group prarm put content test test test prarm put</phrase>
+	<phrase weight="0.006896551724137931" count="1">singleton manually clear container config service reset mock injector reset mock injector</phrase>
+	<phrase weight="0.006896551724137931" count="1">port server redis server redis server server start exception</phrase>
+	<phrase weight="0.006896551724137931" count="1">empty list naming time unit seconds sleep factory</phrase>
+	<phrase weight="0.006896551724137931" count="1">list flow rule</phrase>
+	<phrase weight="0.006896551724137931" count="1">register property consul</phrase>
+	<phrase weight="0.006896551724137931" count="1">config key</phrase>
+	<phrase weight="0.006896551724137931" count="1">key invocation</phrase>
+	<phrase weight="0.006896551724137931" count="1">prarm put datum test appname yml prarm put group export test group prarm put content test test prarm put</phrase>
+	<phrase weight="0.006896551724137931" count="1">init consul consul starter</phrase>
+	<phrase weight="0.006896551724137931" count="1">init exception thread sleep naming base prepare server port naming factory create naming service port true equal server status thread sleep property property property property put property key namespace namespace property put property key server addr port naming factory create naming</phrase>
+	<phrase weight="0.006896551724137931" count="1">config key config config add mock bean factory mock server config</phrase>
+	<phrase weight="0.006896551724137931" count="1">add key</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,69 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.701685801454895" totalTokens="29" titles="exception, resolver, auto, flux, highest, empty, object, ">
+	<word weight="0.3103448275862069" count="9">exception</word>
+	<word weight="0.2413793103448276" count="7">resolver</word>
+	<word weight="0.1724137931034483" count="5">auto</word>
+	<word weight="0.1724137931034483" count="5">flux</word>
+	<word weight="0.034482758620689655" count="1">highest</word>
+	<word weight="0.034482758620689655" count="1">empty</word>
+	<word weight="0.034482758620689655" count="1">object</word>
+	<phrase weight="1.0" count="4">flux auto</phrase>
+  </topic>
+  <topic id="1" alpha="7.868006428963395" totalTokens="12" titles="handler, conditional, ">
+	<word weight="0.75" count="9">handler</word>
+	<word weight="0.25" count="3">conditional</word>
+  </topic>
+  <topic id="2" alpha="5.9563997133463396" totalTokens="6" titles="resource, message, ">
+	<word weight="0.6666666666666666" count="4">resource</word>
+	<word weight="0.3333333333333333" count="2">message</word>
+  </topic>
+  <topic id="3" alpha="7.5617672488582075" totalTokens="33" titles="application, codec, error, configuration, writer, resolver, enable, ">
+	<word weight="0.2727272727272727" count="9">application</word>
+	<word weight="0.24242424242424243" count="8">codec</word>
+	<word weight="0.18181818181818182" count="6">error</word>
+	<word weight="0.18181818181818182" count="6">configuration</word>
+	<word weight="0.06060606060606061" count="2">writer</word>
+	<word weight="0.030303030303030304" count="1">resolver</word>
+	<word weight="0.030303030303030304" count="1">enable</word>
+	<phrase weight="1.0" count="1">enable configuration</phrase>
+  </topic>
+  <topic id="4" alpha="7.028504212029206" totalTokens="7" titles="resource, json, configure, ">
+	<word weight="0.5714285714285714" count="4">resource</word>
+	<word weight="0.2857142857142857" count="2">json</word>
+	<word weight="0.14285714285714285" count="1">configure</word>
+  </topic>
+  <topic id="5" alpha="4.346344742547077" totalTokens="7" titles="error, provider, ">
+	<word weight="0.5714285714285714" count="4">error</word>
+	<word weight="0.42857142857142855" count="3">provider</word>
+  </topic>
+  <topic id="6" alpha="9.113886796973022" totalTokens="21" titles="configurer, context, custom, type, precedence, ">
+	<word weight="0.42857142857142855" count="9">configurer</word>
+	<word weight="0.3333333333333333" count="7">context</word>
+	<word weight="0.09523809523809523" count="2">custom</word>
+	<word weight="0.09523809523809523" count="2">type</word>
+	<word weight="0.047619047619047616" count="1">precedence</word>
+	<phrase weight="1.0" count="1">configurer custom</phrase>
+  </topic>
+  <topic id="7" alpha="10.140076001738679" totalTokens="23" titles="property, set, order, reactive, ">
+	<word weight="0.7391304347826086" count="17">property</word>
+	<word weight="0.13043478260869565" count="3">set</word>
+	<word weight="0.08695652173913043" count="2">order</word>
+	<word weight="0.043478260869565216" count="1">reactive</word>
+	<phrase weight="1.0" count="1">order order</phrase>
+  </topic>
+  <topic id="8" alpha="16.41069074112551" totalTokens="33" titles="server, web, list, reader, collection, ">
+	<word weight="0.48484848484848486" count="16">server</word>
+	<word weight="0.3333333333333333" count="11">web</word>
+	<word weight="0.09090909090909091" count="3">list</word>
+	<word weight="0.06060606060606061" count="2">reader</word>
+	<word weight="0.030303030303030304" count="1">collection</word>
+	<phrase weight="0.5" count="1">reader server</phrase>
+	<phrase weight="0.5" count="1">list server</phrase>
+  </topic>
+  <topic id="9" alpha="7.946358452816303" totalTokens="12" titles="view, attribute, bean, ">
+	<word weight="0.6666666666666666" count="8">view</word>
+	<word weight="0.25" count="3">attribute</word>
+	<word weight="0.08333333333333333" count="1">bean</word>
+  </topic>
+</topics>

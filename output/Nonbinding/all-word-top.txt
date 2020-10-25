@@ -1,0 +1,14 @@
+0 bind 0:10
+1 nonbinding 0:10
+2 string 0:4
+3 entry 0:3
+4 type 0:4
+5 resource 0:1
+6 block 0:2
+7 handler 0:2
+8 fallback 0:3
+9 extend 0:2
+10 throwable 0:3
+11 exception 0:2
+12 trace 0:1
+13 ignore 0:1

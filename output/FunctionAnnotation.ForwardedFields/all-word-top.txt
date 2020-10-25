@@ -1,0 +1,68 @@
+0 precedence 8:1
+1 test 8:4
+2 function 8:19 3:9
+3 annotation 8:14 1:1
+4 forward 8:13
+5 field 8:8 3:4 5:2
+6 wildcard 5:1
+7 mapper 4:2 2:1
+8 implement 8:11
+9 map 8:5 2:2 4:1
+10 override 8:11
+11 operator 3:2
+12 read 3:3 5:2
+13 dummy 3:3
+14 group 4:21 3:4 5:1
+15 combine 3:3 5:1
+16 tuple 3:13 2:7
+17 integer 3:26
+18 string 3:13
+19 iterable 3:2 0:1
+20 collector 5:2 3:2
+21 exception 8:7 4:2 5:1
+22 reduce 3:5 8:2 1:2 5:1
+23 link 7:2
+24 vertex 4:33 5:23
+25 offset 7:15
+26 flat 7:2
+27 edge 5:21 1:21 2:8
+28 count 7:5 4:2
+29 list 5:5
+30 range 7:11
+31 target 7:5 2:3 5:2
+32 instance 7:1
+33 source 8:5 7:2 5:2
+34 length 7:1
+35 add 5:3
+36 positive 5:1
+37 set 8:5 5:2 0:2
+38 collect 5:2
+39 stats 2:1
+40 extend 2:1 0:1
+41 comparable 2:1 5:1
+42 output 2:6
+43 degree 1:16 2:10
+44 compare 2:1
+45 warning 4:3 1:1 0:1
+46 serial 4:3 1:1 5:1
+47 item 4:17
+48 summarize 4:1
+49 filter 4:6
+50 equal 4:2
+51 representative 4:14
+52 reuse 4:5
+53 suppress 1:1 0:1
+54 joiner 8:1
+55 copy 1:2
+56 miss 1:1
+57 triad 0:11
+58 builder 0:1
+59 array 0:1
+60 iter 0:2
+61 iterator 5:2
+62 clear 5:2
+63 build 0:1
+64 emit 5:1
+65 higher 5:3
+66 previously 0:1
+67 lower 0:2

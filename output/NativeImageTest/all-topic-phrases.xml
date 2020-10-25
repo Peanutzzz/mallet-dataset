@@ -1,0 +1,31 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="12" titles="test, resource, mode, execute, greet, extend, greeting, image, ">
+	<word weight="0.25" count="3">test</word>
+	<word weight="0.25" count="3">resource</word>
+	<word weight="0.08333333333333333" count="1">mode</word>
+	<word weight="0.08333333333333333" count="1">execute</word>
+	<word weight="0.08333333333333333" count="1">greet</word>
+	<word weight="0.08333333333333333" count="1">extend</word>
+	<word weight="0.08333333333333333" count="1">greeting</word>
+	<word weight="0.08333333333333333" count="1">image</word>
+  </topic>
+  <topic id="1" alpha="1.0" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="1.0" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="1.0" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="1.0" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="1.0" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="1.0" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="1.0" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="1.0" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="1.0" totalTokens="0" titles="">
+  </topic>
+</topics>

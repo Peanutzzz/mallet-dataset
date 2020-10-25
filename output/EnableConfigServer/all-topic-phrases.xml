@@ -1,0 +1,36 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.449946535823982" totalTokens="23" titles="server, config, application, property, spring, run, arg, string, main, classpath">
+	<word weight="0.17391304347826086" count="4">server</word>
+	<word weight="0.17391304347826086" count="4">config</word>
+	<word weight="0.13043478260869565" count="3">application</word>
+	<word weight="0.08695652173913043" count="2">property</word>
+	<word weight="0.08695652173913043" count="2">spring</word>
+	<word weight="0.043478260869565216" count="1">run</word>
+	<word weight="0.043478260869565216" count="1">arg</word>
+	<word weight="0.043478260869565216" count="1">string</word>
+	<word weight="0.043478260869565216" count="1">main</word>
+	<word weight="0.043478260869565216" count="1">classpath</word>
+	<word weight="0.043478260869565216" count="1">source</word>
+	<word weight="0.043478260869565216" count="1">boot</word>
+	<word weight="0.043478260869565216" count="1">enable</word>
+  </topic>
+  <topic id="1" alpha="5.3015577434397906E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="5.3015577434397906E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="5.3015577434397906E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="5.3015577434397906E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="5.3015577434397906E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="5.3015577434397906E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="5.3015577434397906E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="5.3015577434397906E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="5.3015577434397906E-8" totalTokens="0" titles="">
+  </topic>
+</topics>

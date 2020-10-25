@@ -1,0 +1,10 @@
+0	10.73624	add helper remove strategy entity table 
+1	24.49445	change datum nullable omit 
+2	5.13184	change column generation generate map 
+3	9.26194	modify 
+4	13.71558	string pre type identity 
+5	12.79688	time inheritance object 
+6	9.47535	create base 
+7	8.59372	delete protect bit 
+8	5.33921	data set superclass 
+9	6.90056	date false update persist set definition 

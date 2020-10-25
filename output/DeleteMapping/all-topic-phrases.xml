@@ -1,0 +1,383 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.014260462764741588" totalTokens="246" titles="config, datum, tenant, info, time, group, param, change, tag, event">
+	<word weight="0.15040650406504066" count="37">config</word>
+	<word weight="0.07723577235772358" count="19">datum</word>
+	<word weight="0.06504065040650407" count="16">tenant</word>
+	<word weight="0.06504065040650407" count="16">info</word>
+	<word weight="0.06097560975609756" count="15">time</word>
+	<word weight="0.052845528455284556" count="13">group</word>
+	<word weight="0.036585365853658534" count="9">param</word>
+	<word weight="0.036585365853658534" count="9">change</word>
+	<word weight="0.028455284552845527" count="7">tag</word>
+	<word weight="0.028455284552845527" count="7">event</word>
+	<word weight="0.028455284552845527" count="7">client</word>
+	<word weight="0.024390243902439025" count="6">beta</word>
+	<word weight="0.024390243902439025" count="6">false</word>
+	<word weight="0.024390243902439025" count="6">response</word>
+	<word weight="0.024390243902439025" count="6">set</word>
+	<word weight="0.024390243902439025" count="6">result</word>
+	<word weight="0.02032520325203252" count="5">list</word>
+	<word weight="0.02032520325203252" count="5">persist</word>
+	<word weight="0.016260162601626018" count="4">rest</word>
+	<word weight="0.016260162601626018" count="4">persistence</word>
+	<phrase weight="0.06451612903225806" count="2">param tenant</phrase>
+	<phrase weight="0.06451612903225806" count="2">persistence event</phrase>
+	<phrase weight="0.03225806451612903" count="1">config info client collection</phrase>
+	<phrase weight="0.03225806451612903" count="1">tenant rest result rest result persist</phrase>
+	<phrase weight="0.03225806451612903" count="1">tag persist</phrase>
+	<phrase weight="0.03225806451612903" count="1">beta datum error config change publisher notify config change config datum change event</phrase>
+	<phrase weight="0.03225806451612903" count="1">log persistence event datum group tenant time time client config trace</phrase>
+	<phrase weight="0.03225806451612903" count="1">result builder build success result</phrase>
+	<phrase weight="0.03225806451612903" count="1">param group</phrase>
+	<phrase weight="0.03225806451612903" count="1">config info beta datum group tenant</phrase>
+	<phrase weight="0.03225806451612903" count="1">param list</phrase>
+	<phrase weight="0.03225806451612903" count="1">param datum</phrase>
+	<phrase weight="0.03225806451612903" count="1">empty config info list config info config info config info list config change publisher notify config change config datum change event false config info datum config info group config info tenant time time config trace</phrase>
+	<phrase weight="0.03225806451612903" count="1">tenant tenant param</phrase>
+	<phrase weight="0.03225806451612903" count="1">util empty</phrase>
+	<phrase weight="0.03225806451612903" count="1">group datum</phrase>
+	<phrase weight="0.03225806451612903" count="1">config info datum group tenant client persist</phrase>
+	<phrase weight="0.03225806451612903" count="1">tag naco</phrase>
+	<phrase weight="0.03225806451612903" count="1">current time list config info config info list persist</phrase>
+	<phrase weight="0.03225806451612903" count="1">set datum</phrase>
+  </topic>
+  <topic id="1" alpha="0.009889342985084615" totalTokens="134" titles="set, commit, response, datum, json, header, entity, delete, content, raft">
+	<word weight="0.09701492537313433" count="13">set</word>
+	<word weight="0.08955223880597014" count="12">commit</word>
+	<word weight="0.07462686567164178" count="10">response</word>
+	<word weight="0.06716417910447761" count="9">datum</word>
+	<word weight="0.04477611940298507" count="6">json</word>
+	<word weight="0.04477611940298507" count="6">header</word>
+	<word weight="0.04477611940298507" count="6">entity</word>
+	<word weight="0.04477611940298507" count="6">delete</word>
+	<word weight="0.03731343283582089" count="5">content</word>
+	<word weight="0.029850746268656716" count="4">raft</word>
+	<word weight="0.029850746268656716" count="4">cache</word>
+	<word weight="0.029850746268656716" count="4">encode</word>
+	<word weight="0.029850746268656716" count="4">change</word>
+	<word weight="0.022388059701492536" count="3">source</word>
+	<word weight="0.022388059701492536" count="3">obj</word>
+	<word weight="0.022388059701492536" count="3">jackson</word>
+	<word weight="0.022388059701492536" count="3">utf</word>
+	<word weight="0.022388059701492536" count="3">object</word>
+	<word weight="0.014925373134328358" count="2">peer</word>
+	<word weight="0.014925373134328358" count="2">decode</word>
+	<phrase weight="0.08695652173913043" count="2">commit set</phrase>
+	<phrase weight="0.043478260869565216" count="1">obj json object source</phrase>
+	<phrase weight="0.043478260869565216" count="1">commit set datum change create</phrase>
+	<phrase weight="0.043478260869565216" count="1">decoder decode entity utf decoder decode utf json node json object jackson</phrase>
+	<phrase weight="0.043478260869565216" count="1">service find</phrase>
+	<phrase weight="0.043478260869565216" count="1">response response exception response set header content</phrase>
+	<phrase weight="0.043478260869565216" count="1">change content</phrase>
+	<phrase weight="0.043478260869565216" count="1">response set header cache control cache response set header content encode gzip raft consistency service</phrase>
+	<phrase weight="0.043478260869565216" count="1">obj json object datum</phrase>
+	<phrase weight="0.043478260869565216" count="1">stream utf</phrase>
+	<phrase weight="0.043478260869565216" count="1">commit set datum change</phrase>
+	<phrase weight="0.043478260869565216" count="1">datum raft peer source jackson</phrase>
+	<phrase weight="0.043478260869565216" count="1">commit commit commit commit set</phrase>
+	<phrase weight="0.043478260869565216" count="1">obj datum datum jackson</phrase>
+	<phrase weight="0.043478260869565216" count="1">application json charset accept encode</phrase>
+	<phrase weight="0.043478260869565216" count="1">raft peer raft consistency</phrase>
+	<phrase weight="0.043478260869565216" count="1">response exception response set header content</phrase>
+	<phrase weight="0.043478260869565216" count="1">response set header cache control cache response set header content encode gzip</phrase>
+	<phrase weight="0.043478260869565216" count="1">datum commit</phrase>
+	<phrase weight="0.043478260869565216" count="1">application json charset</phrase>
+  </topic>
+  <topic id="2" alpha="0.027714653446045973" totalTokens="253" titles="role, user, type, response, set, entity, build, remove, holder, info">
+	<word weight="0.233201581027668" count="59">role</word>
+	<word weight="0.2015810276679842" count="51">user</word>
+	<word weight="0.08695652173913043" count="22">type</word>
+	<word weight="0.039525691699604744" count="10">response</word>
+	<word weight="0.039525691699604744" count="10">set</word>
+	<word weight="0.039525691699604744" count="10">entity</word>
+	<word weight="0.03557312252964427" count="9">build</word>
+	<word weight="0.03162055335968379" count="8">remove</word>
+	<word weight="0.023715415019762844" count="6">holder</word>
+	<word weight="0.023715415019762844" count="6">info</word>
+	<word weight="0.019762845849802372" count="5">master</word>
+	<word weight="0.019762845849802372" count="5">hash</word>
+	<word weight="0.015810276679841896" count="4">manage</word>
+	<word weight="0.015810276679841896" count="4">illegal</word>
+	<word weight="0.015810276679841896" count="4">permission</word>
+	<word weight="0.015810276679841896" count="4">check</word>
+	<word weight="0.011857707509881422" count="3">application</word>
+	<word weight="0.011857707509881422" count="3">system</word>
+	<word weight="0.011857707509881422" count="3">valid</word>
+	<word weight="0.011857707509881422" count="3">util</word>
+	<phrase weight="0.0967741935483871" count="3">role user</phrase>
+	<phrase weight="0.0967741935483871" count="3">role type response entity remove</phrase>
+	<phrase weight="0.06451612903225806" count="2">user role type valid role type role type</phrase>
+	<phrase weight="0.06451612903225806" count="2">remove role user role util build</phrase>
+	<phrase weight="0.06451612903225806" count="2">type illegal role</phrase>
+	<phrase weight="0.06451612903225806" count="2">precondition check argument</phrase>
+	<phrase weight="0.06451612903225806" count="2">role permission</phrase>
+	<phrase weight="0.03225806451612903" count="1">role create application user response entity</phrase>
+	<phrase weight="0.03225806451612903" count="1">type illegal validate</phrase>
+	<phrase weight="0.03225806451612903" count="1">role user role util build</phrase>
+	<phrase weight="0.03225806451612903" count="1">master user response entity forbid manage</phrase>
+	<phrase weight="0.03225806451612903" count="1">master role</phrase>
+	<phrase weight="0.03225806451612903" count="1">remove role user system role manager</phrase>
+	<phrase weight="0.03225806451612903" count="1">user check user exist user set</phrase>
+	<phrase weight="0.03225806451612903" count="1">type valid role type role type</phrase>
+	<phrase weight="0.03225806451612903" count="1">create application role user</phrase>
+	<phrase weight="0.03225806451612903" count="1">user hash set user add</phrase>
+	<phrase weight="0.03225806451612903" count="1">init manage</phrase>
+	<phrase weight="0.03225806451612903" count="1">user info holder user user set</phrase>
+	<phrase weight="0.03225806451612903" count="1">remove role user role</phrase>
+  </topic>
+  <topic id="3" alpha="0.07155258366751661" totalTokens="612" titles="app, string, env, variable, path, delete, namespace, permission, request, service">
+	<word weight="0.12581699346405228" count="77">app</word>
+	<word weight="0.09640522875816994" count="59">string</word>
+	<word weight="0.09313725490196079" count="57">env</word>
+	<word weight="0.08169934640522876" count="50">variable</word>
+	<word weight="0.0784313725490196" count="48">path</word>
+	<word weight="0.06535947712418301" count="40">delete</word>
+	<word weight="0.06045751633986928" count="37">namespace</word>
+	<word weight="0.058823529411764705" count="36">permission</word>
+	<word weight="0.0392156862745098" count="24">request</word>
+	<word weight="0.03594771241830065" count="22">service</word>
+	<word weight="0.027777777777777776" count="17">validator</word>
+	<word weight="0.026143790849673203" count="16">user</word>
+	<word weight="0.024509803921568627" count="15">mapping</word>
+	<word weight="0.02287581699346405" count="14">pre</word>
+	<word weight="0.021241830065359478" count="13">authorize</word>
+	<word weight="0.017973856209150325" count="11">exception</word>
+	<word weight="0.011437908496732025" count="7">key</word>
+	<word weight="0.011437908496732025" count="7">operator</word>
+	<word weight="0.00980392156862745" count="6">bad</word>
+	<word weight="0.00980392156862745" count="6">admin</word>
+	<phrase weight="0.06315789473684211" count="6">pre authorize permission validator</phrase>
+	<phrase weight="0.05263157894736842" count="5">request exception</phrase>
+	<phrase weight="0.05263157894736842" count="5">path variable string</phrase>
+	<phrase weight="0.042105263157894736" count="4">path variable string app path variable string env path variable string</phrase>
+	<phrase weight="0.042105263157894736" count="4">permission validator</phrase>
+	<phrase weight="0.031578947368421054" count="3">service delete</phrase>
+	<phrase weight="0.031578947368421054" count="3">app env env</phrase>
+	<phrase weight="0.031578947368421054" count="3">env env</phrase>
+	<phrase weight="0.021052631578947368" count="2">pre authorize</phrase>
+	<phrase weight="0.021052631578947368" count="2">request param string</phrase>
+	<phrase weight="0.021052631578947368" count="2">path variable string app path variable string</phrase>
+	<phrase weight="0.021052631578947368" count="2">delete access</phrase>
+	<phrase weight="0.021052631578947368" count="2">app namespace</phrase>
+	<phrase weight="0.010526315789473684" count="1">path variable string namespace path variable string</phrase>
+	<phrase weight="0.010526315789473684" count="1">env env bad request exception env</phrase>
+	<phrase weight="0.010526315789473684" count="1">delete mapping app</phrase>
+	<phrase weight="0.010526315789473684" count="1">app permission</phrase>
+	<phrase weight="0.010526315789473684" count="1">pre authorize permission validator admin</phrase>
+	<phrase weight="0.010526315789473684" count="1">pre authorize permission validator delete namespace permission</phrase>
+	<phrase weight="0.010526315789473684" count="1">mapping app app env env</phrase>
+  </topic>
+  <topic id="4" alpha="0.039277680744936386" totalTokens="286" titles="request, service, string, util, remove, servlet, http, namespace, param, parser">
+	<word weight="0.13286713286713286" count="38">request</word>
+	<word weight="0.0944055944055944" count="27">service</word>
+	<word weight="0.09090909090909091" count="26">string</word>
+	<word weight="0.06643356643356643" count="19">util</word>
+	<word weight="0.05244755244755245" count="15">remove</word>
+	<word weight="0.045454545454545456" count="13">servlet</word>
+	<word weight="0.04195804195804196" count="12">http</word>
+	<word weight="0.04195804195804196" count="12">namespace</word>
+	<word weight="0.038461538461538464" count="11">param</word>
+	<word weight="0.03496503496503497" count="10">parser</word>
+	<word weight="0.03496503496503497" count="10">action</word>
+	<word weight="0.03146853146853147" count="9">type</word>
+	<word weight="0.027972027972027972" count="8">mapping</word>
+	<word weight="0.027972027972027972" count="8">delete</word>
+	<word weight="0.02097902097902098" count="6">instance</word>
+	<word weight="0.02097902097902098" count="6">true</word>
+	<word weight="0.02097902097902098" count="6">resource</word>
+	<word weight="0.02097902097902098" count="6">write</word>
+	<word weight="0.017482517482517484" count="5">require</word>
+	<word weight="0.017482517482517484" count="5">secure</word>
+	<phrase weight="0.10344827586206896" count="3">http servlet request request http servlet</phrase>
+	<phrase weight="0.10344827586206896" count="3">request param</phrase>
+	<phrase weight="0.06896551724137931" count="2">delete mapping</phrase>
+	<phrase weight="0.06896551724137931" count="2">http servlet</phrase>
+	<phrase weight="0.06896551724137931" count="2">resource parser</phrase>
+	<phrase weight="0.06896551724137931" count="2">request util</phrase>
+	<phrase weight="0.034482758620689655" count="1">http servlet request request</phrase>
+	<phrase weight="0.034482758620689655" count="1">util string request</phrase>
+	<phrase weight="0.034482758620689655" count="1">service remove</phrase>
+	<phrase weight="0.034482758620689655" count="1">string util</phrase>
+	<phrase weight="0.034482758620689655" count="1">util check</phrase>
+	<phrase weight="0.034482758620689655" count="1">web util require request</phrase>
+	<phrase weight="0.034482758620689655" count="1">resource parser delete</phrase>
+	<phrase weight="0.034482758620689655" count="1">http servlet request</phrase>
+	<phrase weight="0.034482758620689655" count="1">namespace string namespace</phrase>
+	<phrase weight="0.034482758620689655" count="1">type secure action action type write parser</phrase>
+	<phrase weight="0.034482758620689655" count="1">request string util</phrase>
+	<phrase weight="0.034482758620689655" count="1">true secured action action type write parser</phrase>
+	<phrase weight="0.034482758620689655" count="1">delete mapping secure action action type write parser</phrase>
+	<phrase weight="0.034482758620689655" count="1">mapping secure resource</phrase>
+  </topic>
+  <topic id="5" alpha="0.020907955228588508" totalTokens="202" titles="item, namespace, branch, cluster, operator, release, modify, load, modification, consumer">
+	<word weight="0.17326732673267325" count="35">item</word>
+	<word weight="0.17326732673267325" count="35">namespace</word>
+	<word weight="0.13861386138613863" count="28">branch</word>
+	<word weight="0.12871287128712872" count="26">cluster</word>
+	<word weight="0.06930693069306931" count="14">operator</word>
+	<word weight="0.0594059405940594" count="12">release</word>
+	<word weight="0.0297029702970297" count="6">modify</word>
+	<word weight="0.024752475247524754" count="5">load</word>
+	<word weight="0.019801980198019802" count="4">modification</word>
+	<word weight="0.019801980198019802" count="4">consumer</word>
+	<word weight="0.019801980198019802" count="4">bad</word>
+	<word weight="0.01485148514851485" count="3">message</word>
+	<word weight="0.009900990099009901" count="2">don</word>
+	<word weight="0.009900990099009901" count="2">forbidden</word>
+	<word weight="0.009900990099009901" count="2">deny</word>
+	<word weight="0.009900990099009901" count="2">exist</word>
+	<word weight="0.009900990099009901" count="2">topic</word>
+	<word weight="0.009900990099009901" count="2">config</word>
+	<word weight="0.0049504950495049506" count="1">match</word>
+	<word weight="0.0049504950495049506" count="1">invalid</word>
+	<phrase weight="0.1724137931034483" count="5">item item</phrase>
+	<phrase weight="0.06896551724137931" count="2">cluster namespace</phrase>
+	<phrase weight="0.06896551724137931" count="2">branch release</phrase>
+	<phrase weight="0.06896551724137931" count="2">load item</phrase>
+	<phrase weight="0.034482758620689655" count="1">operator exist</phrase>
+	<phrase weight="0.034482758620689655" count="1">message release message</phrase>
+	<phrase weight="0.034482758620689655" count="1">namespace base</phrase>
+	<phrase weight="0.034482758620689655" count="1">item namespace match</phrase>
+	<phrase weight="0.034482758620689655" count="1">item item item</phrase>
+	<phrase weight="0.034482758620689655" count="1">don release</phrase>
+	<phrase weight="0.034482758620689655" count="1">don modification</phrase>
+	<phrase weight="0.034482758620689655" count="1">operator message sender</phrase>
+	<phrase weight="0.034482758620689655" count="1">operator namespace namespace</phrase>
+	<phrase weight="0.034482758620689655" count="1">cluster namespace namespace item</phrase>
+	<phrase weight="0.034482758620689655" count="1">load latest release</phrase>
+	<phrase weight="0.034482758620689655" count="1">cluster namespace branch namespace branch status</phrase>
+	<phrase weight="0.034482758620689655" count="1">branch branch</phrase>
+	<phrase weight="0.034482758620689655" count="1">exist item</phrase>
+	<phrase weight="0.034482758620689655" count="1">namespace namespace</phrase>
+	<phrase weight="0.034482758620689655" count="1">branch namespace branch</phrase>
+  </topic>
+  <topic id="6" alpha="0.026261962167531593" totalTokens="114" titles="delete, result, favorite, mapping, service, path, index, fail, succeed, variable">
+	<word weight="0.15789473684210525" count="18">delete</word>
+	<word weight="0.13157894736842105" count="15">result</word>
+	<word weight="0.06140350877192982" count="7">favorite</word>
+	<word weight="0.06140350877192982" count="7">mapping</word>
+	<word weight="0.05263157894736842" count="6">service</word>
+	<word weight="0.05263157894736842" count="6">path</word>
+	<word weight="0.043859649122807015" count="5">index</word>
+	<word weight="0.043859649122807015" count="5">fail</word>
+	<word weight="0.043859649122807015" count="5">succeed</word>
+	<word weight="0.043859649122807015" count="5">variable</word>
+	<word weight="0.03508771929824561" count="4">error</word>
+	<word weight="0.03508771929824561" count="4">operation</word>
+	<word weight="0.03508771929824561" count="4">exception</word>
+	<word weight="0.02631578947368421" count="3">log</word>
+	<word weight="0.02631578947368421" count="3">api</word>
+	<word weight="0.02631578947368421" count="3">controller</word>
+	<word weight="0.017543859649122806" count="2">client</word>
+	<word weight="0.017543859649122806" count="2">del</word>
+	<word weight="0.017543859649122806" count="2">string</word>
+	<word weight="0.017543859649122806" count="2">file</word>
+	<phrase weight="0.1" count="1">result delete</phrase>
+	<phrase weight="0.1" count="1">delete mapping file result</phrase>
+	<phrase weight="0.1" count="1">controller delete mapping</phrase>
+	<phrase weight="0.1" count="1">change msg</phrase>
+	<phrase weight="0.1" count="1">service delete</phrase>
+	<phrase weight="0.1" count="1">result succeed exception log error</phrase>
+	<phrase weight="0.1" count="1">path variable result fail</phrase>
+	<phrase weight="0.1" count="1">log operation result</phrase>
+	<phrase weight="0.1" count="1">controller api operation delete mapping</phrase>
+	<phrase weight="0.1" count="1">result fail</phrase>
+  </topic>
+  <topic id="7" alpha="0.043040859358678955" totalTokens="300" titles="app, namespace, cluster, delete, entity, string, find, service, path, variable">
+	<word weight="0.19333333333333333" count="58">app</word>
+	<word weight="0.12666666666666668" count="38">namespace</word>
+	<word weight="0.09333333333333334" count="28">cluster</word>
+	<word weight="0.07666666666666666" count="23">delete</word>
+	<word weight="0.06666666666666667" count="20">entity</word>
+	<word weight="0.06666666666666667" count="20">string</word>
+	<word weight="0.04666666666666667" count="14">find</word>
+	<word weight="0.04666666666666667" count="14">service</word>
+	<word weight="0.04" count="12">path</word>
+	<word weight="0.03666666666666667" count="11">variable</word>
+	<word weight="0.03333333333333333" count="10">operator</word>
+	<word weight="0.02" count="6">response</word>
+	<word weight="0.02" count="6">request</word>
+	<word weight="0.02" count="6">mapping</word>
+	<word weight="0.016666666666666666" count="5">param</word>
+	<word weight="0.016666666666666666" count="5">exception</word>
+	<word weight="0.013333333333333334" count="4">event</word>
+	<word weight="0.013333333333333334" count="4">build</word>
+	<word weight="0.01" count="3">admin</word>
+	<word weight="0.006666666666666667" count="2">deletion</word>
+	<phrase weight="0.08695652173913043" count="2">delete mapping</phrase>
+	<phrase weight="0.043478260869565216" count="1">find cluster cluster</phrase>
+	<phrase weight="0.043478260869565216" count="1">app appnamespace</phrase>
+	<phrase weight="0.043478260869565216" count="1">app app app app service delete app local</phrase>
+	<phrase weight="0.043478260869565216" count="1">app string app path</phrase>
+	<phrase weight="0.043478260869565216" count="1">service find</phrase>
+	<phrase weight="0.043478260869565216" count="1">response entity delete app namespace path variable string app path variable string</phrase>
+	<phrase weight="0.043478260869565216" count="1">namespace string namespace</phrase>
+	<phrase weight="0.043478260869565216" count="1">param string operator</phrase>
+	<phrase weight="0.043478260869565216" count="1">service save</phrase>
+	<phrase weight="0.043478260869565216" count="1">cluster delete path variable app string app path variable cluster string cluster request param string operator cluster entity cluster service find app cluster entity find exception</phrase>
+	<phrase weight="0.043478260869565216" count="1">namespace delete path</phrase>
+	<phrase weight="0.043478260869565216" count="1">app path variable string</phrase>
+	<phrase weight="0.043478260869565216" count="1">cluster equal entity</phrase>
+	<phrase weight="0.043478260869565216" count="1">delete app</phrase>
+	<phrase weight="0.043478260869565216" count="1">namespace entity app namespace service find app namespace entity</phrase>
+	<phrase weight="0.043478260869565216" count="1">cluster namespace namespace response entity</phrase>
+	<phrase weight="0.043478260869565216" count="1">app app</phrase>
+	<phrase weight="0.043478260869565216" count="1">delete mapping app app</phrase>
+	<phrase weight="0.043478260869565216" count="1">cluster cluster service</phrase>
+  </topic>
+  <topic id="8" alpha="0.015539489821549665" totalTokens="170" titles="role, delete, action, username, resource, info, string, param, naco, request">
+	<word weight="0.14705882352941177" count="25">role</word>
+	<word weight="0.09411764705882353" count="16">delete</word>
+	<word weight="0.058823529411764705" count="10">action</word>
+	<word weight="0.052941176470588235" count="9">username</word>
+	<word weight="0.052941176470588235" count="9">resource</word>
+	<word weight="0.047058823529411764" count="8">info</word>
+	<word weight="0.047058823529411764" count="8">string</word>
+	<word weight="0.041176470588235294" count="7">param</word>
+	<word weight="0.03529411764705882" count="6">naco</word>
+	<word weight="0.03529411764705882" count="6">request</word>
+	<word weight="0.03529411764705882" count="6">user</word>
+	<word weight="0.03529411764705882" count="6">service</word>
+	<word weight="0.023529411764705882" count="4">prefix</word>
+	<word weight="0.023529411764705882" count="4">console</word>
+	<word weight="0.023529411764705882" count="4">auth</word>
+	<word weight="0.023529411764705882" count="4">list</word>
+	<word weight="0.023529411764705882" count="4">permission</word>
+	<word weight="0.01764705882352941" count="3">object</word>
+	<word weight="0.01764705882352941" count="3">rest</word>
+	<word weight="0.01764705882352941" count="3">write</word>
+	<phrase weight="0.1111111111111111" count="1">write delete</phrase>
+	<phrase weight="0.1111111111111111" count="1">string username string</phrase>
+	<phrase weight="0.1111111111111111" count="1">action action</phrase>
+	<phrase weight="0.1111111111111111" count="1">console resource prefix</phrase>
+	<phrase weight="0.1111111111111111" count="1">info atomic</phrase>
+	<phrase weight="0.1111111111111111" count="1">param string role request param username string</phrase>
+	<phrase weight="0.1111111111111111" count="1">object delete role</phrase>
+	<phrase weight="0.1111111111111111" count="1">delete mapping secure resource naco auth</phrase>
+	<phrase weight="0.1111111111111111" count="1">console resource prefix role action action type</phrase>
+  </topic>
+  <topic id="9" alpha="0.014598390228268846" totalTokens="217" titles="rule, entity, result, delete, fail, repository, success, throwable, flow, error">
+	<word weight="0.1152073732718894" count="25">rule</word>
+	<word weight="0.11059907834101383" count="24">entity</word>
+	<word weight="0.10138248847926268" count="22">result</word>
+	<word weight="0.09216589861751152" count="20">delete</word>
+	<word weight="0.04608294930875576" count="10">fail</word>
+	<word weight="0.03686635944700461" count="8">repository</word>
+	<word weight="0.03686635944700461" count="8">success</word>
+	<word weight="0.03225806451612903" count="7">throwable</word>
+	<word weight="0.03225806451612903" count="7">flow</word>
+	<word weight="0.03225806451612903" count="7">error</word>
+	<word weight="0.027649769585253458" count="6">app</word>
+	<word weight="0.02304147465437788" count="5">publish</word>
+	<word weight="0.02304147465437788" count="5">message</word>
+	<word weight="0.02304147465437788" count="5">exception</word>
+	<word weight="0.018433179723502304" count="4">privilege</word>
+	<word weight="0.018433179723502304" count="4">auth</word>
+	<word weight="0.018433179723502304" count="4">logger</word>
+	<word weight="0.018433179723502304" count="4">action</word>
+	<word weight="0.018433179723502304" count="4">type</word>
+	<word weight="0.018433179723502304" count="4">find</word>
+	<phrase weight="1.0" count="1">rule controller delete mapping rule auth action privilege type delete rule result api delete rule path variable result fail</phrase>
+  </topic>
+</topics>

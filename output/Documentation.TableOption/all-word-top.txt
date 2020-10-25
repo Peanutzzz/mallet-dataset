@@ -1,0 +1,213 @@
+0 option 9:82 1:1
+1 documentation 9:52
+2 table 9:86 2:3 0:2
+3 exec 9:88 3:1
+4 mode 9:52 3:3
+5 stream 9:20
+6 config 9:29
+7 string 9:9 8:1
+8 source 2:6 5:4
+9 idle 5:4
+10 timeout 5:6
+11 key 9:33 8:1
+12 description 9:25 3:2
+13 receive 5:1
+14 element 5:1 0:1
+15 time 5:1 9:1
+16 mark 5:1
+17 temporarily 5:1
+18 downstream 9:1
+19 task 3:2 5:1
+20 advance 5:1
+21 watermark 5:2
+22 wait 5:1
+23 batch 9:28 7:8
+24 enforcer 8:5 6:1
+25 sink 8:2
+26 type 8:3 3:1
+27 error 8:2
+28 column 8:2
+29 constraint 8:1
+30 enforce 6:2 8:1
+31 insert 8:1
+32 flink 8:2
+33 support 8:4 4:1
+34 drop 8:3
+35 enforcement 8:1
+36 behavior 8:2
+37 check 8:1
+38 runtime 8:1
+39 exception 8:2 0:1
+40 write 8:1
+41 user 8:1 1:1 7:1
+42 change 8:1
+43 silently 8:1
+44 record 7:7 8:1
+45 integer 9:3 0:3
+46 sort 0:10 1:1
+47 limit 0:8
+48 don 5:1
+49 set 7:4 9:3 4:2 5:1 6:1
+50 order 0:1
+51 configuration 1:1
+52 ignore 1:1
+53 max 0:2 5:1
+54 num 6:3 0:2
+55 file 0:5
+56 handle 0:3
+57 maximal 0:1
+58 fan 0:1
+59 external 0:1
+60 merge 0:5
+61 number 7:4 6:3 0:1
+62 operator 1:5 0:4 4:1
+63 small 0:1
+64 intermediate 0:1
+65 merging 0:1
+66 large 9:1
+67 open 9:1
+68 consume 9:1 4:1
+69 memory 4:3 0:1
+70 lead 0:1
+71 random 0:1
+72 reading 0:1
+73 async 5:7 9:2
+74 enable 9:22 2:4
+75 true 2:8 7:3 0:1 1:1
+76 asynchronously 0:1
+77 spill 4:7 0:1
+78 compression 4:5
+79 compress 4:3
+80 datum 4:3 3:2
+81 hash 1:6
+82 agg 6:6 0:4 1:2
+83 join 1:10 4:2 5:1
+84 block 3:7 9:2
+85 size 7:6 4:3 9:1
+86 larger 4:1
+87 higher 4:2
+88 ratio 4:1
+89 resource 4:3
+90 job 4:1 6:1
+91 parallelism 4:7
+92 aggregate 6:12
+93 filter 4:1
+94 run 4:1
+95 parallel 9:1
+96 instance 4:1
+97 priority 4:1
+98 execution 4:3
+99 environment 4:3
+100 override 4:1
+101 fallback 4:1
+102 window 7:5
+103 buffer 7:12
+104 group 7:1 6:1
+105 lookup 5:5
+106 capacity 5:2
+107 operation 5:2
+108 trigger 7:3
+109 min 5:1
+110 asynchronous 9:1
+111 complete 5:1 6:1
+112 minibatch 7:5
+113 mini 7:15
+114 false 9:4 6:1
+115 optimization 7:4 6:1
+116 input 7:5
+117 reduce 7:3
+118 state 7:3
+119 access 7:3
+120 disabled 1:7
+121 note 7:3 9:1 6:1
+122 latency 7:6
+123 maximum 7:5
+124 interval 7:2
+125 reach 7:2
+126 greater 7:1
+127 work 7:1 2:1
+128 aggregation 6:5 7:1
+129 positive 7:1
+130 test 0:1
+131 comma 1:1
+132 separate 9:1
+133 list 9:1 3:1
+134 represent 0:1
+135 kind 1:1
+136 include 0:1 3:1
+137 nest 0:1
+138 loop 1:1
+139 shuffle 3:9 9:1 6:1
+140 broadcast 1:4
+141 edge 3:13
+142 builder 3:1
+143 text 3:9
+144 linebreak 3:1
+145 accept 3:1
+146 code 3:8 6:1
+147 forward 3:3
+148 pipelined 3:9
+149 pointwise 3:3
+150 rescale 3:1
+151 deprecate 3:2
+152 fully 8:1
+153 produce 3:2
+154 send 3:2
+155 consumer 3:2
+156 build 3:1
+157 optimizer 2:14 6:6 1:2
+158 phase 6:8
+159 strategy 6:3
+160 auto 6:3
+161 special 6:1
+162 stage 6:6
+163 choose 6:1
+164 depend 6:1
+165 cost 6:1
+166 local 6:1
+167 global 6:2
+168 call 6:1
+169 optimize 2:1
+170 threshold 1:2
+171 configure 1:2
+172 worker 1:1
+173 node 1:1
+174 perform 1:1
+175 disable 9:3
+176 broadcasting 1:1
+177 distinct 6:11
+178 split 6:5
+179 count 6:1
+180 col 6:2
+181 sum 6:1
+182 level 6:2
+183 additional 6:2
+184 calculate 6:2
+185 hashcode 6:1
+186 bucket 6:6
+187 data 6:1
+188 skew 6:1
+189 give 6:1
+190 ability 9:1
+191 scale 6:1
+192 splitting 6:2
+193 reuse 2:7
+194 plan 2:4
+195 find 9:1 2:1
+196 duplicate 9:2
+197 predicate 2:3
+198 pushdown 2:2
+199 push 2:1
+200 filterable 2:1
+201 reorder 1:3
+202 dynamic 9:2
+203 hint 9:2
+204 dynamically 0:1
+205 sql 8:7
+206 dialect 8:6
+207 lower 8:1
+208 define 8:1
+209 parse 8:1
+210 query 9:1
+211 grammar 8:1
+212 hive 8:1

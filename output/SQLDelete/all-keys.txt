@@ -1,0 +1,10 @@
+0	0.02302	release branch operation namespace cluster app rule previous context status history gray nullable 
+1	0.05286	cluster app namespace release abandon configuration change parent compare comparable implement string extend sql entity 
+2	0.09191	comment key string config cluster server lob commit clause file insert enable 
+3	0.05592	role permission user target type base delete update clause 
+4	0.02264	consumer token expire date override 
+5	0.02039	owner org app email builder add string consumer validator 
+6	0.0309	app blank format message namespace string validator input invalid pattern cluster file 
+7	0.6887	string set column false nullable delete add entity table extend update sql base clause helper override audit bit definition regexp 
+8	0.02279	namespace type privil num line privilege integer item 
+9	0.02271	app secret enable position user favorite access entity 

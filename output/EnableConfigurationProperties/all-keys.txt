@@ -1,0 +1,10 @@
+0	0.02506	factory connection template manager registry build retry register route rest bean handler read plain component balanced load socket autowire 
+1	0.20981	property configuration auto configure enable bean set conditional log context config hikari security determine extend highest ribbon audit trace connection 
+2	0.01125	swagger route resource property definition gateway locator agg predicate set location provider list string version path add stream filter doc 
+3	0.02764	rest client http set request property pool config template timeout max socket connect httpclient total create conn customizer builder map 
+4	0.02688	tenant sql parser handler pagination interceptor filter table object meta autowire fill ignore mybatis string statement map override match auto 
+5	0.0122	builder credentials provider username level high elasticsearch time property password mapper route callback scope auth apply num connection miss 
+6	0.03515	app enable arg center application spring client feign file search run string main boot discovery index interceptor server property 
+7	0.01551	server web error exception configurer handler application codec resolver view resource context flux attribute provider list reader writer message json 
+8	0.01133	redis serializer cache key template string manager object factory conf config configuration redi connection map serialization size concat append def 
+9	0.01128	ldap source user environment bean handler template context miss set conditional security spring base service logout info heartbeat sso holder 

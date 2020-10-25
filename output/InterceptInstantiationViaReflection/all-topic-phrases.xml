@@ -1,0 +1,80 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.17292309282943663" totalTokens="10" titles="prometheus, ">
+	<word weight="1.0" count="10">prometheus</word>
+	<phrase weight="1.0" count="2">prometheus prometheus</phrase>
+  </topic>
+  <topic id="1" alpha="3.376732518302888" totalTokens="142" titles="reporter, factory, intercept, flink, apache, org, reflection, config, ">
+	<word weight="0.4788732394366197" count="68">reporter</word>
+	<word weight="0.18309859154929578" count="26">factory</word>
+	<word weight="0.07042253521126761" count="10">intercept</word>
+	<word weight="0.06338028169014084" count="9">flink</word>
+	<word weight="0.06338028169014084" count="9">apache</word>
+	<word weight="0.06338028169014084" count="9">org</word>
+	<word weight="0.06338028169014084" count="9">reflection</word>
+	<word weight="0.014084507042253521" count="2">config</word>
+	<phrase weight="0.3793103448275862" count="11">reporter factory</phrase>
+	<phrase weight="0.3103448275862069" count="9">reflection reporter org apache flink</phrase>
+	<phrase weight="0.13793103448275862" count="4">factory intercept</phrase>
+	<phrase weight="0.13793103448275862" count="4">reporter factory intercept</phrase>
+	<phrase weight="0.034482758620689655" count="1">reporter reporter factory</phrase>
+  </topic>
+  <topic id="2" alpha="0.0783013974384434" totalTokens="4" titles="stats, statsd, ">
+	<word weight="0.75" count="3">stats</word>
+	<word weight="0.25" count="1">statsd</word>
+	<phrase weight="1.0" count="1">statsd stats</phrase>
+  </topic>
+  <topic id="3" alpha="0.07395471559636849" totalTokens="9" titles="gateway, push, ">
+	<word weight="0.5555555555555556" count="5">gateway</word>
+	<word weight="0.4444444444444444" count="4">push</word>
+	<phrase weight="1.0" count="3">push gateway</phrase>
+  </topic>
+  <topic id="4" alpha="0.07943706763768495" totalTokens="14" titles="test, track, type, true, setup, runtime, ">
+	<word weight="0.35714285714285715" count="5">test</word>
+	<word weight="0.21428571428571427" count="3">track</word>
+	<word weight="0.21428571428571427" count="3">type</word>
+	<word weight="0.07142857142857142" count="1">true</word>
+	<word weight="0.07142857142857142" count="1">setup</word>
+	<word weight="0.07142857142857142" count="1">runtime</word>
+	<phrase weight="0.75" count="3">type track test</phrase>
+	<phrase weight="0.25" count="1">setup test</phrase>
+  </topic>
+  <topic id="5" alpha="2.888368218047196" totalTokens="91" titles="metric, property, instantiation, create, override, implement, ">
+	<word weight="0.3626373626373626" count="33">metric</word>
+	<word weight="0.2087912087912088" count="19">property</word>
+	<word weight="0.13186813186813187" count="12">instantiation</word>
+	<word weight="0.0989010989010989" count="9">create</word>
+	<word weight="0.0989010989010989" count="9">override</word>
+	<word weight="0.0989010989010989" count="9">implement</word>
+	<phrase weight="0.4090909090909091" count="9">create metric</phrase>
+	<phrase weight="0.36363636363636365" count="8">property property</phrase>
+	<phrase weight="0.13636363636363635" count="3">implement metric</phrase>
+	<phrase weight="0.09090909090909091" count="2">override metric</phrase>
+  </topic>
+  <topic id="6" alpha="0.16160858191371116" totalTokens="8" titles="slf, influxdb, ">
+	<word weight="0.5" count="4">slf</word>
+	<word weight="0.5" count="4">influxdb</word>
+	<phrase weight="0.5" count="1">slf slf</phrase>
+	<phrase weight="0.5" count="1">influxdb influxdb</phrase>
+  </topic>
+  <topic id="7" alpha="0.07207565385178338" totalTokens="4" titles="graphite, ">
+	<word weight="1.0" count="4">graphite</word>
+	<phrase weight="1.0" count="1">graphite graphite</phrase>
+  </topic>
+  <topic id="8" alpha="0.1336897245205727" totalTokens="11" titles="port, arg, string, config, jmx, ">
+	<word weight="0.45454545454545453" count="5">port</word>
+	<word weight="0.18181818181818182" count="2">arg</word>
+	<word weight="0.18181818181818182" count="2">string</word>
+	<word weight="0.09090909090909091" count="1">config</word>
+	<word weight="0.09090909090909091" count="1">jmx</word>
+	<phrase weight="0.3333333333333333" count="1">port config</phrase>
+	<phrase weight="0.3333333333333333" count="1">arg port port</phrase>
+	<phrase weight="0.3333333333333333" count="1">arg port</phrase>
+  </topic>
+  <topic id="9" alpha="0.07450200013465809" totalTokens="7" titles="datadog, http, ">
+	<word weight="0.5714285714285714" count="4">datadog</word>
+	<word weight="0.42857142857142855" count="3">http</word>
+	<phrase weight="0.5" count="1">datadog datadog http</phrase>
+	<phrase weight="0.5" count="1">datadog http</phrase>
+  </topic>
+</topics>

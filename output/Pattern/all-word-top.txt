@@ -1,0 +1,15 @@
+0 pattern 0:6
+1 regexp 0:6
+2 input 0:13
+3 validator 0:19
+4 cluster 0:14
+5 namespace 0:18
+6 message 0:17
+7 invalid 0:12
+8 app 0:9
+9 format 0:5
+10 string 0:6
+11 blank 0:8
+12 column 0:2
+13 nullable 0:2
+14 false 0:2

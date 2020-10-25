@@ -1,0 +1,10 @@
+0	0.02394	release string history operation map set configuration service publish find page emergency latest context entry gson branch list comment previous 
+1	0.04234	app namespace service cluster audit repository find set string change datum delete create operator list manage save entity modify config 
+2	0.04151	config instance set string key message cache cluster time access server service scan client port app map machine exception modify 
+3	0.01642	job string info list xxl count date aggregation trigger util map result index child fail day set dao curr bucket 
+4	0.00631	capacity group tenant max quota size aggr usage string set update list count param sql service persist jdbc gmt modify 
+5	0.03922	string client result task config datum sample group server service util meta request log info list file response address polling 
+6	0.02633	role consumer user permission info service token repository favorite string create page portal list demo set request holder application find 
+7	0.01802	namespace branch string cluster service key child rule operator parent access item lock gray delete publish latest active modify find 
+8	0.0496	user service role client string key list override code mapper menu page exception impl map redis param set detail username 
+9	0.03787	namespace env app item cluster string template rest set operator key delete change list size instance page type user find 

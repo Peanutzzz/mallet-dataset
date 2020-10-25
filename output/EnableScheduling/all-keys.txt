@@ -1,0 +1,10 @@
+0	0.92239	alibaba url component register bean 
+1	1.35556	base string scan server 
+2	0.35352	app boot 
+3	1.80298	arg spring enable run scheduling 
+4	1.30006	application istio 
+5	0.31487	cache controller filter property header origin construct autowire 
+6	0.25971	method age true credentials 
+7	0.38552	config source set max 
+8	0.30329	cor configuration init add console post 
+9	1.45495	naco main core schedule servlet application 

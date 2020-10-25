@@ -1,0 +1,83 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.9223879214010997" totalTokens="14" titles="alibaba, url, component, register, bean, ">
+	<word weight="0.5714285714285714" count="8">alibaba</word>
+	<word weight="0.14285714285714285" count="2">url</word>
+	<word weight="0.14285714285714285" count="2">component</word>
+	<word weight="0.07142857142857142" count="1">register</word>
+	<word weight="0.07142857142857142" count="1">bean</word>
+  </topic>
+  <topic id="1" alpha="1.3555635381728566" totalTokens="15" titles="base, string, scan, server, ">
+	<word weight="0.3333333333333333" count="5">base</word>
+	<word weight="0.26666666666666666" count="4">string</word>
+	<word weight="0.26666666666666666" count="4">scan</word>
+	<word weight="0.13333333333333333" count="2">server</word>
+	<phrase weight="1.0" count="3">scan base</phrase>
+  </topic>
+  <topic id="2" alpha="0.3535153890997472" totalTokens="8" titles="app, boot, ">
+	<word weight="0.5" count="4">app</word>
+	<word weight="0.5" count="4">boot</word>
+  </topic>
+  <topic id="3" alpha="1.8029815858937248" totalTokens="27" titles="arg, spring, enable, run, scheduling, ">
+	<word weight="0.2962962962962963" count="8">arg</word>
+	<word weight="0.25925925925925924" count="7">spring</word>
+	<word weight="0.14814814814814814" count="4">enable</word>
+	<word weight="0.14814814814814814" count="4">run</word>
+	<word weight="0.14814814814814814" count="4">scheduling</word>
+	<phrase weight="0.5" count="4">arg spring</phrase>
+	<phrase weight="0.25" count="2">enable scheduling spring</phrase>
+	<phrase weight="0.125" count="1">enable scheduling</phrase>
+	<phrase weight="0.125" count="1">scheduling spring</phrase>
+  </topic>
+  <topic id="4" alpha="1.3000620038855593" totalTokens="10" titles="application, istio, ">
+	<word weight="0.8" count="8">application</word>
+	<word weight="0.2" count="2">istio</word>
+	<phrase weight="1.0" count="1">application istio</phrase>
+  </topic>
+  <topic id="5" alpha="0.3148697130234688" totalTokens="18" titles="cache, controller, filter, property, header, origin, construct, autowire, ">
+	<word weight="0.2777777777777778" count="5">cache</word>
+	<word weight="0.2222222222222222" count="4">controller</word>
+	<word weight="0.16666666666666666" count="3">filter</word>
+	<word weight="0.1111111111111111" count="2">property</word>
+	<word weight="0.05555555555555555" count="1">header</word>
+	<word weight="0.05555555555555555" count="1">origin</word>
+	<word weight="0.05555555555555555" count="1">construct</word>
+	<word weight="0.05555555555555555" count="1">autowire</word>
+	<phrase weight="1.0" count="1">autowire controller</phrase>
+  </topic>
+  <topic id="6" alpha="0.2597066979076908" totalTokens="12" titles="method, age, true, credentials, ">
+	<word weight="0.75" count="9">method</word>
+	<word weight="0.08333333333333333" count="1">age</word>
+	<word weight="0.08333333333333333" count="1">true</word>
+	<word weight="0.08333333333333333" count="1">credentials</word>
+	<phrase weight="1.0" count="1">credentials true</phrase>
+  </topic>
+  <topic id="7" alpha="0.3855238000417486" totalTokens="21" titles="config, source, set, max, ">
+	<word weight="0.5714285714285714" count="12">config</word>
+	<word weight="0.2857142857142857" count="6">source</word>
+	<word weight="0.09523809523809523" count="2">set</word>
+	<word weight="0.047619047619047616" count="1">max</word>
+	<phrase weight="1.0" count="1">config set max</phrase>
+  </topic>
+  <topic id="8" alpha="0.3032856086830968" totalTokens="24" titles="cor, configuration, init, add, console, post, ">
+	<word weight="0.3333333333333333" count="8">cor</word>
+	<word weight="0.20833333333333334" count="5">configuration</word>
+	<word weight="0.20833333333333334" count="5">init</word>
+	<word weight="0.125" count="3">add</word>
+	<word weight="0.08333333333333333" count="2">console</word>
+	<word weight="0.041666666666666664" count="1">post</word>
+	<phrase weight="0.8333333333333334" count="5">cor configuration</phrase>
+	<phrase weight="0.16666666666666666" count="1">init post</phrase>
+  </topic>
+  <topic id="9" alpha="1.4549530202208767" totalTokens="19" titles="naco, main, core, schedule, servlet, application, ">
+	<word weight="0.5263157894736842" count="10">naco</word>
+	<word weight="0.21052631578947367" count="4">main</word>
+	<word weight="0.10526315789473684" count="2">core</word>
+	<word weight="0.05263157894736842" count="1">schedule</word>
+	<word weight="0.05263157894736842" count="1">servlet</word>
+	<word weight="0.05263157894736842" count="1">application</word>
+	<phrase weight="0.5" count="2">naco core</phrase>
+	<phrase weight="0.25" count="1">naco servlet</phrase>
+	<phrase weight="0.25" count="1">schedule naco main</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,53 @@
+0 target 6:4
+1 element 0:4 3:1 9:1
+2 type 8:15 0:7 2:4 6:1
+3 retention 6:6 8:1 2:1
+4 policy 2:3 8:1
+5 runtime 8:4
+6 inherit 8:4
+7 job 3:1
+8 handler 9:15
+9 string 4:8 7:1
+10 method 7:22
+11 sentinel 7:4
+12 resource 7:7 1:1
+13 entry 4:8
+14 inbound 4:2
+15 outbound 3:4
+16 classification 0:1 5:1
+17 block 6:11 4:3 9:2
+18 exception 3:16 7:2
+19 function 3:4 4:2
+20 empty 0:5 1:3
+21 code 7:7 0:4 9:1
+22 locate 1:5 2:1
+23 original 7:5 5:1
+24 share 1:6
+25 signature 2:4
+26 intend 4:4
+27 set 0:5 1:2 3:1
+28 user 8:2 1:1 6:1
+29 exist 1:3 2:2 5:1
+30 note 7:6
+31 provide 1:2
+32 fallback 7:15 9:8 4:1
+33 universal 7:2
+34 accept 5:2
+35 parameter 1:2
+36 compatible 0:2
+37 single 5:2
+38 list 7:4
+39 trace 4:4 7:2
+40 link 5:2 7:1
+41 throwable 0:12
+42 extend 1:3 0:1
+43 ignore 5:7 6:3
+44 time 7:1 6:1
+45 higher 0:1 9:1
+46 precedence 4:1 7:1
+47 bind 1:3
+48 interceptor 0:1
+49 nonbinding 9:10
+50 annotation 2:1
+51 recoverable 2:1
+52 error 1:1

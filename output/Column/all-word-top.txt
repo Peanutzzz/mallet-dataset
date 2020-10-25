@@ -1,0 +1,78 @@
+0 column 4:14 2:14 7:11 6:10 5:9 1:9 9:6 8:6 0:6
+1 app 4:29
+2 nullable 4:25 6:23 2:17 1:14 9:7 7:7
+3 false 4:24 6:23 2:17 1:12 9:9 7:7 5:3
+4 string 4:23 6:20 2:17 1:11 9:9 7:4 8:2 3:1
+5 secret 6:2
+6 enable 5:4
+7 definition 5:4
+8 bit 5:4
+9 entity 6:4
+10 comment 2:14
+11 parent 6:2
+12 cluster 6:18 3:4
+13 change 7:24
+14 set 7:2
+15 namespace 6:18 3:8
+16 rule 4:7 6:2
+17 branch 4:6
+18 release 1:12
+19 status 4:2
+20 generate 0:6
+21 strategy 0:6
+22 generation 0:6
+23 type 0:6 1:4
+24 identity 0:6
+25 datum 7:24
+26 center 7:2
+27 create 7:10
+28 time 7:20
+29 date 7:11
+30 modify 7:7
+31 instance 5:2
+32 config 6:4 9:2 4:2
+33 key 1:11
+34 delivery 1:2
+35 lob 2:1 6:1
+36 line 0:2
+37 num 0:2
+38 integer 8:2 0:1
+39 privil 1:2
+40 configuration 6:2
+41 abandon 5:2
+42 previous 1:2
+43 operation 2:4
+44 context 2:2
+45 message 9:9 3:7
+46 blank 9:12 3:4
+47 pattern 3:2
+48 regexp 3:2
+49 input 3:5
+50 validator 3:7
+51 invalid 3:4
+52 org 4:8
+53 owner 9:10
+54 email 9:7
+55 format 6:2 3:1
+56 delete 5:2
+57 protect 5:1
+58 consumer 2:6
+59 uri 2:2
+60 method 4:2
+61 role 2:8
+62 token 1:2
+63 expire 7:2
+64 user 2:4
+65 position 4:2
+66 permission 1:4
+67 target 1:2
+68 server 1:2
+69 username 1:2
+70 password 4:2
+71 annotate 8:3
+72 pojo 8:3
+73 counter 8:6
+74 batch 8:6
+75 body 9:1
+76 annotated 8:3
+77 keyspace 8:3

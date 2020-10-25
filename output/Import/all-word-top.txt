@@ -1,0 +1,264 @@
+0 client 7:24 4:3
+1 target 4:4
+2 element 4:4
+3 type 7:16 4:8 8:3 6:1
+4 retention 4:8
+5 policy 4:4 0:4 2:2
+6 runtime 4:4
+7 enable 4:6 6:3
+8 feign 4:7
+9 base 8:19 4:2
+10 central 4:1
+11 search 4:2
+12 service 8:6 0:4 4:3 3:2 2:1
+13 fallback 4:1
+14 factory 8:14 4:1
+15 query 3:2 4:1
+16 impl 4:1 3:1 7:1
+17 server 2:7
+18 conf 2:3
+19 security 2:21 8:20 0:11
+20 handler 2:14 0:9 7:8 8:2
+21 config 1:12 0:11 4:3 2:1
+22 resource 9:21 2:13
+23 extend 2:3
+24 configurer 2:6
+25 adapter 2:1 0:1
+26 autowire 2:7 7:4 0:4
+27 token 2:4
+28 store 3:4 2:4
+29 authentication 0:39 2:7
+30 entry 2:9
+31 point 2:9
+32 auth 8:7 2:6 3:2
+33 web 3:2 2:2
+34 expression 2:7
+35 access 2:5 8:1
+36 deny 2:4
+37 property 8:52 2:5 1:5 6:2
+38 override 2:5 6:1
+39 configure 2:3
+40 stateless 2:2
+41 true 7:10 9:4 6:3 2:1
+42 http 2:27 7:7 5:1
+43 exception 3:8 2:5
+44 url 2:22 8:16 5:7 3:3
+45 authorization 8:10 2:3 5:1 3:1
+46 authorize 2:12
+47 set 3:148 2:6 8:4 0:4
+48 request 7:30 3:14 2:5 8:2
+49 ant 8:4 2:2
+50 matcher 3:7 2:2 5:1
+51 ignore 2:1
+52 permit 2:3
+53 method 7:8 2:1
+54 option 2:3
+55 authenticate 2:4
+56 session 0:8 2:3
+57 management 2:3 5:1 9:1
+58 creation 2:5 0:1
+59 require 2:2 6:1 8:1
+60 basic 2:1 0:1
+61 disable 2:4 0:1
+62 header 6:2 2:1
+63 frame 2:2
+64 csrf 2:2
+65 param 9:29 5:4 8:3 2:2
+66 interceptor 4:7 7:2
+67 conditional 6:4
+68 zlt 6:2
+69 swagger 8:57 6:3
+70 match 5:16 6:2
+71 missing 6:2
+72 documentation 6:3
+73 configuration 1:7 6:6
+74 auto 6:1
+75 implement 6:1
+76 bean 8:18 0:4 3:2 1:1
+77 aware 6:1
+78 string 3:28 8:11 1:1
+79 key 8:14
+80 miss 8:2
+81 list 8:36 7:18 5:7
+82 docket 8:62
+83 create 3:14 8:3
+84 rest 8:1
+85 api 5:79 8:21 9:12
+86 configurable 8:5
+87 link 7:1 6:1 4:1 5:1
+88 size 3:6 5:5 8:2 6:1
+89 register 8:2
+90 singleton 6:2
+91 add 3:96 8:14 5:8 0:3
+92 group 8:5
+93 info 8:38
+94 builder 7:43 8:4 0:1 5:1
+95 title 8:6
+96 empty 8:12
+97 description 8:8
+98 version 8:6
+99 license 8:12
+100 contact 8:16
+101 email 8:4
+102 term 8:6
+103 build 8:10
+104 path 8:44 7:16
+105 predicate 5:48 8:12
+106 array 8:9 3:4
+107 selector 8:7
+108 exclude 8:11
+109 host 8:4
+110 global 8:34
+111 operation 8:42
+112 parameter 8:55
+113 assembly 8:2
+114 select 8:2
+115 apis 5:13 8:1
+116 scheme 8:5
+117 context 8:14
+118 reference 8:7 5:4 9:3 3:1
+119 regex 8:1
+120 scope 8:9
+121 object 3:16 8:2 6:1
+122 model 8:3
+123 ref 8:3
+124 parse 9:15 5:3 7:2 6:1
+125 stream 8:1
+126 map 8:1
+127 collect 8:1
+128 collector 8:1
+129 result 3:84 8:4
+130 password 0:10 2:1
+131 permission 6:1 1:1
+132 success 0:8 7:5 9:3
+133 required 0:1
+134 false 2:1
+135 user 0:5 3:1
+136 detail 0:5
+137 encoder 0:4
+138 logout 0:9
+139 oauth 0:6
+140 open 0:3
+141 mobile 0:3
+142 manager 0:12
+143 tenant 0:12
+144 spring 7:2 0:1 4:1
+145 boot 6:1
+146 username 0:5
+147 filter 0:17
+148 process 0:2
+149 constant 0:6
+150 login 0:11
+151 pro 0:2
+152 failure 0:3
+153 simple 7:1 2:1 3:1
+154 page 0:5
+155 protect 0:1 1:1
+156 clear 7:2 0:1
+157 apply 0:3
+158 iframe 0:1
+159 cache 2:1
+160 control 9:14 0:1
+161 form 0:2
+162 processing 2:1
+163 handle 0:1
+164 document 1:1
+165 apollo 1:6
+166 registrar 1:1
+167 namespace 1:2
+168 inject 4:1
+169 source 1:4
+170 application 7:4 4:1
+171 order 1:5 5:3
+172 lowest 1:2
+173 precedence 1:2
+174 integer 4:1 5:1 7:1
+175 max 9:7 1:1
+176 smaller 4:1
+177 win 1:1
+178 integration 1:1
+179 test 3:129 1:4
+180 biz 1:6 7:1
+181 controller 3:14
+182 run 5:1 7:1
+183 runner 3:2
+184 mvc 3:62
+185 gateway 9:60 5:6
+186 fake 7:1 3:1
+187 mem 3:19 5:3 7:1
+188 definition 5:25
+189 app 3:68
+190 machine 5:1 7:1
+191 discovery 7:2
+192 localhost 5:1 3:1
+193 port 3:43 7:3
+194 mock 3:50
+195 repository 3:25
+196 sentinel 3:20
+197 json 7:14 3:2
+198 entity 3:317 9:14
+199 foo 7:1
+200 date 3:34 7:4
+201 gmt 7:30
+202 modify 3:33 9:1
+203 item 3:62 5:54
+204 hash 5:4
+205 pattern 5:7 7:1
+206 aaa 5:1
+207 strategy 3:28
+208 exact 5:5
+209 entities 5:3
+210 bbb 5:3
+211 prefix 5:3
+212 completable 3:7 7:3
+213 future 9:5 5:5
+214 give 3:8 5:2
+215 fetch 3:5 9:1
+216 servlet 7:8
+217 logic 3:8
+218 perform 3:5 9:3
+219 expect 7:4 5:4
+220 status 3:8
+221 print 3:8
+222 verify 3:28
+223 call 3:8
+224 response 7:8
+225 content 3:16
+226 datum 3:14
+227 equal 3:48
+228 memory 7:12
+229 find 7:7
+230 req 7:33 9:12
+231 customize 3:3
+232 product 3:2
+233 vos 5:4
+234 post 7:6
+235 media 3:4
+236 iterator 7:1 5:1
+237 update 9:6 5:6
+238 save 7:6
+239 make 7:4
+240 util 3:2 5:1
+241 seconds 3:3
+242 redicate 5:4
+243 delete 3:6
+244 ccc 5:1
+245 rule 9:54
+246 flow 9:73
+247 httpbin 9:6
+248 route 9:12
+249 mode 9:14
+250 grade 9:10
+251 count 9:7
+252 interval 9:16 3:4 7:1
+253 unit 9:14
+254 behavior 9:14
+255 burst 9:6
+256 queue 9:6
+257 timeout 9:7
+258 custom 9:1
+259 minute 7:3
+260 rate 9:2
+261 limiter 9:2
+262 field 9:2
+263 queueing 9:1

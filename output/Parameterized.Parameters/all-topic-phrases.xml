@@ -1,0 +1,391 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.01668176175959894" totalTokens="1572" titles="type, datum, row, field, literal, time, bridge, decimal, list, test">
+	<word weight="0.2729007633587786" count="429">type</word>
+	<word weight="0.1342239185750636" count="211">datum</word>
+	<word weight="0.06679389312977099" count="105">row</word>
+	<word weight="0.03625954198473282" count="57">field</word>
+	<word weight="0.03435114503816794" count="54">literal</word>
+	<word weight="0.031806615776081425" count="50">time</word>
+	<word weight="0.023536895674300253" count="37">bridge</word>
+	<word weight="0.023536895674300253" count="37">decimal</word>
+	<word weight="0.023536895674300253" count="37">list</word>
+	<word weight="0.022264631043257" count="35">test</word>
+	<word weight="0.02099236641221374" count="33">string</word>
+	<word weight="0.017811704834605598" count="28">sql</word>
+	<word weight="0.01653944020356234" count="26">timestamp</word>
+	<word weight="0.01653944020356234" count="26">date</word>
+	<word weight="0.015267175572519083" count="24">array</word>
+	<word weight="0.014631043256997456" count="23">local</word>
+	<word weight="0.013358778625954198" count="21">spec</word>
+	<word weight="0.01272264631043257" count="20">cast</word>
+	<word weight="0.01272264631043257" count="20">big</word>
+	<word weight="0.00826972010178117" count="13">common</word>
+	<phrase weight="0.08737864077669903" count="9">datum type</phrase>
+	<phrase weight="0.038834951456310676" count="4">type string</phrase>
+	<phrase weight="0.038834951456310676" count="4">row datum</phrase>
+	<phrase weight="0.019417475728155338" count="2">datum type field</phrase>
+	<phrase weight="0.019417475728155338" count="2">datum type string</phrase>
+	<phrase weight="0.019417475728155338" count="2">datum type bridge</phrase>
+	<phrase weight="0.019417475728155338" count="2">datum type string datum type</phrase>
+	<phrase weight="0.019417475728155338" count="2">datum type string literal</phrase>
+	<phrase weight="0.019417475728155338" count="2">bridge datum type</phrase>
+	<phrase weight="0.009708737864077669" count="1">amount datum type decimal cast literal abc datum type string datum type string cast literal datum type decimal list cast literal datum type decimal row ctor datum type row datum type</phrase>
+	<phrase weight="0.009708737864077669" count="1">year datum type month bridge java time period big decimal datum type array datum type</phrase>
+	<phrase weight="0.009708737864077669" count="1">common type nest row row row literal local time row row literal local time row row literal local date</phrase>
+	<phrase weight="0.009708737864077669" count="1">fix type sql date logical type date type expect datum type date bridge date test spec fix type local date time logical type timestamp type expect datum type timestamp test spec fix type local time logical type time type expect datum type time test spec fix type local date logical type date type expect datum type date test spec fix type instant logical type local zone timestamp type expect datum type timestamp local time zone test spec fix type string logical type var type var type max</phrase>
+	<phrase weight="0.009708737864077669" count="1">schema builder field</phrase>
+	<phrase weight="0.009708737864077669" count="1">bridge java sql time datum type time</phrase>
+	<phrase weight="0.009708737864077669" count="1">type converter test parameterized parameter index type list object test datum array list object datum type</phrase>
+	<phrase weight="0.009708737864077669" count="1">type decimal datum type field detail datum type row datum type</phrase>
+	<phrase weight="0.009708737864077669" count="1">type datum type</phrase>
+	<phrase weight="0.009708737864077669" count="1">common type find common type row column find common type type time date</phrase>
+	<phrase weight="0.009708737864077669" count="1">test spec</phrase>
+  </topic>
+  <topic id="1" alpha="0.00447128158794345" totalTokens="1359" titles="type, datum, comparable, strategy, argument, equal, test, expect, spec, call">
+	<word weight="0.25533480500367917" count="347">type</word>
+	<word weight="0.11258278145695365" count="153">datum</word>
+	<word weight="0.051508462104488596" count="70">comparable</word>
+	<word weight="0.051508462104488596" count="70">strategy</word>
+	<word weight="0.039735099337748346" count="54">argument</word>
+	<word weight="0.025754231052244298" count="35">equal</word>
+	<word weight="0.024282560706401765" count="33">test</word>
+	<word weight="0.022810890360559236" count="31">expect</word>
+	<word weight="0.021339220014716703" count="29">spec</word>
+	<word weight="0.019867549668874173" count="27">call</word>
+	<word weight="0.019867549668874173" count="27">input</word>
+	<word weight="0.01913171449595291" count="26">structure</word>
+	<word weight="0.017660044150110375" count="24">raw</word>
+	<word weight="0.017660044150110375" count="24">timestamp</word>
+	<word weight="0.016188373804267846" count="22">decimal</word>
+	<word weight="0.014716703458425313" count="20">map</word>
+	<word weight="0.014716703458425313" count="20">list</word>
+	<word weight="0.013245033112582781" count="18">comparison</word>
+	<word weight="0.013245033112582781" count="18">comparision</word>
+	<word weight="0.01177336276674025" count="16">singleton</word>
+	<phrase weight="0.6666666666666666" count="2">type strategy test</phrase>
+	<phrase weight="0.3333333333333333" count="1">index list test spec test datum list test spec strategy numeric type comparable input type strategy comparable constant argument count structured comparision equal call argument type datum type tinyint datum type smallint datum type datum type bigint datum type datum type datum type decimal expect signature comparable expect argument type datum type tinyint datum type smallint datum type datum type bigint datum type datum type datum type decimal test spec strategy datetime type comparable input type strategy comparable constant argument count structured comparision equal call argument type datum type timestamp datum type timestamp local time zone datum type timestamp time zone datum type date expect argument type datum type timestamp datum type timestamp local time zone datum type timestamp time zone datum type date test spec strategy varchar type comparable input type strategy fully comparable call argument type datum type varchar datum type expect argument type datum type varchar datum type test spec strategy varbinary binary type comparable input type strategy fully comparable call argument type datum type varbinary datum type binary expect argument type datum type varbinary datum type binary test spec strategy comparable array type input type strategy fully comparable call argument type datum type array datum type tinyint datum type array datum type decimal expect argument type datum type array datum type tinyint datum type array datum type decimal test spec strategy comparable map type input type strategy fully comparable call argument type datum type map datum type tinyint datum type timestamp datum type map datum type decimal datum type timestamp time zone expect argument type datum type map datum type tinyint datum type timestamp datum type map datum type decimal datum type timestamp time zone test spec strategy fully comparable structured type input type strategy fully comparable call argument type structure type type singleton list datum type structure comparision full structured type type singleton list datum</phrase>
+  </topic>
+  <topic id="2" alpha="0.008485792485533893" totalTokens="815" titles="test, function, field, table, call, datum, scalar, expression, spec, bigint">
+	<word weight="0.0785276073619632" count="64">test</word>
+	<word weight="0.06503067484662577" count="53">function</word>
+	<word weight="0.05276073619631902" count="43">field</word>
+	<word weight="0.03803680981595092" count="31">table</word>
+	<word weight="0.03558282208588957" count="29">func</word>
+	<word weight="0.03558282208588957" count="29">call</word>
+	<word weight="0.03558282208588957" count="29">datum</word>
+	<word weight="0.0343558282208589" count="28">scalar</word>
+	<word weight="0.0343558282208589" count="28">expression</word>
+	<word weight="0.03067484662576687" count="25">spec</word>
+	<word weight="0.029447852760736196" count="24">bigint</word>
+	<word weight="0.02822085889570552" count="23">schema</word>
+	<word weight="0.026993865030674847" count="22">build</word>
+	<word weight="0.025766871165644172" count="21">result</word>
+	<word weight="0.022085889570552148" count="18">equal</word>
+	<word weight="0.020858895705521473" count="17">nest</word>
+	<word weight="0.020858895705521473" count="17">expect</word>
+	<word weight="0.01717791411042945" count="14">method</word>
+	<word weight="0.015950920245398775" count="13">reference</word>
+	<word weight="0.015950920245398775" count="13">list</word>
+	<phrase weight="0.04597701149425287" count="4">field reference expression datum</phrase>
+	<phrase weight="0.034482758620689655" count="3">validation exception</phrase>
+	<phrase weight="0.034482758620689655" count="3">spec test</phrase>
+	<phrase weight="0.022988505747126436" count="2">reference expression</phrase>
+	<phrase weight="0.022988505747126436" count="2">field reference expression</phrase>
+	<phrase weight="0.022988505747126436" count="2">result nest bigint</phrase>
+	<phrase weight="0.022988505747126436" count="2">field nest bigint</phrase>
+	<phrase weight="0.022988505747126436" count="2">result bigint</phrase>
+	<phrase weight="0.022988505747126436" count="2">test method</phrase>
+	<phrase weight="0.011494252873563218" count="1">expression scalar function collection</phrase>
+	<phrase weight="0.011494252873563218" count="1">schema builder field</phrase>
+	<phrase weight="0.011494252873563218" count="1">result response body create job result builder job test job application status application status succeed net runtime test net runtime accumulator result</phrase>
+	<phrase weight="0.011494252873563218" count="1">test flatten call input schema table schema</phrase>
+	<phrase weight="0.011494252873563218" count="1">spec test builtin function call input schema table schema builder</phrase>
+	<phrase weight="0.011494252873563218" count="1">call expression</phrase>
+	<phrase weight="0.011494252873563218" count="1">runtime operation</phrase>
+	<phrase weight="0.011494252873563218" count="1">build select</phrase>
+	<phrase weight="0.011494252873563218" count="1">method emit</phrase>
+	<phrase weight="0.011494252873563218" count="1">test spec</phrase>
+	<phrase weight="0.011494252873563218" count="1">field nest bigint access element map</phrase>
+  </topic>
+  <topic id="3" alpha="0.004018634491611455" totalTokens="1216" titles="conf, test, expect, spec, access, exception, string, configuration, split, true">
+	<word weight="0.14473684210526316" count="176">conf</word>
+	<word weight="0.12746710526315788" count="155">test</word>
+	<word weight="0.11266447368421052" count="137">expect</word>
+	<word weight="0.109375" count="133">spec</word>
+	<word weight="0.07236842105263158" count="88">access</word>
+	<word weight="0.0625" count="76">exception</word>
+	<word weight="0.046875" count="57">string</word>
+	<word weight="0.03453947368421053" count="42">configuration</word>
+	<word weight="0.029605263157894735" count="36">split</word>
+	<word weight="0.022203947368421052" count="27">true</word>
+	<word weight="0.018092105263157895" count="22">conversion</word>
+	<word weight="0.01644736842105263" count="20">evaluate</word>
+	<word weight="0.014802631578947368" count="18">input</word>
+	<word weight="0.011513157894736841" count="14">number</word>
+	<word weight="0.011513157894736841" count="14">format</word>
+	<word weight="0.011513157894736841" count="14">integer</word>
+	<word weight="0.01069078947368421" count="13">quote</word>
+	<word weight="0.009868421052631578" count="12">encode</word>
+	<word weight="0.009046052631578948" count="11">loader</word>
+	<word weight="0.009046052631578948" count="11">empty</word>
+	<phrase weight="0.16666666666666666" count="1">splitter escape test</phrase>
+	<phrase weight="0.16666666666666666" count="1">spec spec</phrase>
+	<phrase weight="0.16666666666666666" count="1">test spec spec</phrase>
+	<phrase weight="0.16666666666666666" count="1">spec encode spec</phrase>
+	<phrase weight="0.16666666666666666" count="1">splitter test</phrase>
+	<phrase weight="0.16666666666666666" count="1">integer test spec access conf conf integer expect test spec access conf conf expect test spec access conf conf expect test spec access conf conf expect test spec access conf conf true expect exception unrecognized option expect true false insensitive test spec access conf conf string expect test spec access conf conf empty expect exception configuration evaluate test spec access conf conf configuration conversion test configuration conversion test loader expect exception configuration evaluate object java lang integer test spec access conf conf integer expect test spec access conf conf expect test spec access conf conf expect test spec access conf conf expect test spec access conf conf true expect exception unrecognized option expect true false insensitive test spec access conf conf string expect test spec access conf conf empty expect exception configuration evaluate test spec access conf conf configuration conversion test configuration conversion test loader expect exception configuration evaluate object java lang test spec access conf conf integer expect exception configuration overflow underflow integer type test spec access conf conf expect test spec access conf conf expect test spec access conf conf expect test spec access conf conf true expect exception unrecognized option expect true false insensitive test spec access conf conf string expect string test spec access conf conf empty expect exception configuration evaluate test spec access conf conf configuration conversion test configuration conversion test loader expect exception configuration evaluate object java lang test spec access conf conf integer expect exception input string number format exception test spec access conf conf expect exception input string number format exception test spec access conf conf expect test spec access conf conf expect close test spec access conf conf true expect exception unrecognized option expect true false insensitive test spec access conf conf string expect start test spec access conf conf empty expect exception configuration evaluate test spec access conf conf configuration conversion test configuration conversion test loader expect exception onfiguration evaluate object java lang test spec access conf conf integer expect exception input string number format exception test spec access conf conf expect exception input string number format exception test spec access conf conf expect close test spec access conf conf expect math test spec access conf conf true expect exception unrecognized option expect true false insensitive test spec access conf conf string expect start test spec access conf conf empty expect exception configuration evaluate test spec access conf conf configuration conversion test configuration conversion test loader expect exception onfiguration evaluate object java lang negative test spec access conf conf integer negative expect exception input string number format exception test spec access conf conf negative expect exception input string number format exception test spec access conf conf negative expect close test spec access conf conf negative expect test spec access conf conf negative true expect exception unrecognized option expect true</phrase>
+  </topic>
+  <topic id="4" alpha="0.0334021300752302" totalTokens="988" titles="object, execution, mode, list, test, config, parameter, key, type, reuse">
+	<word weight="0.11032388663967611" count="109">object</word>
+	<word weight="0.0728744939271255" count="72">execution</word>
+	<word weight="0.0597165991902834" count="59">mode</word>
+	<word weight="0.053643724696356275" count="53">list</word>
+	<word weight="0.0465587044534413" count="46">test</word>
+	<word weight="0.04251012145748988" count="42">config</word>
+	<word weight="0.04149797570850203" count="41">parameter</word>
+	<word weight="0.03744939271255061" count="37">key</word>
+	<word weight="0.03643724696356275" count="36">type</word>
+	<word weight="0.029352226720647773" count="29">reuse</word>
+	<word weight="0.029352226720647773" count="29">collection</word>
+	<word weight="0.025303643724696356" count="25">option</word>
+	<word weight="0.024291497975708502" count="24">array</word>
+	<word weight="0.02125506072874494" count="21">parameterized</word>
+	<word weight="0.01720647773279352" count="17">spec</word>
+	<word weight="0.016194331983805668" count="16">memory</word>
+	<word weight="0.015182186234817813" count="15">size</word>
+	<word weight="0.015182186234817813" count="15">string</word>
+	<word weight="0.01417004048582996" count="14">duration</word>
+	<word weight="0.013157894736842105" count="13">true</word>
+	<phrase weight="0.07407407407407407" count="2">list object</phrase>
+	<phrase weight="0.07407407407407407" count="2">parameter collection</phrase>
+	<phrase weight="0.037037037037037035" count="1">restart pipelined</phrase>
+	<phrase weight="0.037037037037037035" count="1">object ble singleton</phrase>
+	<phrase weight="0.037037037037037035" count="1">parameterized parameter parse</phrase>
+	<phrase weight="0.037037037037037035" count="1">parameterize parameter</phrase>
+	<phrase weight="0.037037037037037035" count="1">fail parameterized parameter detach mode collection execution mode</phrase>
+	<phrase weight="0.037037037037037035" count="1">test base parameterized</phrase>
+	<phrase weight="0.037037037037037035" count="1">ble object ble</phrase>
+	<phrase weight="0.037037037037037035" count="1">group size collection integer parameter</phrase>
+	<phrase weight="0.037037037037037035" count="1">test base parameterize parameter failover</phrase>
+	<phrase weight="0.037037037037037035" count="1">array list</phrase>
+	<phrase weight="0.037037037037037035" count="1">restart failover</phrase>
+	<phrase weight="0.037037037037037035" count="1">object true</phrase>
+	<phrase weight="0.037037037037037035" count="1">parameter array list failover</phrase>
+	<phrase weight="0.037037037037037035" count="1">key key</phrase>
+	<phrase weight="0.037037037037037035" count="1">parameterized parameter collection object</phrase>
+	<phrase weight="0.037037037037037035" count="1">size collection object execution mode</phrase>
+	<phrase weight="0.037037037037037035" count="1">singleton list</phrase>
+	<phrase weight="0.037037037037037035" count="1">ble object</phrase>
+  </topic>
+  <topic id="5" alpha="0.07946799559866523" totalTokens="1203" titles="parameter, list, array, parameterized, test, object, true, false, collection, time">
+	<word weight="0.09891936824605153" count="119">parameter</word>
+	<word weight="0.08063175394846218" count="97">list</word>
+	<word weight="0.06816292601828762" count="82">array</word>
+	<word weight="0.060681629260182876" count="73">parameterized</word>
+	<word weight="0.060681629260182876" count="73">test</word>
+	<word weight="0.04821280133000831" count="58">object</word>
+	<word weight="0.04738154613466334" count="57">true</word>
+	<word weight="0.04156275976724855" count="50">false</word>
+	<word weight="0.040731504571903575" count="49">collection</word>
+	<word weight="0.02493765586034913" count="30">time</word>
+	<word weight="0.020781379883624274" count="25">jar</word>
+	<word weight="0.019118869492934332" count="23">checkpoint</word>
+	<word weight="0.017456359102244388" count="21">stream</word>
+	<word weight="0.015793848711554447" count="19">kafka</word>
+	<word weight="0.014962593516209476" count="18">characteristic</word>
+	<word weight="0.014962593516209476" count="18">topic</word>
+	<word weight="0.014131338320864505" count="17">datum</word>
+	<word weight="0.010806317539484621" count="13">factory</word>
+	<word weight="0.00831255195344971" count="10">cancel</word>
+	<word weight="0.00831255195344971" count="10">builder</word>
+	<phrase weight="0.04395604395604396" count="4">parameterized parameter</phrase>
+	<phrase weight="0.03296703296703297" count="3">array list</phrase>
+	<phrase weight="0.03296703296703297" count="3">parameter collection</phrase>
+	<phrase weight="0.03296703296703297" count="3">output stream</phrase>
+	<phrase weight="0.02197802197802198" count="2">object true paras</phrase>
+	<phrase weight="0.01098901098901099" count="1">test parameterized parameter previous</phrase>
+	<phrase weight="0.01098901098901099" count="1">order async datum stream output</phrase>
+	<phrase weight="0.01098901098901099" count="1">test parameterized parameter collection test parameter parameter array list test parameter datum</phrase>
+	<phrase weight="0.01098901098901099" count="1">provider util test</phrase>
+	<phrase weight="0.01098901098901099" count="1">client kafka parameterized parameter index kafka</phrase>
+	<phrase weight="0.01098901098901099" count="1">object datum</phrase>
+	<phrase weight="0.01098901098901099" count="1">array list object</phrase>
+	<phrase weight="0.01098901098901099" count="1">warning unchecked collection test</phrase>
+	<phrase weight="0.01098901098901099" count="1">parameter exception</phrase>
+	<phrase weight="0.01098901098901099" count="1">periodic watermark adapter</phrase>
+	<phrase weight="0.01098901098901099" count="1">datum test parameterized parameter list mode var seg array list</phrase>
+	<phrase weight="0.01098901098901099" count="1">window checkpoint parameterized parameter</phrase>
+	<phrase weight="0.01098901098901099" count="1">benchmark util</phrase>
+	<phrase weight="0.01098901098901099" count="1">schema ternary</phrase>
+	<phrase weight="0.01098901098901099" count="1">test parameterized parameter flink</phrase>
+  </topic>
+  <topic id="6" alpha="0.004489982535166572" totalTokens="1224" titles="create, test, item, nullable, fixture, type, time, timestamp, zone, decimal">
+	<word weight="0.12581699346405228" count="154">create</word>
+	<word weight="0.11519607843137254" count="141">test</word>
+	<word weight="0.11274509803921569" count="138">item</word>
+	<word weight="0.08006535947712418" count="98">nullable</word>
+	<word weight="0.07598039215686274" count="93">fixture</word>
+	<word weight="0.06944444444444445" count="85">type</word>
+	<word weight="0.03676470588235294" count="45">time</word>
+	<word weight="0.03104575163398693" count="38">timestamp</word>
+	<word weight="0.021241830065359478" count="26">zone</word>
+	<word weight="0.021241830065359478" count="26">decimal</word>
+	<word weight="0.021241830065359478" count="26">array</word>
+	<word weight="0.02042483660130719" count="25">integer</word>
+	<word weight="0.0196078431372549" count="24">derby</word>
+	<word weight="0.01715686274509804" count="21">postgresql</word>
+	<word weight="0.016339869281045753" count="20">raw</word>
+	<word weight="0.016339869281045753" count="20">mysql</word>
+	<word weight="0.014705882352941176" count="18">list</word>
+	<word weight="0.013071895424836602" count="16">varbinary</word>
+	<word weight="0.012254901960784314" count="15">string</word>
+	<word weight="0.00980392156862745" count="12">multiset</word>
+	<phrase weight="0.058823529411764705" count="5">nullable fixture create struct</phrase>
+	<phrase weight="0.047058823529411764" count="4">create test item</phrase>
+	<phrase weight="0.03529411764705882" count="3">integer create test item</phrase>
+	<phrase weight="0.03529411764705882" count="3">array list fixture type nullable fixture type array list</phrase>
+	<phrase weight="0.023529411764705882" count="2">list collection</phrase>
+	<phrase weight="0.023529411764705882" count="2">nullable fixture</phrase>
+	<phrase weight="0.023529411764705882" count="2">type test</phrase>
+	<phrase weight="0.023529411764705882" count="2">expect binary string</phrase>
+	<phrase weight="0.023529411764705882" count="2">parameter index list test item test</phrase>
+	<phrase weight="0.011764705882352941" count="1">integer create test item bigint nullable fixture bigint</phrase>
+	<phrase weight="0.011764705882352941" count="1">type varchar integer max string create test item nullable fixture</phrase>
+	<phrase weight="0.011764705882352941" count="1">bigint create test item nullable fixture type create test item nullable fixture type create test item precision nullable fixture type create test item</phrase>
+	<phrase weight="0.011764705882352941" count="1">time zone create test item timestamp local time</phrase>
+	<phrase weight="0.011764705882352941" count="1">item varchar nullable fixture varchar</phrase>
+	<phrase weight="0.011764705882352941" count="1">type varbinary integer max create test item decimal nullable fixture decimal type decimal create test item</phrase>
+	<phrase weight="0.011764705882352941" count="1">nullable fixture timestamp local time zone type timestamp local time zone create test item array</phrase>
+	<phrase weight="0.011764705882352941" count="1">decimal create test item numeric nullable fixture decimal type decimal create test item tinyint nullable fixture tinyint type tinyint create test item smallint nullable fixture smallint type smallint create test item integer nullable fixture type integer create</phrase>
+	<phrase weight="0.011764705882352941" count="1">time create test item time time zone nullable fixture time type time create test item timestamp nullable fixture timestamp</phrase>
+	<phrase weight="0.011764705882352941" count="1">list nullable fixture type collection singleton list</phrase>
+	<phrase weight="0.011764705882352941" count="1">decimal create test item</phrase>
+  </topic>
+  <topic id="7" alpha="0.041376051826264096" totalTokens="3058" titles="test, specification, serializer, version, migration, array, upgrade, add, verifier, setup">
+	<word weight="0.184107259646828" count="563">test</word>
+	<word weight="0.16546762589928057" count="506">specification</word>
+	<word weight="0.12034009156311315" count="368">serializer</word>
+	<word weight="0.06932635709614127" count="212">version</word>
+	<word weight="0.06540222367560497" count="200">migration</word>
+	<word weight="0.04905166775670373" count="150">array</word>
+	<word weight="0.04153041203400916" count="127">upgrade</word>
+	<word weight="0.036952256376716806" count="113">add</word>
+	<word weight="0.03302812295618051" count="101">verifier</word>
+	<word weight="0.03302812295618051" count="101">setup</word>
+	<word weight="0.026814911706998037" count="82">list</word>
+	<word weight="0.016677567037279267" count="51">pojo</word>
+	<word weight="0.016350555918901243" count="50">basic</word>
+	<word weight="0.014388489208633094" count="44">primitive</word>
+	<word weight="0.01209941137998692" count="37">parameterized</word>
+	<word weight="0.01144538914323087" count="35">exception</word>
+	<word weight="0.01144538914323087" count="35">collection</word>
+	<word weight="0.00948332243296272" count="29">parameter</word>
+	<word weight="0.007521255722694572" count="23">subclass</word>
+	<word weight="0.004251144538914323" count="13">register</word>
+	<phrase weight="0.10303030303030303" count="17">serializer upgrade test specification serializer setup basic</phrase>
+	<phrase weight="0.09090909090909091" count="15">serializer upgrade test specification serializer verifier test specification add test specification serializer migration version basic</phrase>
+	<phrase weight="0.08484848484848485" count="14">serializer upgrade test specification</phrase>
+	<phrase weight="0.04242424242424243" count="7">serializer setup basic</phrase>
+	<phrase weight="0.030303030303030304" count="5">serializer setup</phrase>
+	<phrase weight="0.030303030303030304" count="5">serializer migration version basic</phrase>
+	<phrase weight="0.030303030303030304" count="5">upgrade test parameterized</phrase>
+	<phrase weight="0.024242424242424242" count="4">serializer migration version</phrase>
+	<phrase weight="0.01818181818181818" count="3">verifier test specification add test specification</phrase>
+	<phrase weight="0.01818181818181818" count="3">serializer verifier test specification add test specification</phrase>
+	<phrase weight="0.01818181818181818" count="3">test specification test specification</phrase>
+	<phrase weight="0.01818181818181818" count="3">upgrade test</phrase>
+	<phrase weight="0.012121212121212121" count="2">migration version</phrase>
+	<phrase weight="0.012121212121212121" count="2">version test specification add test specification</phrase>
+	<phrase weight="0.012121212121212121" count="2">serializer upgrade test specification serializer verifier test specification add test specification</phrase>
+	<phrase weight="0.012121212121212121" count="2">serializer verifier test specification add test specification string serializer migration version basic</phrase>
+	<phrase weight="0.012121212121212121" count="2">padded serializer migration version</phrase>
+	<phrase weight="0.012121212121212121" count="2">padded serializer setup</phrase>
+	<phrase weight="0.012121212121212121" count="2">test specification collection test specification test specification exception array list test specification</phrase>
+	<phrase weight="0.012121212121212121" count="2">serializer upgrade test parameterized</phrase>
+  </topic>
+  <topic id="8" alpha="0.012051817397332118" totalTokens="1002" titles="config, test, checkpoint, set, execution, ssl, setter, spec, file, getter">
+	<word weight="0.0968063872255489" count="97">config</word>
+	<word weight="0.07285429141716566" count="73">test</word>
+	<word weight="0.06087824351297405" count="61">checkpoint</word>
+	<word weight="0.06087824351297405" count="61">set</word>
+	<word weight="0.04790419161676647" count="48">execution</word>
+	<word weight="0.03792415169660679" count="38">ssl</word>
+	<word weight="0.03493013972055888" count="35">setter</word>
+	<word weight="0.033932135728542916" count="34">spec</word>
+	<word weight="0.031936127744510975" count="32">file</word>
+	<word weight="0.028942115768463075" count="29">getter</word>
+	<word weight="0.023952095808383235" count="24">rest</word>
+	<word weight="0.020958083832335328" count="21">enable</word>
+	<word weight="0.018962075848303395" count="19">configuration</word>
+	<word weight="0.017964071856287425" count="18">pipeline</word>
+	<word weight="0.016966067864271458" count="17">true</word>
+	<word weight="0.014970059880239521" count="15">false</word>
+	<word weight="0.013972055888223553" count="14">level</word>
+	<word weight="0.011976047904191617" count="12">timeout</word>
+	<word weight="0.011976047904191617" count="12">string</word>
+	<word weight="0.010978043912175649" count="11">security</word>
+	<phrase weight="0.045454545454545456" count="3">spec spec</phrase>
+	<phrase weight="0.030303030303030304" count="2">configuration test</phrase>
+	<phrase weight="0.015151515151515152" count="1">test false set file pipeline force kryo false setter setter execution config enable force kryo execution config disable force kryo getter execution config force kryo enable false test spec test false set file pipeline generic</phrase>
+	<phrase weight="0.015151515151515152" count="1">set file execution checkpoint</phrase>
+	<phrase weight="0.015151515151515152" count="1">client server trust store match tuple configuration configuration untrusted client server configuration configuration server config configuration untrusted server config set string security option ssl rest truststore trust store file</phrase>
+	<phrase weight="0.015151515151515152" count="1">test spec test set file pipeline max parallelism setter</phrase>
+	<phrase weight="0.015151515151515152" count="1">test spec test set file execution checkpoint interval setter checkpoint config set checkpoint interval getter checkpoint config checkpoint interval test spec test set file execution checkpoint timeout setter checkpoint config set checkpoint timeout getter checkpoint config checkpoint timeout test spec test set file execution checkpoint max concurrent checkpoint setter checkpoint config set max concurrent checkpoint getter checkpoint config max concurrent checkpoint test spec test set file execution checkpoint min pause setter checkpoint config set min pause checkpoint getter checkpoint config min pause checkpoint test spec test true set file execution checkpoint prefer checkpoint recovery true setter checkpoint config set prefer checkpoint recovery getter checkpoint config prefer checkpoint recovery true test spec test checkpoint config externalize checkpoint cleanup retain cancellation set file execution checkpoint externalized checkpoint retention retain cancellation setter checkpoint config enable externalized checkpoint getter checkpoint config externalize checkpoint cleanup checkpoint config externalize checkpoint cleanup delete cancellation test spec test set file execution checkpoint tolerable</phrase>
+	<phrase weight="0.015151515151515152" count="1">getter execution config</phrase>
+	<phrase weight="0.015151515151515152" count="1">registration execution config disable auto</phrase>
+	<phrase weight="0.015151515151515152" count="1">false set file pipeline auto</phrase>
+	<phrase weight="0.015151515151515152" count="1">enable true test spec</phrase>
+	<phrase weight="0.015151515151515152" count="1">password password configuration ssl rest auth config configuration ssl config ssl rest auth config set security option ssl rest authentication enable true configuration ssl pin rest auth config configuration ssl rest auth config ssl pin rest auth config set string security option ssl rest cert fingerprint util test rest certificate fingerprint ssl pin rest auth config flink test</phrase>
+	<phrase weight="0.015151515151515152" count="1">registration getter auto</phrase>
+	<phrase weight="0.015151515151515152" count="1">config set max parallelism getter</phrase>
+	<phrase weight="0.015151515151515152" count="1">execution environment</phrase>
+	<phrase weight="0.015151515151515152" count="1">registration false setter setter illegal argument exception enable auto</phrase>
+	<phrase weight="0.015151515151515152" count="1">test spec test</phrase>
+	<phrase weight="0.015151515151515152" count="1">config disable auto generate getter execution config auto generate enable false test spec</phrase>
+	<phrase weight="0.015151515151515152" count="1">latency interval setter execution</phrase>
+	<phrase weight="0.015151515151515152" count="1">false setter setter</phrase>
+  </topic>
+  <topic id="9" alpha="0.035504429083823556" totalTokens="1026" titles="migration, version, state, backend, tuple, loader, parameter, array, rocksdb, memory">
+	<word weight="0.15594541910331383" count="160">migration</word>
+	<word weight="0.14327485380116958" count="147">version</word>
+	<word weight="0.1276803118908382" count="131">state</word>
+	<word weight="0.1023391812865497" count="105">backend</word>
+	<word weight="0.06725146198830409" count="69">tuple</word>
+	<word weight="0.03996101364522417" count="41">loader</word>
+	<word weight="0.03996101364522417" count="41">parameter</word>
+	<word weight="0.023391812865497075" count="24">array</word>
+	<word weight="0.022417153996101363" count="23">rocksdb</word>
+	<word weight="0.021442495126705652" count="22">memory</word>
+	<word weight="0.02046783625730994" count="21">list</word>
+	<word weight="0.01949317738791423" count="20">collection</word>
+	<word weight="0.018518518518518517" count="19">parameterized</word>
+	<word weight="0.017543859649122806" count="18">junit</word>
+	<word weight="0.017543859649122806" count="18">savepoint</word>
+	<word weight="0.016569200779727095" count="17">context</word>
+	<word weight="0.015594541910331383" count="16">test</word>
+	<word weight="0.012670565302144249" count="13">ttl</word>
+	<word weight="0.008771929824561403" count="9">part</word>
+	<word weight="0.00682261208576998" count="7">folder</word>
+	<phrase weight="0.06818181818181818" count="3">context state</phrase>
+	<phrase weight="0.06818181818181818" count="3">context ttl map state</phrase>
+	<phrase weight="0.045454545454545456" count="2">state backend</phrase>
+	<phrase weight="0.045454545454545456" count="2">migration version transaction state</phrase>
+	<phrase weight="0.045454545454545456" count="2">transaction state</phrase>
+	<phrase weight="0.045454545454545456" count="2">context ttl</phrase>
+	<phrase weight="0.045454545454545456" count="2">commit sink state</phrase>
+	<phrase weight="0.022727272727272728" count="1">savepoint writer collection state backend datum array</phrase>
+	<phrase weight="0.022727272727272728" count="1">backend test base parameterize</phrase>
+	<phrase weight="0.022727272727272728" count="1">version array</phrase>
+	<phrase weight="0.022727272727272728" count="1">phase commit sink state</phrase>
+	<phrase weight="0.022727272727272728" count="1">version phase commit sink state</phrase>
+	<phrase weight="0.022727272727272728" count="1">state backend migration</phrase>
+	<phrase weight="0.022727272727272728" count="1">collection state backend parameter array list rocksdb</phrase>
+	<phrase weight="0.022727272727272728" count="1">migration version context state</phrase>
+	<phrase weight="0.022727272727272728" count="1">parameterized parameter statebackend</phrase>
+	<phrase weight="0.022727272727272728" count="1">version migration</phrase>
+	<phrase weight="0.022727272727272728" count="1">parameter migration savepoint</phrase>
+	<phrase weight="0.022727272727272728" count="1">migration test parameterized parameter migration savepoint mod</phrase>
+	<phrase weight="0.022727272727272728" count="1">sql version</phrase>
+  </topic>
+</topics>

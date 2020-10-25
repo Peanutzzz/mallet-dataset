@@ -1,0 +1,28 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.519083363425403" totalTokens="8" titles="record, read, true, check, reader, ">
+	<word weight="0.375" count="3">record</word>
+	<word weight="0.25" count="2">read</word>
+	<word weight="0.125" count="1">true</word>
+	<word weight="0.125" count="1">check</word>
+	<word weight="0.125" count="1">reader</word>
+  </topic>
+  <topic id="1" alpha="0.19604991015539017" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="0.19604991015539017" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="0.19604991015539017" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="0.19604991015539017" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="0.19604991015539017" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="0.19604991015539017" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="0.19604991015539017" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="0.19604991015539017" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="0.19604991015539017" totalTokens="0" titles="">
+  </topic>
+</topics>

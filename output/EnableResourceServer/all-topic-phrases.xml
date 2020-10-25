@@ -1,0 +1,43 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="3.365919416839051" totalTokens="37" titles="url, authorize, server, resource, configuration, permission, security, http, authentication, request">
+	<word weight="0.10810810810810811" count="4">url</word>
+	<word weight="0.08108108108108109" count="3">authorize</word>
+	<word weight="0.08108108108108109" count="3">server</word>
+	<word weight="0.08108108108108109" count="3">resource</word>
+	<word weight="0.08108108108108109" count="3">configuration</word>
+	<word weight="0.05405405405405406" count="2">permission</word>
+	<word weight="0.05405405405405406" count="2">security</word>
+	<word weight="0.05405405405405406" count="2">http</word>
+	<word weight="0.02702702702702703" count="1">authentication</word>
+	<word weight="0.02702702702702703" count="1">request</word>
+	<word weight="0.02702702702702703" count="1">service</word>
+	<word weight="0.02702702702702703" count="1">access</word>
+	<word weight="0.02702702702702703" count="1">configurer</word>
+	<word weight="0.02702702702702703" count="1">authorization</word>
+	<word weight="0.02702702702702703" count="1">expression</word>
+	<word weight="0.02702702702702703" count="1">authenticate</word>
+	<word weight="0.02702702702702703" count="1">set</word>
+	<word weight="0.02702702702702703" count="1">override</word>
+	<word weight="0.02702702702702703" count="1">conf</word>
+	<word weight="0.02702702702702703" count="1">extend</word>
+  </topic>
+  <topic id="1" alpha="0.0027085139376382783" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="0.0027085139376382783" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="0.0027085139376382783" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="0.0027085139376382783" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="0.0027085139376382783" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="0.0027085139376382783" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="0.0027085139376382783" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="0.0027085139376382783" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="0.0027085139376382783" totalTokens="0" titles="">
+  </topic>
+</topics>

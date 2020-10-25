@@ -1,0 +1,388 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.018320205669845643" totalTokens="350" titles="management, info, config, service, pjp, result, http, current, insert, servlet">
+	<word weight="0.07714285714285714" count="27">management</word>
+	<word weight="0.06857142857142857" count="24">info</word>
+	<word weight="0.06285714285714286" count="22">config</word>
+	<word weight="0.06285714285714286" count="22">service</word>
+	<word weight="0.04857142857142857" count="17">pjp</word>
+	<word weight="0.04285714285714286" count="15">result</word>
+	<word weight="0.04285714285714286" count="15">http</word>
+	<word weight="0.04" count="14">current</word>
+	<word weight="0.037142857142857144" count="13">insert</word>
+	<word weight="0.037142857142857144" count="13">servlet</word>
+	<word weight="0.02857142857142857" count="10">usage</word>
+	<word weight="0.02857142857142857" count="10">delete</word>
+	<word weight="0.02857142857142857" count="10">object</word>
+	<word weight="0.025714285714285714" count="9">aggr</word>
+	<word weight="0.025714285714285714" count="9">limination</word>
+	<word weight="0.025714285714285714" count="9">check</word>
+	<word weight="0.022857142857142857" count="8">task</word>
+	<word weight="0.02" count="7">write</word>
+	<word weight="0.02" count="7">response</word>
+	<word weight="0.02" count="7">exception</word>
+	<phrase weight="0.1320754716981132" count="7">http servlet</phrase>
+	<phrase weight="0.03773584905660377" count="2">limination check funtion</phrase>
+	<phrase weight="0.03773584905660377" count="2">management check</phrase>
+	<phrase weight="0.03773584905660377" count="2">service find config info</phrase>
+	<phrase weight="0.03773584905660377" count="2">info task</phrase>
+	<phrase weight="0.03773584905660377" count="2">pjp http servlet</phrase>
+	<phrase weight="0.03773584905660377" count="2">management insert</phrase>
+	<phrase weight="0.018867924528301886" count="1">http servlet response response</phrase>
+	<phrase weight="0.018867924528301886" count="1">info task orderly</phrase>
+	<phrase weight="0.018867924528301886" count="1">info config info</phrase>
+	<phrase weight="0.018867924528301886" count="1">insert pjp</phrase>
+	<phrase weight="0.018867924528301886" count="1">result false</phrase>
+	<phrase weight="0.018867924528301886" count="1">service judge</phrase>
+	<phrase weight="0.018867924528301886" count="1">info delete</phrase>
+	<phrase weight="0.018867924528301886" count="1">limination check writting</phrase>
+	<phrase weight="0.018867924528301886" count="1">http servlet response</phrase>
+	<phrase weight="0.018867924528301886" count="1">management delete config config info config info</phrase>
+	<phrase weight="0.018867924528301886" count="1">config info config info</phrase>
+	<phrase weight="0.018867924528301886" count="1">delete proceeding</phrase>
+	<phrase weight="0.018867924528301886" count="1">configuration add</phrase>
+  </topic>
+  <topic id="1" alpha="0.01705389515111211" totalTokens="198" titles="audit, log, request, service, set, method, join, operation, property, point">
+	<word weight="0.24242424242424243" count="48">audit</word>
+	<word weight="0.1111111111111111" count="22">log</word>
+	<word weight="0.06060606060606061" count="12">request</word>
+	<word weight="0.045454545454545456" count="9">service</word>
+	<word weight="0.045454545454545456" count="9">set</word>
+	<word weight="0.045454545454545456" count="9">method</word>
+	<word weight="0.04040404040404041" count="8">join</word>
+	<word weight="0.03535353535353535" count="7">operation</word>
+	<word weight="0.03535353535353535" count="7">property</word>
+	<word weight="0.03535353535353535" count="7">point</word>
+	<word weight="0.030303030303030304" count="6">header</word>
+	<word weight="0.025252525252525252" count="5">user</word>
+	<word weight="0.025252525252525252" count="5">attribute</word>
+	<word weight="0.025252525252525252" count="5">string</word>
+	<word weight="0.025252525252525252" count="5">aspect</word>
+	<word weight="0.020202020202020204" count="4">application</word>
+	<word weight="0.020202020202020204" count="4">servlet</word>
+	<word weight="0.015151515151515152" count="3">client</word>
+	<word weight="0.015151515151515152" count="3">discoverer</word>
+	<word weight="0.015151515151515152" count="3">expression</word>
+	<phrase weight="0.05" count="1">audit log method join point join point audit log audit log audit log property</phrase>
+	<phrase weight="0.05" count="1">user audit set user user audit set client client</phrase>
+	<phrase weight="0.05" count="1">audit set application application method</phrase>
+	<phrase weight="0.05" count="1">http servlet request request</phrase>
+	<phrase weight="0.05" count="1">audit service log warn audit log aspect audit service audit log audit log join point target declare</phrase>
+	<phrase weight="0.05" count="1">audit log audit audit audit audit log join point audit service save audit string</phrase>
+	<phrase weight="0.05" count="1">holder audit log aspect</phrase>
+	<phrase weight="0.05" count="1">user request header</phrase>
+	<phrase weight="0.05" count="1">join point audit audit audit audit set timestamp local date</phrase>
+	<phrase weight="0.05" count="1">holder request attribute http servlet request request attribute request string user request header</phrase>
+	<phrase weight="0.05" count="1">operation audit log operation operation</phrase>
+	<phrase weight="0.05" count="1">string audit audit audit log audit log join</phrase>
+	<phrase weight="0.05" count="1">method signature method</phrase>
+	<phrase weight="0.05" count="1">signature join point</phrase>
+	<phrase weight="0.05" count="1">header string client request header tenant header audit set</phrase>
+	<phrase weight="0.05" count="1">audit set</phrase>
+	<phrase weight="0.05" count="1">operation method</phrase>
+	<phrase weight="0.05" count="1">application audit log property audit log property audit service audit service audit log aspect audit log property audit log property audit service audit service audit log property audit log property audit service audit service</phrase>
+	<phrase weight="0.05" count="1">servlet request attribute attribute servlet request attribute request</phrase>
+	<phrase weight="0.05" count="1">declare type audit set method method</phrase>
+  </topic>
+  <topic id="2" alpha="0.028979307301003968" totalTokens="217" titles="client, token, tenant, authentication, principal, arg, string, user, entity, response">
+	<word weight="0.10599078341013825" count="23">client</word>
+	<word weight="0.07834101382488479" count="17">token</word>
+	<word weight="0.07373271889400922" count="16">tenant</word>
+	<word weight="0.059907834101382486" count="13">authentication</word>
+	<word weight="0.059907834101382486" count="13">principal</word>
+	<word weight="0.04608294930875576" count="10">auth</word>
+	<word weight="0.04608294930875576" count="10">arg</word>
+	<word weight="0.03686635944700461" count="8">string</word>
+	<word weight="0.03225806451612903" count="7">user</word>
+	<word weight="0.027649769585253458" count="6">entity</word>
+	<word weight="0.027649769585253458" count="6">response</word>
+	<word weight="0.027649769585253458" count="6">request</word>
+	<word weight="0.02304147465437788" count="5">username</word>
+	<word weight="0.02304147465437788" count="5">body</word>
+	<word weight="0.018433179723502304" count="4">password</word>
+	<word weight="0.018433179723502304" count="4">sso</word>
+	<word weight="0.018433179723502304" count="4">map</word>
+	<word weight="0.018433179723502304" count="4">endpoint</word>
+	<word weight="0.018433179723502304" count="4">oauth</word>
+	<word weight="0.018433179723502304" count="4">holder</word>
+	<phrase weight="0.03571428571428571" count="1">response entity auth</phrase>
+	<phrase weight="0.03571428571428571" count="1">message tenant</phrase>
+	<phrase weight="0.03571428571428571" count="1">sso enable auth sso token</phrase>
+	<phrase weight="0.03571428571428571" count="1">request client parameter auth util client request client equal client tenant context holder</phrase>
+	<phrase weight="0.03571428571428571" count="1">authentication exception client authenticate</phrase>
+	<phrase weight="0.03571428571428571" count="1">parameter map string string arg</phrase>
+	<phrase weight="0.03571428571428571" count="1">succeed body exception log</phrase>
+	<phrase weight="0.03571428571428571" count="1">tenant context holder set tenant client</phrase>
+	<phrase weight="0.03571428571428571" count="1">app user user user service find username tenant token tenant token tenant username password authentication token user tenant token credentials user authority request client arg tenant token tenant</phrase>
+	<phrase weight="0.03571428571428571" count="1">tenant request client</phrase>
+	<phrase weight="0.03571428571428571" count="1">authorization code equal</phrase>
+	<phrase weight="0.03571428571428571" count="1">token body response entity body response entity</phrase>
+	<phrase weight="0.03571428571428571" count="1">client client principal map string</phrase>
+	<phrase weight="0.03571428571428571" count="1">token response entity response entity auth access token</phrase>
+	<phrase weight="0.03571428571428571" count="1">security oauth</phrase>
+	<phrase weight="0.03571428571428571" count="1">response entity</phrase>
+	<phrase weight="0.03571428571428571" count="1">parameter map string string arg principal principal principal arg principal tenant username password authentication token tenant username password authentication token tenant token tenant username password authentication token principal string client tenant token client</phrase>
+	<phrase weight="0.03571428571428571" count="1">holder clear</phrase>
+	<phrase weight="0.03571428571428571" count="1">autowired user service user service</phrase>
+	<phrase weight="0.03571428571428571" count="1">principal principal principal arg principal authentication</phrase>
+  </topic>
+  <topic id="3" alpha="0.029413445849113415" totalTokens="236" titles="lock, signature, expression, context, method, arg, key, string, param, point">
+	<word weight="0.16101694915254236" count="38">lock</word>
+	<word weight="0.06779661016949153" count="16">signature</word>
+	<word weight="0.05508474576271186" count="13">expression</word>
+	<word weight="0.05084745762711865" count="12">context</word>
+	<word weight="0.046610169491525424" count="11">method</word>
+	<word weight="0.0423728813559322" count="10">arg</word>
+	<word weight="0.038135593220338986" count="9">key</word>
+	<word weight="0.038135593220338986" count="9">string</word>
+	<word weight="0.03389830508474576" count="8">param</word>
+	<word weight="0.03389830508474576" count="8">point</word>
+	<word weight="0.03389830508474576" count="8">parser</word>
+	<word weight="0.03389830508474576" count="8">spel</word>
+	<word weight="0.025423728813559324" count="6">parameter</word>
+	<word weight="0.0211864406779661" count="5">time</word>
+	<word weight="0.0211864406779661" count="5">obj</word>
+	<word weight="0.0211864406779661" count="5">object</word>
+	<word weight="0.0211864406779661" count="5">discoverer</word>
+	<word weight="0.0211864406779661" count="5">locker</word>
+	<word weight="0.01694915254237288" count="4">evaluation</word>
+	<word weight="0.01694915254237288" count="4">length</word>
+	<phrase weight="0.06666666666666667" count="1">parser parameter</phrase>
+	<phrase weight="0.06666666666666667" count="1">object arg</phrase>
+	<phrase weight="0.06666666666666667" count="1">arg point arg lock key val lock key method signature arg lock wait time lock obj locker lock lock key lock wait time lock lease time lock unit lock fair lock obj locker lock lock key lock lease time lock unit lock fair lock obj point</phrase>
+	<phrase weight="0.06666666666666667" count="1">method signature</phrase>
+	<phrase weight="0.06666666666666667" count="1">param param length expression expression spel expression parser</phrase>
+	<phrase weight="0.06666666666666667" count="1">empty lock key lock exception lock key lock key method signature method signature method signature point signature</phrase>
+	<phrase weight="0.06666666666666667" count="1">variable param args</phrase>
+	<phrase weight="0.06666666666666667" count="1">spring evaluation context context standard evaluation context arg length context</phrase>
+	<phrase weight="0.06666666666666667" count="1">autowired require false distribute lock locker spel expression parser spel expression parser spel expression parser parameter discoverer discoverer parameter discoverer lock annotation lock object lock</phrase>
+	<phrase weight="0.06666666666666667" count="1">point arg</phrase>
+	<phrase weight="0.06666666666666667" count="1">parameter method signature</phrase>
+	<phrase weight="0.06666666666666667" count="1">parameter discoverer</phrase>
+	<phrase weight="0.06666666666666667" count="1">object lock obj lock lock point target declare annotation lock string lock key lock key locker lock exception distribute lock str</phrase>
+	<phrase weight="0.06666666666666667" count="1">expression parser spel expression parser spel</phrase>
+	<phrase weight="0.06666666666666667" count="1">point point lock lock</phrase>
+  </topic>
+  <topic id="4" alpha="0.026122674807106835" totalTokens="365" titles="request, string, config, group, datum, response, tenant, client, pjp, controller">
+	<word weight="0.12054794520547946" count="44">request</word>
+	<word weight="0.08767123287671233" count="32">string</word>
+	<word weight="0.07945205479452055" count="29">config</word>
+	<word weight="0.06301369863013699" count="23">group</word>
+	<word weight="0.06027397260273973" count="22">datum</word>
+	<word weight="0.0410958904109589" count="15">response</word>
+	<word weight="0.0410958904109589" count="15">tenant</word>
+	<word weight="0.03561643835616438" count="13">client</word>
+	<word weight="0.0273972602739726" count="10">pjp</word>
+	<word weight="0.0273972602739726" count="10">controller</word>
+	<word weight="0.0273972602739726" count="10">servlet</word>
+	<word weight="0.024657534246575342" count="9">publish</word>
+	<word weight="0.021917808219178082" count="8">log</word>
+	<word weight="0.021917808219178082" count="8">http</word>
+	<word weight="0.019178082191780823" count="7">util</word>
+	<word weight="0.01643835616438356" count="6">remove</word>
+	<word weight="0.01643835616438356" count="6">content</word>
+	<word weight="0.01643835616438356" count="6">current</word>
+	<word weight="0.0136986301369863" count="5">server</word>
+	<word weight="0.0136986301369863" count="5">alibaba</word>
+	<phrase weight="0.09523809523809523" count="2">server controller</phrase>
+	<phrase weight="0.09523809523809523" count="2">execution alibaba</phrase>
+	<phrase weight="0.047619047619047616" count="1">remove proceeding</phrase>
+	<phrase weight="0.047619047619047616" count="1">string util</phrase>
+	<phrase weight="0.047619047619047616" count="1">request type</phrase>
+	<phrase weight="0.047619047619047616" count="1">pjp http servlet request request http servlet response response string datum string group string tenant string content throwable string content util hex content</phrase>
+	<phrase weight="0.047619047619047616" count="1">string group</phrase>
+	<phrase weight="0.047619047619047616" count="1">http servlet request request http servlet response response string datum string group string tenant string throwable string request request util remote request string app request header request util client appname header system current time millis</phrase>
+	<phrase weight="0.047619047619047616" count="1">config proceeding</phrase>
+	<phrase weight="0.047619047619047616" count="1">pjp http servlet request request http servlet response response string datum string group string tenant throwable log client request remove pjp request response datum group tenant config client config</phrase>
+	<phrase weight="0.047619047619047616" count="1">ret val pjp</phrase>
+	<phrase weight="0.047619047619047616" count="1">publish config string client publish single config execution alibaba naco config server controller config controller publish config arg request response datum group tenant content config string client config execution alibaba naco config server controller config controller config arg request response datum group tenant remove config string client remove config execution alibaba naco config server controller config controller delete config arg request response datum group tenant publish single client publish single config</phrase>
+	<phrase weight="0.047619047619047616" count="1">publish single proceeding</phrase>
+	<phrase weight="0.047619047619047616" count="1">encode metric monitor publish monitor increment log client request publish pjp request response datum group tenant remove client remove config</phrase>
+	<phrase weight="0.047619047619047616" count="1">log client request</phrase>
+	<phrase weight="0.047619047619047616" count="1">string datum</phrase>
+	<phrase weight="0.047619047619047616" count="1">system current time millis status request type datum group datum app log util client log info ret val request request</phrase>
+	<phrase weight="0.047619047619047616" count="1">controller publish config</phrase>
+	<phrase weight="0.047619047619047616" count="1">pjp http servlet request request http servlet response response string datum string group string tenant throwable string group key group key key datum group tenant string config cache service content group key metric monitor config monitor increment log client request pjp request response datum group tenant client api request log status request type datum group datum</phrase>
+  </topic>
+  <topic id="5" alpha="0.1153668200386674" totalTokens="183" titles="join, point, object, aspect, proceed, string, transaction, status, cat, repository">
+	<word weight="0.10382513661202186" count="19">join</word>
+	<word weight="0.09289617486338798" count="17">point</word>
+	<word weight="0.08196721311475409" count="15">object</word>
+	<word weight="0.07650273224043716" count="14">aspect</word>
+	<word weight="0.060109289617486336" count="11">proceed</word>
+	<word weight="0.04918032786885246" count="9">string</word>
+	<word weight="0.04371584699453552" count="8">transaction</word>
+	<word weight="0.03278688524590164" count="6">status</word>
+	<word weight="0.0273224043715847" count="5">cat</word>
+	<word weight="0.0273224043715847" count="5">repository</word>
+	<word weight="0.0273224043715847" count="5">type</word>
+	<word weight="0.0273224043715847" count="5">method</word>
+	<word weight="0.0273224043715847" count="5">throwable</word>
+	<word weight="0.02185792349726776" count="4">result</word>
+	<word weight="0.02185792349726776" count="4">component</word>
+	<word weight="0.01639344262295082" count="3">access</word>
+	<word weight="0.01639344262295082" count="3">springframework</word>
+	<word weight="0.01639344262295082" count="3">execution</word>
+	<word weight="0.01639344262295082" count="3">set</word>
+	<word weight="0.01639344262295082" count="3">proceeding</word>
+	<phrase weight="0.25" count="3">join point</phrase>
+	<phrase weight="0.16666666666666666" count="2">aspect slf component aspect</phrase>
+	<phrase weight="0.08333333333333333" count="1">aspect aspect component</phrase>
+	<phrase weight="0.08333333333333333" count="1">method proceeding join point join point throwable object</phrase>
+	<phrase weight="0.08333333333333333" count="1">point proceed</phrase>
+	<phrase weight="0.08333333333333333" count="1">aspect execution</phrase>
+	<phrase weight="0.08333333333333333" count="1">org springframework</phrase>
+	<phrase weight="0.08333333333333333" count="1">proceed join point proceed</phrase>
+	<phrase weight="0.08333333333333333" count="1">controller method proceeding join point join point throwable object</phrase>
+  </topic>
+  <topic id="6" alpha="0.012314939496756524" totalTokens="272" titles="item, service, string, namespace, release, configuration, map, find, parent, unlock">
+	<word weight="0.21323529411764705" count="58">item</word>
+	<word weight="0.10294117647058823" count="28">service</word>
+	<word weight="0.09191176470588236" count="25">string</word>
+	<word weight="0.08823529411764706" count="24">namespace</word>
+	<word weight="0.07352941176470588" count="20">release</word>
+	<word weight="0.058823529411764705" count="16">configuration</word>
+	<word weight="0.04779411764705882" count="13">map</word>
+	<word weight="0.03308823529411765" count="9">config</word>
+	<word weight="0.03308823529411765" count="9">find</word>
+	<word weight="0.029411764705882353" count="8">parent</word>
+	<word weight="0.029411764705882353" count="8">unlock</word>
+	<word weight="0.025735294117647058" count="7">gson</word>
+	<word weight="0.01838235294117647" count="5">generate</word>
+	<word weight="0.014705882352941176" count="4">difference</word>
+	<word weight="0.014705882352941176" count="4">list</word>
+	<word weight="0.014705882352941176" count="4">advice</word>
+	<word weight="0.014705882352941176" count="4">arg</word>
+	<word weight="0.014705882352941176" count="4">key</word>
+	<word weight="0.011029411764705883" count="3">biz</word>
+	<word weight="0.007352941176470588" count="2">json</word>
+	<phrase weight="0.04878048780487805" count="2">list item</phrase>
+	<phrase weight="0.04878048780487805" count="2">service find</phrase>
+	<phrase weight="0.04878048780487805" count="2">item item</phrase>
+	<phrase weight="0.024390243902439025" count="1">cluster namespace</phrase>
+	<phrase weight="0.024390243902439025" count="1">config namespace unlock</phrase>
+	<phrase weight="0.024390243902439025" count="1">item configuration item configuration</phrase>
+	<phrase weight="0.024390243902439025" count="1">unlock namespace service find item</phrase>
+	<phrase weight="0.024390243902439025" count="1">map string string generate configuration item</phrase>
+	<phrase weight="0.024390243902439025" count="1">namespace biz config</phrase>
+	<phrase weight="0.024390243902439025" count="1">service find item item bad</phrase>
+	<phrase weight="0.024390243902439025" count="1">release release release service find latest active release</phrase>
+	<phrase weight="0.024390243902439025" count="1">config map string string configuration item generate configuration item namespace item map difference string string difference map difference release configuration configuration item difference</phrase>
+	<phrase weight="0.024390243902439025" count="1">gson gson gson namespace</phrase>
+	<phrase weight="0.024390243902439025" count="1">normal item list</phrase>
+	<phrase weight="0.024390243902439025" count="1">config generate map item</phrase>
+	<phrase weight="0.024390243902439025" count="1">namespace service</phrase>
+	<phrase weight="0.024390243902439025" count="1">item item item string key item key string util</phrase>
+	<phrase weight="0.024390243902439025" count="1">string namespace item item unlock</phrase>
+	<phrase weight="0.024390243902439025" count="1">biz config</phrase>
+	<phrase weight="0.024390243902439025" count="1">release normal item item map string string release configuration gson json release configuration gson</phrase>
+  </topic>
+  <topic id="7" alpha="0.013353331674998447" totalTokens="125" titles="annotation, resource, exception, entry, sentinel, pjp, type, ignore, method, origin">
+	<word weight="0.12" count="15">annotation</word>
+	<word weight="0.112" count="14">resource</word>
+	<word weight="0.096" count="12">exception</word>
+	<word weight="0.08" count="10">entry</word>
+	<word weight="0.08" count="10">sentinel</word>
+	<word weight="0.056" count="7">pjp</word>
+	<word weight="0.056" count="7">type</word>
+	<word weight="0.04" count="5">ignore</word>
+	<word weight="0.032" count="4">method</word>
+	<word weight="0.024" count="3">origin</word>
+	<word weight="0.024" count="3">pointcut</word>
+	<word weight="0.024" count="3">handle</word>
+	<word weight="0.024" count="3">throwable</word>
+	<word weight="0.024" count="3">aspect</word>
+	<word weight="0.016" count="2">fallback</word>
+	<word weight="0.016" count="2">trace</word>
+	<word weight="0.016" count="2">belong</word>
+	<word weight="0.016" count="2">block</word>
+	<word weight="0.016" count="2">state</word>
+	<word weight="0.016" count="2">extend</word>
+	<phrase weight="0.1111111111111111" count="1">invoke resource sentinel proceeding</phrase>
+	<phrase weight="0.1111111111111111" count="1">annotation sentinel resource annotation illegal state exception</phrase>
+	<phrase weight="0.1111111111111111" count="1">result block exception handle block exception pjp annotation throwable extend throwable exception ignore annotation exception ignore ignore</phrase>
+	<phrase weight="0.1111111111111111" count="1">pjp throwable method origin method resolve method pjp sentinel resource annotation origin</phrase>
+	<phrase weight="0.1111111111111111" count="1">resource resource annotation origin method entry type entry type annotation entry type resource type annotation resource type entry entry entry sph entry resource resource type entry type pjp arg</phrase>
+	<phrase weight="0.1111111111111111" count="1">result pjp</phrase>
+	<phrase weight="0.1111111111111111" count="1">state sentinel resource annotation</phrase>
+	<phrase weight="0.1111111111111111" count="1">aspect sentinel resource aspect extend sentinel aspect support pointcut annotation alibaba csp sentinel annotation sentinel resource sentinel resource annotation pointcut sentinel resource annotation pointcut</phrase>
+	<phrase weight="0.1111111111111111" count="1">exception ignore</phrase>
+  </topic>
+  <topic id="8" alpha="0.029566735924063003" totalTokens="539" titles="namespace, lock, item, service, string, acquire, app, cluster, change, user">
+	<word weight="0.2077922077922078" count="112">namespace</word>
+	<word weight="0.150278293135436" count="81">lock</word>
+	<word weight="0.07050092764378478" count="38">item</word>
+	<word weight="0.0575139146567718" count="31">service</word>
+	<word weight="0.04081632653061224" count="22">string</word>
+	<word weight="0.03710575139146568" count="20">acquire</word>
+	<word weight="0.03710575139146568" count="20">app</word>
+	<word weight="0.03339517625231911" count="18">cluster</word>
+	<word weight="0.027829313543599257" count="15">change</word>
+	<word weight="0.025974025974025976" count="14">user</word>
+	<word weight="0.022263450834879406" count="12">biz</word>
+	<word weight="0.02040816326530612" count="11">current</word>
+	<word weight="0.01855287569573284" count="10">set</word>
+	<word weight="0.016697588126159554" count="9">aspect</word>
+	<word weight="0.014842300556586271" count="8">pre</word>
+	<word weight="0.014842300556586271" count="8">config</word>
+	<word weight="0.014842300556586271" count="8">annotation</word>
+	<word weight="0.014842300556586271" count="8">require</word>
+	<word weight="0.012987012987012988" count="7">modify</word>
+	<word weight="0.012987012987012988" count="7">exception</word>
+	<phrase weight="0.2" count="4">namespace lock</phrase>
+	<phrase weight="0.15" count="3">require lock</phrase>
+	<phrase weight="0.1" count="2">annotation pre acquire</phrase>
+	<phrase weight="0.1" count="2">app cluster</phrase>
+	<phrase weight="0.05" count="1">lock modify namespace namespace lock service</phrase>
+	<phrase weight="0.05" count="1">cluster string namespace</phrase>
+	<phrase weight="0.05" count="1">aspect aspect component namespace</phrase>
+	<phrase weight="0.05" count="1">service item</phrase>
+	<phrase weight="0.05" count="1">change set</phrase>
+	<phrase weight="0.05" count="1">namespace update change set annotation pre acquire namespace lock</phrase>
+	<phrase weight="0.05" count="1">annotation pre acquire namespace lock</phrase>
+	<phrase weight="0.05" count="1">modify namespace</phrase>
+	<phrase weight="0.05" count="1">cluster namespace delete</phrase>
+  </topic>
+  <topic id="9" alpha="0.012451627736008764" totalTokens="892" titles="tenant, capacity, group, size, mode, counter, string, update, limit, max">
+	<word weight="0.1311659192825112" count="117">tenant</word>
+	<word weight="0.0952914798206278" count="85">capacity</word>
+	<word weight="0.07511210762331838" count="67">group</word>
+	<word weight="0.06502242152466367" count="58">size</word>
+	<word weight="0.052690582959641255" count="47">mode</word>
+	<word weight="0.052690582959641255" count="47">counter</word>
+	<word weight="0.05044843049327354" count="45">string</word>
+	<word weight="0.03923766816143498" count="35">update</word>
+	<word weight="0.03811659192825112" count="34">limit</word>
+	<word weight="0.032511210762331835" count="29">max</word>
+	<word weight="0.03139013452914798" count="28">response</word>
+	<word weight="0.02914798206278027" count="26">logger</word>
+	<word weight="0.028026905829596414" count="25">usage</word>
+	<word weight="0.028026905829596414" count="25">type</word>
+	<word weight="0.01905829596412556" count="17">content</word>
+	<word weight="0.014573991031390135" count="13">status</word>
+	<word weight="0.013452914798206279" count="12">success</word>
+	<word weight="0.013452914798206279" count="12">cluster</word>
+	<word weight="0.013452914798206279" count="12">throwable</word>
+	<word weight="0.01233183856502242" count="11">rollback</word>
+	<phrase weight="0.03125" count="5">logger error capacity</phrase>
+	<phrase weight="0.01875" count="3">size max size tenant</phrase>
+	<phrase weight="0.01875" count="3">join point</phrase>
+	<phrase weight="0.01875" count="3">group tenant</phrase>
+	<phrase weight="0.01875" count="3">sync update</phrase>
+	<phrase weight="0.01875" count="3">size tenant</phrase>
+	<phrase weight="0.0125" count="2">capacity limit</phrase>
+	<phrase weight="0.0125" count="2">tenant capacity</phrase>
+	<phrase weight="0.0125" count="2">size group tenant</phrase>
+	<phrase weight="0.0125" count="2">update cluster</phrase>
+	<phrase weight="0.0125" count="2">update tenant</phrase>
+	<phrase weight="0.0125" count="2">proceed logger</phrase>
+	<phrase weight="0.00625" count="1">usage limit type limit type counter mode counter mode string group string tenant string content tenant cluster limit capacity</phrase>
+	<phrase weight="0.00625" count="1">content tenant limit type response limit</phrase>
+	<phrase weight="0.00625" count="1">string tenant</phrase>
+	<phrase weight="0.00625" count="1">response group tenant counter mode tenant</phrase>
+	<phrase weight="0.00625" count="1">quota limit type cluster quota content</phrase>
+	<phrase weight="0.00625" count="1">capacity max size</phrase>
+	<phrase weight="0.00625" count="1">group string tenant</phrase>
+	<phrase weight="0.00625" count="1">size content limit type limit type group tenant limit type counter mode group tenant</phrase>
+  </topic>
+</topics>

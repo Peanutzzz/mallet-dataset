@@ -1,0 +1,10 @@
+0	0.04054	resource interceptor feign action parser enable config service client exclude mode exec deny permission message privilege auth read search base 
+1	0.03323	precedence config lowest order apollo integer max namespace section command highest application reflection position description represent spi min source reporter 
+2	0.57531	type retention element policy runtime target string document field method parameter profile evolve internal forward extend factory option logger request 
+3	0.00542	placeholder string property config code retry key endpoint naco prefix empty sync remote timeout poll encode max time enable password 
+4	0.0427	false type code flag ignore field bind property true invalid unknown refresh auto configuration object deprecate set naco expression change 
+5	0.01627	type hint input datum define argument extraction link function explicit reflection base explicitly output undefined list arg var give note 
+6	0.02948	fallback method exception type block handler throwable code nonbinding ignore string entry resource set empty trace note exist share original 
+7	0.0193	key code interested listener prefix change application notify time unit lock spring start namespace config apollo lease locker retention port 
+8	0.00535	type raw datum code serializer decimal sql extract precision parameter pattern group link define data enable version opaque error prefix 
+9	0.03367	naco property config link group converter datum global attribute yaml execution require constant inject listener caller propagate swallow raise mistake 

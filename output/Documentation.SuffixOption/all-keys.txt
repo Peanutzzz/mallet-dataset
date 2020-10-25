@@ -1,0 +1,10 @@
+0	0.33382	label grouping filter shutdown http builder disable enable text true metric integer suffix 
+1	0.31208	option prometheus concept doc remove code match append 
+2	0.41377	authentication 
+3	0.31346	push gateway delete separate requirement text true server 
+4	2.56465	config option key description metric timeout string suffix write documentation property database influxdb 
+5	0.38251	host username store 
+6	0.29088	character job link random build model datum meet ensure prometheus 
+7	0.41679	consistency connect policy retention integer type username reporter 
+8	0.41866	influx level optional string integer password port server 
+9	0.24322	element port reporter global group job key option 

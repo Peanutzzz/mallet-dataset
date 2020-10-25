@@ -1,0 +1,10 @@
+0	0.06181	set repository size hash save collector collect map stream ips object paginate test 
+1	0.23917	config namespace date valid page cluster content app request array 
+2	0.17773	center datum assemble result array exception namespace create 
+3	0.03119	set database rollback 
+4	0.65764	instance app string cluster test find service equal create rollback list set size request time 
+5	0.02953	calendar pageable invalid active add valid request 
+6	0.03302	app owner create change datum string modify transaction test service admin time ctrip email date 
+7	0.02175	biz runner unit run 
+8	0.21936	config key release namespace prepare exception update list hash 
+9	0.03364	test environment web spring integration port random configuration boot transactional 

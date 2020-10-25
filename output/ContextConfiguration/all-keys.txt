@@ -1,0 +1,10 @@
+0	0.11299	context mock spring test unit string configuration mvc run web app util datum inject runner setup extend admin source println 
+1	0.0196	subscriber list server string manager member mockito subscribe namespace set aggregation array equal test size extend meta val healthy weight 
+2	0.00821	foo service cluster qps exception test rule resource fallback node positive block equal flow slot bar builder pass sentinel manager 
+3	0.02725	service cluster test instance builder param mock exception actual request set host port util equal response http mockmvc servlet expect 
+4	0.00884	configuration profile enable conditional true combine false test miss exception active runner 
+5	0.01928	service test client list push string namespace group fuzzy add app subscriber udp port equal size fuzzylist agent cluster exception 
+6	0.05162	job log xxl dao glue test list ret registry spring trigger date load save handle update find resource applicationcontext xml 
+7	0.01753	set info job executor xxl count list glue strategy remark source param handler type block route email alarm author desc 
+8	0.00923	group set address title app type list order remove runner 
+9	0.01952	builder health response mock controller test readiness request mockmvc servlet string equal service config http mockito url persist exception mvc 

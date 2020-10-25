@@ -1,0 +1,421 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.21458859561943158" totalTokens="455" titles="string, set, util, hash, info, application, add, override, local, true">
+	<word weight="0.16263736263736264" count="74">string</word>
+	<word weight="0.15604395604395604" count="71">set</word>
+	<word weight="0.054945054945054944" count="25">util</word>
+	<word weight="0.05274725274725275" count="24">hash</word>
+	<word weight="0.05054945054945055" count="23">info</word>
+	<word weight="0.03736263736263736" count="17">application</word>
+	<word weight="0.035164835164835165" count="16">add</word>
+	<word weight="0.02857142857142857" count="13">override</word>
+	<word weight="0.026373626373626374" count="12">local</word>
+	<word weight="0.026373626373626374" count="12">true</word>
+	<word weight="0.02197802197802198" count="10">time</word>
+	<word weight="0.01978021978021978" count="9">current</word>
+	<word weight="0.01978021978021978" count="9">post</word>
+	<word weight="0.017582417582417582" count="8">status</word>
+	<word weight="0.017582417582417582" count="8">equal</word>
+	<word weight="0.017582417582417582" count="8">executor</word>
+	<word weight="0.017582417582417582" count="8">object</word>
+	<word weight="0.017582417582417582" count="8">implement</word>
+	<word weight="0.013186813186813187" count="6">false</word>
+	<word weight="0.01098901098901099" count="5">mode</word>
+	<phrase weight="0.15555555555555556" count="7">set string</phrase>
+	<phrase weight="0.08888888888888889" count="4">current time</phrase>
+	<phrase weight="0.08888888888888889" count="4">hash set</phrase>
+	<phrase weight="0.08888888888888889" count="4">string string</phrase>
+	<phrase weight="0.06666666666666667" count="3">util standalone mode</phrase>
+	<phrase weight="0.044444444444444446" count="2">object equal</phrase>
+	<phrase weight="0.044444444444444446" count="2">application util</phrase>
+	<phrase weight="0.044444444444444446" count="2">post construct</phrase>
+	<phrase weight="0.022222222222222223" count="1">warning component</phrase>
+	<phrase weight="0.022222222222222223" count="1">register subscriber</phrase>
+	<phrase weight="0.022222222222222223" count="1">implement application listener</phrase>
+	<phrase weight="0.022222222222222223" count="1">component depend</phrase>
+	<phrase weight="0.022222222222222223" count="1">override run</phrase>
+	<phrase weight="0.022222222222222223" count="1">string application</phrase>
+	<phrase weight="0.022222222222222223" count="1">true override</phrase>
+	<phrase weight="0.022222222222222223" count="1">standalone mode</phrase>
+	<phrase weight="0.022222222222222223" count="1">set local</phrase>
+	<phrase weight="0.022222222222222223" count="1">override integer</phrase>
+	<phrase weight="0.022222222222222223" count="1">time set</phrase>
+	<phrase weight="0.022222222222222223" count="1">standalone mode true leader</phrase>
+  </topic>
+  <topic id="1" alpha="0.033527572113407296" totalTokens="482" titles="beat, remote, api, due, timestamp, json, send, leader, receive, store">
+	<word weight="0.0975103734439834" count="47">beat</word>
+	<word weight="0.08298755186721991" count="40">remote</word>
+	<word weight="0.04564315352697095" count="22">api</word>
+	<word weight="0.043568464730290454" count="21">due</word>
+	<word weight="0.043568464730290454" count="21">timestamp</word>
+	<word weight="0.03734439834024896" count="18">json</word>
+	<word weight="0.03734439834024896" count="18">send</word>
+	<word weight="0.03319502074688797" count="16">leader</word>
+	<word weight="0.029045643153526972" count="14">receive</word>
+	<word weight="0.026970954356846474" count="13">store</word>
+	<word weight="0.024896265560165973" count="12">lock</word>
+	<word weight="0.022821576763485476" count="11">common</word>
+	<word weight="0.022821576763485476" count="11">debug</word>
+	<word weight="0.02074688796680498" count="10">text</word>
+	<word weight="0.01867219917012448" count="9">http</word>
+	<word weight="0.01867219917012448" count="9">error</word>
+	<word weight="0.01867219917012448" count="9">add</word>
+	<word weight="0.016597510373443983" count="8">pub</word>
+	<word weight="0.016597510373443983" count="8">exception</word>
+	<word weight="0.014522821576763486" count="7">operate</word>
+	<phrase weight="0.10909090909090909" count="6">send beat</phrase>
+	<phrase weight="0.05454545454545454" count="3">receive beat</phrase>
+	<phrase weight="0.03636363636363636" count="2">error send</phrase>
+	<phrase weight="0.03636363636363636" count="2">date beat beat</phrase>
+	<phrase weight="0.03636363636363636" count="2">add task</phrase>
+	<phrase weight="0.03636363636363636" count="2">heartbeat due</phrase>
+	<phrase weight="0.03636363636363636" count="2">api pub</phrase>
+	<phrase weight="0.03636363636363636" count="2">standard charset</phrase>
+	<phrase weight="0.03636363636363636" count="2">api del</phrase>
+	<phrase weight="0.01818181818181818" count="1">leader api del params</phrase>
+	<phrase weight="0.01818181818181818" count="1">global config</phrase>
+	<phrase weight="0.01818181818181818" count="1">timestamp smaller</phrase>
+	<phrase weight="0.01818181818181818" count="1">send beat send beat</phrase>
+	<phrase weight="0.01818181818181818" count="1">output stream output stream gzip output stream gzip</phrase>
+	<phrase weight="0.01818181818181818" count="1">lock lock</phrase>
+	<phrase weight="0.01818181818181818" count="1">heartbeat due send beat</phrase>
+	<phrase weight="0.01818181818181818" count="1">lock operate lock reentrant lock</phrase>
+	<phrase weight="0.01818181818181818" count="1">operate lock lock start</phrase>
+	<phrase weight="0.01818181818181818" count="1">start leader</phrase>
+	<phrase weight="0.01818181818181818" count="1">due remote</phrase>
+  </topic>
+  <topic id="2" alpha="0.03374611428929375" totalTokens="408" titles="peer, raft, member, leader, local, server, candidate, address, vote, count">
+	<word weight="0.2622549019607843" count="107">peer</word>
+	<word weight="0.0857843137254902" count="35">raft</word>
+	<word weight="0.08088235294117647" count="33">member</word>
+	<word weight="0.07107843137254902" count="29">leader</word>
+	<word weight="0.041666666666666664" count="17">local</word>
+	<word weight="0.041666666666666664" count="17">server</word>
+	<word weight="0.03431372549019608" count="14">candidate</word>
+	<word weight="0.031862745098039214" count="13">address</word>
+	<word weight="0.0196078431372549" count="8">vote</word>
+	<word weight="0.0196078431372549" count="8">count</word>
+	<word weight="0.0196078431372549" count="8">param</word>
+	<word weight="0.0196078431372549" count="8">event</word>
+	<word weight="0.0196078431372549" count="8">manager</word>
+	<word weight="0.01715686274509804" count="7">max</word>
+	<word weight="0.01715686274509804" count="7">approve</word>
+	<word weight="0.014705882352941176" count="6">put</word>
+	<word weight="0.014705882352941176" count="6">remove</word>
+	<word weight="0.014705882352941176" count="6">change</word>
+	<word weight="0.012254901960784314" count="5">site</word>
+	<word weight="0.012254901960784314" count="5">logger</word>
+	<phrase weight="0.04054054054054054" count="3">peer raft peer</phrase>
+	<phrase weight="0.02702702702702703" count="2">raft peer</phrase>
+	<phrase weight="0.02702702702702703" count="2">peer leader</phrase>
+	<phrase weight="0.02702702702702703" count="2">peer peer</phrase>
+	<phrase weight="0.013513513513513514" count="1">server exclude</phrase>
+	<phrase weight="0.013513513513513514" count="1">decide peer leader peer half vote change leader peer param candidate candidate leader candidate half vote</phrase>
+	<phrase weight="0.013513513513513514" count="1">peer put local peer local peer local peer peer illegal state exception unable</phrase>
+	<phrase weight="0.013513513513513514" count="1">bag tree bag max approve count</phrase>
+	<phrase weight="0.013513513513513514" count="1">member member member</phrase>
+	<phrase weight="0.013513513513513514" count="1">peer fail peer</phrase>
+	<phrase weight="0.013513513513513514" count="1">param server</phrase>
+	<phrase weight="0.013513513513513514" count="1">server member manager member manager member manager member manager</phrase>
+	<phrase weight="0.013513513513513514" count="1">vote max approve peer</phrase>
+	<phrase weight="0.013513513513513514" count="1">peer candidate</phrase>
+	<phrase weight="0.013513513513513514" count="1">raft core</phrase>
+	<phrase weight="0.013513513513513514" count="1">address raft</phrase>
+	<phrase weight="0.013513513513513514" count="1">peer vote count peer vote max approve count max approve count count</phrase>
+	<phrase weight="0.013513513513513514" count="1">peer key</phrase>
+	<phrase weight="0.013513513513513514" count="1">peer member member</phrase>
+	<phrase weight="0.013513513513513514" count="1">raft peer state leader</phrase>
+  </topic>
+  <topic id="3" alpha="0.05308540342769674" totalTokens="269" titles="member, protocol, config, init, manager, node, event, change, copy, type">
+	<word weight="0.1970260223048327" count="53">member</word>
+	<word weight="0.15985130111524162" count="43">protocol</word>
+	<word weight="0.07434944237918216" count="20">config</word>
+	<word weight="0.05204460966542751" count="14">init</word>
+	<word weight="0.048327137546468404" count="13">manager</word>
+	<word weight="0.04460966542750929" count="12">node</word>
+	<word weight="0.04460966542750929" count="12">event</word>
+	<word weight="0.04460966542750929" count="12">change</word>
+	<word weight="0.022304832713754646" count="6">copy</word>
+	<word weight="0.022304832713754646" count="6">type</word>
+	<word weight="0.01858736059479554" count="5">bean</word>
+	<word weight="0.01486988847583643" count="4">members</word>
+	<word weight="0.01486988847583643" count="4">inject</word>
+	<word weight="0.01486988847583643" count="4">port</word>
+	<word weight="0.01486988847583643" count="4">raft</word>
+	<word weight="0.011152416356877323" count="3">collection</word>
+	<word weight="0.007434944237918215" count="2">layer</word>
+	<word weight="0.007434944237918215" count="2">consistency</word>
+	<word weight="0.007434944237918215" count="2">occur</word>
+	<word weight="0.007434944237918215" count="2">generic</word>
+	<phrase weight="0.05128205128205128" count="2">protocol protocol shutdown</phrase>
+	<phrase weight="0.05128205128205128" count="2">member manager member config</phrase>
+	<phrase weight="0.05128205128205128" count="2">bean exist protocol protocol config type</phrase>
+	<phrase weight="0.05128205128205128" count="2">resolve generic type protocol config config config</phrase>
+	<phrase weight="0.02564102564102564" count="1">construct init member manager member manager notify center</phrase>
+	<phrase weight="0.02564102564102564" count="1">protocol protocol protocol synchronize init init protocol init</phrase>
+	<phrase weight="0.02564102564102564" count="1">collection member member set</phrase>
+	<phrase weight="0.02564102564102564" count="1">pool inform consistency layer node change avoid multiple</phrase>
+	<phrase weight="0.02564102564102564" count="1">bean config type inject members config protocol init config protocol manager protocol protocol init protocol</phrase>
+	<phrase weight="0.02564102564102564" count="1">member member member</phrase>
+	<phrase weight="0.02564102564102564" count="1">member address node delay init protocol</phrase>
+	<phrase weight="0.02564102564102564" count="1">bean config type inject members config protocol init config protocol manager protocol protocol inject members config config member member member manager</phrase>
+	<phrase weight="0.02564102564102564" count="1">member change protocol member change member</phrase>
+	<phrase weight="0.02564102564102564" count="1">raft port member node</phrase>
+	<phrase weight="0.02564102564102564" count="1">raft port node</phrase>
+	<phrase weight="0.02564102564102564" count="1">string member</phrase>
+	<phrase weight="0.02564102564102564" count="1">simultaneously carry consistency layer node change</phrase>
+	<phrase weight="0.02564102564102564" count="1">event member change event event sequence node change event important node change event occur</phrase>
+	<phrase weight="0.02564102564102564" count="1">member manager address</phrase>
+	<phrase weight="0.02564102564102564" count="1">collection member member</phrase>
+  </topic>
+  <topic id="4" alpha="0.063801253859338" totalTokens="630" titles="task, distro, key, sync, server, map, member, store, checksum, mapper">
+	<word weight="0.1111111111111111" count="70">task</word>
+	<word weight="0.08095238095238096" count="51">distro</word>
+	<word weight="0.07142857142857142" count="45">key</word>
+	<word weight="0.06984126984126984" count="44">sync</word>
+	<word weight="0.06666666666666667" count="42">server</word>
+	<word weight="0.046031746031746035" count="29">map</word>
+	<word weight="0.044444444444444446" count="28">member</word>
+	<word weight="0.04126984126984127" count="26">store</word>
+	<word weight="0.03492063492063492" count="22">checksum</word>
+	<word weight="0.023809523809523808" count="15">mapper</word>
+	<word weight="0.022222222222222223" count="14">serializer</word>
+	<word weight="0.022222222222222223" count="14">config</word>
+	<word weight="0.020634920634920634" count="13">manager</word>
+	<word weight="0.01904761904761905" count="12">debug</word>
+	<word weight="0.01746031746031746" count="11">target</word>
+	<word weight="0.01746031746031746" count="11">remove</word>
+	<word weight="0.015873015873015872" count="10">data</word>
+	<word weight="0.015873015873015872" count="10">empty</word>
+	<word weight="0.014285714285714285" count="9">global</word>
+	<word weight="0.014285714285714285" count="9">time</word>
+	<phrase weight="0.030927835051546393" count="3">sync task</phrase>
+	<phrase weight="0.020618556701030927" count="2">key checksum</phrase>
+	<phrase weight="0.020618556701030927" count="2">store data store task</phrase>
+	<phrase weight="0.020618556701030927" count="2">distro debug</phrase>
+	<phrase weight="0.020618556701030927" count="2">mapper distro mapper</phrase>
+	<phrase weight="0.020618556701030927" count="2">global config</phrase>
+	<phrase weight="0.020618556701030927" count="2">member manager</phrase>
+	<phrase weight="0.020618556701030927" count="2">server sync checksum task</phrase>
+	<phrase weight="0.020618556701030927" count="2">sync checksum task</phrase>
+	<phrase weight="0.010309278350515464" count="1">data data exception logger distro</phrase>
+	<phrase weight="0.010309278350515464" count="1">target server task target server retry sync sync task clear flag task</phrase>
+	<phrase weight="0.010309278350515464" count="1">sync task target server split member</phrase>
+	<phrase weight="0.010309278350515464" count="1">absent build</phrase>
+	<phrase weight="0.010309278350515464" count="1">distro debug sync address sync</phrase>
+	<phrase weight="0.010309278350515464" count="1">sync task target server todo choose retry policy submit sync task partition config sync retry delay start time sync global</phrase>
+	<phrase weight="0.010309278350515464" count="1">length map</phrase>
+	<phrase weight="0.010309278350515464" count="1">checksum map map checksum</phrase>
+	<phrase weight="0.010309278350515464" count="1">healthy server</phrase>
+	<phrase weight="0.010309278350515464" count="1">distro debug enable logger distro debug server list server send</phrase>
+	<phrase weight="0.010309278350515464" count="1">server list empty list</phrase>
+  </topic>
+  <topic id="5" alpha="0.12837099763408089" totalTokens="337" titles="service, key, consistency, listener, naco, map, ephemeral, override, persistent, remove">
+	<word weight="0.18991097922848665" count="64">service</word>
+	<word weight="0.142433234421365" count="48">key</word>
+	<word weight="0.10385756676557864" count="35">consistency</word>
+	<word weight="0.05341246290801187" count="18">listener</word>
+	<word weight="0.04747774480712166" count="16">naco</word>
+	<word weight="0.03857566765578635" count="13">map</word>
+	<word weight="0.03857566765578635" count="13">ephemeral</word>
+	<word weight="0.03857566765578635" count="13">override</word>
+	<word weight="0.02967359050445104" count="10">listen</word>
+	<word weight="0.02967359050445104" count="10">persistent</word>
+	<word weight="0.02967359050445104" count="10">remove</word>
+	<word weight="0.026706231454005934" count="9">record</word>
+	<word weight="0.02373887240356083" count="8">exception</word>
+	<word weight="0.02373887240356083" count="8">string</word>
+	<word weight="0.020771513353115726" count="7">impl</word>
+	<word weight="0.020771513353115726" count="7">manager</word>
+	<word weight="0.017804154302670624" count="6">dispatcher</word>
+	<word weight="0.01483679525222552" count="5">equal</word>
+	<word weight="0.01483679525222552" count="5">put</word>
+	<word weight="0.011869436201780416" count="4">builder</word>
+	<phrase weight="0.10526315789473684" count="2">consistency service</phrase>
+	<phrase weight="0.05263157894736842" count="1">validate service</phrase>
+	<phrase weight="0.05263157894736842" count="1">service impl depend protocol</phrase>
+	<phrase weight="0.05263157894736842" count="1">map map</phrase>
+	<phrase weight="0.05263157894736842" count="1">map key</phrase>
+	<phrase weight="0.05263157894736842" count="1">key string</phrase>
+	<phrase weight="0.05263157894736842" count="1">key override remove</phrase>
+	<phrase weight="0.05263157894736842" count="1">service service service</phrase>
+	<phrase weight="0.05263157894736842" count="1">service impl</phrase>
+	<phrase weight="0.05263157894736842" count="1">override listen string</phrase>
+	<phrase weight="0.05263157894736842" count="1">service service</phrase>
+	<phrase weight="0.05263157894736842" count="1">listen key listener override listen string key record listener listener naco exception map consistency service key listen key listener override ephemeral consistency service persistent consistency service consistency service map consistency service string key</phrase>
+	<phrase weight="0.05263157894736842" count="1">naco exception</phrase>
+	<phrase weight="0.05263157894736842" count="1">key record listener listener</phrase>
+	<phrase weight="0.05263157894736842" count="1">ephemeral consistency service</phrase>
+	<phrase weight="0.05263157894736842" count="1">service impl depend protocol manager service</phrase>
+	<phrase weight="0.05263157894736842" count="1">consistency service impl implement persistent consistency service</phrase>
+	<phrase weight="0.05263157894736842" count="1">service impl depend protocol manager service consistency delegate delegate consistency service impl implement consistency service persistent consistency service persistent consistency service ephemeral consistency service ephemeral consistency service delegate consistency service impl persistent consistency service persistent consistency service ephemeral consistency service ephemeral consistency service persistent consistency service persistent consistency service ephemeral consistency service ephemeral consistency service override put string key record naco exception map consistency service key put key override remove string key naco exception map consistency service key remove key override datum string key naco exception map consistency service key key override listen string key record listener listener naco exception special key listen key builder service meta key prefix equal key persistent consistency service listen key listener ephemeral consistency service listen key listener map consistency service</phrase>
+  </topic>
+  <topic id="6" alpha="0.07665906555102645" totalTokens="538" titles="listener, entry, action, apply, notifier, error, server, load, exception, record">
+	<word weight="0.15613382899628253" count="84">listener</word>
+	<word weight="0.09107806691449814" count="49">entry</word>
+	<word weight="0.08364312267657993" count="45">action</word>
+	<word weight="0.046468401486988845" count="25">apply</word>
+	<word weight="0.03903345724907063" count="21">notifier</word>
+	<word weight="0.03903345724907063" count="21">error</word>
+	<word weight="0.03903345724907063" count="21">server</word>
+	<word weight="0.03717472118959108" count="20">load</word>
+	<word weight="0.03717472118959108" count="20">exception</word>
+	<word weight="0.03717472118959108" count="20">record</word>
+	<word weight="0.031598513011152414" count="17">change</word>
+	<word weight="0.02973977695167286" count="16">pair</word>
+	<word weight="0.027881040892193308" count="15">update</word>
+	<word weight="0.022304832713754646" count="12">global</word>
+	<word weight="0.020446096654275093" count="11">concurrent</word>
+	<word weight="0.01858736059479554" count="10">size</word>
+	<word weight="0.01858736059479554" count="10">domain</word>
+	<word weight="0.016728624535315983" count="9">initialize</word>
+	<word weight="0.016728624535315983" count="9">process</word>
+	<word weight="0.01486988847583643" count="8">throwable</word>
+	<phrase weight="0.07692307692307693" count="6">apply action</phrase>
+	<phrase weight="0.038461538461538464" count="3">action action</phrase>
+	<phrase weight="0.038461538461538464" count="3">listener listener</phrase>
+	<phrase weight="0.038461538461538464" count="3">record listener listener</phrase>
+	<phrase weight="0.02564102564102564" count="2">queue pair</phrase>
+	<phrase weight="0.02564102564102564" count="2">listener listener listener</phrase>
+	<phrase weight="0.02564102564102564" count="2">change notify</phrase>
+	<phrase weight="0.02564102564102564" count="2">apply action pair</phrase>
+	<phrase weight="0.02564102564102564" count="2">error handle notify</phrase>
+	<phrase weight="0.02564102564102564" count="2">domain global</phrase>
+	<phrase weight="0.02564102564102564" count="2">record listener</phrase>
+	<phrase weight="0.02564102564102564" count="2">record listener listener listener</phrase>
+	<phrase weight="0.02564102564102564" count="2">apply action change listener change</phrase>
+	<phrase weight="0.01282051282051282" count="1">notifier notifier notifier</phrase>
+	<phrase weight="0.01282051282051282" count="1">sleep initialize</phrase>
+	<phrase weight="0.01282051282051282" count="1">entry listener</phrase>
+	<phrase weight="0.01282051282051282" count="1">handle pair</phrase>
+	<phrase weight="0.01282051282051282" count="1">false notifier notifier notifier load</phrase>
+	<phrase weight="0.01282051282051282" count="1">listener record listener listener</phrase>
+	<phrase weight="0.01282051282051282" count="1">listener concurrent</phrase>
+  </topic>
+  <topic id="7" alpha="0.060070849937245714" totalTokens="1185" titles="raft, peer, term, local, leader, util, json, state, response, jackson">
+	<word weight="0.11223628691983123" count="133">raft</word>
+	<word weight="0.10464135021097046" count="124">peer</word>
+	<word weight="0.09029535864978903" count="107">term</word>
+	<word weight="0.07763713080168777" count="92">local</word>
+	<word weight="0.05569620253164557" count="66">leader</word>
+	<word weight="0.04810126582278481" count="57">util</word>
+	<word weight="0.035443037974683546" count="42">json</word>
+	<word weight="0.030379746835443037" count="36">state</word>
+	<word weight="0.029535864978902954" count="35">response</word>
+	<word weight="0.029535864978902954" count="35">jackson</word>
+	<word weight="0.024472573839662448" count="29">publish</word>
+	<word weight="0.02362869198312236" count="28">map</word>
+	<word weight="0.02362869198312236" count="28">node</word>
+	<word weight="0.018565400843881856" count="22">url</word>
+	<word weight="0.018565400843881856" count="22">size</word>
+	<word weight="0.017721518987341773" count="21">vote</word>
+	<word weight="0.016033755274261603" count="19">http</word>
+	<word weight="0.014345991561181435" count="17">string</word>
+	<word weight="0.012658227848101266" count="15">reset</word>
+	<word weight="0.010126582278481013" count="12">async</word>
+	<phrase weight="0.05357142857142857" count="12">term local term</phrase>
+	<phrase weight="0.017857142857142856" count="4">url build url</phrase>
+	<phrase weight="0.017857142857142856" count="4">context raft</phrase>
+	<phrase weight="0.017857142857142856" count="4">raft info</phrase>
+	<phrase weight="0.017857142857142856" count="4">peer leader</phrase>
+	<phrase weight="0.017857142857142856" count="4">async completion handler</phrase>
+	<phrase weight="0.017857142857142856" count="4">local term</phrase>
+	<phrase weight="0.013392857142857142" count="3">jackson util create empty json node</phrase>
+	<phrase weight="0.013392857142857142" count="3">raft peer</phrase>
+	<phrase weight="0.013392857142857142" count="3">code http connection</phrase>
+	<phrase weight="0.013392857142857142" count="3">jackson util</phrase>
+	<phrase weight="0.013392857142857142" count="3">publish term</phrase>
+	<phrase weight="0.013392857142857142" count="3">complete response response</phrase>
+	<phrase weight="0.013392857142857142" count="3">json node</phrase>
+	<phrase weight="0.013392857142857142" count="3">util local</phrase>
+	<phrase weight="0.008928571428571428" count="2">integer complete response response</phrase>
+	<phrase weight="0.008928571428571428" count="2">peer peer</phrase>
+	<phrase weight="0.008928571428571428" count="2">peer http code</phrase>
+	<phrase weight="0.008928571428571428" count="2">illegal state</phrase>
+	<phrase weight="0.008928571428571428" count="2">local reset heartbeat</phrase>
+  </topic>
+  <topic id="8" alpha="0.26638478059559073" totalTokens="1234" titles="datum, key, logger, string, param, delete, count, list, service, put">
+	<word weight="0.27228525121555913" count="336">datum</word>
+	<word weight="0.24635332252836303" count="304">key</word>
+	<word weight="0.0713128038897893" count="88">logger</word>
+	<word weight="0.0526742301458671" count="65">string</word>
+	<word weight="0.03403565640194489" count="42">param</word>
+	<word weight="0.027552674230145867" count="34">delete</word>
+	<word weight="0.025121555915721232" count="31">count</word>
+	<word weight="0.02106969205834684" count="26">list</word>
+	<word weight="0.02025931928687196" count="25">service</word>
+	<word weight="0.019448946515397084" count="24">put</word>
+	<word weight="0.01620745542949757" count="20">task</word>
+	<word weight="0.01539708265802269" count="19">builder</word>
+	<word weight="0.013776337115072933" count="17">fail</word>
+	<word weight="0.012965964343598054" count="16">instance</word>
+	<word weight="0.01053484602917342" count="13">remove</word>
+	<word weight="0.008914100486223663" count="11">warn</word>
+	<word weight="0.008914100486223663" count="11">match</word>
+	<word weight="0.008103727714748784" count="10">array</word>
+	<word weight="0.008103727714748784" count="10">proxy</word>
+	<word weight="0.007293354943273906" count="9">executor</word>
+	<phrase weight="0.05612244897959184" count="11">datum key</phrase>
+	<phrase weight="0.03571428571428571" count="7">datum datum</phrase>
+	<phrase weight="0.03571428571428571" count="7">key datum</phrase>
+	<phrase weight="0.03571428571428571" count="7">key key</phrase>
+	<phrase weight="0.030612244897959183" count="6">key datum key</phrase>
+	<phrase weight="0.030612244897959183" count="6">enable logger</phrase>
+	<phrase weight="0.015306122448979591" count="3">datum key count</phrase>
+	<phrase weight="0.01020408163265306" count="2">datum string</phrase>
+	<phrase weight="0.01020408163265306" count="2">remove key</phrase>
+	<phrase weight="0.01020408163265306" count="2">string list</phrase>
+	<phrase weight="0.01020408163265306" count="2">datum datum put datum key datum</phrase>
+	<phrase weight="0.01020408163265306" count="2">datum instance</phrase>
+	<phrase weight="0.01020408163265306" count="2">key builder</phrase>
+	<phrase weight="0.01020408163265306" count="2">delete datum key</phrase>
+	<phrase weight="0.01020408163265306" count="2">put string key</phrase>
+	<phrase weight="0.01020408163265306" count="2">string key</phrase>
+	<phrase weight="0.01020408163265306" count="2">put key key</phrase>
+	<phrase weight="0.01020408163265306" count="2">service datum</phrase>
+	<phrase weight="0.01020408163265306" count="2">instance datum</phrase>
+	<phrase weight="0.01020408163265306" count="2">task datum key</phrase>
+  </topic>
+  <topic id="9" alpha="0.10670749986017575" totalTokens="342" titles="raft, exception, naco, source, server, core, fail, error, override, autowire">
+	<word weight="0.17543859649122806" count="60">raft</word>
+	<word weight="0.11988304093567251" count="41">exception</word>
+	<word weight="0.11403508771929824" count="39">naco</word>
+	<word weight="0.08771929824561403" count="30">source</word>
+	<word weight="0.06725146198830409" count="23">server</word>
+	<word weight="0.05263157894736842" count="18">core</word>
+	<word weight="0.038011695906432746" count="13">fail</word>
+	<word weight="0.03508771929824561" count="12">error</word>
+	<word weight="0.03216374269005848" count="11">override</word>
+	<word weight="0.023391812865497075" count="8">autowire</word>
+	<word weight="0.02046783625730994" count="7">peer</word>
+	<word weight="0.02046783625730994" count="7">domain</word>
+	<word weight="0.02046783625730994" count="7">put</word>
+	<word weight="0.017543859649122806" count="6">listener</word>
+	<word weight="0.014619883040935672" count="5">listen</word>
+	<word weight="0.014619883040935672" count="5">datum</word>
+	<word weight="0.011695906432748537" count="4">status</word>
+	<word weight="0.011695906432748537" count="4">record</word>
+	<word weight="0.008771929824561403" count="3">metric</word>
+	<word weight="0.008771929824561403" count="3">client</word>
+	<phrase weight="0.06666666666666667" count="3">naco raft</phrase>
+	<phrase weight="0.044444444444444446" count="2">raft error raft</phrase>
+	<phrase weight="0.022222222222222223" count="1">source server naco exception naco exception put datum</phrase>
+	<phrase weight="0.022222222222222223" count="1">raft core</phrase>
+	<phrase weight="0.022222222222222223" count="1">override raft core initialize server status</phrase>
+	<phrase weight="0.022222222222222223" count="1">datum raft peer source naco exception raft core</phrase>
+	<phrase weight="0.022222222222222223" count="1">exception raft core</phrase>
+	<phrase weight="0.022222222222222223" count="1">fail naco exception naco exception server error raft</phrase>
+	<phrase weight="0.022222222222222223" count="1">listener naco exception raft core listen</phrase>
+	<phrase weight="0.022222222222222223" count="1">exception raft</phrase>
+	<phrase weight="0.022222222222222223" count="1">source exception</phrase>
+	<phrase weight="0.022222222222222223" count="1">fail exception</phrase>
+	<phrase weight="0.022222222222222223" count="1">raft core raft core autowire raft peer set peer autowire domain domain override put</phrase>
+	<phrase weight="0.022222222222222223" count="1">raft error</phrase>
+	<phrase weight="0.022222222222222223" count="1">autowire raft</phrase>
+	<phrase weight="0.022222222222222223" count="1">domain override server status</phrase>
+	<phrase weight="0.022222222222222223" count="1">peer exception</phrase>
+	<phrase weight="0.022222222222222223" count="1">source server naco exception naco exception</phrase>
+	<phrase weight="0.022222222222222223" count="1">listener listen</phrase>
+	<phrase weight="0.022222222222222223" count="1">error naco raft</phrase>
+  </topic>
+</topics>

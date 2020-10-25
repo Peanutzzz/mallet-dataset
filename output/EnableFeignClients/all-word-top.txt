@@ -1,0 +1,50 @@
+0 app 2:14
+1 enable 6:26 3:1
+2 discovery 3:8
+3 client 2:20
+4 configuration 2:6
+5 property 7:4
+6 file 7:3
+7 server 8:3
+8 feign 2:14 8:1
+9 interceptor 6:4
+10 spring 3:16
+11 boot 3:8
+12 application 6:18 0:7
+13 center 7:4
+14 main 2:8
+15 string 2:8
+16 arg 3:16
+17 run 3:8
+18 target 4:1
+19 element 4:1
+20 type 4:2
+21 retention 4:2
+22 policy 1:1
+23 runtime 4:1
+24 base 5:2 4:1
+25 central 9:3
+26 search 9:4
+27 service 1:8
+28 fallback 4:1
+29 factory 4:1
+30 query 4:1
+31 impl 4:1
+32 index 7:1
+33 business 8:2
+34 mapper 0:4
+35 scan 1:3
+36 order 1:3
+37 exclude 0:2
+38 datum 2:2
+39 source 1:2
+40 auto 2:2
+41 storage 9:3
+42 component 5:1
+43 gateway 5:5
+44 zuul 2:1
+45 proxy 5:1
+46 redis 8:1
+47 http 6:1
+48 session 4:1
+49 uaa 2:2

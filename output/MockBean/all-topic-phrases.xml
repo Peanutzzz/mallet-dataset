@@ -1,0 +1,31 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.743989375098405" totalTokens="21" titles="client, api, sentinel, bean, mock, test, controller, rule, ">
+	<word weight="0.19047619047619047" count="4">client</word>
+	<word weight="0.19047619047619047" count="4">api</word>
+	<word weight="0.19047619047619047" count="4">sentinel</word>
+	<word weight="0.09523809523809523" count="2">bean</word>
+	<word weight="0.09523809523809523" count="2">mock</word>
+	<word weight="0.09523809523809523" count="2">test</word>
+	<word weight="0.09523809523809523" count="2">controller</word>
+	<word weight="0.047619047619047616" count="1">rule</word>
+  </topic>
+  <topic id="1" alpha="4.477032930488246E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="4.477032930488246E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="4.477032930488246E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="4.477032930488246E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="4.477032930488246E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="4.477032930488246E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="4.477032930488246E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="4.477032930488246E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="4.477032930488246E-12" totalTokens="0" titles="">
+  </topic>
+</topics>

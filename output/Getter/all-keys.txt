@@ -1,0 +1,10 @@
+0	0.06242	string getter setter client grant token serial del logic dto strip service require parameter operation date override version implement user 
+1	0.1191	property getter setter string zlt prefix configuration refresh scope cache oss code key log config auth audit validate enable security 
+2	0.01324	fill time field update auto create insert true table mybatis date val serializable entity enable extend 
+3	0.00953	integer connect rest max time pool timeout template route read total num request socket elasticsearch 
+4	0.03269	role user collection constructor arg override extend menu getter authority model enable code hash setter test account table false call 
+5	0.00493	executor pool task size thread set max asyc capacity queue core prefix run caller policy config initialize handler execution reject 
+6	0.01129	route service path physical map true url retryable flag pattern header entity sensitive ribbon retry generally support forward patcher determine 
+7	0.04694	url list string array enable property ignore http client permission true renew setter mapper false endpoint getter sql tenant exclusive 
+8	0.00541	search builder field string page param request highlight query object hit source client list tag set limit str elasticsearch util 
+9	0.00906	route swagger generate size ignore set true api add expire version doc false hash agg string path stream util json 

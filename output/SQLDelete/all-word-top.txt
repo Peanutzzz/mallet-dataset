@@ -1,0 +1,79 @@
+0 entity 7:50 9:1 1:1
+1 table 7:22
+2 access 9:3
+3 key 2:42
+4 delete 7:64 3:3
+5 sql 7:21 1:1
+6 update 7:21 3:2
+7 set 7:126
+8 clause 7:18 2:3 3:1
+9 extend 7:21 1:1
+10 base 7:18 3:4
+11 column 7:91
+12 app 1:43 5:33 6:21 9:18 0:18
+13 nullable 7:71 0:1
+14 false 7:73
+15 string 7:242 2:16 6:11 5:5 1:1
+16 secret 9:10
+17 enable 9:9 2:1
+18 definition 7:3
+19 bit 7:3
+20 override 7:5 4:1
+21 helper 7:16
+22 add 7:61 5:7
+23 audit 7:3
+24 insert 2:1
+25 comment 2:70
+26 cluster 1:48 0:18 2:10 6:2
+27 implement 1:1
+28 comparable 1:1
+29 parent 1:10
+30 compare 1:1
+31 commit 2:3
+32 lob 2:3
+33 change 1:10
+34 namespace 1:38 8:20 0:18 6:11
+35 rule 0:12
+36 gray 0:3
+37 release 0:34 1:11
+38 branch 0:26
+39 status 0:8
+40 item 8:3
+41 line 8:10
+42 num 8:10
+43 integer 8:3
+44 privilege 8:3
+45 privil 8:10
+46 type 8:10 3:8
+47 configuration 1:10
+48 abandon 1:10
+49 history 0:3
+50 previous 0:10
+51 operation 0:18
+52 context 0:8
+53 server 2:8
+54 config 2:10
+55 blank 6:16
+56 message 6:13
+57 pattern 6:2
+58 regexp 7:2
+59 input 6:5
+60 validator 6:5 5:2
+61 invalid 6:4
+62 org 5:48
+63 owner 5:50
+64 email 5:25
+65 builder 5:11
+66 build 7:1
+67 format 6:15
+68 file 2:1 6:1
+69 consumer 4:26 5:3
+70 role 3:46
+71 token 4:13
+72 expire 4:10
+73 date 4:3
+74 favorite 9:3
+75 user 3:11 9:8
+76 position 9:8
+77 permission 3:22
+78 target 3:8

@@ -1,0 +1,45 @@
+0 app 9:3
+1 enable 0:8 6:5 9:2
+2 discovery 0:1
+3 client 0:4
+4 search 9:1
+5 transaction 2:5
+6 management 0:4 3:1
+7 feign 4:1
+8 interceptor 3:1
+9 spring 8:7
+10 boot 8:2
+11 application 1:16 8:5
+12 user 4:2
+13 center 2:2
+14 main 4:5
+15 string 2:5
+16 arg 2:10
+17 run 9:5
+18 rocket 1:2
+19 aspect 1:3
+20 auto 1:6
+21 proxy 0:3
+22 eureka 7:2
+23 configuration 5:6
+24 property 5:4
+25 source 7:2
+26 classpath 7:2
+27 adminservice 4:1
+28 component 6:3
+29 scan 4:3
+30 base 3:3
+31 apollo 3:6
+32 common 5:3
+33 config 7:11
+34 biz 4:2
+35 admin 5:2 9:1
+36 service 7:7
+37 exclude 1:1
+38 bean 4:1
+39 configservice 2:1
+40 meta 7:1
+41 exception 1:2
+42 portal 2:4
+43 open 7:1
+44 api 1:1

@@ -1,0 +1,10 @@
+0	0.08075	row string function collect table output eval array split extend tinyint simple fail expression access 
+1	0	
+2	0	
+3	0.00441	implementation helper annotation 
+4	0.00905	type datum timestamp date decimal string timezone todo big tinyint character bool binary join instant interval collect object scalar 
+5	0.00444	
+6	0.92286	hint type datum function output input test extractor eval bigint integer extend number scalar string full argument invalid global order 
+7	0.00974	time local map array zone support type precision small datum collector stream offset duration interaval period custom binary smallint bigint 
+8	0.0488	row accumulator string function override aggregate datum accumulate create method dependent object acc invalid annotation 
+9	0.02443	object obj override scalar group input equal code hash func true arg var abc builder tree bridge integer function 

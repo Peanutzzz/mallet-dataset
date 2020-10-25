@@ -1,0 +1,123 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.2998989049090925" totalTokens="5" titles="configuration, exclude, service, biz, ">
+	<word weight="0.4" count="2">configuration</word>
+	<word weight="0.2" count="1">exclude</word>
+	<word weight="0.2" count="1">service</word>
+	<word weight="0.2" count="1">biz</word>
+  </topic>
+  <topic id="1" alpha="0.21359201858014415" totalTokens="33" titles="cor, source, init, configuration, controller, console, post, autowire, ">
+	<word weight="0.24242424242424243" count="8">cor</word>
+	<word weight="0.21212121212121213" count="7">source</word>
+	<word weight="0.15151515151515152" count="5">init</word>
+	<word weight="0.15151515151515152" count="5">configuration</word>
+	<word weight="0.12121212121212122" count="4">controller</word>
+	<word weight="0.06060606060606061" count="2">console</word>
+	<word weight="0.030303030303030304" count="1">post</word>
+	<word weight="0.030303030303030304" count="1">autowire</word>
+	<phrase weight="0.42857142857142855" count="3">cor configuration</phrase>
+	<phrase weight="0.14285714285714285" count="1">cor configuration source source</phrase>
+	<phrase weight="0.14285714285714285" count="1">console controller</phrase>
+	<phrase weight="0.14285714285714285" count="1">configuration source source</phrase>
+	<phrase weight="0.14285714285714285" count="1">autowire controller</phrase>
+  </topic>
+  <topic id="2" alpha="0.5261390211705564" totalTokens="14" titles="client, scan, component, register, origin, exception, adminservice, ">
+	<word weight="0.35714285714285715" count="5">client</word>
+	<word weight="0.21428571428571427" count="3">scan</word>
+	<word weight="0.14285714285714285" count="2">component</word>
+	<word weight="0.07142857142857142" count="1">register</word>
+	<word weight="0.07142857142857142" count="1">origin</word>
+	<word weight="0.07142857142857142" count="1">exception</word>
+	<word weight="0.07142857142857142" count="1">adminservice</word>
+	<phrase weight="1.0" count="1">component scan</phrase>
+  </topic>
+  <topic id="3" alpha="0.2559681353212443" totalTokens="8" titles="server, datasource, csp, credentials, ">
+	<word weight="0.625" count="5">server</word>
+	<word weight="0.125" count="1">datasource</word>
+	<word weight="0.125" count="1">csp</word>
+	<word weight="0.125" count="1">credentials</word>
+  </topic>
+  <topic id="4" alpha="0.965146881790103" totalTokens="18" titles="arg, string, admin, boot, management, transaction, scheduling, ">
+	<word weight="0.2222222222222222" count="4">arg</word>
+	<word weight="0.2222222222222222" count="4">string</word>
+	<word weight="0.16666666666666666" count="3">admin</word>
+	<word weight="0.1111111111111111" count="2">boot</word>
+	<word weight="0.1111111111111111" count="2">management</word>
+	<word weight="0.1111111111111111" count="2">transaction</word>
+	<word weight="0.05555555555555555" count="1">scheduling</word>
+	<phrase weight="0.6666666666666666" count="2">transaction management</phrase>
+	<phrase weight="0.3333333333333333" count="1">string arg</phrase>
+  </topic>
+  <topic id="5" alpha="0.7218228589027397" totalTokens="25" titles="service, auto, set, bean, common, configuration, proxy, sentinel, meta, configservice">
+	<word weight="0.24" count="6">service</word>
+	<word weight="0.16" count="4">auto</word>
+	<word weight="0.08" count="2">set</word>
+	<word weight="0.08" count="2">bean</word>
+	<word weight="0.08" count="2">common</word>
+	<word weight="0.08" count="2">configuration</word>
+	<word weight="0.08" count="2">proxy</word>
+	<word weight="0.04" count="1">sentinel</word>
+	<word weight="0.04" count="1">meta</word>
+	<word weight="0.04" count="1">configservice</word>
+	<word weight="0.04" count="1">biz</word>
+	<word weight="0.04" count="1">application</word>
+	<phrase weight="0.5" count="1">auto configuration</phrase>
+	<phrase weight="0.5" count="1">bean configuration</phrase>
+  </topic>
+  <topic id="6" alpha="0.3622198874605063" totalTokens="26" titles="method, cache, add, filter, naco, alibaba, construct, ">
+	<word weight="0.34615384615384615" count="9">method</word>
+	<word weight="0.19230769230769232" count="5">cache</word>
+	<word weight="0.11538461538461539" count="3">add</word>
+	<word weight="0.11538461538461539" count="3">filter</word>
+	<word weight="0.11538461538461539" count="3">naco</word>
+	<word weight="0.07692307692307693" count="2">alibaba</word>
+	<word weight="0.038461538461538464" count="1">construct</word>
+	<phrase weight="0.4" count="2">method alibaba naco</phrase>
+	<phrase weight="0.4" count="2">method cache</phrase>
+	<phrase weight="0.2" count="1">cache method cache</phrase>
+  </topic>
+  <topic id="7" alpha="1.362799959836427" totalTokens="58" titles="config, property, run, base, classpath, url, alibaba, arg, cloud, age">
+	<word weight="0.4482758620689655" count="26">config</word>
+	<word weight="0.1724137931034483" count="10">property</word>
+	<word weight="0.06896551724137931" count="4">run</word>
+	<word weight="0.06896551724137931" count="4">base</word>
+	<word weight="0.06896551724137931" count="4">classpath</word>
+	<word weight="0.034482758620689655" count="2">url</word>
+	<word weight="0.034482758620689655" count="2">alibaba</word>
+	<word weight="0.034482758620689655" count="2">arg</word>
+	<word weight="0.017241379310344827" count="1">cloud</word>
+	<word weight="0.017241379310344827" count="1">age</word>
+	<word weight="0.017241379310344827" count="1">header</word>
+	<word weight="0.017241379310344827" count="1">true</word>
+	<phrase weight="0.16666666666666666" count="2">classpath config</phrase>
+	<phrase weight="0.16666666666666666" count="2">config config</phrase>
+	<phrase weight="0.16666666666666666" count="2">property config</phrase>
+	<phrase weight="0.08333333333333333" count="1">cloud config</phrase>
+	<phrase weight="0.08333333333333333" count="1">url base</phrase>
+	<phrase weight="0.08333333333333333" count="1">age config</phrase>
+	<phrase weight="0.08333333333333333" count="1">true config</phrase>
+	<phrase weight="0.08333333333333333" count="1">header config</phrase>
+	<phrase weight="0.08333333333333333" count="1">run config</phrase>
+  </topic>
+  <topic id="8" alpha="1.5787406422322645" totalTokens="50" titles="application, enable, spring, apollo, main, source, component, eureka, aspect, ">
+	<word weight="0.32" count="16">application</word>
+	<word weight="0.18" count="9">enable</word>
+	<word weight="0.14" count="7">spring</word>
+	<word weight="0.1" count="5">apollo</word>
+	<word weight="0.08" count="4">main</word>
+	<word weight="0.06" count="3">source</word>
+	<word weight="0.04" count="2">component</word>
+	<word weight="0.04" count="2">eureka</word>
+	<word weight="0.04" count="2">aspect</word>
+	<phrase weight="0.3333333333333333" count="3">spring application</phrase>
+	<phrase weight="0.2222222222222222" count="2">application main</phrase>
+	<phrase weight="0.1111111111111111" count="1">application enable aspect</phrase>
+	<phrase weight="0.1111111111111111" count="1">enable eureka</phrase>
+	<phrase weight="0.1111111111111111" count="1">application apollo</phrase>
+	<phrase weight="0.1111111111111111" count="1">enable aspect</phrase>
+  </topic>
+  <topic id="9" alpha="0.3906991560241842" totalTokens="2" titles="test, max, ">
+	<word weight="0.5" count="1">test</word>
+	<word weight="0.5" count="1">max</word>
+  </topic>
+</topics>

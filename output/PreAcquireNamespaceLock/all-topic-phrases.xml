@@ -1,0 +1,169 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6803219874130133" totalTokens="68" titles="entity, modify, commit, datum, comment, service, request, delete, bean, set">
+	<word weight="0.36764705882352944" count="25">entity</word>
+	<word weight="0.16176470588235295" count="11">modify</word>
+	<word weight="0.11764705882352941" count="8">commit</word>
+	<word weight="0.10294117647058823" count="7">datum</word>
+	<word weight="0.04411764705882353" count="3">comment</word>
+	<word weight="0.04411764705882353" count="3">service</word>
+	<word weight="0.04411764705882353" count="3">request</word>
+	<word weight="0.029411764705882353" count="2">delete</word>
+	<word weight="0.029411764705882353" count="2">bean</word>
+	<word weight="0.014705882352941176" count="1">set</word>
+	<word weight="0.014705882352941176" count="1">exist</word>
+	<word weight="0.014705882352941176" count="1">bad</word>
+	<word weight="0.014705882352941176" count="1">builder</word>
+	<phrase weight="0.2" count="1">bad request</phrase>
+	<phrase weight="0.2" count="1">comment entity comment</phrase>
+	<phrase weight="0.2" count="1">modify entity datum</phrase>
+	<phrase weight="0.2" count="1">modify entity</phrase>
+	<phrase weight="0.2" count="1">comment modify modify</phrase>
+  </topic>
+  <topic id="1" alpha="2.52855689022435" totalTokens="71" titles="namespace, app, create, path, datum, response, itemset, exist, exception, bad">
+	<word weight="0.4225352112676056" count="30">namespace</word>
+	<word weight="0.22535211267605634" count="16">app</word>
+	<word weight="0.08450704225352113" count="6">create</word>
+	<word weight="0.07042253521126761" count="5">path</word>
+	<word weight="0.056338028169014086" count="4">datum</word>
+	<word weight="0.014084507042253521" count="1">response</word>
+	<word weight="0.014084507042253521" count="1">itemset</word>
+	<word weight="0.014084507042253521" count="1">exist</word>
+	<word weight="0.014084507042253521" count="1">exception</word>
+	<word weight="0.014084507042253521" count="1">bad</word>
+	<word weight="0.014084507042253521" count="1">key</word>
+	<word weight="0.014084507042253521" count="1">builder</word>
+	<word weight="0.014084507042253521" count="1">entity</word>
+	<word weight="0.014084507042253521" count="1">variable</word>
+	<word weight="0.014084507042253521" count="1">pre</word>
+	<phrase weight="0.2" count="3">app app</phrase>
+	<phrase weight="0.2" count="3">namespace namespace</phrase>
+	<phrase weight="0.2" count="3">app path</phrase>
+	<phrase weight="0.13333333333333333" count="2">namespace namespace namespace</phrase>
+	<phrase weight="0.06666666666666667" count="1">create path</phrase>
+	<phrase weight="0.06666666666666667" count="1">namespace path</phrase>
+	<phrase weight="0.06666666666666667" count="1">namespace itemset</phrase>
+	<phrase weight="0.06666666666666667" count="1">namespace app</phrase>
+  </topic>
+  <topic id="2" alpha="1.1710195321746504" totalTokens="17" titles="dto, service, path, cluster, datum, build, entity, mapping, ">
+	<word weight="0.35294117647058826" count="6">dto</word>
+	<word weight="0.17647058823529413" count="3">service</word>
+	<word weight="0.11764705882352941" count="2">path</word>
+	<word weight="0.11764705882352941" count="2">cluster</word>
+	<word weight="0.058823529411764705" count="1">datum</word>
+	<word weight="0.058823529411764705" count="1">build</word>
+	<word weight="0.058823529411764705" count="1">entity</word>
+	<word weight="0.058823529411764705" count="1">mapping</word>
+	<phrase weight="1.0" count="1">dto datum</phrase>
+  </topic>
+  <topic id="3" alpha="1.6390779263883444" totalTokens="39" titles="cluster, string, variable, request, path, lock, build, http, controller, change">
+	<word weight="0.2564102564102564" count="10">cluster</word>
+	<word weight="0.23076923076923078" count="9">string</word>
+	<word weight="0.10256410256410256" count="4">variable</word>
+	<word weight="0.07692307692307693" count="3">request</word>
+	<word weight="0.07692307692307693" count="3">path</word>
+	<word weight="0.07692307692307693" count="3">lock</word>
+	<word weight="0.05128205128205128" count="2">build</word>
+	<word weight="0.02564102564102564" count="1">http</word>
+	<word weight="0.02564102564102564" count="1">controller</word>
+	<word weight="0.02564102564102564" count="1">change</word>
+	<word weight="0.02564102564102564" count="1">entity</word>
+	<word weight="0.02564102564102564" count="1">pre</word>
+	<phrase weight="0.5" count="2">cluster cluster</phrase>
+	<phrase weight="0.25" count="1">cluster string cluster path</phrase>
+	<phrase weight="0.25" count="1">string cluster path</phrase>
+  </topic>
+  <topic id="4" alpha="1.3113411603149863" totalTokens="93" titles="commit, change, builder, set, config, save, service, manage, util, bean">
+	<word weight="0.26881720430107525" count="25">commit</word>
+	<word weight="0.22580645161290322" count="21">change</word>
+	<word weight="0.10752688172043011" count="10">builder</word>
+	<word weight="0.0967741935483871" count="9">set</word>
+	<word weight="0.053763440860215055" count="5">config</word>
+	<word weight="0.043010752688172046" count="4">save</word>
+	<word weight="0.043010752688172046" count="4">service</word>
+	<word weight="0.021505376344086023" count="2">manage</word>
+	<word weight="0.021505376344086023" count="2">util</word>
+	<word weight="0.021505376344086023" count="2">bean</word>
+	<word weight="0.021505376344086023" count="2">variable</word>
+	<word weight="0.010752688172043012" count="1">delete</word>
+	<word weight="0.010752688172043012" count="1">build</word>
+	<word weight="0.010752688172043012" count="1">find</word>
+	<word weight="0.010752688172043012" count="1">transform</word>
+	<word weight="0.010752688172043012" count="1">body</word>
+	<word weight="0.010752688172043012" count="1">path</word>
+	<word weight="0.010752688172043012" count="1">pre</word>
+	<phrase weight="0.1875" count="3">config change</phrase>
+	<phrase weight="0.1875" count="3">commit set</phrase>
+	<phrase weight="0.0625" count="1">bean util</phrase>
+	<phrase weight="0.0625" count="1">build commit</phrase>
+	<phrase weight="0.0625" count="1">set change</phrase>
+	<phrase weight="0.0625" count="1">service save</phrase>
+	<phrase weight="0.0625" count="1">builder builder config change</phrase>
+	<phrase weight="0.0625" count="1">commit commit commit commit set</phrase>
+	<phrase weight="0.0625" count="1">bean util transform</phrase>
+	<phrase weight="0.0625" count="1">save commit</phrase>
+	<phrase weight="0.0625" count="1">commit service save commit</phrase>
+	<phrase weight="0.0625" count="1">commit commit commit commit</phrase>
+  </topic>
+  <topic id="5" alpha="0.7381515264974433" totalTokens="6" titles="param, update, service, variable, cluster, app, ">
+	<word weight="0.16666666666666666" count="1">param</word>
+	<word weight="0.16666666666666666" count="1">update</word>
+	<word weight="0.16666666666666666" count="1">service</word>
+	<word weight="0.16666666666666666" count="1">variable</word>
+	<word weight="0.16666666666666666" count="1">cluster</word>
+	<word weight="0.16666666666666666" count="1">app</word>
+  </topic>
+  <topic id="6" alpha="0.6903466959417088" totalTokens="9" titles="find, response, delete, exception, change, cluster, lock, ">
+	<word weight="0.3333333333333333" count="3">find</word>
+	<word weight="0.1111111111111111" count="1">response</word>
+	<word weight="0.1111111111111111" count="1">delete</word>
+	<word weight="0.1111111111111111" count="1">exception</word>
+	<word weight="0.1111111111111111" count="1">change</word>
+	<word weight="0.1111111111111111" count="1">cluster</word>
+	<word weight="0.1111111111111111" count="1">lock</word>
+	<phrase weight="1.0" count="1">lock delete</phrase>
+  </topic>
+  <topic id="7" alpha="2.304222330898498" totalTokens="45" titles="set, update, content, operator, variable, mapping, acquire, find, entity, post">
+	<word weight="0.4" count="18">set</word>
+	<word weight="0.1111111111111111" count="5">update</word>
+	<word weight="0.1111111111111111" count="5">content</word>
+	<word weight="0.08888888888888889" count="4">operator</word>
+	<word weight="0.06666666666666667" count="3">variable</word>
+	<word weight="0.06666666666666667" count="3">mapping</word>
+	<word weight="0.044444444444444446" count="2">app</word>
+	<word weight="0.044444444444444446" count="2">acquire</word>
+	<word weight="0.022222222222222223" count="1">find</word>
+	<word weight="0.022222222222222223" count="1">entity</word>
+	<word weight="0.022222222222222223" count="1">post</word>
+	<phrase weight="0.5" count="1">post mapping app</phrase>
+	<phrase weight="0.5" count="1">set entity</phrase>
+  </topic>
+  <topic id="8" alpha="2.0323764377085785" totalTokens="75" titles="item, manage, cluster, transform, util, acquire, status, protect, find, content">
+	<word weight="0.6666666666666666" count="50">item</word>
+	<word weight="0.09333333333333334" count="7">manage</word>
+	<word weight="0.06666666666666667" count="5">cluster</word>
+	<word weight="0.05333333333333334" count="4">transform</word>
+	<word weight="0.04" count="3">util</word>
+	<word weight="0.02666666666666667" count="2">acquire</word>
+	<word weight="0.013333333333333334" count="1">status</word>
+	<word weight="0.013333333333333334" count="1">protect</word>
+	<word weight="0.013333333333333334" count="1">find</word>
+	<word weight="0.013333333333333334" count="1">content</word>
+	<phrase weight="0.3333333333333333" count="4">item item</phrase>
+	<phrase weight="0.25" count="3">item item item</phrase>
+	<phrase weight="0.16666666666666666" count="2">item manage</phrase>
+	<phrase weight="0.16666666666666666" count="2">util transform item</phrase>
+	<phrase weight="0.08333333333333333" count="1">util transform item manage</phrase>
+  </topic>
+  <topic id="9" alpha="0.5338844641576531" totalTokens="10" titles="body, status, put, set, exception, bean, string, post, pre, ">
+	<word weight="0.2" count="2">body</word>
+	<word weight="0.1" count="1">status</word>
+	<word weight="0.1" count="1">put</word>
+	<word weight="0.1" count="1">set</word>
+	<word weight="0.1" count="1">exception</word>
+	<word weight="0.1" count="1">bean</word>
+	<word weight="0.1" count="1">string</word>
+	<word weight="0.1" count="1">post</word>
+	<word weight="0.1" count="1">pre</word>
+  </topic>
+</topics>

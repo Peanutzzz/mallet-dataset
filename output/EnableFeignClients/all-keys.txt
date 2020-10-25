@@ -1,0 +1,10 @@
+0	0.47973	application mapper exclude 
+1	0.63692	service order scan source policy 
+2	3.90918	client feign app string main configuration uaa auto datum zuul 
+3	3.19888	arg spring run boot discovery enable 
+4	0.2016	retention type session impl query factory fallback base runtime element target 
+5	0.5631	gateway base proxy component 
+6	2.94075	enable application interceptor http 
+7	0.31519	center property file index 
+8	0.44231	server business redis feign 
+9	0.30516	search storage central 

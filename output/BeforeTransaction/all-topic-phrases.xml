@@ -1,0 +1,38 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="4.97760810270087" totalTokens="33" titles="app, repository, count, equal, namespace, transaction, cluster, println, system, find">
+	<word weight="0.21212121212121213" count="7">app</word>
+	<word weight="0.15151515151515152" count="5">repository</word>
+	<word weight="0.12121212121212122" count="4">count</word>
+	<word weight="0.12121212121212122" count="4">equal</word>
+	<word weight="0.06060606060606061" count="2">namespace</word>
+	<word weight="0.06060606060606061" count="2">transaction</word>
+	<word weight="0.030303030303030304" count="1">cluster</word>
+	<word weight="0.030303030303030304" count="1">println</word>
+	<word weight="0.030303030303030304" count="1">system</word>
+	<word weight="0.030303030303030304" count="1">find</word>
+	<word weight="0.030303030303030304" count="1">state</word>
+	<word weight="0.030303030303030304" count="1">database</word>
+	<word weight="0.030303030303030304" count="1">initial</word>
+	<word weight="0.030303030303030304" count="1">verify</word>
+	<word weight="0.030303030303030304" count="1">test</word>
+  </topic>
+  <topic id="1" alpha="1.2256572127622636E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="1.2256572127622636E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="1.2256572127622636E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="1.2256572127622636E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="1.2256572127622636E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="1.2256572127622636E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="1.2256572127622636E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="1.2256572127622636E-8" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="1.2256572127622636E-8" totalTokens="0" titles="">
+  </topic>
+</topics>

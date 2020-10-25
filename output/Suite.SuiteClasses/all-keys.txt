@@ -1,0 +1,10 @@
+0	33.50894	row table scalar access environment sql type eval bigint abc message env spec base single run 
+1	15.86336	array nullable builder hint rule map method list index multiple call suite access 
+2	7.41602	collect hint api extend closeable expect size string singleton datum field composite 
+3	36.82202	field nest type bigint expression result invalid validation create eval testing nested schema scalar system temporary environment operation logic custom 
+4	12.43332	create env collect select inference call logical schema lateral alias closeable derive calcite result parameterized definition table field 
+5	7.94185	bigint string build row helper environment element spec extend type composite 
+6	11.25191	select nested nullable flatten definition table output accurate contents map spec 
+7	57.97373	result function custom nullable table environment test equal setting expect call instance string false closeable system access argument root data 
+8	32.60916	function env nest build execute create map sql link schema temporary instance exception front runtime produce regular suite 
+9	34.7002	test datum exception sql row iterator composite false item operator method flatten field suite expression 

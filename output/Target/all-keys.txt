@@ -1,0 +1,10 @@
+0	0.00631	type raw datum code link sql parameter hint time opaque prefix fix conversion implementation string year math joda globally map 
+1	0.01816	type hint input argument extraction define function reflection link explicit datum parameter base explicitly annotation output undefined list order arg 
+2	0.03158	precedence lowest order integer option max section highest position represent spi min suffix mode table relative include doc internal init 
+3	0.0516	property naco config link group false type flag code ignore bind invalid converter configuration true refresh auto field unknown object 
+4	0.03567	key code config apollo interested listener application prefix namespace change string spring notify time unit start lock lease locker false 
+5	0.03624	interceptor feign logger enable client command config service description deny permission message privilege auth record string search base recoverable desc 
+6	0.58695	type retention element target runtime policy string field document method evolve internal profile forward annotation constructor factory conditional parameter read 
+7	0.02671	fallback method exception block handler type throwable code nonbinding ignore entry resource set empty string trace note exist share original 
+8	0.00822	placeholder string property config code retry key endpoint naco prefix empty sync remote timeout poll encode max time enable password 
+9	0.00664	type serializer define decimal extract precision pattern group data datum version error interval big precedence java area designate recommend generally 

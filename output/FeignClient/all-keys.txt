@@ -1,0 +1,10 @@
+0	0.0718	count code commodity storage order deduct integer create user request 
+1	0.00302	
+2	0.26975	service factory variable path true fallback constant list object decode query route 
+3	0.05356	search index dto body str result page mapping post fallback constant 
+4	0.08881	role code menu find user service decode 
+5	0.0057	
+6	0.72486	string param client feign request map service rpc fallback spring demo txlcn decode 
+7	0.04776	user username open param mobile login anon mapping find app rpc select path string decode fallback 
+8	0.03918	routing index stat agg aggregation search 
+9	0.0457	account client money reduce user integer post request 

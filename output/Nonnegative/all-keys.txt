@@ -1,0 +1,10 @@
+0	0.00601	nonnegative batch size write key checkpoint state incremental restore util backend handle operation full impl wrapper task 
+1	0.0056	nonnegative subtask store state index impl provider manager local directory checkpoint result 
+2	0.0035	key nonnegative builder composite serialize group prefix mark initial 
+3	0.00144	index subpartition consume nonnegative descriptor deployment 
+4	0.01101	queue nonnegative group key priority total set partition capacity minimum factory snapshot cache index size prefix num wrapper state element 
+5	0.00144	nonnegative invocation generator number forwarding test budget checkpoint size 
+6	0.00312	nonnegative cleanup stats size time end start request config 
+7	0.00135	snapshot map state nonnegative datum entry number write user list skip 
+8	0	
+9	0.01208	key group nonnegative partitioner number base strategy offset prefix snapshot protect test idx reader element current failure exclusive inclusive context 

@@ -1,0 +1,30 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="69.1513897938752" totalTokens="18" titles="service, foo, timeout, dubbo, url, reference, consumer, ">
+	<word weight="0.2222222222222222" count="4">service</word>
+	<word weight="0.2222222222222222" count="4">foo</word>
+	<word weight="0.1111111111111111" count="2">timeout</word>
+	<word weight="0.1111111111111111" count="2">dubbo</word>
+	<word weight="0.1111111111111111" count="2">url</word>
+	<word weight="0.1111111111111111" count="2">reference</word>
+	<word weight="0.1111111111111111" count="2">consumer</word>
+  </topic>
+  <topic id="1" alpha="4.862529865847565E-15" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="4.862529865847565E-15" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="4.862529865847565E-15" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="4.862529865847565E-15" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="4.862529865847565E-15" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="4.862529865847565E-15" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="4.862529865847565E-15" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="4.862529865847565E-15" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="4.862529865847565E-15" totalTokens="0" titles="">
+  </topic>
+</topics>

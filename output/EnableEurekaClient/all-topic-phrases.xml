@@ -1,0 +1,43 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="149.6988720575786" totalTokens="67" titles="enable, client, eureka, application, service, admin, config, apollo, property, configuration">
+	<word weight="0.08955223880597014" count="6">enable</word>
+	<word weight="0.07462686567164178" count="5">client</word>
+	<word weight="0.07462686567164178" count="5">eureka</word>
+	<word weight="0.07462686567164178" count="5">application</word>
+	<word weight="0.04477611940298507" count="3">service</word>
+	<word weight="0.04477611940298507" count="3">admin</word>
+	<word weight="0.04477611940298507" count="3">config</word>
+	<word weight="0.04477611940298507" count="3">apollo</word>
+	<word weight="0.04477611940298507" count="3">property</word>
+	<word weight="0.04477611940298507" count="3">configuration</word>
+	<word weight="0.029850746268656716" count="2">true</word>
+	<word weight="0.029850746268656716" count="2">configure</word>
+	<word weight="0.029850746268656716" count="2">arg</word>
+	<word weight="0.029850746268656716" count="2">auto</word>
+	<word weight="0.014925373134328358" count="1">server</word>
+	<word weight="0.014925373134328358" count="1">missing</word>
+	<word weight="0.014925373134328358" count="1">match</word>
+	<word weight="0.014925373134328358" count="1">conditional</word>
+	<word weight="0.014925373134328358" count="1">run</word>
+	<word weight="0.014925373134328358" count="1">spring</word>
+  </topic>
+  <topic id="1" alpha="1.59030133095335E-64" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="1.59030133095335E-64" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="1.59030133095335E-64" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="1.59030133095335E-64" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="1.59030133095335E-64" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="1.59030133095335E-64" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="1.59030133095335E-64" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="1.59030133095335E-64" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="1.59030133095335E-64" totalTokens="0" titles="">
+  </topic>
+</topics>

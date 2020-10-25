@@ -1,0 +1,13 @@
+0 application 0:15
+1 spring 0:6
+2 boot 0:3
+3 enable 0:6
+4 discovery 0:3
+5 client 0:3
+6 distribute 0:3
+7 transaction 0:3
+8 service 0:6
+9 main 0:3
+10 string 0:3
+11 arg 0:6
+12 run 0:3

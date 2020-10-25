@@ -1,0 +1,26 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="27.70834862755083" totalTokens="0" titles="">
+  </topic>
+  <topic id="1" alpha="28.799556401192934" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="4.5360529928825715" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="23.174562527718173" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="16.3738833779692" totalTokens="1" titles="logic, ">
+	<word weight="1.0" count="1">logic</word>
+  </topic>
+  <topic id="5" alpha="10.74888950449444" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="27.12050598941372" totalTokens="1" titles="del, ">
+	<word weight="1.0" count="1">del</word>
+  </topic>
+  <topic id="7" alpha="20.907669477801853" totalTokens="1" titles="table, ">
+	<word weight="1.0" count="1">table</word>
+  </topic>
+  <topic id="8" alpha="14.694832966189983" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="35.0123929128048" totalTokens="0" titles="">
+  </topic>
+</topics>

@@ -1,0 +1,37 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.714648985597195" totalTokens="23" titles="order, count, code, commodity, client, feign, user, create, deduct, storage">
+	<word weight="0.17391304347826086" count="4">order</word>
+	<word weight="0.08695652173913043" count="2">count</word>
+	<word weight="0.08695652173913043" count="2">code</word>
+	<word weight="0.08695652173913043" count="2">commodity</word>
+	<word weight="0.08695652173913043" count="2">client</word>
+	<word weight="0.08695652173913043" count="2">feign</word>
+	<word weight="0.08695652173913043" count="2">user</word>
+	<word weight="0.043478260869565216" count="1">create</word>
+	<word weight="0.043478260869565216" count="1">deduct</word>
+	<word weight="0.043478260869565216" count="1">storage</word>
+	<word weight="0.043478260869565216" count="1">string</word>
+	<word weight="0.043478260869565216" count="1">place</word>
+	<word weight="0.043478260869565216" count="1">transactional</word>
+	<word weight="0.043478260869565216" count="1">global</word>
+  </topic>
+  <topic id="1" alpha="2.066038202658204E-11" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="2.066038202658204E-11" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="2.066038202658204E-11" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="2.066038202658204E-11" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="2.066038202658204E-11" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="2.066038202658204E-11" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="2.066038202658204E-11" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="2.066038202658204E-11" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="2.066038202658204E-11" totalTokens="0" titles="">
+  </topic>
+</topics>

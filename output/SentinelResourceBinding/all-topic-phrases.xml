@@ -1,0 +1,162 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.8701209881198536E-126" totalTokens="0" titles="">
+  </topic>
+  <topic id="1" alpha="3.9171798371889547E-35" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="0.035842233348227344" totalTokens="30" titles="greet, fallback, sentinel, equal, runtime, degrade, greeting, test, string, bind">
+	<word weight="0.16666666666666666" count="5">greet</word>
+	<word weight="0.16666666666666666" count="5">fallback</word>
+	<word weight="0.13333333333333333" count="4">sentinel</word>
+	<word weight="0.1" count="3">equal</word>
+	<word weight="0.06666666666666667" count="2">runtime</word>
+	<word weight="0.06666666666666667" count="2">degrade</word>
+	<word weight="0.06666666666666667" count="2">greeting</word>
+	<word weight="0.06666666666666667" count="2">test</word>
+	<word weight="0.06666666666666667" count="2">string</word>
+	<word weight="0.06666666666666667" count="2">bind</word>
+	<word weight="0.03333333333333333" count="1">resource</word>
+	<phrase weight="0.25" count="1">sentinel resource bind greeting fallback greet fallback string greet fallback string degrade equal runtime</phrase>
+	<phrase weight="0.25" count="1">degrade equal runtime</phrase>
+	<phrase weight="0.25" count="1">bind greeting</phrase>
+	<phrase weight="0.25" count="1">test sentinel</phrase>
+  </topic>
+  <topic id="3" alpha="2.7061981688331723E-153" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="0.018820273614196362" totalTokens="63" titles="exception, entry, annotation, ctx, sentinel, bind, result, trace, resource, function">
+	<word weight="0.20634920634920634" count="13">exception</word>
+	<word weight="0.15873015873015872" count="10">entry</word>
+	<word weight="0.15873015873015872" count="10">annotation</word>
+	<word weight="0.12698412698412698" count="8">ctx</word>
+	<word weight="0.07936507936507936" count="5">sentinel</word>
+	<word weight="0.047619047619047616" count="3">bind</word>
+	<word weight="0.031746031746031744" count="2">result</word>
+	<word weight="0.031746031746031744" count="2">trace</word>
+	<word weight="0.031746031746031744" count="2">resource</word>
+	<word weight="0.015873015873015872" count="1">function</word>
+	<word weight="0.015873015873015872" count="1">length</word>
+	<word weight="0.015873015873015872" count="1">proceed</word>
+	<word weight="0.015873015873015872" count="1">context</word>
+	<word weight="0.015873015873015872" count="1">object</word>
+	<word weight="0.015873015873015872" count="1">invoke</word>
+	<word weight="0.015873015873015872" count="1">monitor</word>
+	<word weight="0.015873015873015872" count="1">handler</word>
+	<phrase weight="0.09090909090909091" count="1">bind annotation</phrase>
+	<phrase weight="0.09090909090909091" count="1">length exception</phrase>
+	<phrase weight="0.09090909090909091" count="1">annotation exception</phrase>
+	<phrase weight="0.09090909090909091" count="1">entry resource</phrase>
+	<phrase weight="0.09090909090909091" count="1">object result ctx proceed result</phrase>
+	<phrase weight="0.09090909090909091" count="1">exception entry entry</phrase>
+	<phrase weight="0.09090909090909091" count="1">entry entry</phrase>
+	<phrase weight="0.09090909090909091" count="1">bind annotation ctx</phrase>
+	<phrase weight="0.09090909090909091" count="1">ctx annotation</phrase>
+	<phrase weight="0.09090909090909091" count="1">annotation exception trace trace exception</phrase>
+	<phrase weight="0.09090909090909091" count="1">annotation entry</phrase>
+  </topic>
+  <topic id="5" alpha="0.0766725367567047" totalTokens="47" titles="handler, block, random, test, util, bind, current, local, thread, resource">
+	<word weight="0.19148936170212766" count="9">handler</word>
+	<word weight="0.1702127659574468" count="8">block</word>
+	<word weight="0.0851063829787234" count="4">random</word>
+	<word weight="0.06382978723404255" count="3">test</word>
+	<word weight="0.06382978723404255" count="3">util</word>
+	<word weight="0.06382978723404255" count="3">bind</word>
+	<word weight="0.0425531914893617" count="2">current</word>
+	<word weight="0.0425531914893617" count="2">local</word>
+	<word weight="0.0425531914893617" count="2">thread</word>
+	<word weight="0.0425531914893617" count="2">resource</word>
+	<word weight="0.0425531914893617" count="2">sentinel</word>
+	<word weight="0.02127659574468085" count="1">println</word>
+	<word weight="0.02127659574468085" count="1">system</word>
+	<word weight="0.02127659574468085" count="1">handle</word>
+	<word weight="0.02127659574468085" count="1">impl</word>
+	<word weight="0.02127659574468085" count="1">global</word>
+	<word weight="0.02127659574468085" count="1">exception</word>
+	<word weight="0.02127659574468085" count="1">foo</word>
+	<phrase weight="0.3333333333333333" count="1">block handler</phrase>
+	<phrase weight="0.3333333333333333" count="1">handler block handler</phrase>
+	<phrase weight="0.3333333333333333" count="1">sentinel resource bind test block handler handle exception block handler</phrase>
+  </topic>
+  <topic id="6" alpha="4.909507790697554E-129" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="0.3238908875346039" totalTokens="232" titles="exception, fallback, illegal, foo, string, block, handler, argument, sentinel, resource">
+	<word weight="0.15086206896551724" count="35">exception</word>
+	<word weight="0.11206896551724138" count="26">fallback</word>
+	<word weight="0.09913793103448276" count="23">illegal</word>
+	<word weight="0.09482758620689655" count="22">foo</word>
+	<word weight="0.07327586206896551" count="17">string</word>
+	<word weight="0.0603448275862069" count="14">block</word>
+	<word weight="0.05603448275862069" count="13">handler</word>
+	<word weight="0.05172413793103448" count="12">argument</word>
+	<word weight="0.05172413793103448" count="12">sentinel</word>
+	<word weight="0.04741379310344827" count="11">resource</word>
+	<word weight="0.04310344827586207" count="10">bind</word>
+	<word weight="0.03017241379310345" count="7">api</word>
+	<word weight="0.021551724137931036" count="5">global</word>
+	<word weight="0.017241379310344827" count="4">oops</word>
+	<word weight="0.017241379310344827" count="4">access</word>
+	<word weight="0.017241379310344827" count="4">trace</word>
+	<word weight="0.01293103448275862" count="3">override</word>
+	<word weight="0.008620689655172414" count="2">impl</word>
+	<word weight="0.008620689655172414" count="2">util</word>
+	<word weight="0.008620689655172414" count="2">func</word>
+	<phrase weight="0.21428571428571427" count="3">block handler</phrase>
+	<phrase weight="0.07142857142857142" count="1">sentinel resource bind api</phrase>
+	<phrase weight="0.07142857142857142" count="1">global fallback fallback</phrase>
+	<phrase weight="0.07142857142857142" count="1">fallback string</phrase>
+	<phrase weight="0.07142857142857142" count="1">impl override sentinel</phrase>
+	<phrase weight="0.07142857142857142" count="1">illegal argument exception oops foo</phrase>
+	<phrase weight="0.07142857142857142" count="1">sentinel resource</phrase>
+	<phrase weight="0.07142857142857142" count="1">block handler global</phrase>
+	<phrase weight="0.07142857142857142" count="1">impl override sentinel resource bind fallback fallback exception</phrase>
+	<phrase weight="0.07142857142857142" count="1">block handler exception</phrase>
+	<phrase weight="0.07142857142857142" count="1">exception string string bad</phrase>
+	<phrase weight="0.07142857142857142" count="1">resource bind</phrase>
+  </topic>
+  <topic id="8" alpha="0.015785373557420636" totalTokens="56" titles="resource, type, ignore, interceptor, throwable, handle, belong, parameter, method, extend">
+	<word weight="0.17857142857142858" count="10">resource</word>
+	<word weight="0.125" count="7">type</word>
+	<word weight="0.08928571428571429" count="5">ignore</word>
+	<word weight="0.07142857142857142" count="4">interceptor</word>
+	<word weight="0.05357142857142857" count="3">throwable</word>
+	<word weight="0.05357142857142857" count="3">handle</word>
+	<word weight="0.03571428571428571" count="2">belong</word>
+	<word weight="0.03571428571428571" count="2">parameter</word>
+	<word weight="0.03571428571428571" count="2">method</word>
+	<word weight="0.03571428571428571" count="2">extend</word>
+	<word weight="0.03571428571428571" count="2">state</word>
+	<word weight="0.03571428571428571" count="2">block</word>
+	<word weight="0.017857142857142856" count="1">exit</word>
+	<word weight="0.017857142857142856" count="1">check</word>
+	<word weight="0.017857142857142856" count="1">list</word>
+	<word weight="0.017857142857142856" count="1">sph</word>
+	<word weight="0.017857142857142856" count="1">wrong</word>
+	<word weight="0.017857142857142856" count="1">annotation</word>
+	<word weight="0.017857142857142856" count="1">invocation</word>
+	<word weight="0.017857142857142856" count="1">object</word>
+	<phrase weight="0.09090909090909091" count="1">resource interceptor extend</phrase>
+	<phrase weight="0.09090909090909091" count="1">resource type</phrase>
+	<phrase weight="0.09090909090909091" count="1">interceptor interceptor</phrase>
+	<phrase weight="0.09090909090909091" count="1">ignore list check</phrase>
+	<phrase weight="0.09090909090909091" count="1">resource resource</phrase>
+	<phrase weight="0.09090909090909091" count="1">wrong state</phrase>
+	<phrase weight="0.09090909090909091" count="1">interceptor support</phrase>
+	<phrase weight="0.09090909090909091" count="1">annotation fallback</phrase>
+	<phrase weight="0.09090909090909091" count="1">extend throwable</phrase>
+	<phrase weight="0.09090909090909091" count="1">handle block</phrase>
+	<phrase weight="0.09090909090909091" count="1">object invoke invocation</phrase>
+  </topic>
+  <topic id="9" alpha="0.054188569531338784" totalTokens="29" titles="state, baz, equal, monitor, ignore, cheer, boom, fail, block, api">
+	<word weight="0.20689655172413793" count="6">state</word>
+	<word weight="0.20689655172413793" count="6">baz</word>
+	<word weight="0.10344827586206896" count="3">equal</word>
+	<word weight="0.10344827586206896" count="3">monitor</word>
+	<word weight="0.10344827586206896" count="3">ignore</word>
+	<word weight="0.06896551724137931" count="2">cheer</word>
+	<word weight="0.06896551724137931" count="2">boom</word>
+	<word weight="0.06896551724137931" count="2">fail</word>
+	<word weight="0.034482758620689655" count="1">block</word>
+	<word weight="0.034482758620689655" count="1">api</word>
+	<phrase weight="0.6" count="3">monitor state</phrase>
+	<phrase weight="0.4" count="2">equal fail</phrase>
+  </topic>
+</topics>

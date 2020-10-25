@@ -1,0 +1,218 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.12226640409597805" totalTokens="339" titles="error, exception, request, http, message, string, handle, entity, logger, status">
+	<word weight="0.13274336283185842" count="45">error</word>
+	<word weight="0.12979351032448377" count="44">exception</word>
+	<word weight="0.11799410029498525" count="40">request</word>
+	<word weight="0.08259587020648967" count="28">http</word>
+	<word weight="0.05604719764011799" count="19">message</word>
+	<word weight="0.05014749262536873" count="17">string</word>
+	<word weight="0.0471976401179941" count="16">handle</word>
+	<word weight="0.04424778761061947" count="15">entity</word>
+	<word weight="0.04424778761061947" count="15">logger</word>
+	<word weight="0.04129793510324484" count="14">status</word>
+	<word weight="0.038348082595870206" count="13">log</word>
+	<word weight="0.038348082595870206" count="13">servlet</word>
+	<word weight="0.032448377581120944" count="11">bad</word>
+	<word weight="0.032448377581120944" count="11">handler</word>
+	<word weight="0.029498525073746312" count="10">map</word>
+	<word weight="0.014749262536873156" count="5">type</word>
+	<word weight="0.008849557522123894" count="3">put</word>
+	<word weight="0.008849557522123894" count="3">argument</word>
+	<word weight="0.008849557522123894" count="3">access</word>
+	<word weight="0.0058997050147492625" count="2">trace</word>
+	<phrase weight="0.09375" count="6">entity map string</phrase>
+	<phrase weight="0.046875" count="3">exception handler</phrase>
+	<phrase weight="0.03125" count="2">http exception</phrase>
+	<phrase weight="0.03125" count="2">log error</phrase>
+	<phrase weight="0.03125" count="2">bad request</phrase>
+	<phrase weight="0.03125" count="2">exception http</phrase>
+	<phrase weight="0.015625" count="1">error request http</phrase>
+	<phrase weight="0.015625" count="1">log string message</phrase>
+	<phrase weight="0.015625" count="1">logger trace message</phrase>
+	<phrase weight="0.015625" count="1">error handle</phrase>
+	<phrase weight="0.015625" count="1">exception http servlet request request</phrase>
+	<phrase weight="0.015625" count="1">type logger</phrase>
+	<phrase weight="0.015625" count="1">exception handle error request status</phrase>
+	<phrase weight="0.015625" count="1">bad request http servlet request request servlet exception handle error request bad request</phrase>
+	<phrase weight="0.015625" count="1">type exception</phrase>
+	<phrase weight="0.015625" count="1">status http</phrase>
+	<phrase weight="0.015625" count="1">request http status status</phrase>
+	<phrase weight="0.015625" count="1">map string</phrase>
+	<phrase weight="0.015625" count="1">error logger error message</phrase>
+	<phrase weight="0.015625" count="1">error request bad request bad request exception message</phrase>
+  </topic>
+  <topic id="1" alpha="0.02609399619862359" totalTokens="24" titles="parameter, miss, link, loggers, err, server, ">
+	<word weight="0.2916666666666667" count="7">parameter</word>
+	<word weight="0.25" count="6">miss</word>
+	<word weight="0.16666666666666666" count="4">param</word>
+	<word weight="0.125" count="3">link</word>
+	<word weight="0.08333333333333333" count="2">loggers</word>
+	<word weight="0.041666666666666664" count="1">err</word>
+	<word weight="0.041666666666666664" count="1">server</word>
+	<phrase weight="0.3333333333333333" count="1">miss param miss</phrase>
+	<phrase weight="0.3333333333333333" count="1">parameter miss</phrase>
+	<phrase weight="0.3333333333333333" count="1">param link miss</phrase>
+  </topic>
+  <topic id="2" alpha="0.024579401323643255" totalTokens="42" titles="header, attribute, object, map, time, apollo, debug, local, print, date">
+	<word weight="0.11904761904761904" count="5">header</word>
+	<word weight="0.11904761904761904" count="5">attribute</word>
+	<word weight="0.09523809523809523" count="4">object</word>
+	<word weight="0.09523809523809523" count="4">map</word>
+	<word weight="0.07142857142857142" count="3">time</word>
+	<word weight="0.07142857142857142" count="3">apollo</word>
+	<word weight="0.047619047619047616" count="2">debug</word>
+	<word weight="0.047619047619047616" count="2">local</word>
+	<word weight="0.047619047619047616" count="2">print</word>
+	<word weight="0.023809523809523808" count="1">date</word>
+	<word weight="0.023809523809523808" count="1">timestamp</word>
+	<word weight="0.023809523809523808" count="1">ignore</word>
+	<word weight="0.023809523809523808" count="1">body</word>
+	<word weight="0.023809523809523808" count="1">violation</word>
+	<word weight="0.023809523809523808" count="1">present</word>
+	<word weight="0.023809523809523808" count="1">find</word>
+	<word weight="0.023809523809523808" count="1">result</word>
+	<word weight="0.023809523809523808" count="1">optional</word>
+	<word weight="0.023809523809523808" count="1">deny</word>
+	<word weight="0.023809523809523808" count="1">rest</word>
+	<phrase weight="0.3333333333333333" count="1">header header</phrase>
+	<phrase weight="0.3333333333333333" count="1">local date time</phrase>
+	<phrase weight="0.3333333333333333" count="1">timestamp local</phrase>
+  </topic>
+  <topic id="3" alpha="0.060793547843065454" totalTokens="92" titles="block, logger, handler, result, wrapper, sentinel, rule, config, mvc, exception">
+	<word weight="0.15217391304347827" count="14">block</word>
+	<word weight="0.11956521739130435" count="11">logger</word>
+	<word weight="0.10869565217391304" count="10">handler</word>
+	<word weight="0.07608695652173914" count="7">result</word>
+	<word weight="0.06521739130434782" count="6">wrapper</word>
+	<word weight="0.06521739130434782" count="6">sentinel</word>
+	<word weight="0.05434782608695652" count="5">rule</word>
+	<word weight="0.043478260869565216" count="4">config</word>
+	<word weight="0.043478260869565216" count="4">mvc</word>
+	<word weight="0.043478260869565216" count="4">exception</word>
+	<word weight="0.03260869565217391" count="3">body</word>
+	<word weight="0.03260869565217391" count="3">response</word>
+	<word weight="0.021739130434782608" count="2">system</word>
+	<word weight="0.021739130434782608" count="2">spring</word>
+	<word weight="0.021739130434782608" count="2">order</word>
+	<word weight="0.021739130434782608" count="2">factory</word>
+	<word weight="0.021739130434782608" count="2">controller</word>
+	<word weight="0.010869565217391304" count="1">customized</word>
+	<word weight="0.010869565217391304" count="1">info</word>
+	<word weight="0.010869565217391304" count="1">object</word>
+	<phrase weight="0.1111111111111111" count="1">rule rule rule</phrase>
+	<phrase weight="0.1111111111111111" count="1">response body result wrapper sentinel block handler block</phrase>
+	<phrase weight="0.1111111111111111" count="1">mvc block handler config controller advice order sentinel spring mvc block handler config logger logger logger factory logger</phrase>
+	<phrase weight="0.1111111111111111" count="1">logger info block sentinel rule string object result wrapper block exception handler exception response body result wrapper exception handler</phrase>
+	<phrase weight="0.1111111111111111" count="1">order sentinel spring mvc block handler config logger logger logger factory logger</phrase>
+	<phrase weight="0.1111111111111111" count="1">wrapper system</phrase>
+	<phrase weight="0.1111111111111111" count="1">mvc block handler config controller</phrase>
+	<phrase weight="0.1111111111111111" count="1">handler block</phrase>
+	<phrase weight="0.1111111111111111" count="1">handler block exception response body result wrapper sentinel block handler block</phrase>
+  </topic>
+  <topic id="4" alpha="5.228483741758604E-180" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="0.10330539238109225" totalTokens="298" titles="exception, response, entity, handler, status, illegal, argument, naco, msg, util">
+	<word weight="0.2785234899328859" count="83">exception</word>
+	<word weight="0.08389261744966443" count="25">response</word>
+	<word weight="0.06375838926174497" count="19">entity</word>
+	<word weight="0.053691275167785234" count="16">handler</word>
+	<word weight="0.04697986577181208" count="14">status</word>
+	<word weight="0.0436241610738255" count="13">illegal</word>
+	<word weight="0.0436241610738255" count="13">argument</word>
+	<word weight="0.040268456375838924" count="12">naco</word>
+	<word weight="0.040268456375838924" count="12">msg</word>
+	<word weight="0.03355704697986577" count="10">util</word>
+	<word weight="0.03355704697986577" count="10">body</word>
+	<word weight="0.03355704697986577" count="10">access</word>
+	<word weight="0.03355704697986577" count="10">handle</word>
+	<word weight="0.030201342281879196" count="9">string</word>
+	<word weight="0.02348993288590604" count="7">datum</word>
+	<word weight="0.013422818791946308" count="4">srv</word>
+	<word weight="0.010067114093959731" count="3">console</word>
+	<word weight="0.010067114093959731" count="3">err</word>
+	<word weight="0.010067114093959731" count="3">increment</word>
+	<word weight="0.010067114093959731" count="3">monitor</word>
+	<phrase weight="0.08" count="2">illegal argument exception</phrase>
+	<phrase weight="0.08" count="2">handler controller</phrase>
+	<phrase weight="0.04" count="1">exception exception</phrase>
+	<phrase weight="0.04" count="1">handle naco exception naco exception</phrase>
+	<phrase weight="0.04" count="1">naco exception param naco exception response entity</phrase>
+	<phrase weight="0.04" count="1">handler naco exception response entity</phrase>
+	<phrase weight="0.04" count="1">exception response entity exception</phrase>
+	<phrase weight="0.04" count="1">handle illegal argument exception illegal argument exception response entity status</phrase>
+	<phrase weight="0.04" count="1">exception response entity exception handler exception response</phrase>
+	<phrase weight="0.04" count="1">response exception handler</phrase>
+	<phrase weight="0.04" count="1">err msg exception handler illegal argument exception response entity</phrase>
+	<phrase weight="0.04" count="1">illegal argument exception response</phrase>
+	<phrase weight="0.04" count="1">exception response entity string</phrase>
+	<phrase weight="0.04" count="1">exception util exception msg response entity status</phrase>
+	<phrase weight="0.04" count="1">console exception handler exception handler access exception response entity string handle access exception access exception response</phrase>
+	<phrase weight="0.04" count="1">util exception msg exception handler exception response entity string handle exception exception</phrase>
+	<phrase weight="0.04" count="1">console response entity status http status internal</phrase>
+	<phrase weight="0.04" count="1">error exception</phrase>
+	<phrase weight="0.04" count="1">util exception msg response</phrase>
+	<phrase weight="0.04" count="1">console exception handler</phrase>
+  </topic>
+  <topic id="6" alpha="0.026631936060677163" totalTokens="41" titles="warn, handle, gson, info, request, type, date, json, attribute, throwable">
+	<word weight="0.0975609756097561" count="4">warn</word>
+	<word weight="0.0975609756097561" count="4">handle</word>
+	<word weight="0.0975609756097561" count="4">gson</word>
+	<word weight="0.07317073170731707" count="3">info</word>
+	<word weight="0.07317073170731707" count="3">request</word>
+	<word weight="0.07317073170731707" count="3">type</word>
+	<word weight="0.04878048780487805" count="2">date</word>
+	<word weight="0.04878048780487805" count="2">json</word>
+	<word weight="0.04878048780487805" count="2">attribute</word>
+	<word weight="0.04878048780487805" count="2">throwable</word>
+	<word weight="0.04878048780487805" count="2">global</word>
+	<word weight="0.024390243902439025" count="1">set</word>
+	<word weight="0.024390243902439025" count="1">formatter</word>
+	<word weight="0.024390243902439025" count="1">format</word>
+	<word weight="0.024390243902439025" count="1">original</word>
+	<word weight="0.024390243902439025" count="1">hash</word>
+	<word weight="0.024390243902439025" count="1">stream</word>
+	<word weight="0.024390243902439025" count="1">bind</word>
+	<word weight="0.024390243902439025" count="1">valid</word>
+	<word weight="0.024390243902439025" count="1">code</word>
+	<phrase weight="0.2" count="1">throwable handle</phrase>
+	<phrase weight="0.2" count="1">format date</phrase>
+	<phrase weight="0.2" count="1">attribute hash</phrase>
+	<phrase weight="0.2" count="1">gson gson</phrase>
+	<phrase weight="0.2" count="1">attribute gson json</phrase>
+  </topic>
+  <topic id="7" alpha="0.18617927933002584" totalTokens="30" titles="advice, exception, controller, extend, warn, ">
+	<word weight="0.43333333333333335" count="13">advice</word>
+	<word weight="0.3" count="9">exception</word>
+	<word weight="0.13333333333333333" count="4">controller</word>
+	<word weight="0.1" count="3">extend</word>
+	<word weight="0.03333333333333333" count="1">warn</word>
+  </topic>
+  <topic id="8" alpha="0.02840651383743505" totalTokens="67" titles="response, object, level, code, status, constraint, method, throwable, valid, media">
+	<word weight="0.16417910447761194" count="11">response</word>
+	<word weight="0.11940298507462686" count="8">object</word>
+	<word weight="0.1044776119402985" count="7">level</word>
+	<word weight="0.08955223880597014" count="6">code</word>
+	<word weight="0.08955223880597014" count="6">status</word>
+	<word weight="0.04477611940298507" count="3">constraint</word>
+	<word weight="0.04477611940298507" count="3">method</word>
+	<word weight="0.04477611940298507" count="3">throwable</word>
+	<word weight="0.029850746268656716" count="2">valid</word>
+	<word weight="0.029850746268656716" count="2">media</word>
+	<word weight="0.014925373134328358" count="1">tracer</word>
+	<word weight="0.014925373134328358" count="1">trace</word>
+	<word weight="0.014925373134328358" count="1">debug</word>
+	<word weight="0.014925373134328358" count="1">application</word>
+	<word weight="0.014925373134328358" count="1">content</word>
+	<word weight="0.014925373134328358" count="1">iso</word>
+	<word weight="0.014925373134328358" count="1">put</word>
+	<word weight="0.014925373134328358" count="1">true</word>
+	<word weight="0.014925373134328358" count="1">admin</word>
+	<word weight="0.014925373134328358" count="1">program</word>
+	<phrase weight="0.3333333333333333" count="1">program admin</phrase>
+	<phrase weight="0.3333333333333333" count="1">constraint violation</phrase>
+	<phrase weight="0.3333333333333333" count="1">status code</phrase>
+  </topic>
+  <topic id="9" alpha="1.3740590593612856E-208" totalTokens="0" titles="">
+  </topic>
+</topics>

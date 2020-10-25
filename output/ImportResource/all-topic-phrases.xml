@@ -1,0 +1,39 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="14.796839184010725" totalTokens="62" titles="config, test, bean, java, xml, placeholder, app, spring, resource, apollo">
+	<word weight="0.1935483870967742" count="12">config</word>
+	<word weight="0.16129032258064516" count="10">test</word>
+	<word weight="0.12903225806451613" count="8">bean</word>
+	<word weight="0.0967741935483871" count="6">java</word>
+	<word weight="0.06451612903225806" count="4">xml</word>
+	<word weight="0.06451612903225806" count="4">placeholder</word>
+	<word weight="0.03225806451612903" count="2">app</word>
+	<word weight="0.03225806451612903" count="2">spring</word>
+	<word weight="0.03225806451612903" count="2">resource</word>
+	<word weight="0.03225806451612903" count="2">apollo</word>
+	<word weight="0.03225806451612903" count="2">enable</word>
+	<word weight="0.03225806451612903" count="2">configuration</word>
+	<word weight="0.03225806451612903" count="2">update</word>
+	<word weight="0.03225806451612903" count="2">auto</word>
+	<word weight="0.016129032258064516" count="1">yaml</word>
+	<word weight="0.016129032258064516" count="1">application</word>
+  </topic>
+  <topic id="1" alpha="1.671154720612758E-47" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="1.671154720612758E-47" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="1.671154720612758E-47" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="1.671154720612758E-47" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="1.671154720612758E-47" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="1.671154720612758E-47" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="1.671154720612758E-47" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="1.671154720612758E-47" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="1.671154720612758E-47" totalTokens="0" titles="">
+  </topic>
+</topics>

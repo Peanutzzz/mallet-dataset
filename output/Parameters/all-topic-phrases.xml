@@ -1,0 +1,367 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.010900702150650853" totalTokens="567" titles="type, decimal, datum, test, big, field, input, bigint, nullable, create">
+	<word weight="0.1746031746031746" count="99">type</word>
+	<word weight="0.13932980599647266" count="79">decimal</word>
+	<word weight="0.12345679012345678" count="70">datum</word>
+	<word weight="0.07583774250440917" count="43">test</word>
+	<word weight="0.04056437389770723" count="23">big</word>
+	<word weight="0.03527336860670194" count="20">field</word>
+	<word weight="0.031746031746031744" count="18">input</word>
+	<word weight="0.029982363315696647" count="17">bigint</word>
+	<word weight="0.02821869488536155" count="16">nullable</word>
+	<word weight="0.024691358024691357" count="14">create</word>
+	<word weight="0.021164021164021163" count="12">spec</word>
+	<word weight="0.021164021164021163" count="12">result</word>
+	<word weight="0.021164021164021163" count="12">function</word>
+	<word weight="0.01763668430335097" count="10">row</word>
+	<word weight="0.014109347442680775" count="8">build</word>
+	<word weight="0.014109347442680775" count="8">access</word>
+	<word weight="0.014109347442680775" count="8">mod</word>
+	<word weight="0.012345679012345678" count="7">give</word>
+	<word weight="0.010582010582010581" count="6">definition</word>
+	<word weight="0.010582010582010581" count="6">mapping</word>
+	<phrase weight="0.06" count="3">input type</phrase>
+	<phrase weight="0.04" count="2">row datum</phrase>
+	<phrase weight="0.04" count="2">build collection singleton list</phrase>
+	<phrase weight="0.04" count="2">create human</phrase>
+	<phrase weight="0.04" count="2">field row</phrase>
+	<phrase weight="0.04" count="2">type decimal</phrase>
+	<phrase weight="0.04" count="2">bigint datum</phrase>
+	<phrase weight="0.02" count="1">decimal test</phrase>
+	<phrase weight="0.02" count="1">modulo type</phrase>
+	<phrase weight="0.02" count="1">type structure attribute big</phrase>
+	<phrase weight="0.02" count="1">structure type</phrase>
+	<phrase weight="0.02" count="1">type datum</phrase>
+	<phrase weight="0.02" count="1">datum type</phrase>
+	<phrase weight="0.02" count="1">untyped received test spec</phrase>
+	<phrase weight="0.02" count="1">decimal divide input</phrase>
+	<phrase weight="0.02" count="1">common type type</phrase>
+	<phrase weight="0.02" count="1">type bigint</phrase>
+	<phrase weight="0.02" count="1">datum array list</phrase>
+	<phrase weight="0.02" count="1">decimal mod</phrase>
+	<phrase weight="0.02" count="1">collection singleton</phrase>
+  </topic>
+  <topic id="1" alpha="0.04713553844221038" totalTokens="2287" titles="type, row, array, false, list, field, var, true, time, timestamp">
+	<word weight="0.3344993441189331" count="765">type</word>
+	<word weight="0.06558810668998688" count="150">row</word>
+	<word weight="0.052470485351989504" count="120">array</word>
+	<word weight="0.041101880192391776" count="94">false</word>
+	<word weight="0.03979011805859204" count="91">list</word>
+	<word weight="0.03585483165719283" count="82">field</word>
+	<word weight="0.03541757761259292" count="81">var</word>
+	<word weight="0.028421512898994316" count="65">true</word>
+	<word weight="0.027984258854394404" count="64">time</word>
+	<word weight="0.02710975076519458" count="62">timestamp</word>
+	<word weight="0.02579798863139484" count="59">day</word>
+	<word weight="0.024923480542195016" count="57">interval</word>
+	<word weight="0.022737210319195452" count="52">month</word>
+	<word weight="0.02229995627459554" count="51">year</word>
+	<word weight="0.01880192391779624" count="43">decimal</word>
+	<word weight="0.014866637516397026" count="34">binary</word>
+	<word weight="0.013992129427197202" count="32">resolution</word>
+	<word weight="0.012243113248797552" count="28">big</word>
+	<word weight="0.009619588981198076" count="22">multiset</word>
+	<word weight="0.009619588981198076" count="22">map</word>
+	<phrase weight="0.04040404040404041" count="4">type decimal type</phrase>
+	<phrase weight="0.030303030303030304" count="3">decimal type</phrase>
+	<phrase weight="0.020202020202020204" count="2">binary type</phrase>
+	<phrase weight="0.020202020202020204" count="2">multiset type type</phrase>
+	<phrase weight="0.020202020202020204" count="2">type decimal</phrase>
+	<phrase weight="0.020202020202020204" count="2">type false</phrase>
+	<phrase weight="0.020202020202020204" count="2">type day</phrase>
+	<phrase weight="0.020202020202020204" count="2">year month resolution</phrase>
+	<phrase weight="0.020202020202020204" count="2">type type</phrase>
+	<phrase weight="0.020202020202020204" count="2">type row type</phrase>
+	<phrase weight="0.020202020202020204" count="2">distinct type</phrase>
+	<phrase weight="0.020202020202020204" count="2">timestamp type</phrase>
+	<phrase weight="0.020202020202020204" count="2">max length</phrase>
+	<phrase weight="0.020202020202020204" count="2">type false type</phrase>
+	<phrase weight="0.010101010101010102" count="1">type var</phrase>
+	<phrase weight="0.010101010101010102" count="1">map type big type create</phrase>
+	<phrase weight="0.010101010101010102" count="1">type test type information raw type type generic logical type</phrase>
+	<phrase weight="0.010101010101010102" count="1">resolution year</phrase>
+	<phrase weight="0.010101010101010102" count="1">parameter index</phrase>
+	<phrase weight="0.010101010101010102" count="1">type date type</phrase>
+  </topic>
+  <topic id="2" alpha="0.037954579871349516" totalTokens="289" titles="object, false, true, list, parallelism, parameter, file, array, state, txt">
+	<word weight="0.08650519031141868" count="25">object</word>
+	<word weight="0.06228373702422145" count="18">false</word>
+	<word weight="0.05536332179930796" count="16">true</word>
+	<word weight="0.05536332179930796" count="16">list</word>
+	<word weight="0.05190311418685121" count="15">parallelism</word>
+	<word weight="0.05190311418685121" count="15">parameter</word>
+	<word weight="0.04152249134948097" count="12">file</word>
+	<word weight="0.04152249134948097" count="12">array</word>
+	<word weight="0.03460207612456748" count="10">param</word>
+	<word weight="0.02768166089965398" count="8">state</word>
+	<word weight="0.02768166089965398" count="8">txt</word>
+	<word weight="0.02768166089965398" count="8">collection</word>
+	<word weight="0.02422145328719723" count="7">size</word>
+	<word weight="0.02422145328719723" count="7">add</word>
+	<word weight="0.01730103806228374" count="5">operator</word>
+	<word weight="0.01730103806228374" count="5">offset</word>
+	<word weight="0.01730103806228374" count="5">dir</word>
+	<word weight="0.01730103806228374" count="5">test</word>
+	<word weight="0.01730103806228374" count="5">program</word>
+	<word weight="0.01384083044982699" count="4">execution</word>
+	<phrase weight="0.25" count="1">subpartition write</phrase>
+	<phrase weight="0.25" count="1">parameter faster rhs collection object</phrase>
+	<phrase weight="0.25" count="1">test parameter</phrase>
+	<phrase weight="0.25" count="1">compression enable collection object parameter array stream bound block subpartition</phrase>
+  </topic>
+  <topic id="3" alpha="0.011797944388664947" totalTokens="2669" titles="type, datum, argument, strategy, expect, spec, string, test, explicit, call">
+	<word weight="0.2382914949419258" count="636">type</word>
+	<word weight="0.14537279880104909" count="388">datum</word>
+	<word weight="0.06294492319220682" count="168">argument</word>
+	<word weight="0.058823529411764705" count="157">strategy</word>
+	<word weight="0.053952791307605844" count="144">expect</word>
+	<word weight="0.034095166729112024" count="91">spec</word>
+	<word weight="0.03334582240539528" count="89">string</word>
+	<word weight="0.030348445110528286" count="81">test</word>
+	<word weight="0.029224428624953166" count="78">explicit</word>
+	<word weight="0.026976395653802922" count="72">call</word>
+	<word weight="0.0258523791682278" count="69">sequence</word>
+	<word weight="0.01798426376920195" count="48">bigint</word>
+	<word weight="0.014986886474334956" count="40">input</word>
+	<word weight="0.01423754215061821" count="38">logical</word>
+	<word weight="0.013113525665043087" count="35">signature</word>
+	<word weight="0.012364181341326339" count="33">message</word>
+	<word weight="0.011989509179467965" count="32">error</word>
+	<word weight="0.011614837017609592" count="31">invalid</word>
+	<word weight="0.008992131884600974" count="24">varchar</word>
+	<word weight="0.007868115399025852" count="21">literal</word>
+	<phrase weight="0.08130081300813008" count="10">datum type</phrase>
+	<phrase weight="0.056910569105691054" count="7">spec strategy</phrase>
+	<phrase weight="0.032520325203252036" count="4">expect datum</phrase>
+	<phrase weight="0.032520325203252036" count="4">type datum type</phrase>
+	<phrase weight="0.032520325203252036" count="4">test spec strategy</phrase>
+	<phrase weight="0.024390243902439025" count="3">type datum</phrase>
+	<phrase weight="0.016260162601626018" count="2">expect datum type</phrase>
+	<phrase weight="0.016260162601626018" count="2">output type</phrase>
+	<phrase weight="0.016260162601626018" count="2">explicit datum type</phrase>
+	<phrase weight="0.016260162601626018" count="2">strategy cascade type argument</phrase>
+	<phrase weight="0.016260162601626018" count="2">datum type bigint</phrase>
+	<phrase weight="0.016260162601626018" count="2">type strategy</phrase>
+	<phrase weight="0.016260162601626018" count="2">datum type bigint datum</phrase>
+	<phrase weight="0.016260162601626018" count="2">spec strategy argument</phrase>
+	<phrase weight="0.016260162601626018" count="2">strategy input type datum type</phrase>
+	<phrase weight="0.016260162601626018" count="2">datum type expect error message infer output type</phrase>
+	<phrase weight="0.008130081300813009" count="1">type strategy input type datum type row datum type</phrase>
+	<phrase weight="0.008130081300813009" count="1">expect datum type datum type bridge invalid</phrase>
+	<phrase weight="0.008130081300813009" count="1">type bigint nullable datum type</phrase>
+	<phrase weight="0.008130081300813009" count="1">type datum type map datum type</phrase>
+  </topic>
+  <topic id="4" alpha="0.003478706345130265" totalTokens="697" titles="convert, datum, pojo, row, spec, test, date, field, local, time">
+	<word weight="0.10760401721664276" count="75">convert</word>
+	<word weight="0.09612625538020086" count="67">datum</word>
+	<word weight="0.0746054519368723" count="52">pojo</word>
+	<word weight="0.058823529411764705" count="41">row</word>
+	<word weight="0.05021520803443329" count="35">spec</word>
+	<word weight="0.05021520803443329" count="35">test</word>
+	<word weight="0.03443328550932568" count="24">date</word>
+	<word weight="0.028694404591104734" count="20">field</word>
+	<word weight="0.028694404591104734" count="20">local</word>
+	<word weight="0.028694404591104734" count="20">time</word>
+	<word weight="0.027259684361549498" count="19">timestamp</word>
+	<word weight="0.024390243902439025" count="17">array</word>
+	<word weight="0.02295552367288379" count="16">map</word>
+	<word weight="0.02295552367288379" count="16">true</word>
+	<word weight="0.021520803443328552" count="15">bob</word>
+	<word weight="0.021520803443328552" count="15">string</word>
+	<word weight="0.021520803443328552" count="15">list</word>
+	<word weight="0.014347202295552367" count="10">immutable</word>
+	<word weight="0.014347202295552367" count="10">epoch</word>
+	<word weight="0.014347202295552367" count="10">zone</word>
+	<phrase weight="0.030303030303030304" count="2">spec datum</phrase>
+	<phrase weight="0.015151515151515152" count="1">true convert list array list true true true convert array datum generic array datum true true true test spec datum</phrase>
+	<phrase weight="0.015151515151515152" count="1">datum generic row datum string datum string bob test spec pojo getter setter convert supplier pojo getter setter pojo getter setter pojo pojo getter setter pojo set age pojo set bob pojo convert row row bob convert row datum generic row datum string datum string bob test spec complex pojo convert supplier complex pojo complex pojo pojo complex pojo pojo set timestamp timestamp pojo set preference row bob true</phrase>
+	<phrase weight="0.015151515151515152" count="1">zone convert instant</phrase>
+	<phrase weight="0.015151515151515152" count="1">convert string convert standard charset utf convert string datum string datum string test spec datum</phrase>
+	<phrase weight="0.015151515151515152" count="1">skip simplicity</phrase>
+	<phrase weight="0.015151515151515152" count="1">time local date time parse convert timestamp datum timestamp datum epoch millis test spec datum type timestamp time zone convert zone date time zone date time instant instant epoch zone utc convert java time offset date time zone date time instant instant epoch zone utc offset date time</phrase>
+	<phrase weight="0.015151515151515152" count="1">pojo immutable field convert map create pojo immutable field map test spec datum type array datum</phrase>
+	<phrase weight="0.015151515151515152" count="1">converted true test spec datum</phrase>
+	<phrase weight="0.015151515151515152" count="1">pojo mutable field pojo pojo mutable field pojo age pojo bob pojo convert row row bob convert row datum generic row</phrase>
+	<phrase weight="0.015151515151515152" count="1">convert pojo list pojo list array list array</phrase>
+	<phrase weight="0.015151515151515152" count="1">true true test spec datum</phrase>
+	<phrase weight="0.015151515151515152" count="1">skip simplicity test spec datum type array date convert local date local date local</phrase>
+	<phrase weight="0.015151515151515152" count="1">convert row row row pojo immutable</phrase>
+	<phrase weight="0.015151515151515152" count="1">big decimal test spec pojo superclass convert supplier pojo mutable</phrase>
+	<phrase weight="0.015151515151515152" count="1">datum type datum</phrase>
+	<phrase weight="0.015151515151515152" count="1">local date epoch</phrase>
+	<phrase weight="0.015151515151515152" count="1">type timestamp local</phrase>
+	<phrase weight="0.015151515151515152" count="1">parse local date parse convert list array list local date parse local date parse</phrase>
+	<phrase weight="0.015151515151515152" count="1">map date convert map</phrase>
+  </topic>
+  <topic id="5" alpha="0.0048620826519390455" totalTokens="799" titles="type, datum, expect, pojo, spec, test, simple, raw, generic, override">
+	<word weight="0.1476846057571965" count="118">type</word>
+	<word weight="0.08135168961201501" count="65">datum</word>
+	<word weight="0.0625782227784731" count="50">expect</word>
+	<word weight="0.05381727158948686" count="43">pojo</word>
+	<word weight="0.05381727158948686" count="43">spec</word>
+	<word weight="0.052565707133917394" count="42">test</word>
+	<word weight="0.030037546933667083" count="24">simple</word>
+	<word weight="0.030037546933667083" count="24">raw</word>
+	<word weight="0.02753441802252816" count="22">generic</word>
+	<word weight="0.02252816020025031" count="18">override</word>
+	<word weight="0.01877346683354193" count="15">hint</word>
+	<word weight="0.016270337922403004" count="13">object</word>
+	<word weight="0.015018773466833541" count="12">complex</word>
+	<word weight="0.015018773466833541" count="12">table</word>
+	<word weight="0.015018773466833541" count="12">mock</word>
+	<word weight="0.015018773466833541" count="12">function</word>
+	<word weight="0.01376720901126408" count="11">precision</word>
+	<word weight="0.012515644555694618" count="10">integer</word>
+	<word weight="0.011264080100125156" count="9">reference</word>
+	<word weight="0.011264080100125156" count="9">constructor</word>
+	<phrase weight="0.02564102564102564" count="3">datum type</phrase>
+	<phrase weight="0.017094017094017096" count="2">raw override</phrase>
+	<phrase weight="0.017094017094017096" count="2">datum type hint mock override</phrase>
+	<phrase weight="0.017094017094017096" count="2">test spec</phrase>
+	<phrase weight="0.017094017094017096" count="2">type raw generic type</phrase>
+	<phrase weight="0.017094017094017096" count="2">hint mock override</phrase>
+	<phrase weight="0.008547008547008548" count="1">order expect</phrase>
+	<phrase weight="0.008547008547008548" count="1">type datum type interval datum type month test spec</phrase>
+	<phrase weight="0.008547008547008548" count="1">variable magic test spec generic table function table function generic</phrase>
+	<phrase weight="0.008547008547008548" count="1">type reference</phrase>
+	<phrase weight="0.008547008547008548" count="1">raw custom serializer datum type hint mock override</phrase>
+	<phrase weight="0.008547008547008548" count="1">pojo lookup expect object expect datum</phrase>
+	<phrase weight="0.008547008547008548" count="1">miss precision scale test spec</phrase>
+	<phrase weight="0.008547008547008548" count="1">month year precision interval</phrase>
+	<phrase weight="0.008547008547008548" count="1">constructor test spec type structure type reference pojo invalid reference expect error message cyclic reference detect pojo invalid reference attribute structured</phrase>
+	<phrase weight="0.008547008547008548" count="1">expect datum type</phrase>
+	<phrase weight="0.008547008547008548" count="1">precision scale unsupported object type exception test spec type object expect error message extract data type pure</phrase>
+	<phrase weight="0.008547008547008548" count="1">datum type datum type</phrase>
+	<phrase weight="0.008547008547008548" count="1">structure type invalid constructor simple pojo invalid constructor expect error message simple pojo invalid constructor constructor assign</phrase>
+	<phrase weight="0.008547008547008548" count="1">java math big decimal</phrase>
+  </topic>
+  <topic id="6" alpha="0.003515706111063593" totalTokens="1263" titles="type, strategy, datum, input, function, explicit, expect, output, argument, test">
+	<word weight="0.18448139350752177" count="233">type</word>
+	<word weight="0.0958036421219319" count="121">strategy</word>
+	<word weight="0.08076009501187649" count="102">datum</word>
+	<word weight="0.06967537608867776" count="88">input</word>
+	<word weight="0.057007125890736345" count="72">function</word>
+	<word weight="0.055423594615993665" count="70">explicit</word>
+	<word weight="0.04433887569279493" count="56">expect</word>
+	<word weight="0.034045922406967535" count="43">output</word>
+	<word weight="0.0332541567695962" count="42">argument</word>
+	<word weight="0.02929532858273951" count="37">test</word>
+	<word weight="0.028503562945368172" count="36">scalar</word>
+	<word weight="0.026128266033254157" count="33">sequence</word>
+	<word weight="0.026128266033254157" count="33">mapping</word>
+	<word weight="0.025336500395882817" count="32">string</word>
+	<word weight="0.023752969121140142" count="30">spec</word>
+	<word weight="0.022961203483768806" count="29">hint</word>
+	<word weight="0.011876484560570071" count="15">bigint</word>
+	<word weight="0.00870942201108472" count="11">field</word>
+	<word weight="0.00791765637371338" count="10">bridge</word>
+	<word weight="0.0055423594615993665" count="7">accumulator</word>
+  </topic>
+  <topic id="7" alpha="0.02008104115690098" totalTokens="936" titles="type, datum, array, field, conversion, timestamp, logical, string, bridge, java">
+	<word weight="0.28739316239316237" count="269">type</word>
+	<word weight="0.15705128205128205" count="147">datum</word>
+	<word weight="0.04807692307692308" count="45">array</word>
+	<word weight="0.042735042735042736" count="40">field</word>
+	<word weight="0.041666666666666664" count="39">conversion</word>
+	<word weight="0.03739316239316239" count="35">timestamp</word>
+	<word weight="0.03311965811965812" count="31">logical</word>
+	<word weight="0.03205128205128205" count="30">string</word>
+	<word weight="0.029914529914529916" count="28">bridge</word>
+	<word weight="0.029914529914529916" count="28">java</word>
+	<word weight="0.021367521367521368" count="20">time</word>
+	<word weight="0.019230769230769232" count="18">info</word>
+	<word weight="0.019230769230769232" count="18">row</word>
+	<word weight="0.016025641025641024" count="15">map</word>
+	<word weight="0.014957264957264958" count="14">sql</word>
+	<word weight="0.013888888888888888" count="13">test</word>
+	<word weight="0.01282051282051282" count="12">resolve</word>
+	<word weight="0.010683760683760684" count="10">unresolved</word>
+	<word weight="0.010683760683760684" count="10">date</word>
+	<word weight="0.009615384615384616" count="9">object</word>
+	<phrase weight="0.12931034482758622" count="15">datum type</phrase>
+	<phrase weight="0.07758620689655173" count="9">logical type</phrase>
+	<phrase weight="0.034482758620689655" count="4">conversion java</phrase>
+	<phrase weight="0.02586206896551724" count="3">resolve datum</phrase>
+	<phrase weight="0.02586206896551724" count="3">type timestamp</phrase>
+	<phrase weight="0.017241379310344827" count="2">conversion java time</phrase>
+	<phrase weight="0.017241379310344827" count="2">type datum type</phrase>
+	<phrase weight="0.017241379310344827" count="2">logical type type</phrase>
+	<phrase weight="0.017241379310344827" count="2">string java sql timestamp</phrase>
+	<phrase weight="0.017241379310344827" count="2">field field</phrase>
+	<phrase weight="0.008620689655172414" count="1">local date time</phrase>
+	<phrase weight="0.008620689655172414" count="1">array datum type bridge</phrase>
+	<phrase weight="0.008620689655172414" count="1">type timestamp type</phrase>
+	<phrase weight="0.008620689655172414" count="1">array type type</phrase>
+	<phrase weight="0.008620689655172414" count="1">map datum type bigint datum</phrase>
+	<phrase weight="0.008620689655172414" count="1">type bigint</phrase>
+	<phrase weight="0.008620689655172414" count="1">conversion row</phrase>
+	<phrase weight="0.008620689655172414" count="1">info datum type converter test parameter index type info datum type list object type info array list object type string datum type string type string datum type string type datum type type sql timestamp datum type timestamp bridge java sql timestamp type generic legacy type info datum type converter test atomic datum type legacy type information type logical type root raw type generic legacy type info datum type converter test type row string field field type type datum type row field field datum type field field datum type bigint type map type type row type datum type map datum type datum type row field datum type tinyint type primitive array type datum type array datum type bridge bridge type primitive array type datum type type object array type primitive array type datum type array datum type array datum type bridge bridge bridge basic array type info string array type info atomic datum type legacy type information type logical type root array basic array type info string array type info object array type info info type string datum type array datum type string bridge string type tuple type type type atomic datum type legacy type information type logical type root structure type type tuple type type type time indicator type info rowtime indicator atomic datum type timestamp type true timestamp</phrase>
+	<phrase weight="0.008620689655172414" count="1">logical type date type</phrase>
+	<phrase weight="0.008620689655172414" count="1">type type generic datum type</phrase>
+  </topic>
+  <topic id="8" alpha="0.007089313070397382" totalTokens="368" titles="path, tab, catalog, lookup, object, complete, list, test, start, table">
+	<word weight="0.10054347826086957" count="37">path</word>
+	<word weight="0.08152173913043478" count="30">tab</word>
+	<word weight="0.08152173913043478" count="30">catalog</word>
+	<word weight="0.05434782608695652" count="20">lookup</word>
+	<word weight="0.04619565217391304" count="17">object</word>
+	<word weight="0.043478260869565216" count="16">complete</word>
+	<word weight="0.043478260869565216" count="16">list</word>
+	<word weight="0.03804347826086957" count="14">test</word>
+	<word weight="0.035326086956521736" count="13">start</word>
+	<word weight="0.03260869565217391" count="12">table</word>
+	<word weight="0.029891304347826088" count="11">spec</word>
+	<word weight="0.02717391304347826" count="10">api</word>
+	<word weight="0.02717391304347826" count="10">manager</word>
+	<word weight="0.02717391304347826" count="10">cat</word>
+	<word weight="0.02717391304347826" count="10">sql</word>
+	<word weight="0.02717391304347826" count="10">expect</word>
+	<word weight="0.02717391304347826" count="10">exception</word>
+	<word weight="0.02717391304347826" count="10">write</word>
+	<word weight="0.024456521739130436" count="9">builtin</word>
+	<word weight="0.024456521739130436" count="9">illegal</word>
+  </topic>
+  <topic id="9" alpha="0.009324813037808397" totalTokens="885" titles="expect, test, spec, string, type, unresolved, time, local, zone, multiset">
+	<word weight="0.20451977401129945" count="181">expect</word>
+	<word weight="0.1615819209039548" count="143">test</word>
+	<word weight="0.15254237288135594" count="135">spec</word>
+	<word weight="0.12090395480225989" count="107">string</word>
+	<word weight="0.08135593220338982" count="72">type</word>
+	<word weight="0.031638418079096044" count="28">unresolved</word>
+	<word weight="0.030508474576271188" count="27">time</word>
+	<word weight="0.0192090395480226" count="17">local</word>
+	<word weight="0.01807909604519774" count="16">zone</word>
+	<word weight="0.013559322033898305" count="12">multiset</word>
+	<word weight="0.012429378531073447" count="11">logical</word>
+	<word weight="0.011299435028248588" count="10">interval</word>
+	<word weight="0.010169491525423728" count="9">raw</word>
+	<word weight="0.00903954802259887" count="8">error</word>
+	<word weight="0.007909604519774011" count="7">message</word>
+	<word weight="0.006779661016949152" count="6">legacy</word>
+	<word weight="0.006779661016949152" count="6">identifier</word>
+	<word weight="0.006779661016949152" count="6">define</word>
+	<word weight="0.006779661016949152" count="6">binary</word>
+	<word weight="0.005649717514124294" count="5">parser</word>
+	<phrase weight="0.11363636363636363" count="20">spec string</phrase>
+	<phrase weight="0.10795454545454546" count="19">test spec string</phrase>
+	<phrase weight="0.09090909090909091" count="16">test spec</phrase>
+	<phrase weight="0.05113636363636364" count="9">expect type</phrase>
+	<phrase weight="0.028409090909090908" count="5">unresolved string</phrase>
+	<phrase weight="0.017045454545454544" count="3">local zone</phrase>
+	<phrase weight="0.017045454545454544" count="3">time test spec</phrase>
+	<phrase weight="0.017045454545454544" count="3">unresolved identifier</phrase>
+	<phrase weight="0.017045454545454544" count="3">spec unresolved</phrase>
+	<phrase weight="0.017045454545454544" count="3">test spec string expect</phrase>
+	<phrase weight="0.011363636363636364" count="2">expect logical</phrase>
+	<phrase weight="0.011363636363636364" count="2">binary type</phrase>
+	<phrase weight="0.011363636363636364" count="2">zone expect type</phrase>
+	<phrase weight="0.011363636363636364" count="2">spec string expect</phrase>
+	<phrase weight="0.011363636363636364" count="2">test spec unresolved</phrase>
+	<phrase weight="0.011363636363636364" count="2">type expect</phrase>
+	<phrase weight="0.011363636363636364" count="2">zone expect</phrase>
+	<phrase weight="0.011363636363636364" count="2">string expect</phrase>
+	<phrase weight="0.011363636363636364" count="2">time zone expect logical</phrase>
+	<phrase weight="0.011363636363636364" count="2">string test spec</phrase>
+  </topic>
+</topics>

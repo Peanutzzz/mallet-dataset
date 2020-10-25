@@ -1,0 +1,38 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.8713348489281145" totalTokens="32" titles="role, user, list, item, index, foreach, script, select, find, close">
+	<word weight="0.1875" count="6">role</word>
+	<word weight="0.15625" count="5">user</word>
+	<word weight="0.09375" count="3">list</word>
+	<word weight="0.09375" count="3">item</word>
+	<word weight="0.0625" count="2">index</word>
+	<word weight="0.0625" count="2">foreach</word>
+	<word weight="0.0625" count="2">script</word>
+	<word weight="0.0625" count="2">select</word>
+	<word weight="0.03125" count="1">find</word>
+	<word weight="0.03125" count="1">close</word>
+	<word weight="0.03125" count="1">separator</word>
+	<word weight="0.03125" count="1">open</word>
+	<word weight="0.03125" count="1">collection</word>
+	<word weight="0.03125" count="1">join</word>
+	<word weight="0.03125" count="1">mapper</word>
+  </topic>
+  <topic id="1" alpha="2.060593422571848E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="2.060593422571848E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="2.060593422571848E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="2.060593422571848E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="2.060593422571848E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="2.060593422571848E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="2.060593422571848E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="2.060593422571848E-12" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="2.060593422571848E-12" totalTokens="0" titles="">
+  </topic>
+</topics>

@@ -1,0 +1,10 @@
+0	0.02541	route string generate service size ignore path swagger entity set true physical zuul map api agg setter retryable strip flag 
+1	0.06531	url list string enable true array property http permission getter client ignore api swagger renew setter mapper add endpoint tenant 
+2	0.11684	property zlt configuration prefix getter setter refresh scope oss log code audit false string connect validate client auth fdf trace 
+3	0.04489	user role extend override collection table menu getter authority grant constructor arg setter version serial set code hash date expire 
+4	0.0225	time fill field integer update rest max auto create insert pool setter timeout template route mybatis model total num request 
+5	0.06129	string getter setter cache key config del logic test parameter sec manager operation date client token constructor arg dto bucket 
+6	0.00673	username authentication password request tenant filter method post auth obtain servlet response client string http context authenticate manager exception extend 
+7	0.00679	search builder field string page param request highlight query object hit source client list tag set limit str elasticsearch util 
+8	0.01473	authentication token user mobile password detail service string encoder provider result exception override support credentials set trim holder attempt assignable 
+9	0.00538	executor pool task size thread set max asyc capacity queue core prefix run caller policy config initialize handler execution reject 

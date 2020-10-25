@@ -1,0 +1,228 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="33.508937809303525" totalTokens="112" titles="row, table, scalar, access, environment, sql, type, eval, bigint, abc">
+	<word weight="0.2857142857142857" count="32">row</word>
+	<word weight="0.16964285714285715" count="19">table</word>
+	<word weight="0.13392857142857142" count="15">scalar</word>
+	<word weight="0.13392857142857142" count="15">access</word>
+	<word weight="0.05357142857142857" count="6">environment</word>
+	<word weight="0.044642857142857144" count="5">sql</word>
+	<word weight="0.044642857142857144" count="5">type</word>
+	<word weight="0.026785714285714284" count="3">eval</word>
+	<word weight="0.026785714285714284" count="3">bigint</word>
+	<word weight="0.017857142857142856" count="2">abc</word>
+	<word weight="0.017857142857142856" count="2">message</word>
+	<word weight="0.008928571428571428" count="1">env</word>
+	<word weight="0.008928571428571428" count="1">spec</word>
+	<word weight="0.008928571428571428" count="1">base</word>
+	<word weight="0.008928571428571428" count="1">single</word>
+	<word weight="0.008928571428571428" count="1">run</word>
+	<phrase weight="0.2857142857142857" count="4">row table</phrase>
+	<phrase weight="0.21428571428571427" count="3">table environment</phrase>
+	<phrase weight="0.07142857142857142" count="1">row eval</phrase>
+	<phrase weight="0.07142857142857142" count="1">row row abc</phrase>
+	<phrase weight="0.07142857142857142" count="1">env table</phrase>
+	<phrase weight="0.07142857142857142" count="1">row type</phrase>
+	<phrase weight="0.07142857142857142" count="1">access row</phrase>
+	<phrase weight="0.07142857142857142" count="1">access table</phrase>
+	<phrase weight="0.07142857142857142" count="1">row abc</phrase>
+  </topic>
+  <topic id="1" alpha="15.863360791651187" totalTokens="20" titles="array, nullable, builder, hint, rule, map, method, list, index, multiple">
+	<word weight="0.25" count="5">array</word>
+	<word weight="0.15" count="3">nullable</word>
+	<word weight="0.1" count="2">builder</word>
+	<word weight="0.05" count="1">hint</word>
+	<word weight="0.05" count="1">rule</word>
+	<word weight="0.05" count="1">map</word>
+	<word weight="0.05" count="1">method</word>
+	<word weight="0.05" count="1">list</word>
+	<word weight="0.05" count="1">index</word>
+	<word weight="0.05" count="1">multiple</word>
+	<word weight="0.05" count="1">call</word>
+	<word weight="0.05" count="1">suite</word>
+	<word weight="0.05" count="1">access</word>
+	<phrase weight="1.0" count="1">index list</phrase>
+  </topic>
+  <topic id="2" alpha="7.416024870367261" totalTokens="20" titles="collect, hint, api, extend, closeable, expect, size, string, singleton, datum">
+	<word weight="0.2" count="4">collect</word>
+	<word weight="0.15" count="3">hint</word>
+	<word weight="0.15" count="3">api</word>
+	<word weight="0.1" count="2">extend</word>
+	<word weight="0.05" count="1">closeable</word>
+	<word weight="0.05" count="1">expect</word>
+	<word weight="0.05" count="1">size</word>
+	<word weight="0.05" count="1">string</word>
+	<word weight="0.05" count="1">singleton</word>
+	<word weight="0.05" count="1">datum</word>
+	<word weight="0.05" count="1">field</word>
+	<word weight="0.05" count="1">composite</word>
+  </topic>
+  <topic id="3" alpha="36.82201782686216" totalTokens="76" titles="field, nest, type, bigint, expression, result, invalid, validation, create, eval">
+	<word weight="0.27631578947368424" count="21">field</word>
+	<word weight="0.18421052631578946" count="14">nest</word>
+	<word weight="0.13157894736842105" count="10">type</word>
+	<word weight="0.05263157894736842" count="4">bigint</word>
+	<word weight="0.05263157894736842" count="4">expression</word>
+	<word weight="0.039473684210526314" count="3">result</word>
+	<word weight="0.02631578947368421" count="2">invalid</word>
+	<word weight="0.02631578947368421" count="2">validation</word>
+	<word weight="0.02631578947368421" count="2">create</word>
+	<word weight="0.013157894736842105" count="1">eval</word>
+	<word weight="0.013157894736842105" count="1">testing</word>
+	<word weight="0.013157894736842105" count="1">nested</word>
+	<word weight="0.013157894736842105" count="1">schema</word>
+	<word weight="0.013157894736842105" count="1">scalar</word>
+	<word weight="0.013157894736842105" count="1">system</word>
+	<word weight="0.013157894736842105" count="1">temporary</word>
+	<word weight="0.013157894736842105" count="1">environment</word>
+	<word weight="0.013157894736842105" count="1">operation</word>
+	<word weight="0.013157894736842105" count="1">logic</word>
+	<word weight="0.013157894736842105" count="1">custom</word>
+	<phrase weight="0.4444444444444444" count="4">nest field</phrase>
+	<phrase weight="0.2222222222222222" count="2">field nest</phrase>
+	<phrase weight="0.1111111111111111" count="1">nest bigint</phrase>
+	<phrase weight="0.1111111111111111" count="1">nest field expression</phrase>
+	<phrase weight="0.1111111111111111" count="1">field nested</phrase>
+  </topic>
+  <topic id="4" alpha="12.433316578169363" totalTokens="27" titles="create, env, collect, select, inference, call, logical, schema, lateral, alias">
+	<word weight="0.14814814814814814" count="4">create</word>
+	<word weight="0.1111111111111111" count="3">env</word>
+	<word weight="0.07407407407407407" count="2">collect</word>
+	<word weight="0.07407407407407407" count="2">select</word>
+	<word weight="0.07407407407407407" count="2">inference</word>
+	<word weight="0.07407407407407407" count="2">call</word>
+	<word weight="0.037037037037037035" count="1">logical</word>
+	<word weight="0.037037037037037035" count="1">schema</word>
+	<word weight="0.037037037037037035" count="1">lateral</word>
+	<word weight="0.037037037037037035" count="1">alias</word>
+	<word weight="0.037037037037037035" count="1">closeable</word>
+	<word weight="0.037037037037037035" count="1">derive</word>
+	<word weight="0.037037037037037035" count="1">calcite</word>
+	<word weight="0.037037037037037035" count="1">result</word>
+	<word weight="0.037037037037037035" count="1">parameterized</word>
+	<word weight="0.037037037037037035" count="1">definition</word>
+	<word weight="0.037037037037037035" count="1">table</word>
+	<word weight="0.037037037037037035" count="1">field</word>
+	<phrase weight="0.5" count="1">select lateral</phrase>
+	<phrase weight="0.5" count="1">env create</phrase>
+  </topic>
+  <topic id="5" alpha="7.9418479915642175" totalTokens="28" titles="bigint, string, build, row, helper, environment, element, spec, extend, type">
+	<word weight="0.39285714285714285" count="11">bigint</word>
+	<word weight="0.14285714285714285" count="4">string</word>
+	<word weight="0.14285714285714285" count="4">build</word>
+	<word weight="0.07142857142857142" count="2">row</word>
+	<word weight="0.03571428571428571" count="1">helper</word>
+	<word weight="0.03571428571428571" count="1">environment</word>
+	<word weight="0.03571428571428571" count="1">element</word>
+	<word weight="0.03571428571428571" count="1">spec</word>
+	<word weight="0.03571428571428571" count="1">extend</word>
+	<word weight="0.03571428571428571" count="1">type</word>
+	<word weight="0.03571428571428571" count="1">composite</word>
+	<phrase weight="1.0" count="1">string build</phrase>
+  </topic>
+  <topic id="6" alpha="11.251908924205708" totalTokens="21" titles="select, nested, nullable, flatten, definition, table, output, accurate, contents, map">
+	<word weight="0.23809523809523808" count="5">select</word>
+	<word weight="0.14285714285714285" count="3">nested</word>
+	<word weight="0.09523809523809523" count="2">nullable</word>
+	<word weight="0.09523809523809523" count="2">flatten</word>
+	<word weight="0.09523809523809523" count="2">definition</word>
+	<word weight="0.09523809523809523" count="2">table</word>
+	<word weight="0.047619047619047616" count="1">output</word>
+	<word weight="0.047619047619047616" count="1">accurate</word>
+	<word weight="0.047619047619047616" count="1">contents</word>
+	<word weight="0.047619047619047616" count="1">map</word>
+	<word weight="0.047619047619047616" count="1">spec</word>
+	<phrase weight="1.0" count="1">definition flatten</phrase>
+  </topic>
+  <topic id="7" alpha="57.973734380798376" totalTokens="145" titles="result, function, custom, nullable, table, environment, test, equal, setting, expect">
+	<word weight="0.1310344827586207" count="19">result</word>
+	<word weight="0.1103448275862069" count="16">function</word>
+	<word weight="0.10344827586206896" count="15">custom</word>
+	<word weight="0.09655172413793103" count="14">nullable</word>
+	<word weight="0.08275862068965517" count="12">table</word>
+	<word weight="0.06896551724137931" count="10">environment</word>
+	<word weight="0.05517241379310345" count="8">test</word>
+	<word weight="0.041379310344827586" count="6">equal</word>
+	<word weight="0.041379310344827586" count="6">setting</word>
+	<word weight="0.041379310344827586" count="6">expect</word>
+	<word weight="0.041379310344827586" count="6">call</word>
+	<word weight="0.034482758620689655" count="5">instance</word>
+	<word weight="0.034482758620689655" count="5">string</word>
+	<word weight="0.020689655172413793" count="3">false</word>
+	<word weight="0.013793103448275862" count="2">closeable</word>
+	<word weight="0.013793103448275862" count="2">system</word>
+	<word weight="0.013793103448275862" count="2">access</word>
+	<word weight="0.006896551724137931" count="1">argument</word>
+	<word weight="0.006896551724137931" count="1">root</word>
+	<word weight="0.006896551724137931" count="1">data</word>
+	<phrase weight="0.16666666666666666" count="4">environment setting instance</phrase>
+	<phrase weight="0.125" count="3">call custom</phrase>
+	<phrase weight="0.08333333333333333" count="2">function custom</phrase>
+	<phrase weight="0.08333333333333333" count="2">result result</phrase>
+	<phrase weight="0.08333333333333333" count="2">table environment</phrase>
+	<phrase weight="0.041666666666666664" count="1">table function nullable</phrase>
+	<phrase weight="0.041666666666666664" count="1">function call custom</phrase>
+	<phrase weight="0.041666666666666664" count="1">table result</phrase>
+	<phrase weight="0.041666666666666664" count="1">nullable test result</phrase>
+	<phrase weight="0.041666666666666664" count="1">nullable test</phrase>
+	<phrase weight="0.041666666666666664" count="1">system function custom</phrase>
+	<phrase weight="0.041666666666666664" count="1">access nullable</phrase>
+	<phrase weight="0.041666666666666664" count="1">argument custom</phrase>
+	<phrase weight="0.041666666666666664" count="1">table function</phrase>
+	<phrase weight="0.041666666666666664" count="1">equal table</phrase>
+	<phrase weight="0.041666666666666664" count="1">setting instance</phrase>
+  </topic>
+  <topic id="8" alpha="32.60916092240108" totalTokens="80" titles="function, env, nest, build, execute, create, map, sql, link, schema">
+	<word weight="0.2375" count="19">function</word>
+	<word weight="0.1375" count="11">env</word>
+	<word weight="0.1375" count="11">nest</word>
+	<word weight="0.1" count="8">build</word>
+	<word weight="0.075" count="6">execute</word>
+	<word weight="0.0625" count="5">create</word>
+	<word weight="0.0375" count="3">map</word>
+	<word weight="0.0375" count="3">sql</word>
+	<word weight="0.0375" count="3">link</word>
+	<word weight="0.025" count="2">schema</word>
+	<word weight="0.025" count="2">temporary</word>
+	<word weight="0.0125" count="1">instance</word>
+	<word weight="0.0125" count="1">exception</word>
+	<word weight="0.0125" count="1">front</word>
+	<word weight="0.0125" count="1">runtime</word>
+	<word weight="0.0125" count="1">produce</word>
+	<word weight="0.0125" count="1">regular</word>
+	<word weight="0.0125" count="1">suite</word>
+	<phrase weight="0.2222222222222222" count="2">function build function</phrase>
+	<phrase weight="0.1111111111111111" count="1">function env execute</phrase>
+	<phrase weight="0.1111111111111111" count="1">nest execute</phrase>
+	<phrase weight="0.1111111111111111" count="1">build function</phrase>
+	<phrase weight="0.1111111111111111" count="1">env create</phrase>
+	<phrase weight="0.1111111111111111" count="1">env execute</phrase>
+	<phrase weight="0.1111111111111111" count="1">function nest execute</phrase>
+	<phrase weight="0.1111111111111111" count="1">instance build</phrase>
+  </topic>
+  <topic id="9" alpha="34.700197797013544" totalTokens="60" titles="test, datum, exception, sql, row, iterator, composite, false, item, operator">
+	<word weight="0.31666666666666665" count="19">test</word>
+	<word weight="0.15" count="9">datum</word>
+	<word weight="0.11666666666666667" count="7">exception</word>
+	<word weight="0.1" count="6">sql</word>
+	<word weight="0.08333333333333333" count="5">row</word>
+	<word weight="0.06666666666666667" count="4">iterator</word>
+	<word weight="0.03333333333333333" count="2">composite</word>
+	<word weight="0.016666666666666666" count="1">false</word>
+	<word weight="0.016666666666666666" count="1">item</word>
+	<word weight="0.016666666666666666" count="1">operator</word>
+	<word weight="0.016666666666666666" count="1">method</word>
+	<word weight="0.016666666666666666" count="1">flatten</word>
+	<word weight="0.016666666666666666" count="1">field</word>
+	<word weight="0.016666666666666666" count="1">suite</word>
+	<word weight="0.016666666666666666" count="1">expression</word>
+	<phrase weight="0.125" count="1">row exception</phrase>
+	<phrase weight="0.125" count="1">test datum</phrase>
+	<phrase weight="0.125" count="1">false test test</phrase>
+	<phrase weight="0.125" count="1">item test</phrase>
+	<phrase weight="0.125" count="1">test sql</phrase>
+	<phrase weight="0.125" count="1">exception test test</phrase>
+	<phrase weight="0.125" count="1">test test sql</phrase>
+	<phrase weight="0.125" count="1">test test</phrase>
+  </topic>
+</topics>

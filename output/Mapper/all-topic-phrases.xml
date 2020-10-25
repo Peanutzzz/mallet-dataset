@@ -1,0 +1,221 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.018680384325116924" totalTokens="39" titles="info, handler, executor, desc, pagesize, offset, string, count, list, ">
+	<word weight="0.20512820512820512" count="8">info</word>
+	<word weight="0.10256410256410256" count="4">handler</word>
+	<word weight="0.10256410256410256" count="4">executor</word>
+	<word weight="0.10256410256410256" count="4">desc</word>
+	<word weight="0.10256410256410256" count="4">pagesize</word>
+	<word weight="0.10256410256410256" count="4">offset</word>
+	<word weight="0.10256410256410256" count="4">page</word>
+	<word weight="0.10256410256410256" count="4">string</word>
+	<word weight="0.05128205128205128" count="2">count</word>
+	<word weight="0.02564102564102564" count="1">list</word>
+	<phrase weight="0.3333333333333333" count="2">pagesize pagesize</phrase>
+	<phrase weight="0.16666666666666666" count="1">executor handler string executor handler page</phrase>
+	<phrase weight="0.16666666666666666" count="1">offset offset</phrase>
+	<phrase weight="0.16666666666666666" count="1">executor handler string executor handler</phrase>
+	<phrase weight="0.16666666666666666" count="1">info page</phrase>
+  </topic>
+  <topic id="1" alpha="0.008765844971457626" totalTokens="47" titles="registry, string, key, timeout, param, dead, remove, ">
+	<word weight="0.48936170212765956" count="23">registry</word>
+	<word weight="0.19148936170212766" count="9">string</word>
+	<word weight="0.1276595744680851" count="6">key</word>
+	<word weight="0.0851063829787234" count="4">timeout</word>
+	<word weight="0.06382978723404255" count="3">param</word>
+	<word weight="0.02127659574468085" count="1">dead</word>
+	<word weight="0.02127659574468085" count="1">remove</word>
+	<phrase weight="0.2" count="2">string registry</phrase>
+	<phrase weight="0.1" count="1">key string registry key</phrase>
+	<phrase weight="0.1" count="1">param registry key string registry key</phrase>
+	<phrase weight="0.1" count="1">registry key string registry key param registry string registry registry</phrase>
+	<phrase weight="0.1" count="1">timeout timeout</phrase>
+	<phrase weight="0.1" count="1">remove dead</phrase>
+	<phrase weight="0.1" count="1">registry string registry registry</phrase>
+	<phrase weight="0.1" count="1">param registry</phrase>
+	<phrase weight="0.1" count="1">timeout registry</phrase>
+  </topic>
+  <topic id="2" alpha="0.04453953593549101" totalTokens="60" titles="mapper, demo, base, delete, insert, save, extend, time, create, group">
+	<word weight="0.2833333333333333" count="17">mapper</word>
+	<word weight="0.21666666666666667" count="13">demo</word>
+	<word weight="0.06666666666666667" count="4">base</word>
+	<word weight="0.06666666666666667" count="4">delete</word>
+	<word weight="0.06666666666666667" count="4">insert</word>
+	<word weight="0.05" count="3">save</word>
+	<word weight="0.05" count="3">extend</word>
+	<word weight="0.03333333333333333" count="2">app</word>
+	<word weight="0.03333333333333333" count="2">time</word>
+	<word weight="0.03333333333333333" count="2">create</word>
+	<word weight="0.03333333333333333" count="2">group</word>
+	<word weight="0.03333333333333333" count="2">field</word>
+	<word weight="0.03333333333333333" count="2">kid</word>
+	<phrase weight="0.25" count="1">mapper extend mapper</phrase>
+	<phrase weight="0.25" count="1">mapper mapper</phrase>
+	<phrase weight="0.25" count="1">mapper demo mapper</phrase>
+	<phrase weight="0.25" count="1">insert insert</phrase>
+  </topic>
+  <topic id="3" alpha="0.021333858674154417" totalTokens="60" titles="role, menu, param, type, code, find, integer, set, list, ">
+	<word weight="0.3333333333333333" count="20">role</word>
+	<word weight="0.26666666666666666" count="16">menu</word>
+	<word weight="0.13333333333333333" count="8">param</word>
+	<word weight="0.06666666666666667" count="4">type</word>
+	<word weight="0.05" count="3">code</word>
+	<word weight="0.05" count="3">find</word>
+	<word weight="0.03333333333333333" count="2">integer</word>
+	<word weight="0.03333333333333333" count="2">set</word>
+	<word weight="0.03333333333333333" count="2">list</word>
+	<phrase weight="0.3333333333333333" count="1">menu role menu role menu</phrase>
+	<phrase weight="0.3333333333333333" count="1">param role role param menu menu</phrase>
+	<phrase weight="0.3333333333333333" count="1">param role role param menu menu list menu find menu role param role set role param type integer type list menu find menu role code param role code set</phrase>
+  </topic>
+  <topic id="4" alpha="0.06102651745553737" totalTokens="231" titles="job, param, xxl, group, list, dao, update, save, find, info">
+	<word weight="0.2727272727272727" count="63">job</word>
+	<word weight="0.19047619047619047" count="44">param</word>
+	<word weight="0.12554112554112554" count="29">xxl</word>
+	<word weight="0.11255411255411256" count="26">group</word>
+	<word weight="0.05627705627705628" count="13">list</word>
+	<word weight="0.04329004329004329" count="10">dao</word>
+	<word weight="0.025974025974025976" count="6">update</word>
+	<word weight="0.021645021645021644" count="5">save</word>
+	<word weight="0.021645021645021644" count="5">find</word>
+	<word weight="0.021645021645021644" count="5">info</word>
+	<word weight="0.017316017316017316" count="4">delete</word>
+	<word weight="0.012987012987012988" count="3">load</word>
+	<word weight="0.012987012987012988" count="3">address</word>
+	<word weight="0.012987012987012988" count="3">type</word>
+	<word weight="0.012987012987012988" count="3">mapper</word>
+	<word weight="0.008658008658008658" count="2">num</word>
+	<word weight="0.008658008658008658" count="2">remove</word>
+	<word weight="0.004329004329004329" count="1">regist</word>
+	<word weight="0.004329004329004329" count="1">fail</word>
+	<word weight="0.004329004329004329" count="1">day</word>
+	<phrase weight="0.17142857142857143" count="6">xxl job</phrase>
+	<phrase weight="0.05714285714285714" count="2">job group job group param job</phrase>
+	<phrase weight="0.05714285714285714" count="2">dao mapper xxl job</phrase>
+	<phrase weight="0.05714285714285714" count="2">info xxl job</phrase>
+	<phrase weight="0.02857142857142857" count="1">num list integer find fail job</phrase>
+	<phrase weight="0.02857142857142857" count="1">xxl job info load param update xxl job</phrase>
+	<phrase weight="0.02857142857142857" count="1">job group param job group job group</phrase>
+	<phrase weight="0.02857142857142857" count="1">item delete param list xxl job</phrase>
+	<phrase weight="0.02857142857142857" count="1">job job param</phrase>
+	<phrase weight="0.02857142857142857" count="1">dao list xxl job info</phrase>
+	<phrase weight="0.02857142857142857" count="1">regist group param</phrase>
+	<phrase weight="0.02857142857142857" count="1">delete param job job</phrase>
+	<phrase weight="0.02857142857142857" count="1">list xxl job</phrase>
+	<phrase weight="0.02857142857142857" count="1">group dao</phrase>
+	<phrase weight="0.02857142857142857" count="1">load param save xxl job</phrase>
+	<phrase weight="0.02857142857142857" count="1">param job job param</phrase>
+	<phrase weight="0.02857142857142857" count="1">job group job group</phrase>
+	<phrase weight="0.02857142857142857" count="1">job group job</phrase>
+	<phrase weight="0.02857142857142857" count="1">dao list xxl job</phrase>
+	<phrase weight="0.02857142857142857" count="1">dao save xxl job</phrase>
+  </topic>
+  <topic id="5" alpha="0.11271078844308045" totalTokens="128" titles="mapper, param, list, string, page, extend, user, object, find, client">
+	<word weight="0.234375" count="30">mapper</word>
+	<word weight="0.15625" count="20">param</word>
+	<word weight="0.1171875" count="15">list</word>
+	<word weight="0.0859375" count="11">string</word>
+	<word weight="0.0703125" count="9">page</word>
+	<word weight="0.0703125" count="9">extend</word>
+	<word weight="0.0625" count="8">user</word>
+	<word weight="0.0546875" count="7">object</word>
+	<word weight="0.0390625" count="5">find</word>
+	<word weight="0.0390625" count="5">map</word>
+	<word weight="0.03125" count="4">client</word>
+	<word weight="0.03125" count="4">file</word>
+	<word weight="0.0078125" count="1">separator</word>
+	<phrase weight="0.2" count="3">mapper mapper</phrase>
+	<phrase weight="0.2" count="3">mapper extend mapper</phrase>
+	<phrase weight="0.06666666666666667" count="1">find list page</phrase>
+	<phrase weight="0.06666666666666667" count="1">find list</phrase>
+	<phrase weight="0.06666666666666667" count="1">string object page param</phrase>
+	<phrase weight="0.06666666666666667" count="1">map string</phrase>
+	<phrase weight="0.06666666666666667" count="1">file mapper extend mapper file</phrase>
+	<phrase weight="0.06666666666666667" count="1">list page</phrase>
+	<phrase weight="0.06666666666666667" count="1">page param map string object param list</phrase>
+	<phrase weight="0.06666666666666667" count="1">mapper extend mapper list</phrase>
+	<phrase weight="0.06666666666666667" count="1">string string</phrase>
+  </topic>
+  <topic id="6" alpha="0.009627585555966933" totalTokens="25" titles="map, string, query, table, column, total, object, generator, component, ">
+	<word weight="0.32" count="8">map</word>
+	<word weight="0.2" count="5">string</word>
+	<word weight="0.16" count="4">query</word>
+	<word weight="0.12" count="3">table</word>
+	<word weight="0.04" count="1">column</word>
+	<word weight="0.04" count="1">total</word>
+	<word weight="0.04" count="1">object</word>
+	<word weight="0.04" count="1">generator</word>
+	<word weight="0.04" count="1">component</word>
+	<phrase weight="0.3333333333333333" count="1">string object map query total map string</phrase>
+	<phrase weight="0.3333333333333333" count="1">string query table</phrase>
+	<phrase weight="0.3333333333333333" count="1">map map</phrase>
+  </topic>
+  <topic id="7" alpha="0.00970179748560425" totalTokens="109" titles="log, trigger, param, time, status, date, pagesize, alarm, clear, handle">
+	<word weight="0.1651376146788991" count="18">log</word>
+	<word weight="0.10091743119266056" count="11">trigger</word>
+	<word weight="0.10091743119266056" count="11">param</word>
+	<word weight="0.09174311926605505" count="10">time</word>
+	<word weight="0.08256880733944955" count="9">status</word>
+	<word weight="0.06422018348623854" count="7">date</word>
+	<word weight="0.05504587155963303" count="6">pagesize</word>
+	<word weight="0.045871559633027525" count="5">alarm</word>
+	<word weight="0.045871559633027525" count="5">clear</word>
+	<word weight="0.03669724770642202" count="4">handle</word>
+	<word weight="0.03669724770642202" count="4">end</word>
+	<word weight="0.03669724770642202" count="4">start</word>
+	<word weight="0.03669724770642202" count="4">offset</word>
+	<word weight="0.027522935779816515" count="3">count</word>
+	<word weight="0.027522935779816515" count="3">code</word>
+	<word weight="0.01834862385321101" count="2">group</word>
+	<word weight="0.01834862385321101" count="2">page</word>
+	<word weight="0.009174311926605505" count="1">object</word>
+	<phrase weight="0.058823529411764705" count="1">pagesize pagesize param</phrase>
+	<phrase weight="0.058823529411764705" count="1">log status log status page</phrase>
+	<phrase weight="0.058823529411764705" count="1">param offset offset</phrase>
+	<phrase weight="0.058823529411764705" count="1">pagesize pagesize</phrase>
+	<phrase weight="0.058823529411764705" count="1">trigger time end date trigger time end</phrase>
+	<phrase weight="0.058823529411764705" count="1">count handle code param handle code handle code</phrase>
+	<phrase weight="0.058823529411764705" count="1">trigger time start date trigger time start param trigger time end date trigger time end</phrase>
+	<phrase weight="0.058823529411764705" count="1">time date clear time param clear</phrase>
+	<phrase weight="0.058823529411764705" count="1">count param offset offset</phrase>
+	<phrase weight="0.058823529411764705" count="1">trigger count</phrase>
+	<phrase weight="0.058823529411764705" count="1">param pagesize pagesize</phrase>
+	<phrase weight="0.058823529411764705" count="1">param date param date clear log</phrase>
+	<phrase weight="0.058823529411764705" count="1">alarm status</phrase>
+	<phrase weight="0.058823529411764705" count="1">time start date trigger time start</phrase>
+	<phrase weight="0.058823529411764705" count="1">log status log status</phrase>
+	<phrase weight="0.058823529411764705" count="1">log log</phrase>
+	<phrase weight="0.058823529411764705" count="1">alarm status alarm status</phrase>
+  </topic>
+  <topic id="8" alpha="0.016271883449471038" totalTokens="58" titles="user, role, item, index, foreach, script, select, insert, find, close">
+	<word weight="0.3275862068965517" count="19">user</word>
+	<word weight="0.3275862068965517" count="19">role</word>
+	<word weight="0.05172413793103448" count="3">item</word>
+	<word weight="0.034482758620689655" count="2">index</word>
+	<word weight="0.034482758620689655" count="2">foreach</word>
+	<word weight="0.034482758620689655" count="2">script</word>
+	<word weight="0.034482758620689655" count="2">select</word>
+	<word weight="0.034482758620689655" count="2">insert</word>
+	<word weight="0.034482758620689655" count="2">find</word>
+	<word weight="0.017241379310344827" count="1">close</word>
+	<word weight="0.017241379310344827" count="1">open</word>
+	<word weight="0.017241379310344827" count="1">collection</word>
+	<word weight="0.017241379310344827" count="1">join</word>
+	<word weight="0.017241379310344827" count="1">delete</word>
+	<phrase weight="0.18181818181818182" count="2">role find role user</phrase>
+	<phrase weight="0.18181818181818182" count="2">user user</phrase>
+	<phrase weight="0.09090909090909091" count="1">foreach item item index index collection</phrase>
+	<phrase weight="0.09090909090909091" count="1">user role</phrase>
+	<phrase weight="0.09090909090909091" count="1">close item foreach script</phrase>
+	<phrase weight="0.09090909090909091" count="1">role role</phrase>
+	<phrase weight="0.09090909090909091" count="1">user delete user role</phrase>
+	<phrase weight="0.09090909090909091" count="1">role role insert insert role user user role user role</phrase>
+	<phrase weight="0.09090909090909091" count="1">user select script select user role user join role role</phrase>
+  </topic>
+  <topic id="9" alpha="0.00950770077107937" totalTokens="12" titles="glue, log, limit, ">
+	<word weight="0.4166666666666667" count="5">glue</word>
+	<word weight="0.4166666666666667" count="5">log</word>
+	<word weight="0.16666666666666666" count="2">limit</word>
+	<phrase weight="1.0" count="1">log glue</phrase>
+  </topic>
+</topics>

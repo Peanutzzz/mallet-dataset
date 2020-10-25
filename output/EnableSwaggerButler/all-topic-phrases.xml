@@ -1,0 +1,28 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="43.65581569502672" totalTokens="6" titles="swagger, config, butler, enable, configuration, ">
+	<word weight="0.3333333333333333" count="2">swagger</word>
+	<word weight="0.16666666666666666" count="1">config</word>
+	<word weight="0.16666666666666666" count="1">butler</word>
+	<word weight="0.16666666666666666" count="1">enable</word>
+	<word weight="0.16666666666666666" count="1">configuration</word>
+  </topic>
+  <topic id="1" alpha="0.011149122321939611" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="0.011149122321939611" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="0.011149122321939611" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="0.011149122321939611" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="0.011149122321939611" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="0.011149122321939611" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="0.011149122321939611" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="0.011149122321939611" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="0.011149122321939611" totalTokens="0" titles="">
+  </topic>
+</topics>

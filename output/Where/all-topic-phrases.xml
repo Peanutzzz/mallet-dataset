@@ -1,0 +1,275 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.029379506396066343" totalTokens="74" titles="permission, type, privil, namespace, target, privilege, base, delete, ">
+	<word weight="0.2972972972972973" count="22">permission</word>
+	<word weight="0.24324324324324326" count="18">type</word>
+	<word weight="0.13513513513513514" count="10">privil</word>
+	<word weight="0.13513513513513514" count="10">namespace</word>
+	<word weight="0.10810810810810811" count="8">target</word>
+	<word weight="0.04054054054054054" count="3">privilege</word>
+	<word weight="0.02702702702702703" count="2">base</word>
+	<word weight="0.013513513513513514" count="1">delete</word>
+	<phrase weight="0.16666666666666666" count="2">namespace namespace</phrase>
+	<phrase weight="0.16666666666666666" count="2">privil type privil type</phrase>
+	<phrase weight="0.08333333333333333" count="1">permission type</phrase>
+	<phrase weight="0.08333333333333333" count="1">permission type permission type</phrase>
+	<phrase weight="0.08333333333333333" count="1">privil type privil type privil type</phrase>
+	<phrase weight="0.08333333333333333" count="1">target target</phrase>
+	<phrase weight="0.08333333333333333" count="1">permission delete</phrase>
+	<phrase weight="0.08333333333333333" count="1">namespace namespace namespace</phrase>
+	<phrase weight="0.08333333333333333" count="1">privil type</phrase>
+	<phrase weight="0.08333333333333333" count="1">permission type permission type permission type</phrase>
+  </topic>
+  <topic id="1" alpha="0.05773822371729474" totalTokens="122" titles="comment, key, entity, config, cluster, server, audit, insert, ">
+	<word weight="0.4098360655737705" count="50">comment</word>
+	<word weight="0.1721311475409836" count="21">key</word>
+	<word weight="0.1557377049180328" count="19">entity</word>
+	<word weight="0.08196721311475409" count="10">config</word>
+	<word weight="0.08196721311475409" count="10">cluster</word>
+	<word weight="0.06557377049180328" count="8">server</word>
+	<word weight="0.02459016393442623" count="3">audit</word>
+	<word weight="0.00819672131147541" count="1">insert</word>
+	<phrase weight="0.25" count="5">comment comment comment</phrase>
+	<phrase weight="0.2" count="4">comment comment</phrase>
+	<phrase weight="0.1" count="2">key key key</phrase>
+	<phrase weight="0.1" count="2">server config</phrase>
+	<phrase weight="0.1" count="2">key key</phrase>
+	<phrase weight="0.05" count="1">config key</phrase>
+	<phrase weight="0.05" count="1">cluster cluster</phrase>
+	<phrase weight="0.05" count="1">cluster cluster cluster</phrase>
+	<phrase weight="0.05" count="1">entity entity entity entity</phrase>
+	<phrase weight="0.05" count="1">comment comment entity entity</phrase>
+  </topic>
+  <topic id="2" alpha="0.02124754768119546" totalTokens="179" titles="release, branch, operation, namespace, cluster, app, rule, previous, context, status">
+	<word weight="0.18994413407821228" count="34">release</word>
+	<word weight="0.1452513966480447" count="26">branch</word>
+	<word weight="0.1005586592178771" count="18">operation</word>
+	<word weight="0.1005586592178771" count="18">namespace</word>
+	<word weight="0.1005586592178771" count="18">cluster</word>
+	<word weight="0.1005586592178771" count="18">app</word>
+	<word weight="0.0670391061452514" count="12">rule</word>
+	<word weight="0.055865921787709494" count="10">previous</word>
+	<word weight="0.0446927374301676" count="8">context</word>
+	<word weight="0.0446927374301676" count="8">status</word>
+	<word weight="0.01675977653631285" count="3">history</word>
+	<word weight="0.01675977653631285" count="3">gray</word>
+	<word weight="0.01675977653631285" count="3">add</word>
+	<phrase weight="0.07692307692307693" count="3">app app</phrase>
+	<phrase weight="0.07692307692307693" count="3">release rule</phrase>
+	<phrase weight="0.07692307692307693" count="3">cluster cluster</phrase>
+	<phrase weight="0.05128205128205128" count="2">operation context</phrase>
+	<phrase weight="0.05128205128205128" count="2">branch status</phrase>
+	<phrase weight="0.05128205128205128" count="2">namespace namespace namespace</phrase>
+	<phrase weight="0.05128205128205128" count="2">namespace namespace</phrase>
+	<phrase weight="0.05128205128205128" count="2">cluster cluster cluster</phrase>
+	<phrase weight="0.05128205128205128" count="2">app app app</phrase>
+	<phrase weight="0.05128205128205128" count="2">release release</phrase>
+	<phrase weight="0.05128205128205128" count="2">branch branch</phrase>
+	<phrase weight="0.02564102564102564" count="1">operation context operation context</phrase>
+	<phrase weight="0.02564102564102564" count="1">rule rule</phrase>
+	<phrase weight="0.02564102564102564" count="1">namespace namespace add branch branch</phrase>
+	<phrase weight="0.02564102564102564" count="1">rule rule rule release release</phrase>
+	<phrase weight="0.02564102564102564" count="1">operation operation operation operation</phrase>
+	<phrase weight="0.02564102564102564" count="1">previous release previous release</phrase>
+	<phrase weight="0.02564102564102564" count="1">operation operation</phrase>
+	<phrase weight="0.02564102564102564" count="1">previous release previous release add operation operation</phrase>
+	<phrase weight="0.02564102564102564" count="1">branch branch branch release release</phrase>
+  </topic>
+  <topic id="3" alpha="0.06311390725045313" totalTokens="108" titles="role, consumer, token, expire, delete, date, compare, ">
+	<word weight="0.42592592592592593" count="46">role</word>
+	<word weight="0.24074074074074073" count="26">consumer</word>
+	<word weight="0.12037037037037036" count="13">token</word>
+	<word weight="0.09259259259259259" count="10">expire</word>
+	<word weight="0.08333333333333333" count="9">delete</word>
+	<word weight="0.027777777777777776" count="3">date</word>
+	<word weight="0.009259259259259259" count="1">compare</word>
+	<phrase weight="0.16666666666666666" count="3">role role</phrase>
+	<phrase weight="0.1111111111111111" count="2">role role role role</phrase>
+	<phrase weight="0.1111111111111111" count="2">token token</phrase>
+	<phrase weight="0.05555555555555555" count="1">delete role</phrase>
+	<phrase weight="0.05555555555555555" count="1">role delete</phrase>
+	<phrase weight="0.05555555555555555" count="1">expire expire</phrase>
+	<phrase weight="0.05555555555555555" count="1">consumer consumer consumer consumer</phrase>
+	<phrase weight="0.05555555555555555" count="1">expire date expire expire expire</phrase>
+	<phrase weight="0.05555555555555555" count="1">token token token date expire expire</phrase>
+	<phrase weight="0.05555555555555555" count="1">consumer role</phrase>
+	<phrase weight="0.05555555555555555" count="1">delete consumer token</phrase>
+	<phrase weight="0.05555555555555555" count="1">consumer consumer consumer consumer role role</phrase>
+	<phrase weight="0.05555555555555555" count="1">consumer consumer</phrase>
+	<phrase weight="0.05555555555555555" count="1">expire consumer consumer</phrase>
+  </topic>
+  <topic id="4" alpha="0.028411112121374107" totalTokens="113" titles="app, blank, format, message, string, namespace, validator, input, invalid, file">
+	<word weight="0.23893805309734514" count="27">app</word>
+	<word weight="0.1415929203539823" count="16">blank</word>
+	<word weight="0.13274336283185842" count="15">format</word>
+	<word weight="0.11504424778761062" count="13">message</word>
+	<word weight="0.09734513274336283" count="11">string</word>
+	<word weight="0.07964601769911504" count="9">namespace</word>
+	<word weight="0.061946902654867256" count="7">validator</word>
+	<word weight="0.04424778761061947" count="5">input</word>
+	<word weight="0.035398230088495575" count="4">invalid</word>
+	<word weight="0.017699115044247787" count="2">file</word>
+	<word weight="0.017699115044247787" count="2">regexp</word>
+	<word weight="0.017699115044247787" count="2">pattern</word>
+	<phrase weight="0.21052631578947367" count="4">blank message</phrase>
+	<phrase weight="0.10526315789473684" count="2">format format</phrase>
+	<phrase weight="0.10526315789473684" count="2">app app</phrase>
+	<phrase weight="0.05263157894736842" count="1">file format format</phrase>
+	<phrase weight="0.05263157894736842" count="1">file format string format</phrase>
+	<phrase weight="0.05263157894736842" count="1">format format format string</phrase>
+	<phrase weight="0.05263157894736842" count="1">namespace validator message invalid namespace format input validator invalid</phrase>
+	<phrase weight="0.05263157894736842" count="1">blank pattern regexp input validator</phrase>
+	<phrase weight="0.05263157894736842" count="1">namespace message input validator invalid namespace namespace message</phrase>
+	<phrase weight="0.05263157894736842" count="1">app app app</phrase>
+	<phrase weight="0.05263157894736842" count="1">blank message app blank</phrase>
+	<phrase weight="0.05263157894736842" count="1">validator message input validator invalid</phrase>
+	<phrase weight="0.05263157894736842" count="1">message blank</phrase>
+	<phrase weight="0.05263157894736842" count="1">blank message app namespace blank pattern regexp input validator</phrase>
+  </topic>
+  <topic id="5" alpha="0.6680540507590167" totalTokens="945" titles="nullable false string, set, column, add, delete, entity, table, extend, sql, update">
+	<word weight="0.27936507936507937" count="264">string</word>
+	<word weight="0.1343915343915344" count="127">set</word>
+	<word weight="0.09735449735449736" count="92">column</word>
+	<word weight="0.07724867724867725" count="73">false</word>
+	<word weight="0.0761904761904762" count="72">nullable</word>
+	<word weight="0.06878306878306878" count="65">add</word>
+	<word weight="0.061375661375661375" count="58">delete</word>
+	<word weight="0.03492063492063492" count="33">entity</word>
+	<word weight="0.02433862433862434" count="23">extend</word>
+	<word weight="0.02433862433862434" count="23">table</word>
+	<word weight="0.02328042328042328" count="22">update</word>
+	<word weight="0.02328042328042328" count="22">sql</word>
+	<word weight="0.022222222222222223" count="21">base</word>
+	<word weight="0.022222222222222223" count="21">clause</word>
+	<word weight="0.016931216931216932" count="16">helper</word>
+	<word weight="0.004232804232804233" count="4">override</word>
+	<word weight="0.0031746031746031746" count="3">lob</word>
+	<word weight="0.0031746031746031746" count="3">bit</word>
+	<word weight="0.0031746031746031746" count="3">definition</word>
+	<phrase weight="0.26857142857142857" count="47">nullable false string</phrase>
+	<phrase weight="0.08571428571428572" count="15">set delete clause delete</phrase>
+	<phrase weight="0.08571428571428572" count="15">delete sql update</phrase>
+	<phrase weight="0.05714285714285714" count="10">nullable false</phrase>
+	<phrase weight="0.045714285714285714" count="8">entity table</phrase>
+	<phrase weight="0.045714285714285714" count="8">extend base entity column</phrase>
+	<phrase weight="0.02857142857142857" count="5">string string helper add</phrase>
+	<phrase weight="0.02857142857142857" count="5">extend base</phrase>
+	<phrase weight="0.022857142857142857" count="4">base entity column</phrase>
+	<phrase weight="0.022857142857142857" count="4">sql update</phrase>
+	<phrase weight="0.022857142857142857" count="4">column nullable false string column</phrase>
+	<phrase weight="0.017142857142857144" count="3">false string</phrase>
+	<phrase weight="0.017142857142857144" count="3">string string string helper add</phrase>
+	<phrase weight="0.017142857142857144" count="3">extend base entity</phrase>
+	<phrase weight="0.017142857142857144" count="3">string set</phrase>
+	<phrase weight="0.017142857142857144" count="3">add add</phrase>
+	<phrase weight="0.017142857142857144" count="3">string string helper add add</phrase>
+	<phrase weight="0.011428571428571429" count="2">set string string</phrase>
+	<phrase weight="0.011428571428571429" count="2">column definition bit</phrase>
+	<phrase weight="0.011428571428571429" count="2">delete clause delete</phrase>
+  </topic>
+  <topic id="6" alpha="0.02214119822542133" totalTokens="113" titles="comment, namespace, key, release, abandon, configuration, num, line, integer, item">
+	<word weight="0.17699115044247787" count="20">comment</word>
+	<word weight="0.1592920353982301" count="18">namespace</word>
+	<word weight="0.1592920353982301" count="18">key</word>
+	<word weight="0.09734513274336283" count="11">release</word>
+	<word weight="0.08849557522123894" count="10">abandon</word>
+	<word weight="0.08849557522123894" count="10">configuration</word>
+	<word weight="0.08849557522123894" count="10">num</word>
+	<word weight="0.08849557522123894" count="10">line</word>
+	<word weight="0.02654867256637168" count="3">integer</word>
+	<word weight="0.02654867256637168" count="3">item</word>
+	<phrase weight="0.16" count="4">comment comment</phrase>
+	<phrase weight="0.08" count="2">abandon abandon</phrase>
+	<phrase weight="0.08" count="2">configuration configuration</phrase>
+	<phrase weight="0.08" count="2">comment comment comment</phrase>
+	<phrase weight="0.04" count="1">namespace namespace namespace namespace</phrase>
+	<phrase weight="0.04" count="1">release key release key release key</phrase>
+	<phrase weight="0.04" count="1">key key key</phrase>
+	<phrase weight="0.04" count="1">release key</phrase>
+	<phrase weight="0.04" count="1">configuration configuration configuration</phrase>
+	<phrase weight="0.04" count="1">line num integer line num line num line num</phrase>
+	<phrase weight="0.04" count="1">integer line num line num</phrase>
+	<phrase weight="0.04" count="1">line num integer line num</phrase>
+	<phrase weight="0.04" count="1">namespace namespace namespace</phrase>
+	<phrase weight="0.04" count="1">key key namespace namespace</phrase>
+	<phrase weight="0.04" count="1">line num line num</phrase>
+	<phrase weight="0.04" count="1">key key</phrase>
+	<phrase weight="0.04" count="1">release key release key</phrase>
+	<phrase weight="0.04" count="1">abandon abandon abandon abandon</phrase>
+	<phrase weight="0.04" count="1">namespace namespace</phrase>
+  </topic>
+  <topic id="7" alpha="0.029341343970594194" totalTokens="80" titles="user, app, enable, secret, position, favorite, key, access, clause, entity">
+	<word weight="0.2375" count="19">user</word>
+	<word weight="0.225" count="18">app</word>
+	<word weight="0.125" count="10">enable</word>
+	<word weight="0.125" count="10">secret</word>
+	<word weight="0.1" count="8">position</word>
+	<word weight="0.0375" count="3">favorite</word>
+	<word weight="0.0375" count="3">key</word>
+	<word weight="0.0375" count="3">access</word>
+	<word weight="0.025" count="2">clause</word>
+	<word weight="0.025" count="2">entity</word>
+	<word weight="0.0125" count="1">override</word>
+	<word weight="0.0125" count="1">update</word>
+	<phrase weight="0.13333333333333333" count="2">app app</phrase>
+	<phrase weight="0.13333333333333333" count="2">app app app</phrase>
+	<phrase weight="0.13333333333333333" count="2">user user</phrase>
+	<phrase weight="0.13333333333333333" count="2">secret secret</phrase>
+	<phrase weight="0.06666666666666667" count="1">secret secret secret enable enable</phrase>
+	<phrase weight="0.06666666666666667" count="1">user user user position position</phrase>
+	<phrase weight="0.06666666666666667" count="1">enable enable</phrase>
+	<phrase weight="0.06666666666666667" count="1">access key</phrase>
+	<phrase weight="0.06666666666666667" count="1">enable enable enable enable override</phrase>
+	<phrase weight="0.06666666666666667" count="1">position position</phrase>
+	<phrase weight="0.06666666666666667" count="1">user user user</phrase>
+  </topic>
+  <topic id="8" alpha="0.02113405125150685" totalTokens="160" titles="owner, org, email, app, builder, consumer, override, ">
+	<word weight="0.3125" count="50">owner</word>
+	<word weight="0.3" count="48">org</word>
+	<word weight="0.15625" count="25">email</word>
+	<word weight="0.13125" count="21">app</word>
+	<word weight="0.06875" count="11">builder</word>
+	<word weight="0.01875" count="3">consumer</word>
+	<word weight="0.00625" count="1">build</word>
+	<word weight="0.00625" count="1">override</word>
+	<phrase weight="0.21621621621621623" count="8">org org</phrase>
+	<phrase weight="0.10810810810810811" count="4">owner email</phrase>
+	<phrase weight="0.10810810810810811" count="4">owner email owner email</phrase>
+	<phrase weight="0.10810810810810811" count="4">owner owner</phrase>
+	<phrase weight="0.10810810810810811" count="4">org org org</phrase>
+	<phrase weight="0.05405405405405406" count="2">owner email owner email owner email</phrase>
+	<phrase weight="0.05405405405405406" count="2">app app</phrase>
+	<phrase weight="0.02702702702702703" count="1">owner email app</phrase>
+	<phrase weight="0.02702702702702703" count="1">owner owner owner</phrase>
+	<phrase weight="0.02702702702702703" count="1">builder builder</phrase>
+	<phrase weight="0.02702702702702703" count="1">owner owner owner override</phrase>
+	<phrase weight="0.02702702702702703" count="1">owner email owner email app build</phrase>
+	<phrase weight="0.02702702702702703" count="1">owner owner builder owner email</phrase>
+	<phrase weight="0.02702702702702703" count="1">org org builder org</phrase>
+	<phrase weight="0.02702702702702703" count="1">org org builder owner</phrase>
+	<phrase weight="0.02702702702702703" count="1">app app app</phrase>
+  </topic>
+  <topic id="9" alpha="0.06844741211495677" totalTokens="168" titles="cluster, app, namespace, change, parent, commit, lock, comparable, implement, ">
+	<word weight="0.2976190476190476" count="50">cluster</word>
+	<word weight="0.2916666666666667" count="49">app</word>
+	<word weight="0.25" count="42">namespace</word>
+	<word weight="0.05952380952380952" count="10">change</word>
+	<word weight="0.05952380952380952" count="10">parent</word>
+	<word weight="0.017857142857142856" count="3">commit</word>
+	<word weight="0.011904761904761904" count="2">lock</word>
+	<word weight="0.005952380952380952" count="1">comparable</word>
+	<word weight="0.005952380952380952" count="1">implement</word>
+	<phrase weight="0.18181818181818182" count="6">cluster cluster</phrase>
+	<phrase weight="0.15151515151515152" count="5">namespace namespace</phrase>
+	<phrase weight="0.12121212121212122" count="4">app app app</phrase>
+	<phrase weight="0.12121212121212122" count="4">app app</phrase>
+	<phrase weight="0.09090909090909091" count="3">cluster cluster cluster</phrase>
+	<phrase weight="0.09090909090909091" count="3">namespace namespace namespace</phrase>
+	<phrase weight="0.06060606060606061" count="2">parent cluster</phrase>
+	<phrase weight="0.06060606060606061" count="2">parent cluster parent cluster</phrase>
+	<phrase weight="0.030303030303030304" count="1">parent cluster parent cluster parent cluster parent cluster</phrase>
+	<phrase weight="0.030303030303030304" count="1">namespace lock</phrase>
+	<phrase weight="0.030303030303030304" count="1">comparable cluster</phrase>
+	<phrase weight="0.030303030303030304" count="1">namespace app app cluster cluster namespace namespace</phrase>
+  </topic>
+</topics>

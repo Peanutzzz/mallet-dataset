@@ -1,0 +1,108 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="3.3496634646589367" totalTokens="24" titles="request, string, response, invoke, application, provider, registry, argument, ">
+	<word weight="0.4166666666666667" count="10">request</word>
+	<word weight="0.20833333333333334" count="5">string</word>
+	<word weight="0.125" count="3">response</word>
+	<word weight="0.08333333333333333" count="2">invoke</word>
+	<word weight="0.041666666666666664" count="1">application</word>
+	<word weight="0.041666666666666664" count="1">provider</word>
+	<word weight="0.041666666666666664" count="1">registry</word>
+	<word weight="0.041666666666666664" count="1">argument</word>
+	<phrase weight="0.3333333333333333" count="1">invoke request</phrase>
+	<phrase weight="0.3333333333333333" count="1">request request</phrase>
+	<phrase weight="0.3333333333333333" count="1">request string</phrase>
+  </topic>
+  <topic id="1" alpha="1.8799860813227884" totalTokens="16" titles="exception, common, support, response, ">
+	<word weight="0.5" count="8">exception</word>
+	<word weight="0.25" count="4">common</word>
+	<word weight="0.125" count="2">support</word>
+	<word weight="0.125" count="2">response</word>
+	<phrase weight="0.6666666666666666" count="2">exception support</phrase>
+	<phrase weight="0.3333333333333333" count="1">exception response</phrase>
+  </topic>
+  <topic id="2" alpha="2.404220216768964" totalTokens="5" titles="exit, extend, filter, ">
+	<word weight="0.4" count="2">exit</word>
+	<word weight="0.4" count="2">extend</word>
+	<word weight="0.2" count="1">filter</word>
+  </topic>
+  <topic id="3" alpha="5.242858840964476" totalTokens="66" titles="method, rpc, invoke, response, argument, sofa, app, override, context, registry">
+	<word weight="0.3484848484848485" count="23">method</word>
+	<word weight="0.24242424242424243" count="16">rpc</word>
+	<word weight="0.12121212121212122" count="8">invoke</word>
+	<word weight="0.10606060606060606" count="7">response</word>
+	<word weight="0.045454545454545456" count="3">argument</word>
+	<word weight="0.045454545454545456" count="3">sofa</word>
+	<word weight="0.030303030303030304" count="2">app</word>
+	<word weight="0.030303030303030304" count="2">override</word>
+	<word weight="0.015151515151515152" count="1">context</word>
+	<word weight="0.015151515151515152" count="1">registry</word>
+	<phrase weight="0.5" count="3">method argument</phrase>
+	<phrase weight="0.5" count="3">sofa rpc</phrase>
+  </topic>
+  <topic id="4" alpha="3.3618919981069015" totalTokens="30" titles="invoker, entry, util, block, throwable, ">
+	<word weight="0.4" count="12">invoker</word>
+	<word weight="0.36666666666666664" count="11">entry</word>
+	<word weight="0.06666666666666667" count="2">util</word>
+	<word weight="0.06666666666666667" count="2">block</word>
+	<word weight="0.06666666666666667" count="2">invoke</word>
+	<word weight="0.03333333333333333" count="1">throwable</word>
+	<phrase weight="0.6666666666666666" count="2">invoker invoker</phrase>
+	<phrase weight="0.3333333333333333" count="1">entry entry</phrase>
+  </topic>
+  <topic id="5" alpha="2.0476923900149724" totalTokens="20" titles="filter, sph, sentinel, provider, side, active, ">
+	<word weight="0.3" count="6">filter</word>
+	<word weight="0.2" count="4">sph</word>
+	<word weight="0.2" count="4">sentinel</word>
+	<word weight="0.1" count="2">provider</word>
+	<word weight="0.1" count="2">side</word>
+	<word weight="0.1" count="2">active</word>
+	<phrase weight="1.0" count="1">provider sentinel</phrase>
+  </topic>
+  <topic id="6" alpha="2.5556213162090806" totalTokens="31" titles="type, resource, exit, caller, equal, true, order, enter, context, throwable">
+	<word weight="0.41935483870967744" count="13">type</word>
+	<word weight="0.12903225806451613" count="4">resource</word>
+	<word weight="0.0967741935483871" count="3">exit</word>
+	<word weight="0.06451612903225806" count="2">caller</word>
+	<word weight="0.06451612903225806" count="2">equal</word>
+	<word weight="0.06451612903225806" count="2">true</word>
+	<word weight="0.06451612903225806" count="2">order</word>
+	<word weight="0.03225806451612903" count="1">enter</word>
+	<word weight="0.03225806451612903" count="1">context</word>
+	<word weight="0.03225806451612903" count="1">throwable</word>
+	<phrase weight="0.6666666666666666" count="2">resource type</phrase>
+	<phrase weight="0.3333333333333333" count="1">resource caller</phrase>
+  </topic>
+  <topic id="7" alpha="1.9769240631468363" totalTokens="26" titles="sofa, consumer, fallback, provider, handle, extension, sync, ">
+	<word weight="0.38461538461538464" count="10">sofa</word>
+	<word weight="0.19230769230769232" count="5">consumer</word>
+	<word weight="0.15384615384615385" count="4">fallback</word>
+	<word weight="0.07692307692307693" count="2">provider</word>
+	<word weight="0.07692307692307693" count="2">handle</word>
+	<word weight="0.07692307692307693" count="2">extension</word>
+	<word weight="0.038461538461538464" count="1">sync</word>
+	<phrase weight="0.3333333333333333" count="1">fallback handle</phrase>
+	<phrase weight="0.3333333333333333" count="1">extension consumer</phrase>
+	<phrase weight="0.3333333333333333" count="1">consumer fallback handle</phrase>
+  </topic>
+  <topic id="8" alpha="4.119269563028132" totalTokens="40" titles="entry, resource, sync, auto, ">
+	<word weight="0.625" count="25">entry</word>
+	<word weight="0.25" count="10">resource</word>
+	<word weight="0.075" count="3">sync</word>
+	<word weight="0.05" count="2">auto</word>
+	<phrase weight="0.4" count="2">resource resource</phrase>
+	<phrase weight="0.4" count="2">entry entry</phrase>
+	<phrase weight="0.2" count="1">entry entry entry</phrase>
+  </topic>
+  <topic id="9" alpha="2.4357234912200334" totalTokens="29" titles="request, constant, trace, resource, type, sofa, filter, ">
+	<word weight="0.4482758620689655" count="13">request</word>
+	<word weight="0.20689655172413793" count="6">constant</word>
+	<word weight="0.13793103448275862" count="4">trace</word>
+	<word weight="0.10344827586206896" count="3">resource</word>
+	<word weight="0.034482758620689655" count="1">type</word>
+	<word weight="0.034482758620689655" count="1">sofa</word>
+	<word weight="0.034482758620689655" count="1">filter</word>
+	<phrase weight="0.5" count="1">request trace</phrase>
+	<phrase weight="0.5" count="1">resource request</phrase>
+  </topic>
+</topics>

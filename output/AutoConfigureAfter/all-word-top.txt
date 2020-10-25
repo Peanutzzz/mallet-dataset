@@ -1,0 +1,61 @@
+0 config 9:2
+1 configuration 8:1
+2 enable 8:1
+3 authorization 9:7 5:4
+4 server 9:7
+5 auto 5:1
+6 configure 2:2 1:2
+7 endpoint 5:7 2:1
+8 configurer 9:2 5:2 7:1
+9 extend 4:1
+10 adapter 1:1
+11 authentication 5:3 1:3
+12 manager 7:4 1:1
+13 password 5:1
+14 grant 3:1
+15 type 9:1
+16 autowired 9:2
+17 resource 3:1
+18 user 8:2 0:1 1:1
+19 detail 9:10
+20 service 4:13
+21 autowire 7:6
+22 token 9:31
+23 store 4:2 1:2 5:1
+24 required 3:1
+25 false 0:2
+26 jwt 9:5
+27 access 1:8
+28 converter 6:5 8:1
+29 require 8:1
+30 enhancer 9:11
+31 web 6:3
+32 response 1:2 6:1
+33 exception 2:6
+34 translator 8:4
+35 redis 1:1
+36 client 7:14
+37 random 9:1
+38 code 2:2 6:1 3:1
+39 granter 9:5
+40 auth 9:2
+41 request 0:1
+42 factory 0:1
+43 param 8:2 2:1
+44 override 6:3
+45 chain 5:5
+46 set 6:1
+47 array 6:1
+48 list 8:1
+49 load 3:1
+50 cache 2:1
+51 credentials 4:1
+52 filter 1:1
+53 security 4:2 9:1 3:1
+54 key 9:1
+55 authenticate 5:1
+56 check 8:1
+57 permit 7:1
+58 oauth 6:1
+59 secret 2:1
+60 form 8:1

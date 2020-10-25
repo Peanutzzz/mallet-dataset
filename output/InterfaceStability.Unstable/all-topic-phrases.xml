@@ -1,0 +1,106 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.49575664566432603" totalTokens="28" titles="source, load, string, prop, newly, ">
+	<word weight="0.35714285714285715" count="10">source</word>
+	<word weight="0.21428571428571427" count="6">load</word>
+	<word weight="0.21428571428571427" count="6">string</word>
+	<word weight="0.14285714285714285" count="4">prop</word>
+	<word weight="0.07142857142857142" count="2">newly</word>
+	<phrase weight="0.5" count="2">source string</phrase>
+	<phrase weight="0.5" count="2">source source</phrase>
+  </topic>
+  <topic id="1" alpha="0.13905863221832765" totalTokens="18" titles="hadoop, job, false, relocate, flink, audience, ">
+	<word weight="0.5" count="9">hadoop</word>
+	<word weight="0.16666666666666666" count="3">job</word>
+	<word weight="0.16666666666666666" count="3">false</word>
+	<word weight="0.05555555555555555" count="1">relocate</word>
+	<word weight="0.05555555555555555" count="1">flink</word>
+	<word weight="0.05555555555555555" count="1">audience</word>
+	<phrase weight="1.0" count="1">hadoop relocate hadoop</phrase>
+  </topic>
+  <topic id="2" alpha="0.15909071530733798" totalTokens="30" titles="code, conf, set, param, skip, info, loader, stability, ">
+	<word weight="0.4666666666666667" count="14">code</word>
+	<word weight="0.2" count="6">conf</word>
+	<word weight="0.1" count="3">set</word>
+	<word weight="0.1" count="3">param</word>
+	<word weight="0.03333333333333333" count="1">skip</word>
+	<word weight="0.03333333333333333" count="1">info</word>
+	<word weight="0.03333333333333333" count="1">loader</word>
+	<word weight="0.03333333333333333" count="1">stability</word>
+	<phrase weight="0.2857142857142857" count="2">param conf</phrase>
+	<phrase weight="0.14285714285714285" count="1">info skip</phrase>
+	<phrase weight="0.14285714285714285" count="1">code code</phrase>
+	<phrase weight="0.14285714285714285" count="1">conf conf</phrase>
+	<phrase weight="0.14285714285714285" count="1">conf set</phrase>
+	<phrase weight="0.14285714285714285" count="1">code loader</phrase>
+  </topic>
+  <topic id="3" alpha="0.42919176356809324" totalTokens="14" titles="mapping, list, force, request, clear, synchronize, stability, ">
+	<word weight="0.14285714285714285" count="2">mapping</word>
+	<word weight="0.14285714285714285" count="2">list</word>
+	<word weight="0.14285714285714285" count="2">force</word>
+	<word weight="0.14285714285714285" count="2">request</word>
+	<word weight="0.14285714285714285" count="2">clear</word>
+	<word weight="0.14285714285714285" count="2">synchronize</word>
+	<word weight="0.14285714285714285" count="2">stability</word>
+	<phrase weight="1.0" count="2">request force</phrase>
+  </topic>
+  <topic id="4" alpha="0.3765270781754011" totalTokens="9" titles="copy, define, isn, haven, unstable, ">
+	<word weight="0.2222222222222222" count="2">copy</word>
+	<word weight="0.2222222222222222" count="2">define</word>
+	<word weight="0.2222222222222222" count="2">isn</word>
+	<word weight="0.2222222222222222" count="2">haven</word>
+	<word weight="0.1111111111111111" count="1">unstable</word>
+	<phrase weight="1.0" count="2">isn define</phrase>
+  </topic>
+  <topic id="5" alpha="0.39487271394985424" totalTokens="33" titles="property, resource, update, length, array, future, add, unstable, ">
+	<word weight="0.36363636363636365" count="12">property</word>
+	<word weight="0.24242424242424243" count="8">resource</word>
+	<word weight="0.12121212121212122" count="4">update</word>
+	<word weight="0.06060606060606061" count="2">length</word>
+	<word weight="0.06060606060606061" count="2">array</word>
+	<word weight="0.06060606060606061" count="2">future</word>
+	<word weight="0.06060606060606061" count="2">add</word>
+	<word weight="0.030303030303030304" count="1">unstable</word>
+	<phrase weight="0.6666666666666666" count="4">update resource</phrase>
+	<phrase weight="0.3333333333333333" count="2">property resource</phrase>
+  </topic>
+  <topic id="6" alpha="0.1594044894354884" totalTokens="14" titles="key, build, snappy, check, openstack, unstable, ">
+	<word weight="0.35714285714285715" count="5">key</word>
+	<word weight="0.2857142857142857" count="4">build</word>
+	<word weight="0.14285714285714285" count="2">snappy</word>
+	<word weight="0.07142857142857142" count="1">check</word>
+	<word weight="0.07142857142857142" count="1">openstack</word>
+	<word weight="0.07142857142857142" count="1">unstable</word>
+	<phrase weight="1.0" count="1">snappy build</phrase>
+  </topic>
+  <topic id="7" alpha="0.21683684260470137" totalTokens="6" titles="present, platform, builtin, factory, ">
+	<word weight="0.5" count="3">present</word>
+	<word weight="0.16666666666666666" count="1">platform</word>
+	<word weight="0.16666666666666666" count="1">builtin</word>
+	<word weight="0.16666666666666666" count="1">factory</word>
+  </topic>
+  <topic id="8" alpha="0.16936915126821095" totalTokens="28" titles="load, configuration, common, compile, loader, support, applicable, java, ">
+	<word weight="0.39285714285714285" count="11">load</word>
+	<word weight="0.25" count="7">configuration</word>
+	<word weight="0.10714285714285714" count="3">common</word>
+	<word weight="0.07142857142857142" count="2">compile</word>
+	<word weight="0.07142857142857142" count="2">loader</word>
+	<word weight="0.03571428571428571" count="1">support</word>
+	<word weight="0.03571428571428571" count="1">applicable</word>
+	<word weight="0.03571428571428571" count="1">java</word>
+	<phrase weight="0.3333333333333333" count="1">compile support</phrase>
+	<phrase weight="0.3333333333333333" count="1">common configuration</phrase>
+	<phrase weight="0.3333333333333333" count="1">java applicable</phrase>
+  </topic>
+  <topic id="9" alpha="0.16308757839400717" totalTokens="29" titles="library, log, true, support, openssl, string, ">
+	<word weight="0.3793103448275862" count="11">library</word>
+	<word weight="0.1724137931034483" count="5">log</word>
+	<word weight="0.13793103448275862" count="4">true</word>
+	<word weight="0.10344827586206896" count="3">lib</word>
+	<word weight="0.10344827586206896" count="3">support</word>
+	<word weight="0.06896551724137931" count="2">openssl</word>
+	<word weight="0.034482758620689655" count="1">string</word>
+	<phrase weight="0.5" count="1">support openssl string library</phrase>
+	<phrase weight="0.5" count="1">log log</phrase>
+  </topic>
+</topics>

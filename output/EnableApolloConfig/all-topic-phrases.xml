@@ -1,0 +1,115 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.023384612213714694" totalTokens="14" titles="key, interested, prefix, integration, ">
+	<word weight="0.35714285714285715" count="5">key</word>
+	<word weight="0.35714285714285715" count="5">interested</word>
+	<word weight="0.21428571428571427" count="3">prefix</word>
+	<word weight="0.07142857142857142" count="1">integration</word>
+	<phrase weight="0.4" count="2">interested key prefix</phrase>
+	<phrase weight="0.4" count="2">interested key</phrase>
+	<phrase weight="0.2" count="1">key prefix</phrase>
+  </topic>
+  <topic id="1" alpha="0.02738179311536328" totalTokens="35" titles="filter, type, component, annotation, exclude, include, scan, auto, ">
+	<word weight="0.34285714285714286" count="12">filter</word>
+	<word weight="0.22857142857142856" count="8">type</word>
+	<word weight="0.11428571428571428" count="4">component</word>
+	<word weight="0.11428571428571428" count="4">annotation</word>
+	<word weight="0.05714285714285714" count="2">exclude</word>
+	<word weight="0.05714285714285714" count="2">include</word>
+	<word weight="0.05714285714285714" count="2">scan</word>
+	<word weight="0.02857142857142857" count="1">auto</word>
+	<phrase weight="1.0" count="2">scan include filter filter type filter type annotation component exclude filter filter type filter type annotation</phrase>
+  </topic>
+  <topic id="2" alpha="0.04041427016226835" totalTokens="35" titles="batch, timeout, set, java, win, ">
+	<word weight="0.34285714285714286" count="12">batch</word>
+	<word weight="0.34285714285714286" count="12">timeout</word>
+	<word weight="0.17142857142857143" count="6">set</word>
+	<word weight="0.11428571428571428" count="4">java</word>
+	<word weight="0.02857142857142857" count="1">win</word>
+	<phrase weight="0.375" count="3">timeout timeout</phrase>
+	<phrase weight="0.375" count="3">set batch batch</phrase>
+	<phrase weight="0.125" count="1">timeout batch batch</phrase>
+	<phrase weight="0.125" count="1">timeout timeout batch batch</phrase>
+  </topic>
+  <topic id="3" alpha="0.06075161989060819" totalTokens="10" titles="yaml, order, application, ">
+	<word weight="0.6" count="6">yaml</word>
+	<word weight="0.3" count="3">order</word>
+	<word weight="0.1" count="1">application</word>
+	<phrase weight="1.0" count="1">application yaml order</phrase>
+  </topic>
+  <topic id="4" alpha="2.2043743098753934" totalTokens="610" titles="config bean test, apollo, configuration, enable, app, auto, spring, server, ">
+	<word weight="0.2442622950819672" count="149">bean</word>
+	<word weight="0.22459016393442624" count="137">test</word>
+	<word weight="0.21147540983606558" count="129">config</word>
+	<word weight="0.09180327868852459" count="56">apollo</word>
+	<word weight="0.07049180327868852" count="43">configuration</word>
+	<word weight="0.06557377049180328" count="40">enable</word>
+	<word weight="0.05901639344262295" count="36">app</word>
+	<word weight="0.02622950819672131" count="16">auto</word>
+	<word weight="0.004918032786885246" count="3">spring</word>
+	<word weight="0.001639344262295082" count="1">server</word>
+	<phrase weight="0.23076923076923078" count="27">config bean test</phrase>
+	<phrase weight="0.18803418803418803" count="22">bean test</phrase>
+	<phrase weight="0.07692307692307693" count="9">app config bean test</phrase>
+	<phrase weight="0.06837606837606838" count="8">test configuration enable apollo config</phrase>
+	<phrase weight="0.06837606837606838" count="8">test configuration enable apollo</phrase>
+	<phrase weight="0.042735042735042736" count="5">test configuration enable</phrase>
+	<phrase weight="0.042735042735042736" count="5">test configuration enable apollo config app config bean test</phrase>
+	<phrase weight="0.02564102564102564" count="3">config app config bean test</phrase>
+	<phrase weight="0.02564102564102564" count="3">config bean bean</phrase>
+	<phrase weight="0.017094017094017096" count="2">test configuration</phrase>
+	<phrase weight="0.017094017094017096" count="2">test configuration enable apollo config app config</phrase>
+	<phrase weight="0.017094017094017096" count="2">test configuration enable apollo config apollo</phrase>
+	<phrase weight="0.017094017094017096" count="2">bean test apollo config</phrase>
+	<phrase weight="0.017094017094017096" count="2">config bean bean test</phrase>
+	<phrase weight="0.017094017094017096" count="2">config bean</phrase>
+	<phrase weight="0.017094017094017096" count="2">test configuration enable apollo config app config bean test apollo config</phrase>
+	<phrase weight="0.008547008547008548" count="1">bean bean test</phrase>
+	<phrase weight="0.008547008547008548" count="1">test configuration enable apollo config app config bean test apollo</phrase>
+	<phrase weight="0.008547008547008548" count="1">bean bean test apollo config</phrase>
+	<phrase weight="0.008547008547008548" count="1">server spring</phrase>
+  </topic>
+  <topic id="5" alpha="0.5294896420847378" totalTokens="145" titles="java, config, placeholder, update, application, xml, yml, resource, ">
+	<word weight="0.3724137931034483" count="54">java</word>
+	<word weight="0.2" count="29">config</word>
+	<word weight="0.1724137931034483" count="25">placeholder</word>
+	<word weight="0.11724137931034483" count="17">update</word>
+	<word weight="0.08275862068965517" count="12">application</word>
+	<word weight="0.027586206896551724" count="4">xml</word>
+	<word weight="0.013793103448275862" count="2">yml</word>
+	<word weight="0.013793103448275862" count="2">resource</word>
+	<phrase weight="0.5" count="2">java config</phrase>
+	<phrase weight="0.5" count="2">application yml</phrase>
+  </topic>
+  <topic id="6" alpha="0.011392498633607981" totalTokens="9" titles="datum, kind, type, ">
+	<word weight="0.3333333333333333" count="3">datum</word>
+	<word weight="0.3333333333333333" count="3">kind</word>
+	<word weight="0.3333333333333333" count="3">type</word>
+	<phrase weight="0.6666666666666666" count="2">kind datum type</phrase>
+	<phrase weight="0.3333333333333333" count="1">datum type</phrase>
+  </topic>
+  <topic id="7" alpha="0.12252490578150353" totalTokens="52" titles="listener, change, apollo, annotation, child, file, namespace, ">
+	<word weight="0.23076923076923078" count="12">listener</word>
+	<word weight="0.23076923076923078" count="12">change</word>
+	<word weight="0.23076923076923078" count="12">apollo</word>
+	<word weight="0.17307692307692307" count="9">annotation</word>
+	<word weight="0.07692307692307693" count="4">child</word>
+	<word weight="0.038461538461538464" count="2">file</word>
+	<word weight="0.019230769230769232" count="1">namespace</word>
+	<phrase weight="0.8333333333333334" count="5">change listener</phrase>
+	<phrase weight="0.16666666666666666" count="1">apollo child</phrase>
+  </topic>
+  <topic id="8" alpha="0.04970768062750375" totalTokens="30" titles="property, nest, placeholder, ">
+	<word weight="0.4666666666666667" count="14">property</word>
+	<word weight="0.4" count="12">nest</word>
+	<word weight="0.13333333333333333" count="4">placeholder</word>
+  </topic>
+  <topic id="9" alpha="0.042210000386333005" totalTokens="18" titles="json, test, apollo, placeholder, ">
+	<word weight="0.4444444444444444" count="8">json</word>
+	<word weight="0.3333333333333333" count="6">test</word>
+	<word weight="0.16666666666666666" count="3">apollo</word>
+	<word weight="0.05555555555555555" count="1">placeholder</word>
+	<phrase weight="0.5" count="1">json test apollo json test</phrase>
+	<phrase weight="0.5" count="1">test apollo json</phrase>
+  </topic>
+</topics>

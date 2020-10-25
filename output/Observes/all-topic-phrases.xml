@@ -1,0 +1,27 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.007680208811605" totalTokens="0" titles="">
+  </topic>
+  <topic id="1" alpha="13.50073303778686" totalTokens="1" titles="event, ">
+	<word weight="1.0" count="1">event</word>
+  </topic>
+  <topic id="2" alpha="8.464043332599108" totalTokens="1" titles="startup, ">
+	<word weight="1.0" count="1">startup</word>
+  </topic>
+  <topic id="3" alpha="2.9709905036238538" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="7.551317085024106" totalTokens="1" titles="observe, ">
+	<word weight="1.0" count="1">observe</word>
+  </topic>
+  <topic id="5" alpha="5.71751691811148" totalTokens="1" titles="bean, ">
+	<word weight="1.0" count="1">bean</word>
+  </topic>
+  <topic id="6" alpha="1.8259088582737908" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="4.804790670536478" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="8.464043332599108" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="7.318961687249044" totalTokens="0" titles="">
+  </topic>
+</topics>

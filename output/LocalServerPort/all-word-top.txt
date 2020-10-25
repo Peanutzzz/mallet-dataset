@@ -1,0 +1,12 @@
+0 rest 0:1
+1 template 0:3
+2 local 0:30
+3 server 0:30
+4 port 0:60
+5 interceptor 0:1
+6 poll 0:2
+7 change 0:1
+8 instance 0:4
+9 service 0:1
+10 healthy 0:1
+11 test 0:1

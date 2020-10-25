@@ -1,0 +1,78 @@
+0 mapper 5:30 2:17 4:3
+1 component 6:1
+2 generator 6:1
+3 extend 5:9 2:3
+4 list 5:15 4:13 3:2 0:1
+5 map 6:8 5:5
+6 string 5:11 1:9 6:5 0:4
+7 object 5:7 6:1 7:1
+8 query 6:4
+9 page 5:9 0:4 7:2
+10 param 4:44 5:20 7:11 3:8 1:3
+11 total 6:1
+12 table 6:3
+13 column 6:1
+14 file 5:4
+15 info 0:8 4:5
+16 find 5:5 4:5 3:3 8:2
+17 menu 3:16
+18 role 3:20 8:19
+19 insert 2:4 8:2
+20 save 4:5 2:3
+21 delete 4:4 2:4 8:1
+22 set 3:2
+23 type 3:4 4:3
+24 integer 3:2 4:1
+25 code 7:3 3:3
+26 user 8:19 5:8
+27 select 8:2
+28 script 8:2
+29 join 8:1
+30 foreach 8:2
+31 item 8:3 4:1
+32 index 8:2
+33 collection 8:1
+34 open 8:1
+35 separator 5:1
+36 close 8:1
+37 base 2:4
+38 demo 2:13
+39 kid 2:2
+40 field 2:2
+41 group 4:26 7:2 2:2
+42 create 2:2
+43 time 7:10 2:2
+44 app 2:2
+45 dao 4:10
+46 xxl 4:29
+47 job 4:63
+48 address 4:3
+49 update 4:6
+50 remove 4:2 1:1
+51 load 4:3
+52 offset 7:4 0:4
+53 pagesize 7:6 0:4
+54 desc 0:4
+55 executor 0:4
+56 handler 0:4
+57 count 7:3 0:2
+58 log 7:18 9:5
+59 trigger 7:11
+60 start 7:4
+61 date 7:7
+62 end 7:4
+63 status 7:9
+64 handle 7:4
+65 day 4:1
+66 clear 7:5
+67 num 4:2
+68 fail 4:1
+69 alarm 7:5
+70 glue 9:5
+71 limit 9:2
+72 registry 1:23
+73 dead 1:1
+74 timeout 1:4
+75 key 1:6
+76 regist 4:1
+77 client 5:4

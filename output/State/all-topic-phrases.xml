@@ -1,0 +1,43 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="33.34235580625447" totalTokens="114" titles="thread, entry, benchmark, test, single, number, directly, collection, list, length">
+	<word weight="0.19298245614035087" count="22">thread</word>
+	<word weight="0.14035087719298245" count="16">entry</word>
+	<word weight="0.12280701754385964" count="14">benchmark</word>
+	<word weight="0.08771929824561403" count="10">test</word>
+	<word weight="0.07017543859649122" count="8">single</word>
+	<word weight="0.043859649122807015" count="5">number</word>
+	<word weight="0.03508771929824561" count="4">directly</word>
+	<word weight="0.017543859649122806" count="2">collection</word>
+	<word weight="0.017543859649122806" count="2">list</word>
+	<word weight="0.017543859649122806" count="2">length</word>
+	<word weight="0.017543859649122806" count="2">unit</word>
+	<word weight="0.017543859649122806" count="2">time</word>
+	<word weight="0.017543859649122806" count="2">mode</word>
+	<word weight="0.008771929824561403" count="1">exit</word>
+	<word weight="0.008771929824561403" count="1">exception</word>
+	<word weight="0.008771929824561403" count="1">block</word>
+	<word weight="0.008771929824561403" count="1">sph</word>
+	<word weight="0.008771929824561403" count="1">sort</word>
+	<word weight="0.008771929824561403" count="1">shuffle</word>
+	<word weight="0.008771929824561403" count="1">current</word>
+  </topic>
+  <topic id="1" alpha="1.729284525501504E-55" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="1.729284525501504E-55" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="1.729284525501504E-55" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="1.729284525501504E-55" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="1.729284525501504E-55" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="1.729284525501504E-55" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="1.729284525501504E-55" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="1.729284525501504E-55" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="1.729284525501504E-55" totalTokens="0" titles="">
+  </topic>
+</topics>

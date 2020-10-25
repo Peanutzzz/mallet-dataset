@@ -1,0 +1,10 @@
+0	0.01632	json field resource property task info manager datum number check slot set address description string hardware creator precondition total heartbeat 
+1	0.00566	checkpoint json statistics property field number complete restore fail latest count externalize precondition summary mode processing check savepoint progress history 
+2	0.02193	job json vertex field status property parallelism info precondition check execution creator result deserialize plan detail deserializer queue object require 
+3	0.00846	time json property field start state check metric end duration status info task string manager flink host execution precondition taskmanager 
+4	0.02383	json accumulator property field check info subtask precondition user string index creator exception attempt list location type timestamp task num 
+5	0.01677	json info field property max min avg thread creator enable string level pressure back nullable backpressure sum require end submit 
+6	0.00486	job num json property field cancel slot fail finish run pend total version connect manager task commit overview creator precondition 
+7	0.03154	json property field jar nullable file list body string job request entry argument program response creator savepoint coordination path serialize 
+8	0.00554	heap field json property record write read complete max memory map direct size count info segment commit manage collector garbage 
+9	0.02447	json property field checkpoint duration subtask timestamp statistics ack alignment num size status buffer state latest task trigger creator savepoint 

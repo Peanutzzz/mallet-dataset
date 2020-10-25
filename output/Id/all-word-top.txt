@@ -1,0 +1,6 @@
+0 generate 0:6
+1 strategy 0:6
+2 generation 0:6
+3 type 0:6
+4 identity 0:6
+5 column 0:6

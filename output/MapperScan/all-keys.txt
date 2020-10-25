@@ -1,0 +1,10 @@
+0	1	application arg service spring mapper client enable storage order run string main configuration auto source datum exclude boot account central 
+1	1	
+2	1	
+3	1	
+4	1	
+5	1	
+6	1	
+7	1	
+8	1	
+9	1	

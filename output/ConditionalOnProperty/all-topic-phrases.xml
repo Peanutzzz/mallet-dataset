@@ -1,0 +1,283 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.010325140434675969" totalTokens="239" titles="audit, utf, log, jdbc, comment, general, collate, character, source, datum">
+	<word weight="0.11297071129707113" count="27">audit</word>
+	<word weight="0.06694560669456066" count="16">utf</word>
+	<word weight="0.04184100418410042" count="10">log</word>
+	<word weight="0.03765690376569038" count="9">jdbc</word>
+	<word weight="0.03347280334728033" count="8">comment</word>
+	<word weight="0.03347280334728033" count="8">general</word>
+	<word weight="0.03347280334728033" count="8">collate</word>
+	<word weight="0.03347280334728033" count="8">character</word>
+	<word weight="0.03347280334728033" count="8">source</word>
+	<word weight="0.03347280334728033" count="8">datum</word>
+	<word weight="0.03347280334728033" count="8">set</word>
+	<word weight="0.029288702928870293" count="7">varchar</word>
+	<word weight="0.029288702928870293" count="7">template</word>
+	<word weight="0.029288702928870293" count="7">property</word>
+	<word weight="0.02510460251046025" count="6">user</word>
+	<word weight="0.02510460251046025" count="6">service</word>
+	<word weight="0.016736401673640166" count="4">timestamp</word>
+	<word weight="0.016736401673640166" count="4">operation</word>
+	<word weight="0.016736401673640166" count="4">application</word>
+	<word weight="0.016736401673640166" count="4">logger</word>
+	<phrase weight="0.09090909090909091" count="1">audit timestamp format date time formatter pattern yyyy sss audit application audit audit method audit</phrase>
+	<phrase weight="0.09090909090909091" count="1">property zlt audit log log</phrase>
+	<phrase weight="0.09090909090909091" count="1">controller save update admin</phrase>
+	<phrase weight="0.09090909090909091" count="1">audit log</phrase>
+	<phrase weight="0.09090909090909091" count="1">audit service</phrase>
+	<phrase weight="0.09090909090909091" count="1">log property log property datum source datum source log property string util empty log property jdbc url datum source hikari datum source log property jdbc template jdbc template datum source post construct init string sql</phrase>
+	<phrase weight="0.09090909090909091" count="1">service impl slf conditional property zlt audit log log type conditional jdbc template audit service impl implement audit service string insert sql insert sys logger application method user user client operation timestamp jdbc template jdbc template audit service impl autowired require</phrase>
+	<phrase weight="0.09090909090909091" count="1">table exist sys logger auto increment application varchar character set utf collate utf general comment varchar character set utf collate utf general comment method varchar character set utf collate utf general comment user comment user varchar character set utf collate utf general comment</phrase>
+	<phrase weight="0.09090909090909091" count="1">source datum source</phrase>
+	<phrase weight="0.09090909090909091" count="1">audit service impl</phrase>
+	<phrase weight="0.09090909090909091" count="1">varchar character set utf collate utf general comment operation varchar character set utf collate utf general comment timestamp varchar character set utf collate utf general comment primary</phrase>
+  </topic>
+  <topic id="1" alpha="0.0055627438328716295" totalTokens="138" titles="user, auth, string, session, username, web, override, impl, sentinel, service">
+	<word weight="0.13043478260869565" count="18">user</word>
+	<word weight="0.10144927536231885" count="14">auth</word>
+	<word weight="0.057971014492753624" count="8">string</word>
+	<word weight="0.050724637681159424" count="7">session</word>
+	<word weight="0.050724637681159424" count="7">username</word>
+	<word weight="0.050724637681159424" count="7">web</word>
+	<word weight="0.050724637681159424" count="7">override</word>
+	<word weight="0.043478260869565216" count="6">impl</word>
+	<word weight="0.036231884057971016" count="5">sentinel</word>
+	<word weight="0.036231884057971016" count="5">service</word>
+	<word weight="0.028985507246376812" count="4">obj</word>
+	<word weight="0.028985507246376812" count="4">simple</word>
+	<word weight="0.028985507246376812" count="4">request</word>
+	<word weight="0.028985507246376812" count="4">true</word>
+	<word weight="0.021739130434782608" count="3">implement</word>
+	<word weight="0.021739130434782608" count="3">http</word>
+	<word weight="0.021739130434782608" count="3">type</word>
+	<word weight="0.014492753623188406" count="2">privilege</word>
+	<word weight="0.014492753623188406" count="2">target</word>
+	<word weight="0.014492753623188406" count="2">servlet</word>
+	<phrase weight="0.25" count="1">pattern user</phrase>
+	<phrase weight="0.25" count="1">service impl slf</phrase>
+	<phrase weight="0.25" count="1">app admin override save</phrase>
+	<phrase weight="0.25" count="1">match missing true</phrase>
+  </topic>
+  <topic id="2" alpha="0.003075609396030384" totalTokens="206" titles="lock, time, key, unit, fair, string, override, wait, lease, redisson">
+	<word weight="0.2766990291262136" count="57">lock</word>
+	<word weight="0.10679611650485436" count="22">time</word>
+	<word weight="0.10194174757281553" count="21">key</word>
+	<word weight="0.08737864077669903" count="18">unit</word>
+	<word weight="0.05339805825242718" count="11">fair</word>
+	<word weight="0.043689320388349516" count="9">string</word>
+	<word weight="0.043689320388349516" count="9">override</word>
+	<word weight="0.038834951456310676" count="8">wait</word>
+	<word weight="0.038834951456310676" count="8">lease</word>
+	<word weight="0.02912621359223301" count="6">redisson</word>
+	<word weight="0.024271844660194174" count="5">exception</word>
+	<word weight="0.019417475728155338" count="4">interrupted</word>
+	<word weight="0.019417475728155338" count="4">false</word>
+	<word weight="0.014563106796116505" count="3">prefix</word>
+	<word weight="0.009708737864077669" count="2">unlock</word>
+	<word weight="0.009708737864077669" count="2">common</word>
+	<word weight="0.009708737864077669" count="2">distribute</word>
+	<word weight="0.009708737864077669" count="2">constant</word>
+	<word weight="0.009708737864077669" count="2">client</word>
+	<word weight="0.009708737864077669" count="2">type</word>
+	<phrase weight="0.5" count="1">lock locker type redis</phrase>
+	<phrase weight="0.5" count="1">lock conditional redisson client conditional</phrase>
+  </topic>
+  <topic id="3" alpha="0.00398987264381885" totalTokens="331" titles="docket, info, path, swagger, property, list, contact, base, url, empty">
+	<word weight="0.14803625377643503" count="49">docket</word>
+	<word weight="0.09969788519637462" count="33">info</word>
+	<word weight="0.06948640483383686" count="23">path</word>
+	<word weight="0.06042296072507553" count="20">swagger</word>
+	<word weight="0.0513595166163142" count="17">property</word>
+	<word weight="0.03625377643504532" count="12">list</word>
+	<word weight="0.03323262839879154" count="11">contact</word>
+	<word weight="0.03323262839879154" count="11">base</word>
+	<word weight="0.03323262839879154" count="11">url</word>
+	<word weight="0.030211480362537766" count="10">empty</word>
+	<word weight="0.02416918429003021" count="8">license</word>
+	<word weight="0.021148036253776436" count="7">bean</word>
+	<word weight="0.01812688821752266" count="6">exclude</word>
+	<word weight="0.01812688821752266" count="6">predicate</word>
+	<word weight="0.01812688821752266" count="6">api</word>
+	<word weight="0.01812688821752266" count="6">factory</word>
+	<word weight="0.015105740181268883" count="5">configurable</word>
+	<word weight="0.015105740181268883" count="5">add</word>
+	<word weight="0.015105740181268883" count="5">group</word>
+	<word weight="0.015105740181268883" count="5">string</word>
+	<phrase weight="0.16666666666666666" count="1">miss bean</phrase>
+	<phrase weight="0.16666666666666666" count="1">set swagger property docket info docket info swagger property docket group api info api info api info builder title docket info title empty swagger property title docket info title description docket info description empty swagger property description docket info description version docket info version empty swagger property version docket info version license docket info license empty swagger property license docket info license license url docket info license url empty swagger</phrase>
+	<phrase weight="0.16666666666666666" count="1">docket create rest api swagger property swagger property configurable bean factory configurable bean factory configurable bean factory bean factory list docket docket list link list swagger property docket size docket docket create docket swagger property configurable bean factory register singleton docket docket docket list add docket docket list string group swagger property docket</phrase>
+	<phrase weight="0.16666666666666666" count="1">license url docket info license url contact contact docket info contact empty swagger property contact docket info contact docket info contact url empty swagger property contact url docket info contact url docket info contact email empty swagger property contact email docket info contact email term service url docket info term service url empty swagger</phrase>
+	<phrase weight="0.16666666666666666" count="1">selector base docket info base path predicate predicate predicate exclude path predicate base path build security scheme security scheme security context security context configurable</phrase>
+	<phrase weight="0.16666666666666666" count="1">term service url docket info term service url build base path path docket info base path empty docket info base path add list predicate string base path array list docket info base path size string path docket info base path base path add path selector ant path exclude path list predicate string exclude path array list docket info exclude path size string path docket info exclude path exclude path add path selector ant path docket docket docket documentation type swagger host swagger property host api info api info global operation parameter assembly global operation parameter swagger property global operation parameter docket info global operation parameter group group select apis request</phrase>
+  </topic>
+  <topic id="4" alpha="0.011081850877525223" totalTokens="439" titles="file, info, property, oss, path, client, manager, bucket, upload, qiniu">
+	<word weight="0.18223234624145787" count="80">file</word>
+	<word weight="0.06378132118451026" count="28">info</word>
+	<word weight="0.05922551252847381" count="26">property</word>
+	<word weight="0.05011389521640091" count="22">oss</word>
+	<word weight="0.04100227790432802" count="18">path</word>
+	<word weight="0.03644646924829157" count="16">client</word>
+	<word weight="0.029612756264236904" count="13">manager</word>
+	<word weight="0.02733485193621868" count="12">bucket</word>
+	<word weight="0.025056947608200455" count="11">upload</word>
+	<word weight="0.02050113895216401" count="9">qiniu</word>
+	<word weight="0.02050113895216401" count="9">store</word>
+	<word weight="0.02050113895216401" count="9">protect</word>
+	<word weight="0.02050113895216401" count="9">override</word>
+	<word weight="0.02050113895216401" count="9">service</word>
+	<word weight="0.02050113895216401" count="9">type</word>
+	<word weight="0.015945330296127564" count="7">auth</word>
+	<word weight="0.015945330296127564" count="7">delete</word>
+	<word weight="0.01366742596810934" count="6">storage</word>
+	<word weight="0.01366742596810934" count="6">key</word>
+	<word weight="0.01366742596810934" count="6">server</word>
+  </topic>
+  <topic id="5" alpha="0.045273096789796796" totalTokens="180" titles="property, conditional, true, configuration, enable, bean, eureka, configure, match, auto">
+	<word weight="0.09444444444444444" count="17">property</word>
+	<word weight="0.08333333333333333" count="15">conditional</word>
+	<word weight="0.06666666666666667" count="12">true</word>
+	<word weight="0.06666666666666667" count="12">configuration</word>
+	<word weight="0.06111111111111111" count="11">enable</word>
+	<word weight="0.05555555555555555" count="10">bean</word>
+	<word weight="0.044444444444444446" count="8">eureka</word>
+	<word weight="0.044444444444444446" count="8">configure</word>
+	<word weight="0.03888888888888889" count="7">match</word>
+	<word weight="0.03888888888888889" count="7">auto</word>
+	<word weight="0.03333333333333333" count="6">missing</word>
+	<word weight="0.03333333333333333" count="6">client</word>
+	<word weight="0.03333333333333333" count="6">server</word>
+	<word weight="0.027777777777777776" count="5">test</word>
+	<word weight="0.027777777777777776" count="5">source</word>
+	<word weight="0.027777777777777776" count="5">config</word>
+	<word weight="0.022222222222222223" count="4">processor</word>
+	<word weight="0.022222222222222223" count="4">apollo</word>
+	<word weight="0.022222222222222223" count="4">handler</word>
+	<word weight="0.022222222222222223" count="4">zlt</word>
+	<phrase weight="0.2" count="1">missing true</phrase>
+	<phrase weight="0.2" count="1">enable match missing true</phrase>
+	<phrase weight="0.2" count="1">auto configure conditional property</phrase>
+	<phrase weight="0.2" count="1">client configuration rule configure</phrase>
+	<phrase weight="0.2" count="1">store conditional</phrase>
+  </topic>
+  <topic id="6" alpha="0.013731520152093557" totalTokens="238" titles="naco, route, property, config, publisher, dyn, dynamic, prefix, zuul, locator">
+	<word weight="0.14285714285714285" count="34">naco</word>
+	<word weight="0.1092436974789916" count="26">route</word>
+	<word weight="0.09243697478991597" count="22">property</word>
+	<word weight="0.07563025210084033" count="18">config</word>
+	<word weight="0.04201680672268908" count="10">publisher</word>
+	<word weight="0.03361344537815126" count="8">dyn</word>
+	<word weight="0.03361344537815126" count="8">dynamic</word>
+	<word weight="0.03361344537815126" count="8">prefix</word>
+	<word weight="0.029411764705882353" count="7">zuul</word>
+	<word weight="0.025210084033613446" count="6">locator</word>
+	<word weight="0.025210084033613446" count="6">repository</word>
+	<word weight="0.025210084033613446" count="6">definition</word>
+	<word weight="0.025210084033613446" count="6">gateway</word>
+	<word weight="0.025210084033613446" count="6">true</word>
+	<word weight="0.025210084033613446" count="6">zlt</word>
+	<word weight="0.025210084033613446" count="6">conditional</word>
+	<word weight="0.025210084033613446" count="6">configuration</word>
+	<word weight="0.02100840336134454" count="5">autowire</word>
+	<word weight="0.01680672268907563" count="4">servlet</word>
+	<word weight="0.01680672268907563" count="4">dispatcher</word>
+  </topic>
+  <topic id="7" alpha="0.013768874518189863" totalTokens="351" titles="token, converter, key, store, access, jwt, property, resource, user, string">
+	<word weight="0.1737891737891738" count="61">token</word>
+	<word weight="0.10256410256410256" count="36">converter</word>
+	<word weight="0.09116809116809117" count="32">key</word>
+	<word weight="0.07692307692307693" count="27">store</word>
+	<word weight="0.06837606837606838" count="24">access</word>
+	<word weight="0.05982905982905983" count="21">jwt</word>
+	<word weight="0.045584045584045586" count="16">property</word>
+	<word weight="0.02564102564102564" count="9">resource</word>
+	<word weight="0.022792022792022793" count="8">user</word>
+	<word weight="0.019943019943019943" count="7">string</word>
+	<word weight="0.019943019943019943" count="7">bean</word>
+	<word weight="0.014245014245014245" count="5">pair</word>
+	<word weight="0.014245014245014245" count="5">http</word>
+	<word weight="0.014245014245014245" count="5">set</word>
+	<word weight="0.011396011396011397" count="4">security</word>
+	<word weight="0.011396011396011397" count="4">redis</word>
+	<word weight="0.011396011396011397" count="4">principal</word>
+	<word weight="0.011396011396011397" count="4">additional</word>
+	<word weight="0.011396011396011397" count="4">authentication</word>
+	<word weight="0.011396011396011397" count="4">factory</word>
+	<phrase weight="0.045454545454545456" count="1">token store conditional property prefix zlt oauth token store type</phrase>
+	<phrase weight="0.045454545454545456" count="1">token store token store</phrase>
+	<phrase weight="0.045454545454545456" count="1">resource jwt key</phrase>
+	<phrase weight="0.045454545454545456" count="1">key key string key</phrase>
+	<phrase weight="0.045454545454545456" count="1">token store conditional property prefix zlt oauth token store type auth token store autowire</phrase>
+	<phrase weight="0.045454545454545456" count="1">property resource</phrase>
+	<phrase weight="0.045454545454545456" count="1">token store token store jwt access token converter jwt access token converter jwt token store jwt access token converter bean jwt access token converter jwt access token converter</phrase>
+	<phrase weight="0.045454545454545456" count="1">access token converter converter</phrase>
+	<phrase weight="0.045454545454545456" count="1">join exception</phrase>
+	<phrase weight="0.045454545454545456" count="1">token store conditional property prefix zlt oauth token store type jwt jwt token store</phrase>
+	<phrase weight="0.045454545454545456" count="1">encoder encode</phrase>
+	<phrase weight="0.045454545454545456" count="1">key authorization</phrase>
+	<phrase weight="0.045454545454545456" count="1">jwt key</phrase>
+	<phrase weight="0.045454545454545456" count="1">jwt auth jwt token store bean key prop key property key property key property resource key prop key property key property bean token store token store jwt access token converter jwt access token converter jwt token store jwt access token converter bean jwt access token converter jwt access token converter jwt access token converter converter jwt access token converter key pair key pair key store key factory key property key store location key property key store secret array key pair key property key store alias converter set key pair key pair access token converter token converter access token converter converter access token converter token converter set user token converter custom user authentication converter converter jwt token token token enhancer bean token enhancer token enhancer access token authentication map string object additional info hash map object principal authentication principal principal user user</phrase>
+	<phrase weight="0.045454545454545456" count="1">key resource</phrase>
+	<phrase weight="0.045454545454545456" count="1">key access token converter token converter access token converter converter access token converter token converter set user token converter custom user authentication converter converter key key string</phrase>
+	<phrase weight="0.045454545454545456" count="1">token store</phrase>
+	<phrase weight="0.045454545454545456" count="1">input stream</phrase>
+	<phrase weight="0.045454545454545456" count="1">prefix zlt oauth token store type redis</phrase>
+	<phrase weight="0.045454545454545456" count="1">string token http</phrase>
+  </topic>
+  <topic id="8" alpha="0.006252666559616819" totalTokens="235" titles="config, redis, refresh, sample, string, list, logger, map, timeout, command">
+	<word weight="0.09361702127659574" count="22">config</word>
+	<word weight="0.07234042553191489" count="17">redis</word>
+	<word weight="0.06382978723404255" count="15">refresh</word>
+	<word weight="0.059574468085106386" count="14">sample</word>
+	<word weight="0.05531914893617021" count="13">string</word>
+	<word weight="0.04680851063829787" count="11">list</word>
+	<word weight="0.04680851063829787" count="11">logger</word>
+	<word weight="0.04680851063829787" count="11">map</word>
+	<word weight="0.03829787234042553" count="9">timeout</word>
+	<word weight="0.03829787234042553" count="9">command</word>
+	<word weight="0.03829787234042553" count="9">node</word>
+	<word weight="0.03829787234042553" count="9">cluster</word>
+	<word weight="0.03829787234042553" count="9">seconds</word>
+	<word weight="0.03829787234042553" count="9">expire</word>
+	<word weight="0.03404255319148936" count="8">scope</word>
+	<word weight="0.02553191489361702" count="6">apollo</word>
+	<word weight="0.01702127659574468" count="4">change</word>
+	<word weight="0.01702127659574468" count="4">cache</word>
+	<word weight="0.01276595744680851" count="3">boot</word>
+	<word weight="0.01276595744680851" count="3">spring</word>
+  </topic>
+  <topic id="9" alpha="0.009996689098495461" totalTokens="137" titles="balancer, load, client, ribbon, exchange, header, isolation, filter, request, config">
+	<word weight="0.072992700729927" count="10">balancer</word>
+	<word weight="0.072992700729927" count="10">load</word>
+	<word weight="0.058394160583941604" count="8">client</word>
+	<word weight="0.043795620437956206" count="6">ribbon</word>
+	<word weight="0.043795620437956206" count="6">exchange</word>
+	<word weight="0.043795620437956206" count="6">header</word>
+	<word weight="0.0364963503649635" count="5">isolation</word>
+	<word weight="0.029197080291970802" count="4">filter</word>
+	<word weight="0.029197080291970802" count="4">request</word>
+	<word weight="0.029197080291970802" count="4">config</word>
+	<word weight="0.029197080291970802" count="4">server</word>
+	<word weight="0.029197080291970802" count="4">property</word>
+	<word weight="0.021897810218978103" count="3">vresion</word>
+	<word weight="0.021897810218978103" count="3">choose</word>
+	<word weight="0.021897810218978103" count="3">password</word>
+	<word weight="0.021897810218978103" count="3">username</word>
+	<word weight="0.021897810218978103" count="3">uri</word>
+	<word weight="0.021897810218978103" count="3">reader</word>
+	<word weight="0.021897810218978103" count="3">constant</word>
+	<word weight="0.021897810218978103" count="3">url</word>
+	<phrase weight="0.08333333333333333" count="1">header header</phrase>
+	<phrase weight="0.08333333333333333" count="1">server str util empty</phrase>
+	<phrase weight="0.08333333333333333" count="1">filter component</phrase>
+	<phrase weight="0.08333333333333333" count="1">config ribbon isolation</phrase>
+	<phrase weight="0.08333333333333333" count="1">username password</phrase>
+	<phrase weight="0.08333333333333333" count="1">property config constant config ribbon isolation</phrase>
+	<phrase weight="0.08333333333333333" count="1">method request</phrase>
+	<phrase weight="0.08333333333333333" count="1">buffer reader buffer reader</phrase>
+	<phrase weight="0.08333333333333333" count="1">template exchange url</phrase>
+	<phrase weight="0.08333333333333333" count="1">isolation filter extend load balancer client filter isolation filter load balancer</phrase>
+	<phrase weight="0.08333333333333333" count="1">entity header</phrase>
+	<phrase weight="0.08333333333333333" count="1">password header add authorization</phrase>
+  </topic>
+</topics>

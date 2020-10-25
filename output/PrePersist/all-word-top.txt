@@ -1,0 +1,10 @@
+0 persist 0:10
+1 protect 0:5
+2 pre 0:9
+3 data 0:11
+4 change 0:21
+5 create 0:11
+6 time 0:21
+7 datum 0:10
+8 date 0:6
+9 modify 0:10

@@ -1,0 +1,10 @@
+0	96.29533	string configuration lob false nullable set change column 
+1	0	
+2	0	
+3	0	
+4	0	
+5	0	
+6	0	
+7	0	
+8	0	
+9	0	

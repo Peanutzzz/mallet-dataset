@@ -1,0 +1,10 @@
+0	0.01346	entity rule result app grade degrade throwable fail set port logger count window time date repository error empty resource publish 
+1	0.01236	entry time slow timer thread exit sph run exception start random task loop head logger block successfully link create stop 
+2	0.01242	string job xxl list group registry app util address jobgroup dao item field blank title length ret map config addresss 
+3	0.2352	string request type util controller body mapping map success response false param set resource index add require update limit find 
+4	0.01441	machine app info set version port result logger heartbeat fail hostname receive management registry type unknown millis current sentinel error 
+5	0.02899	resource metric time page map size result app entity query list end top start index put identity vos logger empty 
+6	0.02114	code captcha validate mobile gif response exception device service variable path create prefix url constant security admin set controller send 
+7	0.05995	request login response date service servlet handler http limit job mapping controller heartbeat interceptor permission info model sso format binder 
+8	0.04171	job log xxl glue info dao group list time model trigger executor result date add clear code attribute num start 
+9	0.01021	authentication map model detail oauth auth put token client authority home index request username 

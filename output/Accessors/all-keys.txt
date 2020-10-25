@@ -1,0 +1,10 @@
+0	39.18251	table integer string tbl true chain accessor storage count code commodity type order money user account auto 
+1	0	
+2	0	
+3	0	
+4	0	
+5	0	
+6	0	
+7	0	
+8	0	
+9	0	

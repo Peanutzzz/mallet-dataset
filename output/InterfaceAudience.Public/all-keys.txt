@@ -1,0 +1,10 @@
+0	0.18058	trail comma parent split digit literal loader order registry system backup combine establish version positive unit alt ret detail limit 
+1	0.17211	length equal json port include result efficient connection password extend store matcher xface substr form expression href enable lead mkdir 
+2	0.54076	string property key code resource param set deprecation deprecate map configuration add exception unit entry file prop address object time 
+3	0.18058	duration make handle intern interner user wrapper strip java leave associate port max dep host interval number custom input trans 
+4	0.09084	restrict reader property unit source storage parser empty fallback include json attribute token target conf gen redactor restricted raw pre 
+5	0.1748	left warning child ret tag unknown service follow access token integer utf assignable protect api unit human test close alias 
+6	0.18207	duration port ptd builder str number variable open helper exist hash current select resolve separate command request race unchecked replace 
+7	0.23277	array custom parameter integer connect synchronize str valid read replace suffix reverse hex index handle error xml comma bind dep 
+8	0.24464	context socket eval cache builder iterator xface hadoop quiet update element directory var method number reference common order transformer delimit 
+9	0.09247	info version string property common protect unknown set checksum src branch revision user protoc date url build git component trunk 

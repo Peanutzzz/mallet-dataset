@@ -1,0 +1,444 @@
+0 evolve 0:2 5:1
+1 config 0:156
+2 group 4:22 0:10 6:2
+3 environment 5:5 9:2 7:1 2:1 8:1
+4 key 0:121
+5 prefix 0:10 4:8
+6 env 9:12
+7 core 5:9 7:3 8:1 3:1
+8 option 0:201
+9 classloading 7:1
+10 parameter 5:8 0:3
+11 define 7:8 5:4 6:1
+12 resolution 3:1 7:1
+13 strategy 6:29 7:1 2:1
+14 loading 7:3
+15 user 7:16 8:2
+16 code 6:21 7:18 8:3
+17 check 3:6 4:3
+18 jar 3:6 2:1
+19 child 9:3 7:1
+20 application 9:3
+21 classpath 9:3
+22 parent 9:34
+23 setting 9:4
+24 load 9:13
+25 include 5:5 9:4 3:1
+26 dependency 2:2
+27 flink 9:29 5:23 2:1 6:1
+28 transitively 7:2
+29 exception 3:3 6:1
+30 rule 2:1
+31 link 5:13 3:4 6:2
+32 loader 9:22
+33 pattern 9:37 3:1
+34 documentation 5:56 9:27 8:3 2:2 0:1
+35 section 5:58 7:18
+36 expert 7:4
+37 string 0:34 9:32 7:2
+38 classloader 7:14
+39 resolve 9:7
+40 order 3:3
+41 description 0:83 3:1 9:1 1:1
+42 namespace 9:1
+43 preference 2:1
+44 path 7:11
+45 file 9:29 1:1
+46 effect 3:3
+47 set 0:23 7:1
+48 important 0:1
+49 object 9:1
+50 move 0:1
+51 runtime 3:3
+52 connector 3:2
+53 run 9:3 0:1 1:1
+54 part 9:2
+55 cover 7:1
+56 copy 7:1
+57 lead 9:1 8:1 5:1
+58 error 5:6 7:3
+59 cast 0:1
+60 equal 9:1 1:1
+61 assign 0:2
+62 subclass 0:1
+63 follow 2:1 5:1
+64 avoid 7:2 0:1
+65 duplication 2:2
+66 java 3:14 7:5
+67 duplicate 3:1
+68 scala 2:7
+69 cross 2:1
+70 boundary 3:1 1:1
+71 function 1:3 9:1
+72 change 9:1 8:1
+73 eventually 3:1
+74 live 9:1
+75 purely 2:1
+76 org 9:19
+77 apache 3:13 7:1
+78 note 7:1
+79 format 7:1 8:1
+80 avro 7:1
+81 annotation 7:2 2:2 3:1
+82 logger 7:1
+83 list 2:9 8:2 6:1
+84 javax 7:4
+85 slf 7:3
+86 log 9:16 5:9 2:1
+87 common 8:17 2:6
+88 qos 3:2 7:1
+89 logback 9:3
+90 convenience 3:1
+91 multiple 0:3 5:1 8:1
+92 binding 0:2
+93 esotericsoftware 2:1
+94 kryo 9:1
+95 hadoop 9:4 3:1
+96 xml 2:1 9:1
+97 xerce 7:1
+98 deprecate 5:21 0:4 9:2
+99 semicolon 7:4 3:1
+100 separate 9:6 3:1
+101 simple 9:4
+102 fully 3:4 5:2
+103 qualified 9:3 3:1
+104 generally 3:2
+105 modify 9:2
+106 add 3:1 9:1
+107 recommend 0:2 3:1
+108 additional 9:8 0:2
+109 append 2:6 3:2
+110 fail 7:2 6:2 9:1 2:1
+111 metaspace 5:5 7:3 1:1
+112 oom 2:2 5:1
+113 type 0:38 8:22
+114 true 3:3
+115 jvm 5:44 9:9 2:2
+116 process 5:10 8:3 2:2 0:1
+117 memory 5:184 8:21 1:2 0:1
+118 configuration 9:9 8:3
+119 base 7:4 9:2
+120 parse 5:12 2:2 9:1
+121 plugin 7:15 2:1
+122 specific 0:1 8:1
+123 global 2:1
+124 version 3:1
+125 exclude 2:2 1:1
+126 implementation 3:2
+127 detail 6:2 2:2
+128 mitigate 9:2
+129 unintended 2:2
+130 side 7:2
+131 young 3:2
+132 feature 9:1 7:1 8:1
+133 splitter 9:5
+134 omit 7:1
+135 empty 0:1
+136 iterable 7:2
+137 array 3:1
+138 concat 9:1
+139 split 9:2
+140 opt 9:6
+141 builder 6:6 9:4 0:2
+142 text 6:10 0:6 5:2 9:1
+143 start 9:6 1:4 7:2
+144 build 6:6 9:5 8:1
+145 jobmanager 3:1
+146 job 6:3 5:2 0:2 9:1
+147 manager 5:65 7:4 8:1
+148 taskmanager 5:44 9:2
+149 task 5:99 8:23 1:4 0:4 3:2 2:1
+150 historyserver 2:1
+151 history 9:1
+152 server 3:1
+153 cli 3:1
+154 client 2:3
+155 generation 9:4 3:2
+156 evaluate 9:6
+157 shell 7:6
+158 script 7:6
+159 suppress 7:3 3:3
+160 warning 9:6
+161 unused 3:6
+162 dir 7:12 3:1
+163 directory 9:13 7:1
+164 save 7:1
+165 absolute 2:1
+166 home 7:1
+167 integer 0:18
+168 max 5:29 0:13 8:1
+169 maximum 0:6
+170 number 5:6 0:6 9:1 3:1
+171 ssh 3:3
+172 command 2:1
+173 line 9:1
+174 pass 9:1 8:1
+175 stop 3:3
+176 zookeeper 2:2 3:1
+177 service 9:1
+178 cluster 0:3 8:2
+179 quorum 9:2
+180 conf 9:6
+181 require 7:3 5:1
+182 read 2:2
+183 hdf 3:1
+184 yarn 5:12 3:6
+185 variable 7:3
+186 hbase 9:2 7:2
+187 generic 2:1
+188 temporary 9:2
+189 system 3:15 5:8
+190 separator 7:2
+191 override 7:2 8:1
+192 local 8:4 0:1
+193 tmp 9:4
+194 meso 5:7 3:1 1:1
+195 property 7:2
+196 tmpdir 9:2
+197 standalone 5:3 9:1
+198 miscellaneous 9:3
+199 program 2:1 6:1
+200 parallelism 9:3 2:3
+201 filesystem 3:6
+202 scheme 7:20
+203 declare 0:3
+204 explicitly 5:8 9:2
+205 authority 7:1
+206 host 8:11 3:1
+207 port 5:17 7:1
+208 hdfs 9:1
+209 node 7:1 4:1
+210 fallback 7:2
+211 wasb 2:1
+212 output 7:10
+213 writer 3:6
+214 overwrite 3:4
+215 exist 2:2 4:1
+216 sink 2:2
+217 filesytem 7:1
+218 false 8:3 7:3 2:1
+219 create 9:7
+220 larger 9:1 5:1
+221 put 3:1
+222 result 7:2 1:1
+223 parallel 8:3 2:1
+224 place 3:1
+225 single 8:1 7:1 5:1
+226 directly 9:2
+227 total 5:28 9:3 7:1
+228 input 9:2 7:1
+229 connection 3:8 0:5 2:2
+230 give 7:3 6:1
+231 open 9:3
+232 unlimited 7:5
+233 limit 9:12
+234 configure 5:25 9:2
+235 optionally 3:2
+236 time 8:11 6:3 3:2
+237 millisecond 1:6 7:2
+238 stream 9:6 8:2
+239 opening 2:1
+240 timeout 5:13 3:8
+241 inactive 3:2
+242 reclaim 3:1
+243 prevent 9:1
+244 make 8:6 0:2
+245 full 4:3 2:1
+246 pool 7:1
+247 limited 9:1
+248 establish 7:1
+249 inactivity 3:1
+250 fix 6:11
+251 delay 6:20 5:1
+252 restart 6:33
+253 failure 6:22
+254 rate 6:17
+255 linebreak 6:1
+256 accept 6:1 5:1
+257 disable 0:1
+258 fixed 6:1
+259 find 6:1 0:1 4:1
+260 fixeddelay 6:1
+261 dev 6:2
+262 recovery 6:2
+263 html 6:2
+264 failurerate 6:1
+265 checkpointing 6:2
+266 disabled 6:1
+267 enable 6:1
+268 attempt 5:8 6:6
+269 retry 8:2 6:2
+270 execution 6:2
+271 duration 8:13 6:9 1:2
+272 seconds 6:2
+273 consecutive 0:5 5:1
+274 helpful 6:1
+275 interact 6:1
+276 external 1:4 6:1
+277 pend 5:2 6:1
+278 transaction 6:1
+279 reach 0:3
+280 notation 6:3
+281 min 5:29 6:3
+282 interval 8:9 6:6
+283 minute 6:1
+284 measure 6:1
+285 unsupported 6:1
+286 operation 6:1
+287 instantiate 6:1 1:1
+288 general 8:1
+289 heap 5:39 8:1
+290 size 5:117 0:1
+291 setup 5:9 8:1
+292 containerized 5:3
+293 worker 5:2
+294 automatically 5:2 1:1
+295 container 5:6
+296 minus 8:3
+297 tolerance 0:1 5:1
+298 megabyte 0:2
+299 kill 5:3
+300 thread 8:10
+301 exit 5:3
+302 quarantine 8:8
+303 monitor 1:4
+304 shut 5:2
+305 actor 8:6
+306 detect 8:2
+307 fatal 5:4
+308 akka 1:2
+309 address 1:11 5:1
+310 network 5:37
+311 expose 5:4
+312 bind 8:15
+313 policy 1:4
+314 automatic 1:2
+315 share 8:1
+316 range 8:2 1:1
+317 expect 8:1
+318 incoming 1:1
+319 ipc 5:1
+320 search 5:1
+321 free 0:1
+322 rpc 5:10 8:1
+323 combination 1:1
+324 collision 1:1
+325 machine 5:2
+326 initial 5:6
+327 registration 8:34
+328 backoff 8:17
+329 util 5:3 8:1
+330 pause 8:2 5:1
+331 unit 8:1
+332 specifier 1:1
+333 refuse 5:6
+334 connect 1:2
+335 exceed 8:2
+336 successful 1:2
+337 terminate 5:1 8:1
+338 slot 5:7 8:1
+339 num 8:2
+340 operator 0:2 8:1
+341 instance 8:3
+342 utilize 5:1
+343 cpu 5:7 8:2 0:1
+344 divide 5:1
+345 typically 5:1
+346 proportional 0:1
+347 physical 5:1
+348 half 8:1
+349 debug 8:6
+350 flag 1:1
+351 repeatedly 5:1
+352 usage 5:2 1:2
+353 current 5:1
+354 manage 8:14
+355 buffer 1:8
+356 stack 8:4 1:1
+357 segment 5:3
+358 hostname 5:1
+359 resource 5:8
+360 generate 5:2
+361 character 5:2
+362 random 1:2
+363 notice 5:2
+364 valid 8:2
+365 kubernete 5:7
+366 mode 1:1 5:1
+367 describe 1:1
+368 executor 8:24 5:8
+369 launch 8:1
+370 internally 1:1
+371 dynamic 1:1
+372 fine 5:1
+373 grain 1:1
+374 management 8:1
+375 complete 8:1
+376 moment 5:1
+377 experimental 8:1
+378 remove 1:1
+379 future 0:1
+380 vcore 1:2
+381 cpus 5:2
+382 round 5:1
+383 closest 5:1
+384 positive 8:1
+385 legacy 0:1
+386 resourcemanager 0:1
+387 approximate 5:1
+388 consume 1:2
+389 consist 8:2
+390 overhead 5:23
+391 framework 5:12
+392 reserve 8:14
+393 allocate 8:3
+394 direct 5:10
+395 count 5:5
+396 calculate 5:5
+397 derive 8:14
+398 sort 1:1
+399 hash 8:1
+400 table 8:1
+401 cache 5:4
+402 intermediate 1:1
+403 rock 5:1
+404 state 8:1
+405 backend 5:1
+406 consumer 5:1
+407 form 1:1
+408 unspecified 5:1
+409 fraction 5:20
+410 netty 5:3
+411 shuffle 1:5 5:1
+412 greater 5:4 1:2
+413 exact 8:6
+414 space 8:1 5:1 1:1
+415 compile 8:3
+416 successive 8:2
+417 cancellation 5:11
+418 deactivate 5:1 1:1
+419 watch 5:2
+420 dog 1:2
+421 wait 1:2
+422 timer 5:6
+423 finish 8:2
+424 cancel 8:2
+425 timerservice 5:1
+426 exceptional 8:1
+427 shutdown 8:1
+428 intend 5:1
+429 doc 0:2
+430 generator 4:4
+431 test 4:3 0:1
+432 end 4:6
+433 perfect 4:1
+434 match 4:6
+435 partial 4:1
+436 remember 4:1
+437 encounter 4:1
+438 root 0:1
+439 ignore 4:2
+440 component 4:1
+441 longest 4:1
+442 matching 4:1
+443 fourth 4:3

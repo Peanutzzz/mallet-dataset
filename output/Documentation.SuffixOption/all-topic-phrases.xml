@@ -1,0 +1,136 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.3338189346426111" totalTokens="30" titles="label, grouping, filter, shutdown, http, builder, disable, enable, text, true">
+	<word weight="0.3" count="9">label</word>
+	<word weight="0.13333333333333333" count="4">grouping</word>
+	<word weight="0.1" count="3">filter</word>
+	<word weight="0.1" count="3">shutdown</word>
+	<word weight="0.06666666666666667" count="2">http</word>
+	<word weight="0.06666666666666667" count="2">builder</word>
+	<word weight="0.03333333333333333" count="1">disable</word>
+	<word weight="0.03333333333333333" count="1">enable</word>
+	<word weight="0.03333333333333333" count="1">text</word>
+	<word weight="0.03333333333333333" count="1">true</word>
+	<word weight="0.03333333333333333" count="1">metric</word>
+	<word weight="0.03333333333333333" count="1">integer</word>
+	<word weight="0.03333333333333333" count="1">suffix</word>
+	<phrase weight="1.0" count="1">text filter label</phrase>
+  </topic>
+  <topic id="1" alpha="0.3120843783144549" totalTokens="18" titles="option, prometheus, concept, doc, remove, code, match, append, ">
+	<word weight="0.2777777777777778" count="5">option</word>
+	<word weight="0.2222222222222222" count="4">prometheus</word>
+	<word weight="0.1111111111111111" count="2">concept</word>
+	<word weight="0.1111111111111111" count="2">doc</word>
+	<word weight="0.1111111111111111" count="2">remove</word>
+	<word weight="0.05555555555555555" count="1">code</word>
+	<word weight="0.05555555555555555" count="1">match</word>
+	<word weight="0.05555555555555555" count="1">append</word>
+	<phrase weight="0.3333333333333333" count="1">match remove</phrase>
+	<phrase weight="0.3333333333333333" count="1">prometheus doc concept</phrase>
+	<phrase weight="0.3333333333333333" count="1">doc concept</phrase>
+  </topic>
+  <topic id="2" alpha="0.4137666491005609" totalTokens="2" titles="authentication, ">
+	<word weight="1.0" count="2">authentication</word>
+  </topic>
+  <topic id="3" alpha="0.31345519675554695" totalTokens="23" titles="push, gateway, delete, separate, requirement, text, true, server, ">
+	<word weight="0.21739130434782608" count="5">push</word>
+	<word weight="0.21739130434782608" count="5">gateway</word>
+	<word weight="0.13043478260869565" count="3">delete</word>
+	<word weight="0.08695652173913043" count="2">separate</word>
+	<word weight="0.08695652173913043" count="2">requirement</word>
+	<word weight="0.08695652173913043" count="2">text</word>
+	<word weight="0.08695652173913043" count="2">true</word>
+	<word weight="0.08695652173913043" count="2">server</word>
+	<phrase weight="0.5" count="2">push gateway</phrase>
+	<phrase weight="0.5" count="2">push gateway server</phrase>
+  </topic>
+  <topic id="4" alpha="2.5646526763206423" totalTokens="165" titles="config, option, key, description, metric, timeout, string, suffix, write, documentation">
+	<word weight="0.26666666666666666" count="44">config</word>
+	<word weight="0.21818181818181817" count="36">option</word>
+	<word weight="0.18787878787878787" count="31">key</word>
+	<word weight="0.10909090909090909" count="18">description</word>
+	<word weight="0.07272727272727272" count="12">metric</word>
+	<word weight="0.03636363636363636" count="6">timeout</word>
+	<word weight="0.03636363636363636" count="6">string</word>
+	<word weight="0.024242424242424242" count="4">suffix</word>
+	<word weight="0.01818181818181818" count="3">write</word>
+	<word weight="0.012121212121212121" count="2">documentation</word>
+	<word weight="0.006060606060606061" count="1">property</word>
+	<word weight="0.006060606060606061" count="1">database</word>
+	<word weight="0.006060606060606061" count="1">influxdb</word>
+	<phrase weight="0.20512820512820512" count="8">config option key</phrase>
+	<phrase weight="0.15384615384615385" count="6">config option</phrase>
+	<phrase weight="0.07692307692307693" count="3">metric config option</phrase>
+	<phrase weight="0.05128205128205128" count="2">metric config config config option</phrase>
+	<phrase weight="0.05128205128205128" count="2">key key key</phrase>
+	<phrase weight="0.02564102564102564" count="1">option key</phrase>
+	<phrase weight="0.02564102564102564" count="1">option config option</phrase>
+	<phrase weight="0.02564102564102564" count="1">config option key description</phrase>
+	<phrase weight="0.02564102564102564" count="1">config option string</phrase>
+	<phrase weight="0.02564102564102564" count="1">string metric config config config option string key config</phrase>
+	<phrase weight="0.02564102564102564" count="1">write timeout metric</phrase>
+	<phrase weight="0.02564102564102564" count="1">timeout config option key</phrase>
+	<phrase weight="0.02564102564102564" count="1">option documentation suffix</phrase>
+	<phrase weight="0.02564102564102564" count="1">description description</phrase>
+	<phrase weight="0.02564102564102564" count="1">key config option key</phrase>
+	<phrase weight="0.02564102564102564" count="1">write timeout config option key write timeout description</phrase>
+	<phrase weight="0.02564102564102564" count="1">suffix config option key</phrase>
+	<phrase weight="0.02564102564102564" count="1">timeout description</phrase>
+	<phrase weight="0.02564102564102564" count="1">option documentation suffix option influxdb</phrase>
+	<phrase weight="0.02564102564102564" count="1">timeout metric config option</phrase>
+  </topic>
+  <topic id="5" alpha="0.38251224160005626" totalTokens="10" titles="host, username, store, ">
+	<word weight="0.6" count="6">host</word>
+	<word weight="0.3" count="3">username</word>
+	<word weight="0.1" count="1">store</word>
+  </topic>
+  <topic id="6" alpha="0.2908792647923415" totalTokens="28" titles="character, job, link, random, build, model, datum, meet, ensure, prometheus">
+	<word weight="0.17857142857142858" count="5">character</word>
+	<word weight="0.17857142857142858" count="5">job</word>
+	<word weight="0.14285714285714285" count="4">link</word>
+	<word weight="0.10714285714285714" count="3">random</word>
+	<word weight="0.07142857142857142" count="2">build</word>
+	<word weight="0.07142857142857142" count="2">model</word>
+	<word weight="0.07142857142857142" count="2">datum</word>
+	<word weight="0.07142857142857142" count="2">meet</word>
+	<word weight="0.07142857142857142" count="2">ensure</word>
+	<word weight="0.03571428571428571" count="1">prometheus</word>
+	<phrase weight="1.0" count="1">meet link</phrase>
+  </topic>
+  <topic id="7" alpha="0.4167882860217756" totalTokens="24" titles="consistency, connect, policy, retention, integer, type, username, reporter, ">
+	<word weight="0.4166666666666667" count="10">consistency</word>
+	<word weight="0.125" count="3">connect</word>
+	<word weight="0.125" count="3">policy</word>
+	<word weight="0.125" count="3">retention</word>
+	<word weight="0.08333333333333333" count="2">integer</word>
+	<word weight="0.041666666666666664" count="1">type</word>
+	<word weight="0.041666666666666664" count="1">username</word>
+	<word weight="0.041666666666666664" count="1">reporter</word>
+	<phrase weight="1.0" count="1">retention policy</phrase>
+  </topic>
+  <topic id="8" alpha="0.4186595216434729" totalTokens="47" titles="influx, level, optional, string, integer, password, port, server, ">
+	<word weight="0.3191489361702128" count="15">influx</word>
+	<word weight="0.1702127659574468" count="8">level</word>
+	<word weight="0.1276595744680851" count="6">optional</word>
+	<word weight="0.1276595744680851" count="6">string</word>
+	<word weight="0.0851063829787234" count="4">integer</word>
+	<word weight="0.06382978723404255" count="3">password</word>
+	<word weight="0.06382978723404255" count="3">port</word>
+	<word weight="0.0425531914893617" count="2">server</word>
+	<phrase weight="0.5714285714285714" count="4">optional influx</phrase>
+	<phrase weight="0.14285714285714285" count="1">influx server</phrase>
+	<phrase weight="0.14285714285714285" count="1">level influx</phrase>
+	<phrase weight="0.14285714285714285" count="1">influx server port</phrase>
+  </topic>
+  <topic id="9" alpha="0.243221013808565" totalTokens="13" titles="element, port, reporter, global, group, job, key, option, ">
+	<word weight="0.23076923076923078" count="3">element</word>
+	<word weight="0.23076923076923078" count="3">port</word>
+	<word weight="0.15384615384615385" count="2">reporter</word>
+	<word weight="0.07692307692307693" count="1">global</word>
+	<word weight="0.07692307692307693" count="1">group</word>
+	<word weight="0.07692307692307693" count="1">job</word>
+	<word weight="0.07692307692307693" count="1">key</word>
+	<word weight="0.07692307692307693" count="1">option</word>
+	<phrase weight="1.0" count="1">group global</phrase>
+  </topic>
+</topics>

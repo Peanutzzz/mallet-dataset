@@ -1,0 +1,416 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.02242998632238844" totalTokens="1313" titles="cassandra, sink, table, integer, tuple, string, row, scala, result, query">
+	<word weight="0.07920792079207921" count="104">cassandra</word>
+	<word weight="0.07006854531607007" count="92">sink</word>
+	<word weight="0.04950495049504951" count="65">table</word>
+	<word weight="0.046458492003046456" count="61">integer</word>
+	<word weight="0.04493526275704494" count="59">tuple</word>
+	<word weight="0.039603960396039604" count="52">string</word>
+	<word weight="0.0357958872810358" count="47">row</word>
+	<word weight="0.03274942878903275" count="43">scala</word>
+	<word weight="0.030464584920030464" count="40">result</word>
+	<word weight="0.02817974105102818" count="37">query</word>
+	<word weight="0.027418126428027417" count="36">list</word>
+	<word weight="0.024371667936024372" count="32">set</word>
+	<word weight="0.022086824067022087" count="29">type</word>
+	<word weight="0.021325209444021324" count="28">builder</word>
+	<word weight="0.01827875095201828" count="24">session</word>
+	<word weight="0.017517136329017517" count="23">inject</word>
+	<word weight="0.015993907083015995" count="21">array</word>
+	<word weight="0.015232292460015232" count="20">close</word>
+	<word weight="0.014470677837014471" count="19">custom</word>
+	<word weight="0.013709063214013708" count="18">select</word>
+	<phrase weight="0.039525691699604744" count="10">inject table select</phrase>
+	<phrase weight="0.03557312252964427" count="9">custom cassandra</phrase>
+	<phrase weight="0.019762845849802372" count="5">query replace table</phrase>
+	<phrase weight="0.015810276679841896" count="4">commit false</phrase>
+	<phrase weight="0.011857707509881422" count="3">row row</phrase>
+	<phrase weight="0.011857707509881422" count="3">ahead sink</phrase>
+	<phrase weight="0.011857707509881422" count="3">row result list</phrase>
+	<phrase weight="0.011857707509881422" count="3">sink cassandra</phrase>
+	<phrase weight="0.011857707509881422" count="3">query builder</phrase>
+	<phrase weight="0.011857707509881422" count="3">integer integer</phrase>
+	<phrase weight="0.011857707509881422" count="3">stream execution</phrase>
+	<phrase weight="0.011857707509881422" count="3">query builder sink configure</phrase>
+	<phrase weight="0.011857707509881422" count="3">create table query replace table</phrase>
+	<phrase weight="0.007905138339920948" count="2">query select</phrase>
+	<phrase weight="0.007905138339920948" count="2">converter scala</phrase>
+	<phrase weight="0.007905138339920948" count="2">close result set session</phrase>
+	<phrase weight="0.007905138339920948" count="2">sink send sink close result set session</phrase>
+	<phrase weight="0.007905138339920948" count="2">uuid random string sink close result set session</phrase>
+	<phrase weight="0.007905138339920948" count="2">ahead sink tuple string integer integer</phrase>
+	<phrase weight="0.007905138339920948" count="2">find result set list string list</phrase>
+  </topic>
+  <topic id="1" alpha="0.021723951977433813" totalTokens="511" titles="kafka, sql, jar, file, result, path, line, avro, version, message">
+	<word weight="0.10763209393346379" count="55">kafka</word>
+	<word weight="0.05283757338551859" count="27">sql</word>
+	<word weight="0.050880626223091974" count="26">jar</word>
+	<word weight="0.050880626223091974" count="26">file</word>
+	<word weight="0.043052837573385516" count="22">result</word>
+	<word weight="0.043052837573385516" count="22">path</word>
+	<word weight="0.03522504892367906" count="18">line</word>
+	<word weight="0.033268101761252444" count="17">avro</word>
+	<word weight="0.029354207436399216" count="15">version</word>
+	<word weight="0.025440313111545987" count="13">message</word>
+	<word weight="0.025440313111545987" count="13">topic</word>
+	<word weight="0.023483365949119372" count="12">var</word>
+	<word weight="0.021526418786692758" count="11">csv</word>
+	<word weight="0.019569471624266144" count="10">download</word>
+	<word weight="0.01761252446183953" count="9">user</word>
+	<word weight="0.015655577299412915" count="8">event</word>
+	<word weight="0.015655577299412915" count="8">rowtime</word>
+	<word weight="0.015655577299412915" count="8">map</word>
+	<word weight="0.015655577299412915" count="8">tmp</word>
+	<word weight="0.015655577299412915" count="8">type</word>
+	<phrase weight="0.036585365853658534" count="3">kafka version</phrase>
+	<phrase weight="0.024390243902439025" count="2">rowtime user steve event type</phrase>
+	<phrase weight="0.024390243902439025" count="2">json topic</phrase>
+	<phrase weight="0.024390243902439025" count="2">sql statement</phrase>
+	<phrase weight="0.024390243902439025" count="2">csv result file</phrase>
+	<phrase weight="0.012195121951219513" count="1">line file url file path</phrase>
+	<phrase weight="0.012195121951219513" count="1">avro topic var map put result result</phrase>
+	<phrase weight="0.012195121951219513" count="1">rowtime user bob event type error message error kafka send message</phrase>
+	<phrase weight="0.012195121951219513" count="1">line line map entry</phrase>
+	<phrase weight="0.012195121951219513" count="1">download cache download cache path sql avro jar</phrase>
+	<phrase weight="0.012195121951219513" count="1">message user</phrase>
+	<phrase weight="0.012195121951219513" count="1">file file path path file</phrase>
+	<phrase weight="0.012195121951219513" count="1">kafka sql client</phrase>
+	<phrase weight="0.012195121951219513" count="1">target csv</phrase>
+	<phrase weight="0.012195121951219513" count="1">enable checkpoint trigger flush filesystem sink</phrase>
+	<phrase weight="0.012195121951219513" count="1">array list csv file file file csv file result</phrase>
+	<phrase weight="0.012195121951219513" count="1">download cache download http repo maven org maven org apache avro avro avro jar tmp path apache avro jar</phrase>
+	<phrase weight="0.012195121951219513" count="1">kafka sql url file</phrase>
+	<phrase weight="0.012195121951219513" count="1">kafka version kafka sql version</phrase>
+	<phrase weight="0.012195121951219513" count="1">jar sql connector kafka jar</phrase>
+  </topic>
+  <topic id="2" alpha="0.027091551430709123" totalTokens="349" titles="kafka, message, topic, input, version, list, key, bee, squirrel, filter">
+	<word weight="0.14613180515759314" count="51">kafka</word>
+	<word weight="0.10888252148997135" count="38">message</word>
+	<word weight="0.08595988538681948" count="30">topic</word>
+	<word weight="0.03724928366762178" count="13">input</word>
+	<word weight="0.034383954154727794" count="12">version</word>
+	<word weight="0.034383954154727794" count="12">list</word>
+	<word weight="0.03151862464183381" count="11">key</word>
+	<word weight="0.025787965616045846" count="9">bee</word>
+	<word weight="0.025787965616045846" count="9">squirrel</word>
+	<word weight="0.025787965616045846" count="9">filter</word>
+	<word weight="0.025787965616045846" count="9">elephant</word>
+	<word weight="0.025787965616045846" count="9">partition</word>
+	<word weight="0.025787965616045846" count="9">output</word>
+	<word weight="0.025787965616045846" count="9">equal</word>
+	<word weight="0.022922636103151862" count="8">argument</word>
+	<word weight="0.022922636103151862" count="8">array</word>
+	<word weight="0.017191977077363897" count="6">streaming</word>
+	<word weight="0.017191977077363897" count="6">send</word>
+	<word weight="0.014326647564469915" count="5">jar</word>
+	<word weight="0.014326647564469915" count="5">flink</word>
+	<phrase weight="0.046875" count="3">format message kafka kafka version message array</phrase>
+	<phrase weight="0.046875" count="3">streaming kafka</phrase>
+	<phrase weight="0.03125" count="2">bee filter message message bee</phrase>
+	<phrase weight="0.03125" count="2">squirrel filter message message squirrel list</phrase>
+	<phrase weight="0.03125" count="2">message kafka</phrase>
+	<phrase weight="0.03125" count="2">kafka version</phrase>
+	<phrase weight="0.015625" count="1">filter message list</phrase>
+	<phrase weight="0.015625" count="1">topic output topic</phrase>
+	<phrase weight="0.015625" count="1">message correct equal newly</phrase>
+	<phrase weight="0.015625" count="1">path kafka jar</phrase>
+	<phrase weight="0.015625" count="1">commit fail</phrase>
+	<phrase weight="0.015625" count="1">message kafka topic</phrase>
+	<phrase weight="0.015625" count="1">config streaming kafka</phrase>
+	<phrase weight="0.015625" count="1">send message kafka topic input topic kafka send</phrase>
+	<phrase weight="0.015625" count="1">topic input topic kafka</phrase>
+	<phrase weight="0.015625" count="1">kafka version kafka jar</phrase>
+	<phrase weight="0.015625" count="1">kafka kafka send</phrase>
+	<phrase weight="0.015625" count="1">partition topic</phrase>
+	<phrase weight="0.015625" count="1">array list object flink streaming kafka</phrase>
+	<phrase weight="0.015625" count="1">keyword message</phrase>
+  </topic>
+  <topic id="3" alpha="0.023156470386127368" totalTokens="196" titles="type, instantiation, setup, location, reporter, prometheus, http, factory, constant, client">
+	<word weight="0.09693877551020408" count="19">type</word>
+	<word weight="0.08673469387755102" count="17">instantiation</word>
+	<word weight="0.08673469387755102" count="17">setup</word>
+	<word weight="0.07653061224489796" count="15">location</word>
+	<word weight="0.07142857142857142" count="14">reporter</word>
+	<word weight="0.03571428571428571" count="7">prometheus</word>
+	<word weight="0.030612244897959183" count="6">http</word>
+	<word weight="0.030612244897959183" count="6">factory</word>
+	<word weight="0.025510204081632654" count="5">constant</word>
+	<word weight="0.025510204081632654" count="5">client</word>
+	<word weight="0.025510204081632654" count="5">set</word>
+	<word weight="0.02040816326530612" count="4">resolve</word>
+	<word weight="0.02040816326530612" count="4">consumer</word>
+	<word weight="0.02040816326530612" count="4">run</word>
+	<word weight="0.02040816326530612" count="4">object</word>
+	<word weight="0.015306122448979591" count="3">version</word>
+	<word weight="0.015306122448979591" count="3">result</word>
+	<word weight="0.015306122448979591" count="3">system</word>
+	<word weight="0.01020408163265306" count="2">place</word>
+	<word weight="0.01020408163265306" count="2">archive</word>
+	<phrase weight="0.1111111111111111" count="3">instantiation type instantiation type</phrase>
+	<phrase weight="0.07407407407407407" count="2">setup instantiation type instantiation type</phrase>
+	<phrase weight="0.07407407407407407" count="2">prometheus reporter</phrase>
+	<phrase weight="0.07407407407407407" count="2">reporter factory</phrase>
+	<phrase weight="0.037037037037037035" count="1">reporter http</phrase>
+	<phrase weight="0.037037037037037035" count="1">setup instantiation type instantiation type instantiation type</phrase>
+	<phrase weight="0.037037037037037035" count="1">availability client</phrase>
+	<phrase weight="0.037037037037037035" count="1">url http</phrase>
+	<phrase weight="0.037037037037037035" count="1">object mapper</phrase>
+	<phrase weight="0.037037037037037035" count="1">type vector result</phrase>
+	<phrase weight="0.037037037037037035" count="1">travi group run</phrase>
+	<phrase weight="0.037037037037037035" count="1">http github</phrase>
+	<phrase weight="0.037037037037037035" count="1">parameter array</phrase>
+	<phrase weight="0.037037037037037035" count="1">linux processor architecture processor architecture</phrase>
+	<phrase weight="0.037037037037037035" count="1">http client</phrase>
+	<phrase weight="0.037037037037037035" count="1">instantiation type factory</phrase>
+	<phrase weight="0.037037037037037035" count="1">instantiation type</phrase>
+	<phrase weight="0.037037037037037035" count="1">assume assume</phrase>
+	<phrase weight="0.037037037037037035" count="1">type consumer</phrase>
+	<phrase weight="0.037037037037037035" count="1">mac darwin</phrase>
+  </topic>
+  <topic id="4" alpha="0.3515547861283255" totalTokens="946" titles="string, test, resource, list, flink, info, cluster, log, configuration, logger">
+	<word weight="0.13107822410147993" count="124">string</word>
+	<word weight="0.06976744186046512" count="66">test</word>
+	<word weight="0.04439746300211417" count="42">resource</word>
+	<word weight="0.04439746300211417" count="42">list</word>
+	<word weight="0.042283298097251586" count="40">flink</word>
+	<word weight="0.040169133192389" count="38">info</word>
+	<word weight="0.03805496828752643" count="36">cluster</word>
+	<word weight="0.035940803382663845" count="34">log</word>
+	<word weight="0.024312896405919663" count="23">configuration</word>
+	<word weight="0.024312896405919663" count="23">logger</word>
+	<word weight="0.023255813953488372" count="22">add</word>
+	<word weight="0.021141649048625793" count="20">exception</word>
+	<word weight="0.021141649048625793" count="20">create</word>
+	<word weight="0.015856236786469344" count="15">job</word>
+	<word weight="0.013742071881606765" count="13">controller</word>
+	<word weight="0.013742071881606765" count="13">start</word>
+	<word weight="0.013742071881606765" count="13">builder</word>
+	<word weight="0.012684989429175475" count="12">util</word>
+	<word weight="0.012684989429175475" count="12">temporary</word>
+	<word weight="0.012684989429175475" count="12">rule</word>
+	<phrase weight="0.06779661016949153" count="8">string string</phrase>
+	<phrase weight="0.0423728813559322" count="5">util resource</phrase>
+	<phrase weight="0.0423728813559322" count="5">list string</phrase>
+	<phrase weight="0.025423728813559324" count="3">info verify</phrase>
+	<phrase weight="0.01694915254237288" count="2">stream map</phrase>
+	<phrase weight="0.01694915254237288" count="2">bootstrap server</phrase>
+	<phrase weight="0.01694915254237288" count="2">current record</phrase>
+	<phrase weight="0.01694915254237288" count="2">rule temporary folder</phrase>
+	<phrase weight="0.01694915254237288" count="2">test util resource</phrase>
+	<phrase weight="0.01694915254237288" count="2">configuration flink</phrase>
+	<phrase weight="0.01694915254237288" count="2">builder flink</phrase>
+	<phrase weight="0.01694915254237288" count="2">exception cluster controller cluster controller flink start cluster create</phrase>
+	<phrase weight="0.01694915254237288" count="2">category travi group</phrase>
+	<phrase weight="0.01694915254237288" count="2">temporary folder</phrase>
+	<phrase weight="0.00847457627118644" count="1">controller cluster controller list string</phrase>
+	<phrase weight="0.00847457627118644" count="1">string string log info</phrase>
+	<phrase weight="0.00847457627118644" count="1">server string util join</phrase>
+	<phrase weight="0.00847457627118644" count="1">run successfully</phrase>
+	<phrase weight="0.00847457627118644" count="1">pattern exception</phrase>
+	<phrase weight="0.00847457627118644" count="1">fail java client</phrase>
+  </topic>
+  <topic id="5" alpha="0.021307039214139185" totalTokens="289" titles="sql, hbase, family, jar, hadoop, file, path, classpath, row, line">
+	<word weight="0.07958477508650519" count="23">sql</word>
+	<word weight="0.06228373702422145" count="18">hbase</word>
+	<word weight="0.058823529411764705" count="17">base</word>
+	<word weight="0.05536332179930796" count="16">family</word>
+	<word weight="0.05536332179930796" count="16">jar</word>
+	<word weight="0.05190311418685121" count="15">hadoop</word>
+	<word weight="0.05190311418685121" count="15">file</word>
+	<word weight="0.04844290657439446" count="14">path</word>
+	<word weight="0.04498269896193772" count="13">classpath</word>
+	<word weight="0.04152249134948097" count="12">row</word>
+	<word weight="0.03806228373702422" count="11">line</word>
+	<word weight="0.031141868512110725" count="9">table</word>
+	<word weight="0.02768166089965398" count="8">source</word>
+	<word weight="0.02768166089965398" count="8">sink</word>
+	<word weight="0.02422145328719723" count="7">put</word>
+	<word weight="0.020761245674740483" count="6">matcher</word>
+	<word weight="0.020761245674740483" count="6">core</word>
+	<word weight="0.020761245674740483" count="6">datum</word>
+	<word weight="0.01730103806228374" count="5">client</word>
+	<word weight="0.01730103806228374" count="5">result</word>
+	<phrase weight="0.06382978723404255" count="3">sql line</phrase>
+	<phrase weight="0.06382978723404255" count="3">client base</phrase>
+	<phrase weight="0.0425531914893617" count="2">sql statement</phrase>
+	<phrase weight="0.02127659574468085" count="1">put datum hbase</phrase>
+	<phrase weight="0.02127659574468085" count="1">base sql client</phrase>
+	<phrase weight="0.02127659574468085" count="1">jar path jar</phrase>
+	<phrase weight="0.02127659574468085" count="1">sink table</phrase>
+	<phrase weight="0.02127659574468085" count="1">tmp path</phrase>
+	<phrase weight="0.02127659574468085" count="1">jar path hadoop classpath</phrase>
+	<phrase weight="0.02127659574468085" count="1">toolbox jar path sql connector base jar</phrase>
+	<phrase weight="0.02127659574468085" count="1">line array</phrase>
+	<phrase weight="0.02127659574468085" count="1">base sink result</phrase>
+	<phrase weight="0.02127659574468085" count="1">path tmp path tmp</phrase>
+	<phrase weight="0.02127659574468085" count="1">path hadoop classpath jar client base hbase base</phrase>
+	<phrase weight="0.02127659574468085" count="1">line file url file path</phrase>
+	<phrase weight="0.02127659574468085" count="1">path content split</phrase>
+	<phrase weight="0.02127659574468085" count="1">array order core matcher</phrase>
+	<phrase weight="0.02127659574468085" count="1">sql statement hbase sql file</phrase>
+	<phrase weight="0.02127659574468085" count="1">file hadoop classpath hadoop classpath</phrase>
+	<phrase weight="0.02127659574468085" count="1">exception hbase sql file</phrase>
+  </topic>
+  <topic id="6" alpha="0.06627207176034575" totalTokens="339" titles="manager, metric, task, client, rest, parameter, header, exception, executor, schedule">
+	<word weight="0.09144542772861357" count="31">manager</word>
+	<word weight="0.0855457227138643" count="29">metric</word>
+	<word weight="0.07669616519174041" count="26">task</word>
+	<word weight="0.058997050147492625" count="20">client</word>
+	<word weight="0.0471976401179941" count="16">rest</word>
+	<word weight="0.0471976401179941" count="16">parameter</word>
+	<word weight="0.04129793510324484" count="14">header</word>
+	<word weight="0.038348082595870206" count="13">exception</word>
+	<word weight="0.032448377581120944" count="11">executor</word>
+	<word weight="0.02654867256637168" count="9">schedule</word>
+	<word weight="0.02359882005899705" count="8">response</word>
+	<word weight="0.02359882005899705" count="8">instance</word>
+	<word weight="0.02359882005899705" count="8">service</word>
+	<word weight="0.02064896755162242" count="7">predicate</word>
+	<word weight="0.017699115044247787" count="6">availability</word>
+	<word weight="0.017699115044247787" count="6">message</word>
+	<word weight="0.017699115044247787" count="6">request</word>
+	<word weight="0.014749262536873156" count="5">future</word>
+	<word weight="0.014749262536873156" count="5">body</word>
+	<word weight="0.014749262536873156" count="5">empty</word>
+	<phrase weight="0.07142857142857142" count="2">task manager</phrase>
+	<phrase weight="0.03571428571428571" count="1">manager metric availability rest client collection resource task manager task manager rest client</phrase>
+	<phrase weight="0.03571428571428571" count="1">manager info</phrase>
+	<phrase weight="0.03571428571428571" count="1">ignore dist</phrase>
+	<phrase weight="0.03571428571428571" count="1">task manager metric availability rest client rest client resource task manager exception task manager metric header header task manager metric header instance task manager metric message parameter parameter header unresolved message parameter parameter task manager parameter resolve task manager parameter metric filter parameter resolve collection singleton</phrase>
+	<phrase weight="0.03571428571428571" count="1">rest client rest client rest client rest client</phrase>
+	<phrase weight="0.03571428571428571" count="1">executor schedule executor service executor schedule</phrase>
+	<phrase weight="0.03571428571428571" count="1">localhost port</phrase>
+	<phrase weight="0.03571428571428571" count="1">memory segment</phrase>
+	<phrase weight="0.03571428571428571" count="1">task manager task manager</phrase>
+	<phrase weight="0.03571428571428571" count="1">pool shutdown executor schedule executor service schedule executor service shutdown</phrase>
+	<phrase weight="0.03571428571428571" count="1">resource dist</phrase>
+	<phrase weight="0.03571428571428571" count="1">status network total memory segment fetch metric rest client send request</phrase>
+	<phrase weight="0.03571428571428571" count="1">task manager rest client rest client exception task manager header header task manager header instance task manager info response fetch metric rest client send request host port header empty message parameter instance empty request body instance task manager</phrase>
+	<phrase weight="0.03571428571428571" count="1">port header parameter empty request body instance metric predicate status network total memory segment fetch metric supplier exception completable future exception client operation predicate predicate interrupted exception execution</phrase>
+	<phrase weight="0.03571428571428571" count="1">num register task manager fetch metric rest client send request host port header parameter empty request body instance metric predicate num register task manager collection</phrase>
+	<phrase weight="0.03571428571428571" count="1">empty response task manager</phrase>
+	<phrase weight="0.03571428571428571" count="1">metric response response metric</phrase>
+	<phrase weight="0.03571428571428571" count="1">manager metric header header job manager metric header instance job manager metric message parameter parameter header unresolved message parameter parameter metric filter parameter resolve collection singleton</phrase>
+	<phrase weight="0.03571428571428571" count="1">unit seconds predicate metric collection response body metric predicate</phrase>
+  </topic>
+  <topic id="7" alpha="0.02254556152186749" totalTokens="463" titles="pojo, datum, collection, annotate, execute, test, open, write, equal, checkpoint">
+	<word weight="0.07775377969762419" count="36">pojo</word>
+	<word weight="0.06911447084233262" count="32">datum</word>
+	<word weight="0.047516198704103674" count="22">collection</word>
+	<word weight="0.04103671706263499" count="19">annotate</word>
+	<word weight="0.04103671706263499" count="19">execute</word>
+	<word weight="0.04103671706263499" count="19">test</word>
+	<word weight="0.0367170626349892" count="17">open</word>
+	<word weight="0.03455723542116631" count="16">write</word>
+	<word weight="0.028077753779697623" count="13">equal</word>
+	<word weight="0.028077753779697623" count="13">checkpoint</word>
+	<word weight="0.028077753779697623" count="13">variable</word>
+	<word weight="0.023758099352051837" count="11">core</word>
+	<word weight="0.023758099352051837" count="11">tuple</word>
+	<word weight="0.02159827213822894" count="10">env</word>
+	<word weight="0.02159827213822894" count="10">size</word>
+	<word weight="0.019438444924406047" count="9">environment</word>
+	<word weight="0.019438444924406047" count="9">operator</word>
+	<word weight="0.019438444924406047" count="9">configuration</word>
+	<word weight="0.019438444924406047" count="9">keyspace</word>
+	<word weight="0.019438444924406047" count="9">override</word>
+	<phrase weight="0.058823529411764705" count="3">equal size</phrase>
+	<phrase weight="0.058823529411764705" count="3">override protect</phrase>
+	<phrase weight="0.058823529411764705" count="3">override protect verify</phrase>
+	<phrase weight="0.0392156862745098" count="2">environment env</phrase>
+	<phrase weight="0.0392156862745098" count="2">test pojo</phrase>
+	<phrase weight="0.0392156862745098" count="2">write record</phrase>
+	<phrase weight="0.0392156862745098" count="2">verify task</phrase>
+	<phrase weight="0.0392156862745098" count="2">driver core row</phrase>
+	<phrase weight="0.0196078431372549" count="1">tuple collection size</phrase>
+	<phrase weight="0.0196078431372549" count="1">suppress warning serial</phrase>
+	<phrase weight="0.0196078431372549" count="1">start operator</phrase>
+	<phrase weight="0.0196078431372549" count="1">loader loader</phrase>
+	<phrase weight="0.0196078431372549" count="1">equal size test test</phrase>
+	<phrase weight="0.0196078431372549" count="1">operator open verify checkpoint</phrase>
+	<phrase weight="0.0196078431372549" count="1">pojo temp</phrase>
+	<phrase weight="0.0196078431372549" count="1">pojo sort</phrase>
+	<phrase weight="0.0196078431372549" count="1">level local</phrase>
+	<phrase weight="0.0196078431372549" count="1">connection establish</phrase>
+	<phrase weight="0.0196078431372549" count="1">create keyspace</phrase>
+	<phrase weight="0.0196078431372549" count="1">collection size</phrase>
+  </topic>
+  <topic id="8" alpha="0.02406202286184185" totalTokens="398" titles="prometheus, jar, builder, config, flink, param, metric, dir, path, plugin">
+	<word weight="0.10804020100502512" count="43">prometheus</word>
+	<word weight="0.07537688442211055" count="30">jar</word>
+	<word weight="0.07035175879396985" count="28">builder</word>
+	<word weight="0.04271356783919598" count="17">config</word>
+	<word weight="0.04271356783919598" count="17">flink</word>
+	<word weight="0.04020100502512563" count="16">param</word>
+	<word weight="0.032663316582914576" count="13">metric</word>
+	<word weight="0.02512562814070352" count="10">dir</word>
+	<word weight="0.02512562814070352" count="10">path</word>
+	<word weight="0.020100502512562814" count="8">plugin</word>
+	<word weight="0.020100502512562814" count="8">end</word>
+	<word weight="0.020100502512562814" count="8">port</word>
+	<word weight="0.017587939698492462" count="7">lib</word>
+	<word weight="0.017587939698492462" count="7">platform</word>
+	<word weight="0.017587939698492462" count="7">tmp</word>
+	<word weight="0.017587939698492462" count="7">prefix</word>
+	<word weight="0.01507537688442211" count="6">scrape</word>
+	<word weight="0.01507537688442211" count="6">response</word>
+	<word weight="0.01507537688442211" count="6">download</word>
+	<word weight="0.01507537688442211" count="6">target</word>
+	<phrase weight="0.060240963855421686" count="5">builder builder</phrase>
+	<phrase weight="0.04819277108433735" count="4">plugin jar</phrase>
+	<phrase weight="0.024096385542168676" count="2">prefix prom config</phrase>
+	<phrase weight="0.024096385542168676" count="2">param jar</phrase>
+	<phrase weight="0.024096385542168676" count="2">jar prefix jar</phrase>
+	<phrase weight="0.024096385542168676" count="2">end end</phrase>
+	<phrase weight="0.024096385542168676" count="2">prometheus file</phrase>
+	<phrase weight="0.012048192771084338" count="1">prometheus scrape</phrase>
+	<phrase weight="0.012048192771084338" count="1">port dist</phrase>
+	<phrase weight="0.012048192771084338" count="1">query query metric build</phrase>
+	<phrase weight="0.012048192771084338" count="1">dist prometheus</phrase>
+	<phrase weight="0.012048192771084338" count="1">builder builder flink resource</phrase>
+	<phrase weight="0.012048192771084338" count="1">localhost job prometheus</phrase>
+	<phrase weight="0.012048192771084338" count="1">suffix prometheus</phrase>
+	<phrase weight="0.012048192771084338" count="1">param param flink</phrase>
+	<phrase weight="0.012048192771084338" count="1">prometheus scrape target scrape target</phrase>
+	<phrase weight="0.012048192771084338" count="1">jar prefix flink metric prometheus</phrase>
+	<phrase weight="0.012048192771084338" count="1">path tmp prometheus dir tmp</phrase>
+	<phrase weight="0.012048192771084338" count="1">path prometheus bin dir</phrase>
+	<phrase weight="0.012048192771084338" count="1">retrieve metric</phrase>
+  </topic>
+  <topic id="9" alpha="0.024990570626824794" totalTokens="53" titles="secure, run, timeout, kafka, multiple, environment, exception, topic, prepare, connection">
+	<word weight="0.1320754716981132" count="7">secure</word>
+	<word weight="0.09433962264150944" count="5">run</word>
+	<word weight="0.07547169811320754" count="4">timeout</word>
+	<word weight="0.07547169811320754" count="4">kafka</word>
+	<word weight="0.05660377358490566" count="3">multiple</word>
+	<word weight="0.05660377358490566" count="3">environment</word>
+	<word weight="0.05660377358490566" count="3">exception</word>
+	<word weight="0.03773584905660377" count="2">topic</word>
+	<word weight="0.03773584905660377" count="2">prepare</word>
+	<word weight="0.03773584905660377" count="2">connection</word>
+	<word weight="0.018867924528301886" count="1">consume</word>
+	<word weight="0.018867924528301886" count="1">produce</word>
+	<word weight="0.018867924528301886" count="1">frequently</word>
+	<word weight="0.018867924528301886" count="1">occur</word>
+	<word weight="0.018867924528301886" count="1">travis</word>
+	<word weight="0.018867924528301886" count="1">large</word>
+	<word weight="0.018867924528301886" count="1">cleanup</word>
+	<word weight="0.018867924528301886" count="1">shutdown</word>
+	<word weight="0.018867924528301886" count="1">populate</word>
+	<word weight="0.018867924528301886" count="1">consumer</word>
+	<phrase weight="0.07692307692307693" count="1">exception shutdown</phrase>
+	<phrase weight="0.07692307692307693" count="1">run produce consume multiple topic</phrase>
+	<phrase weight="0.07692307692307693" count="1">environment prepare temp</phrase>
+	<phrase weight="0.07692307692307693" count="1">multiple topic</phrase>
+	<phrase weight="0.07692307692307693" count="1">large travis connection timeout occur frequently timeout</phrase>
+	<phrase weight="0.07692307692307693" count="1">timeout connection</phrase>
+	<phrase weight="0.07692307692307693" count="1">kafka consumer</phrase>
+	<phrase weight="0.07692307692307693" count="1">run category</phrase>
+	<phrase weight="0.07692307692307693" count="1">secure run</phrase>
+	<phrase weight="0.07692307692307693" count="1">kafka secure run</phrase>
+	<phrase weight="0.07692307692307693" count="1">secure run prepare exception</phrase>
+	<phrase weight="0.07692307692307693" count="1">environment populate</phrase>
+	<phrase weight="0.07692307692307693" count="1">environment cleanup</phrase>
+  </topic>
+</topics>

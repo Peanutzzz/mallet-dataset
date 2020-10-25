@@ -1,0 +1,43 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.979364615026918" totalTokens="169" titles="exception, status, handler, http, result, response, advice, def, support, method">
+	<word weight="0.1952662721893491" count="33">exception</word>
+	<word weight="0.09467455621301775" count="16">status</word>
+	<word weight="0.08875739644970414" count="15">handler</word>
+	<word weight="0.08284023668639054" count="14">http</word>
+	<word weight="0.05325443786982249" count="9">result</word>
+	<word weight="0.047337278106508875" count="8">response</word>
+	<word weight="0.047337278106508875" count="8">advice</word>
+	<word weight="0.04142011834319527" count="7">def</word>
+	<word weight="0.03550295857988166" count="6">handle</word>
+	<word weight="0.03550295857988166" count="6">support</word>
+	<word weight="0.029585798816568046" count="5">method</word>
+	<word weight="0.029585798816568046" count="5">request</word>
+	<word weight="0.023668639053254437" count="4">type</word>
+	<word weight="0.023668639053254437" count="4">media</word>
+	<word weight="0.01775147928994083" count="3">error</word>
+	<word weight="0.01775147928994083" count="3">server</word>
+	<word weight="0.01775147928994083" count="3">internal</word>
+	<word weight="0.01775147928994083" count="3">bad</word>
+	<word weight="0.011834319526627219" count="2">idempotency</word>
+	<word weight="0.011834319526627219" count="2">business</word>
+  </topic>
+  <topic id="1" alpha="1.7591837849233208E-201" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="5.5520907008674846E-201" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="2.5679041629934353E-201" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="6.334325243637208E-201" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="6.633325536595761E-202" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="4.2163307474391266E-201" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="2.312483922230562E-201" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="8.829866205161285E-202" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="1.1893896417458233E-200" totalTokens="0" titles="">
+  </topic>
+</topics>

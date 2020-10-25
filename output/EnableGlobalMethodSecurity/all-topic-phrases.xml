@@ -1,0 +1,210 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.08296296201987396" totalTokens="243" titles="ldap, property, search, group, extend, user, filter, source, context, base">
+	<word weight="0.2222222222222222" count="54">ldap</word>
+	<word weight="0.09465020576131687" count="23">property</word>
+	<word weight="0.08641975308641975" count="21">search</word>
+	<word weight="0.05761316872427984" count="14">group</word>
+	<word weight="0.05761316872427984" count="14">extend</word>
+	<word weight="0.053497942386831275" count="13">user</word>
+	<word weight="0.04938271604938271" count="12">filter</word>
+	<word weight="0.0411522633744856" count="10">source</word>
+	<word weight="0.0411522633744856" count="10">context</word>
+	<word weight="0.03292181069958848" count="8">base</word>
+	<word weight="0.02880658436213992" count="7">provider</word>
+	<word weight="0.024691358024691357" count="6">authentication</word>
+	<word weight="0.0205761316872428" count="5">set</word>
+	<word weight="0.0205761316872428" count="5">configuration</word>
+	<word weight="0.01646090534979424" count="4">bind</word>
+	<word weight="0.012345679012345678" count="3">auto</word>
+	<word weight="0.012345679012345678" count="3">subtree</word>
+	<word weight="0.00823045267489712" count="2">populator</word>
+	<word weight="0.00823045267489712" count="2">login</word>
+	<word weight="0.00823045267489712" count="2">apollo</word>
+	<phrase weight="0.08" count="2">provider bind</phrase>
+	<phrase weight="0.04" count="1">script view</phrase>
+	<phrase weight="0.04" count="1">login filter ldap group</phrase>
+	<phrase weight="0.04" count="1">search set search subtree</phrase>
+	<phrase weight="0.04" count="1">authenticator ldap context source bind</phrase>
+	<phrase weight="0.04" count="1">ldap authentication provider apollo ldap authentication provider user ldap</phrase>
+	<phrase weight="0.04" count="1">ldap authentication provider ldap</phrase>
+	<phrase weight="0.04" count="1">user apollo ldap</phrase>
+	<phrase weight="0.04" count="1">profile ldap configuration</phrase>
+	<phrase weight="0.04" count="1">configuration set search subtree</phrase>
+	<phrase weight="0.04" count="1">adapter ldap property ldap property ldap context source ldap context source ldap extend property ldap extend property</phrase>
+	<phrase weight="0.04" count="1">property group group membership ldap extend property</phrase>
+	<phrase weight="0.04" count="1">prefix path</phrase>
+	<phrase weight="0.04" count="1">filter ldap group</phrase>
+	<phrase weight="0.04" count="1">search filter ldap group</phrase>
+	<phrase weight="0.04" count="1">base ldap user search user search ldap extend property group string util</phrase>
+	<phrase weight="0.04" count="1">ldap property ldap property ldap context source ldap context source ldap extend property ldap extend property ldap property ldap property ldap context source ldap context source ldap extend property ldap extend property</phrase>
+	<phrase weight="0.04" count="1">search ldap property base ldap property search filter ldap extend property group group base ldap context source ldap extend property group group search ldap extend property</phrase>
+	<phrase weight="0.04" count="1">auto configuration ldap</phrase>
+	<phrase weight="0.04" count="1">auto configuration set</phrase>
+  </topic>
+  <topic id="1" alpha="4.141058982224309E-120" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="0.7420112034550026" totalTokens="293" titles="http, security, auth, authentication, web, user, enable, exception, override, configure">
+	<word weight="0.10238907849829351" count="30">http</word>
+	<word weight="0.08532423208191127" count="25">security</word>
+	<word weight="0.05802047781569966" count="17">auth</word>
+	<word weight="0.04778156996587031" count="14">authentication</word>
+	<word weight="0.04778156996587031" count="14">web</word>
+	<word weight="0.04436860068259386" count="13">user</word>
+	<word weight="0.03754266211604096" count="11">enable</word>
+	<word weight="0.034129692832764506" count="10">exception</word>
+	<word weight="0.030716723549488054" count="9">override</word>
+	<word weight="0.027303754266211604" count="8">configure</word>
+	<word weight="0.023890784982935155" count="7">configurer</word>
+	<word weight="0.020477815699658702" count="6">permit</word>
+	<word weight="0.020477815699658702" count="6">header</word>
+	<word weight="0.020477815699658702" count="6">true</word>
+	<word weight="0.020477815699658702" count="6">pre</word>
+	<word weight="0.017064846416382253" count="5">matcher</word>
+	<word weight="0.017064846416382253" count="5">role</word>
+	<word weight="0.017064846416382253" count="5">disable</word>
+	<word weight="0.017064846416382253" count="5">protect</word>
+	<word weight="0.017064846416382253" count="5">extend</word>
+	<phrase weight="0.06666666666666667" count="2">authentication entry</phrase>
+	<phrase weight="0.06666666666666667" count="2">web security</phrase>
+	<phrase weight="0.03333333333333333" count="1">role user</phrase>
+	<phrase weight="0.03333333333333333" count="1">configure web security web</phrase>
+	<phrase weight="0.03333333333333333" count="1">extend web security configurer adapter override protect configure http security http exception http http basic http csrf disable http header frame option origin authentication</phrase>
+	<phrase weight="0.03333333333333333" count="1">basic http</phrase>
+	<phrase weight="0.03333333333333333" count="1">http security http exception</phrase>
+	<phrase weight="0.03333333333333333" count="1">control http add</phrase>
+	<phrase weight="0.03333333333333333" count="1">enable web security enable global method security pre post enable true web security</phrase>
+	<phrase weight="0.03333333333333333" count="1">exception auth authentication</phrase>
+	<phrase weight="0.03333333333333333" count="1">disable http header</phrase>
+	<phrase weight="0.03333333333333333" count="1">security pre post enable true</phrase>
+	<phrase weight="0.03333333333333333" count="1">exception http csrf disable http header frame option</phrase>
+	<phrase weight="0.03333333333333333" count="1">permit ant matcher role</phrase>
+	<phrase weight="0.03333333333333333" count="1">security configurer extend web security configurer adapter string user role user override protect configure http security</phrase>
+	<phrase weight="0.03333333333333333" count="1">override protect configure</phrase>
+	<phrase weight="0.03333333333333333" count="1">pre post</phrase>
+	<phrase weight="0.03333333333333333" count="1">authentication user user</phrase>
+	<phrase weight="0.03333333333333333" count="1">request permit</phrase>
+	<phrase weight="0.03333333333333333" count="1">exception auth</phrase>
+  </topic>
+  <topic id="3" alpha="0.07298228257482116" totalTokens="3" titles="equal, prefix, authorize, ">
+	<word weight="0.3333333333333333" count="1">equal</word>
+	<word weight="0.3333333333333333" count="1">prefix</word>
+	<word weight="0.3333333333333333" count="1">authorize</word>
+  </topic>
+  <topic id="4" alpha="0.16934561343440113" totalTokens="115" titles="logout, url, true, signin, user, authenticator, point, success, login, http">
+	<word weight="0.08695652173913043" count="10">logout</word>
+	<word weight="0.08695652173913043" count="10">url</word>
+	<word weight="0.06956521739130435" count="8">true</word>
+	<word weight="0.06086956521739131" count="7">signin</word>
+	<word weight="0.043478260869565216" count="5">user</word>
+	<word weight="0.034782608695652174" count="4">authenticator</word>
+	<word weight="0.034782608695652174" count="4">point</word>
+	<word weight="0.034782608695652174" count="4">success</word>
+	<word weight="0.034782608695652174" count="4">login</word>
+	<word weight="0.034782608695652174" count="4">http</word>
+	<word weight="0.02608695652173913" count="3">ant</word>
+	<word weight="0.02608695652173913" count="3">spring</word>
+	<word weight="0.017391304347826087" count="2">authority</word>
+	<word weight="0.017391304347826087" count="2">map</word>
+	<word weight="0.017391304347826087" count="2">bean</word>
+	<word weight="0.017391304347826087" count="2">handle</word>
+	<word weight="0.017391304347826087" count="2">invalidate</word>
+	<word weight="0.017391304347826087" count="2">error</word>
+	<word weight="0.017391304347826087" count="2">failure</word>
+	<word weight="0.017391304347826087" count="2">img</word>
+	<phrase weight="0.09523809523809523" count="2">failure url signin error</phrase>
+	<phrase weight="0.09523809523809523" count="2">logout invalidate</phrase>
+	<phrase weight="0.09523809523809523" count="2">login url</phrase>
+	<phrase weight="0.047619047619047616" count="1">view img</phrase>
+	<phrase weight="0.047619047619047616" count="1">session true</phrase>
+	<phrase weight="0.047619047619047616" count="1">signin success url true</phrase>
+	<phrase weight="0.047619047619047616" count="1">true clear</phrase>
+	<phrase weight="0.047619047619047616" count="1">http form</phrase>
+	<phrase weight="0.047619047619047616" count="1">true logout success url signin logout http</phrase>
+	<phrase weight="0.047619047619047616" count="1">prometheus metric openapi vendor</phrase>
+	<phrase weight="0.047619047619047616" count="1">manager builder</phrase>
+	<phrase weight="0.047619047619047616" count="1">logout logout url</phrase>
+	<phrase weight="0.047619047619047616" count="1">logout url</phrase>
+	<phrase weight="0.047619047619047616" count="1">prometheus metric openapi vendor style</phrase>
+	<phrase weight="0.047619047619047616" count="1">logout success url signin logout</phrase>
+	<phrase weight="0.047619047619047616" count="1">bind authenticator</phrase>
+	<phrase weight="0.047619047619047616" count="1">login page signin success url</phrase>
+	<phrase weight="0.047619047619047616" count="1">rdn key</phrase>
+  </topic>
+  <topic id="5" alpha="2.2480118526179125E-115" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="2.4108046526586094E-152" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="0.06987576317516293" totalTokens="183" titles="auth, string, ignore, url, token, naco, point, entry, password, manager">
+	<word weight="0.06557377049180328" count="12">auth</word>
+	<word weight="0.060109289617486336" count="11">string</word>
+	<word weight="0.0546448087431694" count="10">ignore</word>
+	<word weight="0.04371584699453552" count="8">url</word>
+	<word weight="0.03825136612021858" count="7">token</word>
+	<word weight="0.03825136612021858" count="7">naco</word>
+	<word weight="0.03278688524590164" count="6">point</word>
+	<word weight="0.03278688524590164" count="6">entry</word>
+	<word weight="0.03278688524590164" count="6">password</word>
+	<word weight="0.03278688524590164" count="6">manager</word>
+	<word weight="0.03278688524590164" count="6">authentication</word>
+	<word weight="0.0273224043715847" count="5">encoder</word>
+	<word weight="0.0273224043715847" count="5">bean</word>
+	<word weight="0.02185792349726776" count="4">type</word>
+	<word weight="0.02185792349726776" count="4">service</word>
+	<word weight="0.02185792349726776" count="4">detail</word>
+	<word weight="0.02185792349726776" count="4">jwt</word>
+	<word weight="0.02185792349726776" count="4">system</word>
+	<word weight="0.02185792349726776" count="4">util</word>
+	<word weight="0.02185792349726776" count="4">config</word>
+	<phrase weight="0.08823529411764706" count="3">ignore url</phrase>
+	<phrase weight="0.058823529411764705" count="2">detail service</phrase>
+	<phrase weight="0.029411764705882353" count="1">ant matcher token base auth entry point authenticate exception handle</phrase>
+	<phrase weight="0.029411764705882353" count="1">entry point</phrase>
+	<phrase weight="0.029411764705882353" count="1">property naco</phrase>
+	<phrase weight="0.029411764705882353" count="1">util blank auth config naco auth system type</phrase>
+	<phrase weight="0.029411764705882353" count="1">manager bean</phrase>
+	<phrase weight="0.029411764705882353" count="1">detail service password encoder password encoder</phrase>
+	<phrase weight="0.029411764705882353" count="1">jwt authentication token filter token provider</phrase>
+	<phrase weight="0.029411764705882353" count="1">authorization string</phrase>
+	<phrase weight="0.029411764705882353" count="1">ignore ant</phrase>
+	<phrase weight="0.029411764705882353" count="1">entry point jwt</phrase>
+	<phrase weight="0.029411764705882353" count="1">system type naco</phrase>
+	<phrase weight="0.029411764705882353" count="1">autowire environment env autowire jwt token manager token provider autowire auth configs</phrase>
+	<phrase weight="0.029411764705882353" count="1">request request matcher cor util</phrase>
+	<phrase weight="0.029411764705882353" count="1">csrf disable cor</phrase>
+	<phrase weight="0.029411764705882353" count="1">matcher login entry point</phrase>
+	<phrase weight="0.029411764705882353" count="1">system type ignore url</phrase>
+	<phrase weight="0.029411764705882353" count="1">creation policy session creation policy</phrase>
+	<phrase weight="0.029411764705882353" count="1">cache http</phrase>
+  </topic>
+  <topic id="8" alpha="7.189263912809021E-68" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="0.08194643818473232" totalTokens="25" titles="remove, password, apollo, admin, memory, builder, manager, autowire, spring, problem">
+	<word weight="0.16" count="4">remove</word>
+	<word weight="0.08" count="2">password</word>
+	<word weight="0.08" count="2">apollo</word>
+	<word weight="0.04" count="1">admin</word>
+	<word weight="0.04" count="1">memory</word>
+	<word weight="0.04" count="1">builder</word>
+	<word weight="0.04" count="1">manager</word>
+	<word weight="0.04" count="1">autowire</word>
+	<word weight="0.04" count="1">spring</word>
+	<word weight="0.04" count="1">problem</word>
+	<word weight="0.04" count="1">big</word>
+	<word weight="0.04" count="1">send</word>
+	<word weight="0.04" count="1">compatibility</word>
+	<word weight="0.04" count="1">backward</word>
+	<word weight="0.04" count="1">useless</word>
+	<word weight="0.04" count="1">global</word>
+	<word weight="0.04" count="1">configuration</word>
+	<word weight="0.04" count="1">miss</word>
+	<word weight="0.04" count="1">conditional</word>
+	<word weight="0.04" count="1">config</word>
+	<phrase weight="0.16666666666666666" count="1">manager builder</phrase>
+	<phrase weight="0.16666666666666666" count="1">remove spring</phrase>
+	<phrase weight="0.16666666666666666" count="1">apollo autowire</phrase>
+	<phrase weight="0.16666666666666666" count="1">conditional miss</phrase>
+	<phrase weight="0.16666666666666666" count="1">remove backward compatibility remove</phrase>
+	<phrase weight="0.16666666666666666" count="1">problem remove</phrase>
+  </topic>
+</topics>

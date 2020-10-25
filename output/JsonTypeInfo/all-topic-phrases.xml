@@ -1,0 +1,263 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.18912233009681034" totalTokens="121" titles="type, string, selector, json, info, support, property, implement, protect, alibaba">
+	<word weight="0.371900826446281" count="45">type</word>
+	<word weight="0.09917355371900827" count="12">string</word>
+	<word weight="0.08264462809917356" count="10">selector</word>
+	<word weight="0.0743801652892562" count="9">json</word>
+	<word weight="0.06611570247933884" count="8">info</word>
+	<word weight="0.04132231404958678" count="5">support</word>
+	<word weight="0.04132231404958678" count="5">property</word>
+	<word weight="0.03305785123966942" count="4">implement</word>
+	<word weight="0.024793388429752067" count="3">protect</word>
+	<word weight="0.024793388429752067" count="3">impl</word>
+	<word weight="0.01652892561983471" count="2">alibaba</word>
+	<word weight="0.01652892561983471" count="2">ignore</word>
+	<word weight="0.008264462809917356" count="1">org</word>
+	<word weight="0.008264462809917356" count="1">candidate</word>
+	<word weight="0.008264462809917356" count="1">qualified</word>
+	<word weight="0.008264462809917356" count="1">true</word>
+	<word weight="0.008264462809917356" count="1">naco</word>
+	<word weight="0.008264462809917356" count="1">test</word>
+	<word weight="0.008264462809917356" count="1">unique</word>
+	<word weight="0.008264462809917356" count="1">announce</word>
+	<phrase weight="0.15384615384615385" count="2">json type type</phrase>
+	<phrase weight="0.07692307692307693" count="1">type info property type selector</phrase>
+	<phrase weight="0.07692307692307693" count="1">selector alibaba</phrase>
+	<phrase weight="0.07692307692307693" count="1">json ignore protect string type protect</phrase>
+	<phrase weight="0.07692307692307693" count="1">implement selector</phrase>
+	<phrase weight="0.07692307692307693" count="1">type type</phrase>
+	<phrase weight="0.07692307692307693" count="1">string type type type string type type</phrase>
+	<phrase weight="0.07692307692307693" count="1">type info property type impl</phrase>
+	<phrase weight="0.07692307692307693" count="1">type selector string type</phrase>
+	<phrase weight="0.07692307692307693" count="1">alibaba naco</phrase>
+	<phrase weight="0.07692307692307693" count="1">type override</phrase>
+	<phrase weight="0.07692307692307693" count="1">json type info property type impl json type json type type</phrase>
+  </topic>
+  <topic id="1" alpha="0.022487929804667503" totalTokens="204" titles="duration, alignment, index, async, delay, start, hash, field, creator, state">
+	<word weight="0.3235294117647059" count="66">duration</word>
+	<word weight="0.1568627450980392" count="32">alignment</word>
+	<word weight="0.09313725490196079" count="19">index</word>
+	<word weight="0.06372549019607843" count="13">async</word>
+	<word weight="0.06372549019607843" count="13">sync</word>
+	<word weight="0.06372549019607843" count="13">delay</word>
+	<word weight="0.06372549019607843" count="13">start</word>
+	<word weight="0.0392156862745098" count="8">hash</word>
+	<word weight="0.029411764705882353" count="6">field</word>
+	<word weight="0.0196078431372549" count="4">creator</word>
+	<word weight="0.0196078431372549" count="4">state</word>
+	<word weight="0.0196078431372549" count="4">override</word>
+	<word weight="0.0196078431372549" count="4">json</word>
+	<word weight="0.004901960784313725" count="1">end</word>
+	<word weight="0.004901960784313725" count="1">jira</word>
+	<word weight="0.004901960784313725" count="1">href</word>
+	<word weight="0.004901960784313725" count="1">compatibility</word>
+	<word weight="0.004901960784313725" count="1">pend</word>
+	<phrase weight="0.04" count="1">async duration async duration sync duration sync duration async duration async duration override</phrase>
+	<phrase weight="0.04" count="1">sync duration async duration alignment</phrase>
+	<phrase weight="0.04" count="1">duration async duration sync duration sync</phrase>
+	<phrase weight="0.04" count="1">duration sync duration sync duration async</phrase>
+	<phrase weight="0.04" count="1">duration sync</phrase>
+	<phrase weight="0.04" count="1">field sync duration sync duration</phrase>
+	<phrase weight="0.04" count="1">duration sync duration</phrase>
+	<phrase weight="0.04" count="1">duration duration</phrase>
+	<phrase weight="0.04" count="1">alignment duration alignment duration alignment duration</phrase>
+	<phrase weight="0.04" count="1">duration state</phrase>
+	<phrase weight="0.04" count="1">alignment duration alignment</phrase>
+	<phrase weight="0.04" count="1">index index</phrase>
+	<phrase weight="0.04" count="1">delay start delay</phrase>
+	<phrase weight="0.04" count="1">alignment start delay start delay override</phrase>
+	<phrase weight="0.04" count="1">start delay start delay override hash</phrase>
+	<phrase weight="0.04" count="1">duration async duration</phrase>
+	<phrase weight="0.04" count="1">alignment duration alignment duration</phrase>
+	<phrase weight="0.04" count="1">delay start delay index</phrase>
+	<phrase weight="0.04" count="1">async duration async</phrase>
+	<phrase weight="0.04" count="1">index json</phrase>
+  </topic>
+  <topic id="2" alpha="0.01918913488015888" totalTokens="482" titles="stats, task, num, timestamp, failure, latest, trigger, savepoint, message, discard">
+	<word weight="0.14315352697095435" count="69">stats</word>
+	<word weight="0.1078838174273859" count="52">task</word>
+	<word weight="0.0912863070539419" count="44">num</word>
+	<word weight="0.08298755186721991" count="40">timestamp</word>
+	<word weight="0.058091286307053944" count="28">failure</word>
+	<word weight="0.05186721991701245" count="25">latest</word>
+	<word weight="0.05186721991701245" count="25">trigger</word>
+	<word weight="0.05186721991701245" count="25">savepoint</word>
+	<word weight="0.03112033195020747" count="15">fail</word>
+	<word weight="0.029045643153526972" count="14">message</word>
+	<word weight="0.029045643153526972" count="14">discard</word>
+	<word weight="0.029045643153526972" count="14">path</word>
+	<word weight="0.029045643153526972" count="14">external</word>
+	<word weight="0.026970954356846474" count="13">vertex</word>
+	<word weight="0.026970954356846474" count="13">job</word>
+	<word weight="0.024896265560165973" count="12">hash</word>
+	<word weight="0.02074688796680498" count="10">key</word>
+	<word weight="0.016597510373443983" count="8">number</word>
+	<word weight="0.014522821576763486" count="7">nullable</word>
+	<word weight="0.014522821576763486" count="7">map</word>
+	<phrase weight="0.06756756756756757" count="5">timestamp latest</phrase>
+	<phrase weight="0.06756756756756757" count="5">map job vertex task</phrase>
+	<phrase weight="0.05405405405405406" count="4">stats fail</phrase>
+	<phrase weight="0.05405405405405406" count="4">key job vertex key</phrase>
+	<phrase weight="0.04054054054054054" count="3">timestamp trigger timestamp</phrase>
+	<phrase weight="0.04054054054054054" count="3">stats task</phrase>
+	<phrase weight="0.04054054054054054" count="3">external path</phrase>
+	<phrase weight="0.02702702702702703" count="2">message nullable</phrase>
+	<phrase weight="0.02702702702702703" count="2">path external path</phrase>
+	<phrase weight="0.02702702702702703" count="2">failure message failure message</phrase>
+	<phrase weight="0.02702702702702703" count="2">trigger timestamp</phrase>
+	<phrase weight="0.02702702702702703" count="2">path nullable</phrase>
+	<phrase weight="0.02702702702702703" count="2">savepoint trigger timestamp latest</phrase>
+	<phrase weight="0.02702702702702703" count="2">failure message</phrase>
+	<phrase weight="0.02702702702702703" count="2">job vertex task</phrase>
+	<phrase weight="0.02702702702702703" count="2">savepoint trigger</phrase>
+	<phrase weight="0.013513513513513514" count="1">savepoint trigger timestamp trigger timestamp latest</phrase>
+	<phrase weight="0.013513513513513514" count="1">timestamp failure timestamp</phrase>
+	<phrase weight="0.013513513513513514" count="1">stats failure message</phrase>
+	<phrase weight="0.013513513513513514" count="1">stats trigger timestamp fail</phrase>
+  </topic>
+  <topic id="3" alpha="4.548342517265673E-86" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="0.04552709473010603" totalTokens="1263" titles="checkpoint, json, field, property, statistics, subtask, ack, state, status, size">
+	<word weight="0.1559778305621536" count="197">checkpoint</word>
+	<word weight="0.08867775138558986" count="112">json</word>
+	<word weight="0.08788598574821853" count="111">field</word>
+	<word weight="0.07600950118764846" count="96">property</word>
+	<word weight="0.06809184481393507" count="86">statistics</word>
+	<word weight="0.055423594615993665" count="70">subtask</word>
+	<word weight="0.047505938242280284" count="60">ack</word>
+	<word weight="0.03800475059382423" count="48">state</word>
+	<word weight="0.03483768804433888" count="44">status</word>
+	<word weight="0.0332541567695962" count="42">size</word>
+	<word weight="0.030878859857482184" count="39">timestamp</word>
+	<word weight="0.027711797307996833" count="35">string</word>
+	<word weight="0.02454473475851148" count="31">buffer</word>
+	<word weight="0.02454473475851148" count="31">alignment</word>
+	<word weight="0.02454473475851148" count="31">complete</word>
+	<word weight="0.02058590657165479" count="26">duration</word>
+	<word weight="0.018210609659540775" count="23">object</word>
+	<word weight="0.015043547110055424" count="19">pend</word>
+	<word weight="0.013460015835312747" count="17">equal</word>
+	<word weight="0.012668250197941409" count="16">type</word>
+	<phrase weight="0.05803571428571429" count="13">json property field</phrase>
+	<phrase weight="0.05803571428571429" count="13">property field</phrase>
+	<phrase weight="0.044642857142857144" count="10">ack subtask</phrase>
+	<phrase weight="0.03571428571428571" count="8">checkpoint statistics</phrase>
+	<phrase weight="0.03125" count="7">code object</phrase>
+	<phrase weight="0.03125" count="7">statistics checkpoint statistics</phrase>
+	<phrase weight="0.026785714285714284" count="6">complete checkpoint</phrase>
+	<phrase weight="0.026785714285714284" count="6">pend checkpoint</phrase>
+	<phrase weight="0.022321428571428572" count="5">ack timestamp</phrase>
+	<phrase weight="0.022321428571428572" count="5">subtask json property field</phrase>
+	<phrase weight="0.022321428571428572" count="5">ack subtask checkpoint statistics</phrase>
+	<phrase weight="0.017857142857142856" count="4">status status json property field</phrase>
+	<phrase weight="0.017857142857142856" count="4">ack subtask json</phrase>
+	<phrase weight="0.013392857142857142" count="3">state stat</phrase>
+	<phrase weight="0.013392857142857142" count="3">string field</phrase>
+	<phrase weight="0.013392857142857142" count="3">state size</phrase>
+	<phrase weight="0.013392857142857142" count="3">state size duration alignment buffer</phrase>
+	<phrase weight="0.008928571428571428" count="2">json property field state size state size json property field duration duration json property field alignment buffer alignment buffer json property field</phrase>
+	<phrase weight="0.008928571428571428" count="2">acknowledge subtask checkpoint statistics</phrase>
+	<phrase weight="0.008928571428571428" count="2">field ack timestamp ack timestamp json property field</phrase>
+  </topic>
+  <topic id="5" alpha="0.06498128519182261" totalTokens="135" titles="provider, list, consumer, instance, selector, util, skip, param, address, equal">
+	<word weight="0.15555555555555556" count="21">provider</word>
+	<word weight="0.14074074074074075" count="19">list</word>
+	<word weight="0.1259259259259259" count="17">consumer</word>
+	<word weight="0.11851851851851852" count="16">instance</word>
+	<word weight="0.08888888888888889" count="12">selector</word>
+	<word weight="0.05925925925925926" count="8">util</word>
+	<word weight="0.037037037037037035" count="5">skip</word>
+	<word weight="0.037037037037037035" count="5">param</word>
+	<word weight="0.037037037037037035" count="5">select</word>
+	<word weight="0.022222222222222223" count="3">address</word>
+	<word weight="0.014814814814814815" count="2">equal</word>
+	<word weight="0.014814814814814815" count="2">subtype</word>
+	<word weight="0.014814814814814815" count="2">register</word>
+	<word weight="0.014814814814814815" count="2">jackson</word>
+	<word weight="0.014814814814814815" count="2">api</word>
+	<word weight="0.014814814814814815" count="2">extend</word>
+	<word weight="0.014814814814814815" count="2">json</word>
+	<word weight="0.007407407407407408" count="1">substr</word>
+	<word weight="0.007407407407407408" count="1">whitespace</word>
+	<word weight="0.007407407407407408" count="1">parser</word>
+	<phrase weight="0.13333333333333333" count="2">util register subtype</phrase>
+	<phrase weight="0.13333333333333333" count="2">instance select</phrase>
+	<phrase weight="0.06666666666666667" count="1">list instance instance provider matched</phrase>
+	<phrase weight="0.06666666666666667" count="1">consumer list instance provider</phrase>
+	<phrase weight="0.06666666666666667" count="1">application util bean</phrase>
+	<phrase weight="0.06666666666666667" count="1">selector implement selector</phrase>
+	<phrase weight="0.06666666666666667" count="1">selector selector</phrase>
+	<phrase weight="0.06666666666666667" count="1">provider address select provider address list instance select</phrase>
+	<phrase weight="0.06666666666666667" count="1">instance instance list</phrase>
+	<phrase weight="0.06666666666666667" count="1">provider instance list</phrase>
+	<phrase weight="0.06666666666666667" count="1">instance provider param consumer consumer address param provider</phrase>
+	<phrase weight="0.06666666666666667" count="1">provider list instance instance list</phrase>
+	<phrase weight="0.06666666666666667" count="1">equal consumer</phrase>
+  </topic>
+  <topic id="6" alpha="0.019105796119061786" totalTokens="362" titles="index, label, string, element, expression, set, start, add, parse, prefix">
+	<word weight="0.1298342541436464" count="47">index</word>
+	<word weight="0.11602209944751381" count="42">label</word>
+	<word weight="0.0856353591160221" count="31">string</word>
+	<word weight="0.07458563535911603" count="27">element</word>
+	<word weight="0.0718232044198895" count="26">expression</word>
+	<word weight="0.04419889502762431" count="16">set</word>
+	<word weight="0.03038674033149171" count="11">start</word>
+	<word weight="0.027624309392265192" count="10">add</word>
+	<word weight="0.022099447513812154" count="8">parse</word>
+	<word weight="0.022099447513812154" count="8">prefix</word>
+	<word weight="0.019337016574585635" count="7">size</word>
+	<word weight="0.019337016574585635" count="7">term</word>
+	<word weight="0.019337016574585635" count="7">empty</word>
+	<word weight="0.019337016574585635" count="7">naco</word>
+	<word weight="0.019337016574585635" count="7">support</word>
+	<word weight="0.016574585635359115" count="6">syntax</word>
+	<word weight="0.016574585635359115" count="6">conncetor</word>
+	<word weight="0.016574585635359115" count="6">exception</word>
+	<word weight="0.013812154696132596" count="5">character</word>
+	<word weight="0.013812154696132596" count="5">check</word>
+	<phrase weight="0.045454545454545456" count="2">parse expression fail label add element index split</phrase>
+	<phrase weight="0.045454545454545456" count="2">element index split</phrase>
+	<phrase weight="0.045454545454545456" count="2">empty element index index element size element index start</phrase>
+	<phrase weight="0.045454545454545456" count="2">label string</phrase>
+	<phrase weight="0.045454545454545456" count="2">prefix label</phrase>
+	<phrase weight="0.045454545454545456" count="2">string element start index start index</phrase>
+	<phrase weight="0.045454545454545456" count="2">prefix string label</phrase>
+	<phrase weight="0.022727272727272728" count="1">set syntax</phrase>
+	<phrase weight="0.022727272727272728" count="1">label pre</phrase>
+	<phrase weight="0.022727272727272728" count="1">outer conncetor add string cand</phrase>
+	<phrase weight="0.022727272727272728" count="1">string term array</phrase>
+	<phrase weight="0.022727272727272728" count="1">prefix index element size index check outer syntax element index index element size label index naco exception naco exception invalid</phrase>
+	<phrase weight="0.022727272727272728" count="1">cmdb pojo label set string label set string support conncetor hash set set string support outer conncetor hash set string</phrase>
+	<phrase weight="0.022727272727272728" count="1">cmdb reader query label</phrase>
+	<phrase weight="0.022727272727272728" count="1">string element start start element size string</phrase>
+	<phrase weight="0.022727272727272728" count="1">label set string label label set label set string label label label label</phrase>
+	<phrase weight="0.022727272727272728" count="1">interpreter label</phrase>
+	<phrase weight="0.022727272727272728" count="1">string element term expression set string label hash set index index check syntax element index index naco exception naco exception invalid</phrase>
+	<phrase weight="0.022727272727272728" count="1">string term string expression</phrase>
+	<phrase weight="0.022727272727272728" count="1">cmdb reader</phrase>
+  </topic>
+  <topic id="7" alpha="2.1095403318457386E-173" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="0.018301037838049188" totalTokens="36" titles="checker, clone, health, exception, override, instance, field, tcp, mysql, http">
+	<word weight="0.19444444444444445" count="7">checker</word>
+	<word weight="0.16666666666666666" count="6">clone</word>
+	<word weight="0.16666666666666666" count="6">health</word>
+	<word weight="0.1111111111111111" count="4">exception</word>
+	<word weight="0.05555555555555555" count="2">override</word>
+	<word weight="0.05555555555555555" count="2">instance</word>
+	<word weight="0.05555555555555555" count="2">field</word>
+	<word weight="0.05555555555555555" count="2">tcp</word>
+	<word weight="0.05555555555555555" count="2">mysql</word>
+	<word weight="0.05555555555555555" count="2">http</word>
+	<word weight="0.027777777777777776" count="1">cloneable</word>
+	<phrase weight="0.2857142857142857" count="2">health checker</phrase>
+	<phrase weight="0.14285714285714285" count="1">tcp health checker</phrase>
+	<phrase weight="0.14285714285714285" count="1">exception override health checker clone clone</phrase>
+	<phrase weight="0.14285714285714285" count="1">field instance instance field</phrase>
+	<phrase weight="0.14285714285714285" count="1">exception clone</phrase>
+	<phrase weight="0.14285714285714285" count="1">health checker clone clone</phrase>
+  </topic>
+  <topic id="9" alpha="3.542540763489058E-192" totalTokens="0" titles="">
+  </topic>
+</topics>

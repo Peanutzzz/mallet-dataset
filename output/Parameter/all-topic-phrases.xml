@@ -1,0 +1,59 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.2536739139437389" totalTokens="3" titles="duplicator, implicit, ">
+	<word weight="0.6666666666666666" count="2">duplicator</word>
+	<word weight="0.3333333333333333" count="1">implicit</word>
+  </topic>
+  <topic id="1" alpha="0.2269004593950374" totalTokens="3" titles="common, helper, string, ">
+	<word weight="0.3333333333333333" count="1">common</word>
+	<word weight="0.3333333333333333" count="1">helper</word>
+	<word weight="0.3333333333333333" count="1">string</word>
+  </topic>
+  <topic id="2" alpha="0.24310332374168306" totalTokens="11" titles="datum, converter, info, input, ">
+	<word weight="0.36363636363636365" count="4">datum</word>
+	<word weight="0.2727272727272727" count="3">converter</word>
+	<word weight="0.2727272727272727" count="3">info</word>
+	<word weight="0.09090909090909091" count="1">input</word>
+	<phrase weight="1.0" count="2">info datum</phrase>
+  </topic>
+  <topic id="3" alpha="3.3278215153645267" totalTokens="63" titles="test, spec, extractor, planner, ">
+	<word weight="0.6666666666666666" count="42">test</word>
+	<word weight="0.2857142857142857" count="18">spec</word>
+	<word weight="0.031746031746031744" count="2">extractor</word>
+	<word weight="0.015873015873015872" count="1">planner</word>
+	<phrase weight="1.0" count="2">extractor test</phrase>
+  </topic>
+  <topic id="4" alpha="0.24143731319719727" totalTokens="2" titles="explicit, information, ">
+	<word weight="0.5" count="1">explicit</word>
+	<word weight="0.5" count="1">information</word>
+  </topic>
+  <topic id="5" alpha="0.25138515135459416" totalTokens="2" titles="base, list, ">
+	<word weight="0.5" count="1">base</word>
+	<word weight="0.5" count="1">list</word>
+  </topic>
+  <topic id="6" alpha="0.3105950662425653" totalTokens="8" titles="assignable, avoidance, equal, ">
+	<word weight="0.375" count="3">assignable</word>
+	<word weight="0.375" count="3">avoidance</word>
+	<word weight="0.25" count="2">equal</word>
+  </topic>
+  <topic id="7" alpha="2.456804352179673" totalTokens="40" titles="parameter, cast, target, source, support, ">
+	<word weight="0.65" count="26">parameter</word>
+	<word weight="0.15" count="6">cast</word>
+	<word weight="0.075" count="3">target</word>
+	<word weight="0.075" count="3">source</word>
+	<word weight="0.05" count="2">support</word>
+	<phrase weight="1.0" count="2">parameter support</phrase>
+  </topic>
+  <topic id="8" alpha="0.23658723100535428" totalTokens="3" titles="function, parser, ">
+	<word weight="0.6666666666666666" count="2">function</word>
+	<word weight="0.3333333333333333" count="1">parser</word>
+  </topic>
+  <topic id="9" alpha="2.144081504599271" totalTokens="43" titles="type, logical, replace, cast, test, ">
+	<word weight="0.6511627906976745" count="28">type</word>
+	<word weight="0.27906976744186046" count="12">logical</word>
+	<word weight="0.023255813953488372" count="1">replace</word>
+	<word weight="0.023255813953488372" count="1">cast</word>
+	<word weight="0.023255813953488372" count="1">test</word>
+	<phrase weight="1.0" count="7">logical type</phrase>
+  </topic>
+</topics>

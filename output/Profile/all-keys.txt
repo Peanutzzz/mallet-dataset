@@ -1,0 +1,10 @@
+0	0.03473	config biz portal clog customizer log port url string protect override extend ctrip profile component 
+1	0.01191	user username manager detail jdbc select authority sql delete auth update enable insert create query encoder datasource authentication configuration change 
+2	0.02607	true url signin login configurer point success matcher ant web role override invalidate error failure form path script metric prometheus 
+3	0.01176	search group filter provider authenticator bind set subtree context exception populator apollo auto input rewrite rdn util result page vendor 
+4	0.02993	ctrip email service configuration request builder bean profile 
+5	0.02534	holder server filter url config user bean portal string servlet info set registration context service log configuration parameter credis port 
+6	0.02627	bean source set handler miss conditional spring environment password service security info holder sso template heartbeat logout read anonymous datum 
+7	0.01199	filter listener init bean param cas ctrip single set put registration session sign portal validation map assertion redis config clazz 
+8	0.02867	ldap property user extend context base source auth configuration auto enable true basic security filter system membership blank result entry 
+9	0.02617	http authentication logout security user permit enable entry configure spring exception protect handle clear signin img view style openapi request 

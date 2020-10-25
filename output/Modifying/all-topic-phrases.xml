@@ -1,0 +1,72 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.716394867848248" totalTokens="10" titles="cluster, namespace, ">
+	<word weight="0.7" count="7">cluster</word>
+	<word weight="0.3" count="3">namespace</word>
+	<phrase weight="1.0" count="1">cluster namespace</phrase>
+  </topic>
+  <topic id="1" alpha="23.00688603285997" totalTokens="18" titles="change, item, set, ">
+	<word weight="0.8888888888888888" count="16">change</word>
+	<word weight="0.05555555555555555" count="1">item</word>
+	<word weight="0.05555555555555555" count="1">set</word>
+  </topic>
+  <topic id="2" alpha="70.5506573903012" totalTokens="52" titles="app, operator, update, datum, isdeleted, ">
+	<word weight="0.46153846153846156" count="24">app</word>
+	<word weight="0.3076923076923077" count="16">operator</word>
+	<word weight="0.1346153846153846" count="7">update</word>
+	<word weight="0.07692307692307693" count="4">datum</word>
+	<word weight="0.019230769230769232" count="1">isdeleted</word>
+	<phrase weight="1.0" count="1">isdeleted datum</phrase>
+  </topic>
+  <topic id="3" alpha="5.885034029657806" totalTokens="5" titles="config, user, ">
+	<word weight="0.8" count="4">config</word>
+	<word weight="0.2" count="1">user</word>
+	<phrase weight="1.0" count="1">config config</phrase>
+  </topic>
+  <topic id="4" alpha="11.92539658306442" totalTokens="7" titles="isdelet, history, instance, commit, ">
+	<word weight="0.5714285714285714" count="4">isdelet</word>
+	<word weight="0.14285714285714285" count="1">history</word>
+	<word weight="0.14285714285714285" count="1">instance</word>
+	<word weight="0.14285714285714285" count="1">commit</word>
+  </topic>
+  <topic id="5" alpha="50.07668843021043" totalTokens="55" titles="query, role, repository, app, list, modify, release, consumer, ">
+	<word weight="0.3090909090909091" count="17">query</word>
+	<word weight="0.2" count="11">role</word>
+	<word weight="0.16363636363636364" count="9">repository</word>
+	<word weight="0.12727272727272726" count="7">app</word>
+	<word weight="0.09090909090909091" count="5">list</word>
+	<word weight="0.05454545454545454" count="3">modify</word>
+	<word weight="0.03636363636363636" count="2">release</word>
+	<word weight="0.01818181818181818" count="1">consumer</word>
+	<phrase weight="0.4" count="2">list role</phrase>
+	<phrase weight="0.2" count="1">modify app</phrase>
+	<phrase weight="0.2" count="1">repository modify query</phrase>
+	<phrase weight="0.2" count="1">consumer role</phrase>
+  </topic>
+  <topic id="6" alpha="29.42408535962673" totalTokens="24" titles="set, permission, cluster, ">
+	<word weight="0.625" count="15">set</word>
+	<word weight="0.25" count="6">permission</word>
+	<word weight="0.125" count="3">cluster</word>
+	<phrase weight="1.0" count="2">permission set</phrase>
+  </topic>
+  <topic id="7" alpha="17.91866316410335" totalTokens="20" titles="namespace, integer, ">
+	<word weight="0.75" count="15">namespace</word>
+	<word weight="0.25" count="5">integer</word>
+	<phrase weight="1.0" count="1">namespace namespace</phrase>
+  </topic>
+  <topic id="8" alpha="55.90179258494904" totalTokens="39" titles="modify, update, ">
+	<word weight="0.7692307692307693" count="30">modify</word>
+	<word weight="0.23076923076923078" count="9">update</word>
+  </topic>
+  <topic id="9" alpha="108.75854083354926" totalTokens="93" titles="string, delete, batch, datum, favorite, ">
+	<word weight="0.40860215053763443" count="38">string</word>
+	<word weight="0.3118279569892473" count="29">delete</word>
+	<word weight="0.13978494623655913" count="13">batch</word>
+	<word weight="0.12903225806451613" count="12">datum</word>
+	<word weight="0.010752688172043012" count="1">favorite</word>
+	<phrase weight="0.38095238095238093" count="8">batch delete</phrase>
+	<phrase weight="0.3333333333333333" count="7">delete datum</phrase>
+	<phrase weight="0.19047619047619047" count="4">batch delete string</phrase>
+	<phrase weight="0.09523809523809523" count="2">delete string</phrase>
+  </topic>
+</topics>

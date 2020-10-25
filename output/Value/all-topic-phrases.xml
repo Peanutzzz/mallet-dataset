@@ -1,0 +1,203 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.0027580068501170917" totalTokens="106" titles="string, config, job, xxl, admin, login, executor, token, access, path">
+	<word weight="0.12264150943396226" count="13">string</word>
+	<word weight="0.12264150943396226" count="13">config</word>
+	<word weight="0.10377358490566038" count="11">job</word>
+	<word weight="0.10377358490566038" count="11">xxl</word>
+	<word weight="0.0660377358490566" count="7">admin</word>
+	<word weight="0.05660377358490566" count="6">login</word>
+	<word weight="0.04716981132075472" count="5">executor</word>
+	<word weight="0.03773584905660377" count="4">token</word>
+	<word weight="0.03773584905660377" count="4">access</word>
+	<word weight="0.03773584905660377" count="4">path</word>
+	<word weight="0.02830188679245283" count="3">username</word>
+	<word weight="0.02830188679245283" count="3">spring</word>
+	<word weight="0.018867924528301886" count="2">log</word>
+	<word weight="0.018867924528301886" count="2">port</word>
+	<word weight="0.018867924528301886" count="2">address</word>
+	<word weight="0.018867924528301886" count="2">password</word>
+	<word weight="0.018867924528301886" count="2">application</word>
+	<word weight="0.009433962264150943" count="1">location</word>
+	<word weight="0.009433962264150943" count="1">day</word>
+	<word weight="0.009433962264150943" count="1">retention</word>
+  </topic>
+  <topic id="1" alpha="7.223176371648624E-4" totalTokens="39" titles="task, size, pool, asyc, config, prefix, thread, capacity, queue, max">
+	<word weight="0.20512820512820512" count="8">task</word>
+	<word weight="0.10256410256410256" count="4">size</word>
+	<word weight="0.10256410256410256" count="4">pool</word>
+	<word weight="0.10256410256410256" count="4">asyc</word>
+	<word weight="0.10256410256410256" count="4">config</word>
+	<word weight="0.05128205128205128" count="2">prefix</word>
+	<word weight="0.05128205128205128" count="2">thread</word>
+	<word weight="0.05128205128205128" count="2">capacity</word>
+	<word weight="0.05128205128205128" count="2">queue</word>
+	<word weight="0.05128205128205128" count="2">max</word>
+	<word weight="0.05128205128205128" count="2">core</word>
+	<word weight="0.02564102564102564" count="1">string</word>
+	<word weight="0.02564102564102564" count="1">executor</word>
+	<word weight="0.02564102564102564" count="1">zlt</word>
+  </topic>
+  <topic id="2" alpha="0.0022103567293320133" totalTokens="92" titles="titan, string, url, auth, filter, dbname, sentinel, exclude, pro, uat">
+	<word weight="0.13043478260869565" count="12">titan</word>
+	<word weight="0.13043478260869565" count="12">string</word>
+	<word weight="0.10869565217391304" count="10">url</word>
+	<word weight="0.08695652173913043" count="8">auth</word>
+	<word weight="0.07608695652173914" count="7">filter</word>
+	<word weight="0.06521739130434782" count="6">dbname</word>
+	<word weight="0.043478260869565216" count="4">sentinel</word>
+	<word weight="0.043478260869565216" count="4">exclude</word>
+	<word weight="0.043478260869565216" count="4">pro</word>
+	<word weight="0.043478260869565216" count="4">uat</word>
+	<word weight="0.043478260869565216" count="4">fat</word>
+	<word weight="0.03260869565217391" count="3">split</word>
+	<word weight="0.021739130434782608" count="2">version</word>
+	<word weight="0.021739130434782608" count="2">dashboard</word>
+	<word weight="0.021739130434782608" count="2">suffix</word>
+	<word weight="0.021739130434782608" count="2">list</word>
+	<word weight="0.021739130434782608" count="2">member</word>
+	<word weight="0.021739130434782608" count="2">password</word>
+	<word weight="0.021739130434782608" count="2">username</word>
+  </topic>
+  <topic id="3" alpha="0.002083109722043372" totalTokens="93" titles="string, uri, naco, token, secret, sso, zlt, auth, key, client">
+	<word weight="0.0967741935483871" count="9">string</word>
+	<word weight="0.08602150537634409" count="8">uri</word>
+	<word weight="0.06451612903225806" count="6">naco</word>
+	<word weight="0.06451612903225806" count="6">token</word>
+	<word weight="0.06451612903225806" count="6">secret</word>
+	<word weight="0.06451612903225806" count="6">sso</word>
+	<word weight="0.06451612903225806" count="6">zlt</word>
+	<word weight="0.043010752688172046" count="4">auth</word>
+	<word weight="0.043010752688172046" count="4">key</word>
+	<word weight="0.043010752688172046" count="4">client</word>
+	<word weight="0.03225806451612903" count="3">expire</word>
+	<word weight="0.03225806451612903" count="3">core</word>
+	<word weight="0.021505376344086023" count="2">true</word>
+	<word weight="0.021505376344086023" count="2">instance</word>
+	<word weight="0.021505376344086023" count="2">type</word>
+	<word weight="0.021505376344086023" count="2">system</word>
+	<word weight="0.021505376344086023" count="2">seconds</word>
+	<word weight="0.021505376344086023" count="2">info</word>
+	<word weight="0.021505376344086023" count="2">user</word>
+	<word weight="0.021505376344086023" count="2">access</word>
+  </topic>
+  <topic id="4" alpha="5.595361363572137E-4" totalTokens="37" titles="bean, config, java, enable, false, mcp, server, isolation, istio, naco">
+	<word weight="0.24324324324324326" count="9">bean</word>
+	<word weight="0.16216216216216217" count="6">config</word>
+	<word weight="0.10810810810810811" count="4">java</word>
+	<word weight="0.10810810810810811" count="4">enable</word>
+	<word weight="0.08108108108108109" count="3">false</word>
+	<word weight="0.05405405405405406" count="2">mcp</word>
+	<word weight="0.05405405405405406" count="2">server</word>
+	<word weight="0.05405405405405406" count="2">isolation</word>
+	<word weight="0.02702702702702703" count="1">istio</word>
+	<word weight="0.02702702702702703" count="1">naco</word>
+	<word weight="0.02702702702702703" count="1">ribbon</word>
+	<word weight="0.02702702702702703" count="1">constant</word>
+	<word weight="0.02702702702702703" count="1">filter</word>
+	<phrase weight="0.5" count="2">java config bean bean</phrase>
+	<phrase weight="0.25" count="1">config bean</phrase>
+	<phrase weight="0.25" count="1">java config bean</phrase>
+  </topic>
+  <topic id="5" alpha="0.0025733502703713905" totalTokens="87" titles="port, test, server, string, integer, instance, key, path, source, controller">
+	<word weight="0.16091954022988506" count="14">port</word>
+	<word weight="0.13793103448275862" count="12">test</word>
+	<word weight="0.11494252873563218" count="10">server</word>
+	<word weight="0.06896551724137931" count="6">string</word>
+	<word weight="0.04597701149425287" count="4">integer</word>
+	<word weight="0.04597701149425287" count="4">instance</word>
+	<word weight="0.04597701149425287" count="4">key</word>
+	<word weight="0.04597701149425287" count="4">path</word>
+	<word weight="0.034482758620689655" count="3">source</word>
+	<word weight="0.034482758620689655" count="3">controller</word>
+	<word weight="0.034482758620689655" count="3">integration</word>
+	<word weight="0.022988505747126436" count="2">eureka</word>
+	<word weight="0.022988505747126436" count="2">http</word>
+	<word weight="0.022988505747126436" count="2">context</word>
+	<word weight="0.022988505747126436" count="2">local</word>
+	<word weight="0.022988505747126436" count="2">appname</word>
+	<word weight="0.022988505747126436" count="2">client</word>
+	<word weight="0.022988505747126436" count="2">spring</word>
+	<word weight="0.022988505747126436" count="2">prefix</word>
+	<word weight="0.011494252873563218" count="1">interceptor</word>
+  </topic>
+  <topic id="6" alpha="0.0040013260699213364" totalTokens="155" titles="batch, timeout, test, placeholder, update, auto, set, logger, info, ">
+	<word weight="0.25161290322580643" count="39">batch</word>
+	<word weight="0.21935483870967742" count="34">timeout</word>
+	<word weight="0.14838709677419354" count="23">test</word>
+	<word weight="0.12258064516129032" count="19">placeholder</word>
+	<word weight="0.0967741935483871" count="15">update</word>
+	<word weight="0.08387096774193549" count="13">auto</word>
+	<word weight="0.05161290322580645" count="8">set</word>
+	<word weight="0.012903225806451613" count="2">logger</word>
+	<word weight="0.012903225806451613" count="2">info</word>
+	<phrase weight="0.25" count="1">timeout timeout</phrase>
+	<phrase weight="0.25" count="1">placeholder auto update test</phrase>
+	<phrase weight="0.25" count="1">timeout test</phrase>
+	<phrase weight="0.25" count="1">set batch batch</phrase>
+  </topic>
+  <topic id="7" alpha="0.0016651131207480647" totalTokens="82" titles="naco, task, datum, interval, retry, sync, distro, delay, load, cmdb">
+	<word weight="0.10975609756097561" count="9">naco</word>
+	<word weight="0.0975609756097561" count="8">task</word>
+	<word weight="0.07317073170731707" count="6">datum</word>
+	<word weight="0.07317073170731707" count="6">interval</word>
+	<word weight="0.04878048780487805" count="4">retry</word>
+	<word weight="0.04878048780487805" count="4">sync</word>
+	<word weight="0.04878048780487805" count="4">distro</word>
+	<word weight="0.04878048780487805" count="4">delay</word>
+	<word weight="0.04878048780487805" count="4">load</word>
+	<word weight="0.04878048780487805" count="4">cmdb</word>
+	<word weight="0.04878048780487805" count="4">option</word>
+	<word weight="0.036585365853658534" count="3">false</word>
+	<word weight="0.024390243902439025" count="2">milli</word>
+	<word weight="0.024390243902439025" count="2">warmup</word>
+	<word weight="0.024390243902439025" count="2">count</word>
+	<word weight="0.024390243902439025" count="2">dispatch</word>
+	<word weight="0.024390243902439025" count="2">period</word>
+	<word weight="0.024390243902439025" count="2">start</word>
+	<word weight="0.024390243902439025" count="2">label</word>
+	<word weight="0.024390243902439025" count="2">event</word>
+  </topic>
+  <topic id="8" alpha="0.0023742864059417565" totalTokens="101" titles="service, ldap, group, string, clean, empty, attr, mapping, base, naco">
+	<word weight="0.15841584158415842" count="16">service</word>
+	<word weight="0.09900990099009901" count="10">ldap</word>
+	<word weight="0.0891089108910891" count="9">group</word>
+	<word weight="0.0891089108910891" count="9">string</word>
+	<word weight="0.0594059405940594" count="6">clean</word>
+	<word weight="0.0594059405940594" count="6">empty</word>
+	<word weight="0.04950495049504951" count="5">attr</word>
+	<word weight="0.04950495049504951" count="5">mapping</word>
+	<word weight="0.039603960396039604" count="4">base</word>
+	<word weight="0.0297029702970297" count="3">naco</word>
+	<word weight="0.019801980198019802" count="2">period</word>
+	<word weight="0.019801980198019802" count="2">delay</word>
+	<word weight="0.019801980198019802" count="2">membership</word>
+	<word weight="0.019801980198019802" count="2">search</word>
+	<word weight="0.019801980198019802" count="2">rdn</word>
+	<word weight="0.019801980198019802" count="2">display</word>
+	<word weight="0.019801980198019802" count="2">object</word>
+	<word weight="0.019801980198019802" count="2">key</word>
+	<word weight="0.019801980198019802" count="2">auto</word>
+	<word weight="0.019801980198019802" count="2">email</word>
+	<phrase weight="1.0" count="1">service ldap</phrase>
+  </topic>
+  <topic id="9" alpha="0.002556329744320237" totalTokens="99" titles="property, placeholder, test, update, auto, key, string, nest, format, array">
+	<word weight="0.24242424242424243" count="24">property</word>
+	<word weight="0.13131313131313133" count="13">placeholder</word>
+	<word weight="0.13131313131313133" count="13">test</word>
+	<word weight="0.12121212121212122" count="12">update</word>
+	<word weight="0.12121212121212122" count="12">auto</word>
+	<word weight="0.050505050505050504" count="5">date</word>
+	<word weight="0.04040404040404041" count="4">key</word>
+	<word weight="0.04040404040404041" count="4">string</word>
+	<word weight="0.030303030303030304" count="3">nest</word>
+	<word weight="0.020202020202020204" count="2">format</word>
+	<word weight="0.020202020202020204" count="2">array</word>
+	<word weight="0.010101010101010102" count="1">parse</word>
+	<word weight="0.010101010101010102" count="1">simple</word>
+	<word weight="0.010101010101010102" count="1">text</word>
+	<word weight="0.010101010101010102" count="1">java</word>
+	<word weight="0.010101010101010102" count="1">inject</word>
+	<phrase weight="1.0" count="1">placeholder auto update</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,10 @@
+0	2.53131	http security exception web enable true global role apollo origin csrf protect pre user override post configuration authorize basic method 
+1	0.64237	disable config configure override true admin spring header extend web configuration conditional 
+2	0.59033	signin url login auth logout matcher entry permit session failure script style vendor openapi metric ant request spring security logic 
+3	0.2522	bind auto url handle authority util bean prefix view prometheus configure protect adapter 
+4	0.61312	authentication option password header miss view role memory manager problem compatibility backward basic extend enable configuration conditional 
+5	0.59313	frame map clear permit string remove method enable 
+6	0.41174	remove populator follow client 
+7	0.6584	auth adapter invalidate builder authenticate img autowire big send useless header configurer method 
+8	0.59456	user logout point success provider configuration form order configure profile input auto subtree group context entry page login configurer extend 
+9	0.34256	ldap property search extend group filter source context base true authenticator provider set authentication configurer subtree ant system partial ignore 

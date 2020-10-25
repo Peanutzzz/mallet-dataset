@@ -1,0 +1,14 @@
+0 resource 0:4
+1 base 0:2
+2 message 0:2
+3 multiple 0:2
+4 watermark 0:2
+5 statement 0:2
+6 support 0:1
+7 inst 0:2
+8 parse 0:2
+9 exception 0:2
+10 unsupported 0:1
+11 overwrite 0:2
+12 expression 0:1
+13 insert 0:2

@@ -1,0 +1,6 @@
+0 benchmark 0:20
+1 thread 0:20
+2 test 0:10
+3 single 0:8
+4 directly 0:4
+5 entry 0:12

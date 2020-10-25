@@ -1,0 +1,10 @@
+0	0.04294	message format namespace type blank privil validator invalid input privilege file regexp pattern add build definition string column 
+1	0.02615	release branch operation rule previous context status add history gray column 
+2	0.0186	owner org app email builder blank extend input message update 
+3	0.04686	role permission type target user delete 
+4	0.62109	string set column false nullable add delete entity table update base sql extend helper clause override audit insert 
+5	0.07195	comment key abandon configuration num line config server integer item lob bit definition 
+6	0.13835	cluster app namespace change parent commit clause lock compare comparable implement table 
+7	0.03209	consumer token expire method uri date audit clause object nullable 
+8	0.04891	time change datum modify create config date release data instance add column pre center key delivery persist protect omit identity 
+9	0.03481	user app enable username email secret info password position favorite key access column identity generation strategy generate bit definition base 

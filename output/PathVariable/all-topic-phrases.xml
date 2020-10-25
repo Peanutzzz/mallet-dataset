@@ -1,0 +1,106 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.6925786748018214" totalTokens="566" titles="path variable, string, env, controller, app, token, ">
+	<word weight="0.3003533568904594" count="170">path</word>
+	<word weight="0.25618374558303886" count="145">variable</word>
+	<word weight="0.2420494699646643" count="137">string</word>
+	<word weight="0.12367491166077739" count="70">env</word>
+	<word weight="0.0706713780918728" count="40">controller</word>
+	<word weight="0.00530035335689046" count="3">app</word>
+	<word weight="0.0017667844522968198" count="1">token</word>
+	<phrase weight="0.4861111111111111" count="35">path variable</phrase>
+	<phrase weight="0.2222222222222222" count="16">path variable string</phrase>
+	<phrase weight="0.125" count="9">controller path</phrase>
+	<phrase weight="0.08333333333333333" count="6">variable string</phrase>
+	<phrase weight="0.041666666666666664" count="3">controller path variable string</phrase>
+	<phrase weight="0.041666666666666664" count="3">controller path variable</phrase>
+  </topic>
+  <topic id="1" alpha="0.008674982585639472" totalTokens="8" titles="item, product, ">
+	<word weight="0.875" count="7">item</word>
+	<word weight="0.125" count="1">product</word>
+  </topic>
+  <topic id="2" alpha="0.3974385176638757" totalTokens="317" titles="cluster, path, variable, string, controller, ">
+	<word weight="0.31545741324921134" count="100">cluster</word>
+	<word weight="0.24290220820189273" count="77">path</word>
+	<word weight="0.2113564668769716" count="67">variable</word>
+	<word weight="0.15457413249211358" count="49">string</word>
+	<word weight="0.07570977917981073" count="24">controller</word>
+	<phrase weight="0.35714285714285715" count="10">path variable</phrase>
+	<phrase weight="0.17857142857142858" count="5">variable string</phrase>
+	<phrase weight="0.10714285714285714" count="3">variable cluster</phrase>
+	<phrase weight="0.10714285714285714" count="3">controller path variable</phrase>
+	<phrase weight="0.07142857142857142" count="2">controller path</phrase>
+	<phrase weight="0.07142857142857142" count="2">path variable string</phrase>
+	<phrase weight="0.07142857142857142" count="2">path variable cluster</phrase>
+	<phrase weight="0.03571428571428571" count="1">controller path variable string</phrase>
+  </topic>
+  <topic id="3" alpha="0.413132470938973" totalTokens="315" titles="namespace, string, path, variable, controller, ">
+	<word weight="0.32063492063492066" count="101">namespace</word>
+	<word weight="0.25396825396825395" count="80">string</word>
+	<word weight="0.23174603174603176" count="73">path</word>
+	<word weight="0.18095238095238095" count="57">variable</word>
+	<word weight="0.012698412698412698" count="4">controller</word>
+	<phrase weight="0.45" count="9">path variable</phrase>
+	<phrase weight="0.25" count="5">variable string</phrase>
+	<phrase weight="0.15" count="3">path variable string</phrase>
+	<phrase weight="0.1" count="2">controller path</phrase>
+	<phrase weight="0.05" count="1">path variable namespace</phrase>
+  </topic>
+  <topic id="4" alpha="0.027957743568665445" totalTokens="31" titles="role, type, code, permission, username, ">
+	<word weight="0.3870967741935484" count="12">role</word>
+	<word weight="0.2903225806451613" count="9">type</word>
+	<word weight="0.1935483870967742" count="6">code</word>
+	<word weight="0.0967741935483871" count="3">permission</word>
+	<word weight="0.03225806451612903" count="1">username</word>
+	<phrase weight="1.0" count="1">role code</phrase>
+  </topic>
+  <topic id="5" alpha="0.007113854923159965" totalTokens="3" titles="routing, ">
+	<word weight="1.0" count="3">routing</word>
+  </topic>
+  <topic id="6" alpha="0.011356327178394845" totalTokens="11" titles="index, string, username, ">
+	<word weight="0.5454545454545454" count="6">index</word>
+	<word weight="0.2727272727272727" count="3">string</word>
+	<word weight="0.18181818181818182" count="2">username</word>
+  </topic>
+  <topic id="7" alpha="0.013505408046944445" totalTokens="13" titles="release, key, mobile, ">
+	<word weight="0.46153846153846156" count="6">release</word>
+	<word weight="0.46153846153846156" count="6">key</word>
+	<word weight="0.07692307692307693" count="1">mobile</word>
+  </topic>
+  <topic id="8" alpha="0.8840292265202585" totalTokens="720" titles="variable, app, string, path, controller, branch, favorite, device, ">
+	<word weight="0.24166666666666667" count="174">variable</word>
+	<word weight="0.22916666666666666" count="165">app</word>
+	<word weight="0.22777777777777777" count="164">string</word>
+	<word weight="0.19166666666666668" count="138">path</word>
+	<word weight="0.08333333333333333" count="60">controller</word>
+	<word weight="0.022222222222222223" count="16">branch</word>
+	<word weight="0.002777777777777778" count="2">favorite</word>
+	<word weight="0.001388888888888889" count="1">device</word>
+	<phrase weight="0.25" count="16">path variable</phrase>
+	<phrase weight="0.1875" count="12">path variable string</phrase>
+	<phrase weight="0.15625" count="10">variable string</phrase>
+	<phrase weight="0.140625" count="9">controller path</phrase>
+	<phrase weight="0.09375" count="6">variable app</phrase>
+	<phrase weight="0.078125" count="5">controller path variable</phrase>
+	<phrase weight="0.0625" count="4">path variable app</phrase>
+	<phrase weight="0.03125" count="2">controller path variable string</phrase>
+  </topic>
+  <topic id="9" alpha="0.1618675007896251" totalTokens="107" titles="controller, variable, path, test, user, cluster, client, rule, ">
+	<word weight="0.3364485981308411" count="36">controller</word>
+	<word weight="0.308411214953271" count="33">variable</word>
+	<word weight="0.16822429906542055" count="18">path</word>
+	<word weight="0.06542056074766354" count="7">test</word>
+	<word weight="0.056074766355140186" count="6">user</word>
+	<word weight="0.028037383177570093" count="3">cluster</word>
+	<word weight="0.018691588785046728" count="2">client</word>
+	<word weight="0.018691588785046728" count="2">rule</word>
+	<phrase weight="0.3333333333333333" count="5">path variable</phrase>
+	<phrase weight="0.13333333333333333" count="2">controller path variable</phrase>
+	<phrase weight="0.13333333333333333" count="2">test controller</phrase>
+	<phrase weight="0.13333333333333333" count="2">client test controller</phrase>
+	<phrase weight="0.06666666666666667" count="1">path variable cluster</phrase>
+	<phrase weight="0.06666666666666667" count="1">controller path</phrase>
+	<phrase weight="0.06666666666666667" count="1">variable user</phrase>
+	<phrase weight="0.06666666666666667" count="1">test controller path</phrase>
+  </topic>
+</topics>

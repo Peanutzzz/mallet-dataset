@@ -1,0 +1,45 @@
+0 config 9:29 4:5
+1 service 9:13 4:2 0:2 6:1
+2 grpc 8:42 4:7 9:3
+3 stub 9:2 0:2
+4 annotation 8:3 4:1
+5 rpc 8:3 9:1
+6 method 8:80 9:5 4:2 6:1
+7 full 8:11 4:1
+8 stream 8:30 0:9 9:1
+9 aggregate 9:34
+10 resource 8:50 0:21 6:9
+11 request 8:19 9:6 0:3
+12 type 8:22 9:2
+13 alibaba 8:40
+14 naco 8:32 9:8
+15 istio 8:24 0:12 4:5 6:2 9:1
+16 model 8:38 6:2
+17 mcp 8:34 6:6 0:4
+18 mesh 9:27 8:2 4:2 6:1
+19 response 8:8 9:6 6:2 4:2
+20 descriptor 8:28
+21 bidi 0:3 9:2 4:2 8:1
+22 synchronize 9:2 0:2
+23 aggregated 9:1 6:1
+24 builder 4:3 9:1
+25 set 8:15 9:5 0:4
+26 streaming 8:4
+27 generate 8:1 6:1 4:1 0:1
+28 alpha 8:2 9:1 4:1
+29 sample 4:3 0:1
+30 local 9:2 0:2
+31 tracing 9:2 8:1 0:1
+32 true 8:4
+33 marshaller 8:12 9:4
+34 protobuf 8:6 0:2
+35 proto 4:5 8:3
+36 util 8:4 9:3 4:1
+37 instance 0:4 9:2 8:1 6:1
+38 schema 0:2 9:1 6:1
+39 supplier 8:4
+40 build 9:2 0:2
+41 incremental 6:22
+42 establish 0:23 8:1
+43 sink 0:6
+44 source 0:5 8:1

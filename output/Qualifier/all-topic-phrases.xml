@@ -1,0 +1,37 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.534237824277842" totalTokens="46" titles="rule, resolver, flow, text, qualifier, publisher, provider, entity, list, dynamic">
+	<word weight="0.17391304347826086" count="8">rule</word>
+	<word weight="0.13043478260869565" count="6">resolver</word>
+	<word weight="0.08695652173913043" count="4">flow</word>
+	<word weight="0.08695652173913043" count="4">text</word>
+	<word weight="0.08695652173913043" count="4">qualifier</word>
+	<word weight="0.06521739130434782" count="3">publisher</word>
+	<word weight="0.06521739130434782" count="3">provider</word>
+	<word weight="0.043478260869565216" count="2">entity</word>
+	<word weight="0.043478260869565216" count="2">list</word>
+	<word weight="0.043478260869565216" count="2">dynamic</word>
+	<word weight="0.043478260869565216" count="2">autowire</word>
+	<word weight="0.043478260869565216" count="2">property</word>
+	<word weight="0.043478260869565216" count="2">config</word>
+	<word weight="0.043478260869565216" count="2">file</word>
+  </topic>
+  <topic id="1" alpha="1.0741913076574754E-31" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="1.0741913076574754E-31" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="1.0741913076574754E-31" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="1.0741913076574754E-31" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="1.0741913076574754E-31" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="1.0741913076574754E-31" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="1.0741913076574754E-31" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="1.0741913076574754E-31" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="1.0741913076574754E-31" totalTokens="0" titles="">
+  </topic>
+</topics>

@@ -1,0 +1,422 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.39873992210233744" totalTokens="1600" titles="env, app, string, cluster, namespace, variable, path, permission, service, pre">
+	<word weight="0.143125" count="229">env</word>
+	<word weight="0.119375" count="191">app</word>
+	<word weight="0.104375" count="167">string</word>
+	<word weight="0.093125" count="149">cluster</word>
+	<word weight="0.088125" count="141">namespace</word>
+	<word weight="0.083125" count="133">variable</word>
+	<word weight="0.0825" count="132">path</word>
+	<word weight="0.04625" count="74">permission</word>
+	<word weight="0.035" count="56">service</word>
+	<word weight="0.02375" count="38">pre</word>
+	<word weight="0.0225" count="36">authorize</word>
+	<word weight="0.02125" count="34">validator</word>
+	<word weight="0.020625" count="33">delete</word>
+	<word weight="0.01875" count="30">mapping</word>
+	<word weight="0.01875" count="30">request</word>
+	<word weight="0.018125" count="29">operator</word>
+	<word weight="0.011875" count="19">body</word>
+	<word weight="0.009375" count="15">post</word>
+	<word weight="0.005625" count="9">update</word>
+	<word weight="0.005" count="8">controller</word>
+	<phrase weight="0.04938271604938271" count="12">env env</phrase>
+	<phrase weight="0.04526748971193416" count="11">permission validator</phrase>
+	<phrase weight="0.04526748971193416" count="11">pre authorize permission validator</phrase>
+	<phrase weight="0.037037037037037035" count="9">pre authorize</phrase>
+	<phrase weight="0.02880658436213992" count="7">path variable string</phrase>
+	<phrase weight="0.024691358024691357" count="6">path variable</phrase>
+	<phrase weight="0.0205761316872428" count="5">namespace permission</phrase>
+	<phrase weight="0.0205761316872428" count="5">request body</phrase>
+	<phrase weight="0.01646090534979424" count="4">service delete</phrase>
+	<phrase weight="0.012345679012345678" count="3">app path variable string env path variable string cluster path variable</phrase>
+	<phrase weight="0.012345679012345678" count="3">cluster namespace</phrase>
+	<phrase weight="0.012345679012345678" count="3">service update</phrase>
+	<phrase weight="0.012345679012345678" count="3">cluster cluster</phrase>
+	<phrase weight="0.012345679012345678" count="3">env string env</phrase>
+	<phrase weight="0.012345679012345678" count="3">string env</phrase>
+	<phrase weight="0.012345679012345678" count="3">app app</phrase>
+	<phrase weight="0.012345679012345678" count="3">app env env</phrase>
+	<phrase weight="0.012345679012345678" count="3">variable string</phrase>
+	<phrase weight="0.012345679012345678" count="3">pre authorize permission</phrase>
+	<phrase weight="0.012345679012345678" count="3">permission validator app</phrase>
+  </topic>
+  <topic id="1" alpha="0.14978505756990404" totalTokens="846" titles="user, role, app, type, permission, response, entity, assign, set, build">
+	<word weight="0.17612293144208038" count="149">user</word>
+	<word weight="0.15839243498817968" count="134">role</word>
+	<word weight="0.06855791962174941" count="58">app</word>
+	<word weight="0.054373522458628844" count="46">type</word>
+	<word weight="0.037825059101654845" count="32">permission</word>
+	<word weight="0.03546099290780142" count="30">response</word>
+	<word weight="0.031914893617021274" count="27">entity</word>
+	<word weight="0.030732860520094562" count="26">assign</word>
+	<word weight="0.02955082742316785" count="25">set</word>
+	<word weight="0.028368794326241134" count="24">build</word>
+	<word weight="0.024822695035460994" count="21">variable</word>
+	<word weight="0.02364066193853428" count="20">path</word>
+	<word weight="0.022458628841607566" count="19">holder</word>
+	<word weight="0.02127659574468085" count="18">string</word>
+	<word weight="0.02009456264775414" count="17">authorize</word>
+	<word weight="0.018912529550827423" count="16">service</word>
+	<word weight="0.01773049645390071" count="15">validator</word>
+	<word weight="0.016548463356973995" count="14">info</word>
+	<word weight="0.015366430260047281" count="13">check</word>
+	<word weight="0.015366430260047281" count="13">mapping</word>
+	<phrase weight="0.06451612903225806" count="6">role type</phrase>
+	<phrase weight="0.053763440860215055" count="5">role type valid role type role type</phrase>
+	<phrase weight="0.053763440860215055" count="5">role app</phrase>
+	<phrase weight="0.043010752688172046" count="4">info holder user user</phrase>
+	<phrase weight="0.021505376344086023" count="2">assign user role permission service assign role user role</phrase>
+	<phrase weight="0.021505376344086023" count="2">type illegal set</phrase>
+	<phrase weight="0.021505376344086023" count="2">role role type response entity remove</phrase>
+	<phrase weight="0.021505376344086023" count="2">role role type response entity assign</phrase>
+	<phrase weight="0.021505376344086023" count="2">assign user</phrase>
+	<phrase weight="0.021505376344086023" count="2">type illegal validate</phrase>
+	<phrase weight="0.021505376344086023" count="2">role user</phrase>
+	<phrase weight="0.021505376344086023" count="2">user check user</phrase>
+	<phrase weight="0.010752688172043012" count="1">role user path</phrase>
+	<phrase weight="0.010752688172043012" count="1">app app</phrase>
+	<phrase weight="0.010752688172043012" count="1">pre authorize permission validator assign role permission app post mapping app app</phrase>
+	<phrase weight="0.010752688172043012" count="1">master user response entity forbid manage app master path variable string app path variable string user check user exist user role initialization service init manage app master role app user</phrase>
+	<phrase weight="0.010752688172043012" count="1">build app role app role type set hash set user user info holder user user collection</phrase>
+	<phrase weight="0.010752688172043012" count="1">entity delete</phrase>
+	<phrase weight="0.010752688172043012" count="1">illegal set</phrase>
+	<phrase weight="0.010752688172043012" count="1">variable string role type</phrase>
+  </topic>
+  <topic id="2" alpha="0.16980966657269392" totalTokens="708" titles="request, namespace, string, exception, util, empty, user, bad, open, argument">
+	<word weight="0.153954802259887" count="109">request</word>
+	<word weight="0.11440677966101695" count="81">namespace</word>
+	<word weight="0.08192090395480225" count="58">string</word>
+	<word weight="0.05790960451977401" count="41">exception</word>
+	<word weight="0.05649717514124294" count="40">util</word>
+	<word weight="0.052259887005649715" count="37">empty</word>
+	<word weight="0.0480225988700565" count="34">user</word>
+	<word weight="0.04096045197740113" count="29">bad</word>
+	<word weight="0.03672316384180791" count="26">open</word>
+	<word weight="0.029661016949152543" count="21">argument</word>
+	<word weight="0.029661016949152543" count="21">precondition</word>
+	<word weight="0.02824858757062147" count="20">operator</word>
+	<word weight="0.026836158192090395" count="19">exist</word>
+	<word weight="0.025423728813559324" count="18">check</word>
+	<word weight="0.022598870056497175" count="16">transform</word>
+	<word weight="0.022598870056497175" count="16">bean</word>
+	<word weight="0.0211864406779661" count="15">http</word>
+	<word weight="0.01977401129943503" count="14">consumer</word>
+	<word weight="0.018361581920903956" count="13">param</word>
+	<word weight="0.018361581920903956" count="13">find</word>
+	<phrase weight="0.13392857142857142" count="15">request exception</phrase>
+	<phrase weight="0.0625" count="7">util empty</phrase>
+	<phrase weight="0.05357142857142857" count="6">find user</phrase>
+	<phrase weight="0.03571428571428571" count="4">bad request exception user</phrase>
+	<phrase weight="0.026785714285714284" count="3">argument empty</phrase>
+	<phrase weight="0.026785714285714284" count="3">bad request exception</phrase>
+	<phrase weight="0.026785714285714284" count="3">request precondition check argument empty</phrase>
+	<phrase weight="0.017857142857142856" count="2">util transform namespace</phrase>
+	<phrase weight="0.017857142857142856" count="2">namespace open api bean util transform</phrase>
+	<phrase weight="0.017857142857142856" count="2">servlet request request request precondition check argument</phrase>
+	<phrase weight="0.017857142857142856" count="2">create open api bean util transform</phrase>
+	<phrase weight="0.017857142857142856" count="2">operator empty user</phrase>
+	<phrase weight="0.017857142857142856" count="2">api bean util transform</phrase>
+	<phrase weight="0.017857142857142856" count="2">request exception user</phrase>
+	<phrase weight="0.017857142857142856" count="2">http servlet request request request precondition check argument</phrase>
+	<phrase weight="0.017857142857142856" count="2">request request precondition check argument string util empty</phrase>
+	<phrase weight="0.017857142857142856" count="2">request precondition</phrase>
+	<phrase weight="0.017857142857142856" count="2">open api bean util transform</phrase>
+	<phrase weight="0.017857142857142856" count="2">user request precondition</phrase>
+	<phrase weight="0.008928571428571428" count="1">bean util</phrase>
+  </topic>
+  <topic id="3" alpha="0.026333680056241655" totalTokens="175" titles="model, namespace, file, text, set, config, split, format, syntax, error">
+	<word weight="0.21142857142857144" count="37">model</word>
+	<word weight="0.18857142857142858" count="33">namespace</word>
+	<word weight="0.09142857142857143" count="16">file</word>
+	<word weight="0.06857142857142857" count="12">text</word>
+	<word weight="0.06285714285714286" count="11">set</word>
+	<word weight="0.05142857142857143" count="9">config</word>
+	<word weight="0.02857142857142857" count="5">split</word>
+	<word weight="0.022857142857142857" count="4">format</word>
+	<word weight="0.017142857142857144" count="3">syntax</word>
+	<word weight="0.017142857142857144" count="3">error</word>
+	<word weight="0.017142857142857144" count="3">entity</word>
+	<word weight="0.017142857142857144" count="3">info</word>
+	<word weight="0.017142857142857144" count="3">list</word>
+	<word weight="0.017142857142857144" count="3">modify</word>
+	<word weight="0.011428571428571429" count="2">json</word>
+	<word weight="0.011428571428571429" count="2">consume</word>
+	<word weight="0.011428571428571429" count="2">stream</word>
+	<word weight="0.011428571428571429" count="2">size</word>
+	<word weight="0.011428571428571429" count="2">application</word>
+	<word weight="0.011428571428571429" count="2">input</word>
+	<phrase weight="0.15625" count="5">model set</phrase>
+	<phrase weight="0.0625" count="2">model model</phrase>
+	<phrase weight="0.0625" count="2">namespace model</phrase>
+	<phrase weight="0.03125" count="1">file error model set config text config text config</phrase>
+	<phrase weight="0.03125" count="1">consume application json</phrase>
+	<phrase weight="0.03125" count="1">namespace fail</phrase>
+	<phrase weight="0.03125" count="1">filename file split size</phrase>
+	<phrase weight="0.03125" count="1">format invalid</phrase>
+	<phrase weight="0.03125" count="1">namespace text model model model set</phrase>
+	<phrase weight="0.03125" count="1">param file multipart file file file</phrase>
+	<phrase weight="0.03125" count="1">format namespace</phrase>
+	<phrase weight="0.03125" count="1">model set namespace namespace model set namespace namespace</phrase>
+	<phrase weight="0.03125" count="1">namespace item config file</phrase>
+	<phrase weight="0.03125" count="1">format model set</phrase>
+	<phrase weight="0.03125" count="1">logger error</phrase>
+	<phrase weight="0.03125" count="1">consume application json modify</phrase>
+	<phrase weight="0.03125" count="1">file empty</phrase>
+	<phrase weight="0.03125" count="1">namespace namespace text model model namespace text model list</phrase>
+	<phrase weight="0.03125" count="1">modify namespace</phrase>
+	<phrase weight="0.03125" count="1">text model model syntax</phrase>
+  </topic>
+  <topic id="4" alpha="0.037474212218469284" totalTokens="152" titles="config, key, server, access, envs, admin, store, controller, map, repository">
+	<word weight="0.15789473684210525" count="24">config</word>
+	<word weight="0.13815789473684212" count="21">key</word>
+	<word weight="0.11842105263157894" count="18">server</word>
+	<word weight="0.09210526315789473" count="14">access</word>
+	<word weight="0.039473684210526314" count="6">envs</word>
+	<word weight="0.039473684210526314" count="6">admin</word>
+	<word weight="0.03289473684210526" count="5">store</word>
+	<word weight="0.03289473684210526" count="5">controller</word>
+	<word weight="0.03289473684210526" count="5">map</word>
+	<word weight="0.02631578947368421" count="4">repository</word>
+	<word weight="0.02631578947368421" count="4">find</word>
+	<word weight="0.02631578947368421" count="4">pre</word>
+	<word weight="0.019736842105263157" count="3">disable</word>
+	<word weight="0.019736842105263157" count="3">enable</word>
+	<word weight="0.019736842105263157" count="3">secret</word>
+	<word weight="0.019736842105263157" count="3">save</word>
+	<word weight="0.019736842105263157" count="3">put</word>
+	<word weight="0.019736842105263157" count="3">set</word>
+	<word weight="0.013157894736842105" count="2">accesskey</word>
+	<word weight="0.013157894736842105" count="2">env</word>
+	<phrase weight="0.13043478260869565" count="3">controller pre</phrase>
+	<phrase weight="0.08695652173913043" count="2">server config server config</phrase>
+	<phrase weight="0.08695652173913043" count="2">put map</phrase>
+	<phrase weight="0.043478260869565216" count="1">config store config server config repository find key server config key</phrase>
+	<phrase weight="0.043478260869565216" count="1">secret uuid random</phrase>
+	<phrase weight="0.043478260869565216" count="1">key access key</phrase>
+	<phrase weight="0.043478260869565216" count="1">controller pre authorize permission</phrase>
+	<phrase weight="0.043478260869565216" count="1">admin post</phrase>
+	<phrase weight="0.043478260869565216" count="1">access key</phrase>
+	<phrase weight="0.043478260869565216" count="1">replace access key set</phrase>
+	<phrase weight="0.043478260869565216" count="1">env accesskey</phrase>
+	<phrase weight="0.043478260869565216" count="1">jpa server config repository save server config</phrase>
+	<phrase weight="0.043478260869565216" count="1">map server config key server config load server config path</phrase>
+	<phrase weight="0.043478260869565216" count="1">server config</phrase>
+	<phrase weight="0.043478260869565216" count="1">access key set secret secret access key</phrase>
+	<phrase weight="0.043478260869565216" count="1">accesskey access key save</phrase>
+	<phrase weight="0.043478260869565216" count="1">property server config store config store config set</phrase>
+	<phrase weight="0.043478260869565216" count="1">access key find</phrase>
+	<phrase weight="0.043478260869565216" count="1">store config</phrase>
+  </topic>
+  <topic id="5" alpha="0.03833493184295981" totalTokens="209" titles="info, service, env, system, create, application, instance, admin, environment, version">
+	<word weight="0.11004784688995216" count="23">info</word>
+	<word weight="0.10047846889952153" count="21">service</word>
+	<word weight="0.09090909090909091" count="19">env</word>
+	<word weight="0.07655502392344497" count="16">system</word>
+	<word weight="0.05741626794258373" count="12">create</word>
+	<word weight="0.04784688995215311" count="10">application</word>
+	<word weight="0.03827751196172249" count="8">instance</word>
+	<word weight="0.03827751196172249" count="8">admin</word>
+	<word weight="0.03349282296650718" count="7">environment</word>
+	<word weight="0.028708133971291867" count="6">version</word>
+	<word weight="0.028708133971291867" count="6">list</word>
+	<word weight="0.023923444976076555" count="5">health</word>
+	<word weight="0.023923444976076555" count="5">map</word>
+	<word weight="0.023923444976076555" count="5">permission</word>
+	<word weight="0.023923444976076555" count="5">authorize</word>
+	<word weight="0.023923444976076555" count="5">pre</word>
+	<word weight="0.014354066985645933" count="3">controller</word>
+	<word weight="0.014354066985645933" count="3">update</word>
+	<word weight="0.014354066985645933" count="3">string</word>
+	<word weight="0.014354066985645933" count="3">validator</word>
+	<phrase weight="0.08" count="2">manager service create application</phrase>
+	<phrase weight="0.08" count="2">create update</phrase>
+	<phrase weight="0.08" count="2">create application</phrase>
+	<phrase weight="0.04" count="1">service query</phrase>
+	<phrase weight="0.04" count="1">service create update</phrase>
+	<phrase weight="0.04" count="1">stream map</phrase>
+	<phrase weight="0.04" count="1">validator admin map system</phrase>
+	<phrase weight="0.04" count="1">health health</phrase>
+	<phrase weight="0.04" count="1">service spring security</phrase>
+	<phrase weight="0.04" count="1">environment info env info adapt env environment info env env info admin service service env info admin service instance equal instance service env info</phrase>
+	<phrase weight="0.04" count="1">spring security</phrase>
+	<phrase weight="0.04" count="1">unsupported operation</phrase>
+	<phrase weight="0.04" count="1">create application list</phrase>
+	<phrase weight="0.04" count="1">controller pre authorize permission validator admin</phrase>
+	<phrase weight="0.04" count="1">service service env info</phrase>
+	<phrase weight="0.04" count="1">pre authorize</phrase>
+	<phrase weight="0.04" count="1">service service env env</phrase>
+	<phrase weight="0.04" count="1">service instance equal instance service service illegal argument</phrase>
+	<phrase weight="0.04" count="1">env env portal setting</phrase>
+	<phrase weight="0.04" count="1">controller pre authorize</phrase>
+  </topic>
+  <topic id="6" alpha="0.07639897737665884" totalTokens="513" titles="app, namespace, create, event, format, validator, config, bad, publish, admin">
+	<word weight="0.2651072124756335" count="136">app</word>
+	<word weight="0.18128654970760233" count="93">namespace</word>
+	<word weight="0.09941520467836257" count="51">create</word>
+	<word weight="0.06432748538011696" count="33">event</word>
+	<word weight="0.04678362573099415" count="24">format</word>
+	<word weight="0.025341130604288498" count="13">validator</word>
+	<word weight="0.023391812865497075" count="12">config</word>
+	<word weight="0.023391812865497075" count="12">bad</word>
+	<word weight="0.021442495126705652" count="11">publish</word>
+	<word weight="0.017543859649122806" count="9">admin</word>
+	<word weight="0.017543859649122806" count="9">publisher</word>
+	<word weight="0.017543859649122806" count="9">invalid</word>
+	<word weight="0.015594541910331383" count="8">input</word>
+	<word weight="0.015594541910331383" count="8">exception</word>
+	<word weight="0.015594541910331383" count="8">valid</word>
+	<word weight="0.015594541910331383" count="8">request</word>
+	<word weight="0.009746588693957114" count="5">creation</word>
+	<word weight="0.009746588693957114" count="5">local</word>
+	<word weight="0.009746588693957114" count="5">message</word>
+	<word weight="0.009746588693957114" count="5">change</word>
+	<phrase weight="0.046153846153846156" count="3">event event create</phrase>
+	<phrase weight="0.03076923076923077" count="2">app request</phrase>
+	<phrase weight="0.03076923076923077" count="2">equal app app</phrase>
+	<phrase weight="0.03076923076923077" count="2">app app namespace</phrase>
+	<phrase weight="0.03076923076923077" count="2">app bad</phrase>
+	<phrase weight="0.015384615384615385" count="1">update app local</phrase>
+	<phrase weight="0.015384615384615385" count="1">namespace app namespace</phrase>
+	<phrase weight="0.015384615384615385" count="1">namespace app namespace create app namespace app namespace service create app namespace local app namespace app namespace append namespace prefix publisher publish event app namespace creation event create app namespace</phrase>
+	<phrase weight="0.015384615384615385" count="1">namespace app</phrase>
+	<phrase weight="0.015384615384615385" count="1">format invalid</phrase>
+	<phrase weight="0.015384615384615385" count="1">namespace creation</phrase>
+	<phrase weight="0.015384615384615385" count="1">change create</phrase>
+	<phrase weight="0.015384615384615385" count="1">app app admin</phrase>
+	<phrase weight="0.015384615384615385" count="1">app app</phrase>
+	<phrase weight="0.015384615384615385" count="1">format app equal app</phrase>
+	<phrase weight="0.015384615384615385" count="1">validator create</phrase>
+	<phrase weight="0.015384615384615385" count="1">event event config</phrase>
+	<phrase weight="0.015384615384615385" count="1">valid request body app</phrase>
+	<phrase weight="0.015384615384615385" count="1">app namespace datum change create</phrase>
+	<phrase weight="0.015384615384615385" count="1">namespace app namespace bad</phrase>
+  </topic>
+  <topic id="7" alpha="0.056942755487430524" totalTokens="393" titles="release, model, branch, set, publish, rule, gray, emergency, title, true">
+	<word weight="0.3155216284987277" count="124">release</word>
+	<word weight="0.19083969465648856" count="75">model</word>
+	<word weight="0.11959287531806616" count="47">branch</word>
+	<word weight="0.0737913486005089" count="29">set</word>
+	<word weight="0.05597964376590331" count="22">publish</word>
+	<word weight="0.05089058524173028" count="20">rule</word>
+	<word weight="0.04580152671755725" count="18">gray</word>
+	<word weight="0.027989821882951654" count="11">emergency</word>
+	<word weight="0.02544529262086514" count="10">title</word>
+	<word weight="0.017811704834605598" count="7">del</word>
+	<word weight="0.017811704834605598" count="7">merge</word>
+	<word weight="0.010178117048346057" count="4">true</word>
+	<word weight="0.007633587786259542" count="3">instance</word>
+	<word weight="0.007633587786259542" count="3">support</word>
+	<word weight="0.005089058524173028" count="2">merged</word>
+	<word weight="0.005089058524173028" count="2">param</word>
+	<word weight="0.005089058524173028" count="2">comment</word>
+	<word weight="0.005089058524173028" count="2">key</word>
+	<word weight="0.002544529262086514" count="1">portal</word>
+	<word weight="0.002544529262086514" count="1">upper</word>
+	<phrase weight="0.09876543209876543" count="8">model set</phrase>
+	<phrase weight="0.04938271604938271" count="4">release title release</phrase>
+	<phrase weight="0.04938271604938271" count="4">branch rule</phrase>
+	<phrase weight="0.04938271604938271" count="4">release model release title</phrase>
+	<phrase weight="0.037037037037037035" count="3">release release</phrase>
+	<phrase weight="0.037037037037037035" count="3">release model set</phrase>
+	<phrase weight="0.024691358024691357" count="2">release model model model set</phrase>
+	<phrase weight="0.024691358024691357" count="2">true set</phrase>
+	<phrase weight="0.024691358024691357" count="2">support emergency publish</phrase>
+	<phrase weight="0.024691358024691357" count="2">publish model</phrase>
+	<phrase weight="0.024691358024691357" count="2">emergency publish</phrase>
+	<phrase weight="0.024691358024691357" count="2">gray del key</phrase>
+	<phrase weight="0.024691358024691357" count="2">gray release</phrase>
+	<phrase weight="0.024691358024691357" count="2">gray release rule rule</phrase>
+	<phrase weight="0.024691358024691357" count="2">branch release model set</phrase>
+	<phrase weight="0.024691358024691357" count="2">gray rule</phrase>
+	<phrase weight="0.024691358024691357" count="2">model emergency publish</phrase>
+	<phrase weight="0.024691358024691357" count="2">gray del release</phrase>
+	<phrase weight="0.024691358024691357" count="2">release model</phrase>
+	<phrase weight="0.024691358024691357" count="2">branch true</phrase>
+  </topic>
+  <topic id="8" alpha="0.009769258948220458" totalTokens="122" titles="consumer, list, empty, token, param, expire, request, array, exception, bad">
+	<word weight="0.22131147540983606" count="27">consumer</word>
+	<word weight="0.09836065573770492" count="12">list</word>
+	<word weight="0.06557377049180328" count="8">empty</word>
+	<word weight="0.05737704918032787" count="7">token</word>
+	<word weight="0.05737704918032787" count="7">param</word>
+	<word weight="0.04918032786885246" count="6">expire</word>
+	<word weight="0.04918032786885246" count="6">request</word>
+	<word weight="0.03278688524590164" count="4">array</word>
+	<word weight="0.03278688524590164" count="4">exception</word>
+	<word weight="0.03278688524590164" count="4">bad</word>
+	<word weight="0.02459016393442623" count="3">consume</word>
+	<word weight="0.02459016393442623" count="3">util</word>
+	<word weight="0.02459016393442623" count="3">object</word>
+	<word weight="0.01639344262295082" count="2">org</word>
+	<word weight="0.01639344262295082" count="2">owner</word>
+	<word weight="0.01639344262295082" count="2">date</word>
+	<word weight="0.01639344262295082" count="2">require</word>
+	<word weight="0.01639344262295082" count="2">false</word>
+	<word weight="0.01639344262295082" count="2">service</word>
+	<word weight="0.01639344262295082" count="2">equal</word>
+	<phrase weight="0.15384615384615385" count="4">consumer token</phrase>
+	<phrase weight="0.11538461538461539" count="3">list consumer</phrase>
+	<phrase weight="0.07692307692307693" count="2">util empty</phrase>
+	<phrase weight="0.038461538461538464" count="1">list list array list validate</phrase>
+	<phrase weight="0.038461538461538464" count="1">consumer request</phrase>
+	<phrase weight="0.038461538461538464" count="1">array list</phrase>
+	<phrase weight="0.038461538461538464" count="1">param require false</phrase>
+	<phrase weight="0.038461538461538464" count="1">empty object equal</phrase>
+	<phrase weight="0.038461538461538464" count="1">consumer consumer service</phrase>
+	<phrase weight="0.038461538461538464" count="1">request param</phrase>
+	<phrase weight="0.038461538461538464" count="1">consumer consumer owner consumer org bad request exception param</phrase>
+	<phrase weight="0.038461538461538464" count="1">consumer consumer token</phrase>
+	<phrase weight="0.038461538461538464" count="1">consumer consumer object expire expire expire consumer service generate save consumer token</phrase>
+	<phrase weight="0.038461538461538464" count="1">util empty consumer</phrase>
+	<phrase weight="0.038461538461538464" count="1">request exception</phrase>
+	<phrase weight="0.038461538461538464" count="1">consumer consumer request param expire require false date time</phrase>
+	<phrase weight="0.038461538461538464" count="1">split list</phrase>
+	<phrase weight="0.038461538461538464" count="1">bad request exception param</phrase>
+	<phrase weight="0.038461538461538464" count="1">pattern yyyy mdd hmmss date expire</phrase>
+	<phrase weight="0.038461538461538464" count="1">owner org empty consumer</phrase>
+  </topic>
+  <topic id="9" alpha="0.057412915657977875" totalTokens="350" titles="item, create, modify, user, datum, change, set, key, update, comment">
+	<word weight="0.2914285714285714" count="102">item</word>
+	<word weight="0.09428571428571429" count="33">create</word>
+	<word weight="0.07714285714285714" count="27">modify</word>
+	<word weight="0.06857142857142857" count="24">user</word>
+	<word weight="0.06857142857142857" count="24">datum</word>
+	<word weight="0.06571428571428571" count="23">change</word>
+	<word weight="0.054285714285714284" count="19">set</word>
+	<word weight="0.02857142857142857" count="10">key</word>
+	<word weight="0.025714285714285714" count="9">update</word>
+	<word weight="0.025714285714285714" count="9">comment</word>
+	<word weight="0.02" count="7">config</word>
+	<word weight="0.017142857142857144" count="6">info</word>
+	<word weight="0.014285714285714285" count="5">holder</word>
+	<word weight="0.011428571428571429" count="4">status</word>
+	<word weight="0.011428571428571429" count="4">time</word>
+	<word weight="0.011428571428571429" count="4">length</word>
+	<word weight="0.008571428571428572" count="3">code</word>
+	<word weight="0.008571428571428572" count="3">protect</word>
+	<word weight="0.008571428571428572" count="3">check</word>
+	<word weight="0.008571428571428572" count="3">object</word>
+	<phrase weight="0.10638297872340426" count="5">item item</phrase>
+	<phrase weight="0.06382978723404255" count="3">create item</phrase>
+	<phrase weight="0.0425531914893617" count="2">item create item</phrase>
+	<phrase weight="0.0425531914893617" count="2">update item</phrase>
+	<phrase weight="0.02127659574468085" count="1">modify user info holder user user</phrase>
+	<phrase weight="0.02127659574468085" count="1">username user info holder user user item set datum change modify username config</phrase>
+	<phrase weight="0.02127659574468085" count="1">false create</phrase>
+	<phrase weight="0.02127659574468085" count="1">item protect create set line num</phrase>
+	<phrase weight="0.02127659574468085" count="1">user item set datum change create</phrase>
+	<phrase weight="0.02127659574468085" count="1">item comment item comment length</phrase>
+	<phrase weight="0.02127659574468085" count="1">datum change create</phrase>
+	<phrase weight="0.02127659574468085" count="1">item datum change create</phrase>
+	<phrase weight="0.02127659574468085" count="1">set datum change modify modify</phrase>
+	<phrase weight="0.02127659574468085" count="1">item key equal key</phrase>
+	<phrase weight="0.02127659574468085" count="1">consistent user</phrase>
+	<phrase weight="0.02127659574468085" count="1">item key protect comment modify modify update item set comment item comment update item set item</phrase>
+	<phrase weight="0.02127659574468085" count="1">datum change modify time config</phrase>
+	<phrase weight="0.02127659574468085" count="1">status code</phrase>
+	<phrase weight="0.02127659574468085" count="1">item check model valid item item</phrase>
+	<phrase weight="0.02127659574468085" count="1">length exceed character item update item item</phrase>
+  </topic>
+</topics>

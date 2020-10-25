@@ -1,0 +1,135 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.4348220738345614" totalTokens="26" titles="require, service, dto, api, slow, timestamp, msg, string, page, ">
+	<word weight="0.4230769230769231" count="11">require</word>
+	<word weight="0.23076923076923078" count="6">service</word>
+	<word weight="0.07692307692307693" count="2">dto</word>
+	<word weight="0.07692307692307693" count="2">api</word>
+	<word weight="0.038461538461538464" count="1">slow</word>
+	<word weight="0.038461538461538464" count="1">timestamp</word>
+	<word weight="0.038461538461538464" count="1">msg</word>
+	<word weight="0.038461538461538464" count="1">string</word>
+	<word weight="0.038461538461538464" count="1">page</word>
+  </topic>
+  <topic id="1" alpha="1.3793547179055476" totalTokens="39" titles="datum, param, type, controller, page, search, query, ">
+	<word weight="0.2564102564102564" count="10">datum</word>
+	<word weight="0.2564102564102564" count="10">param</word>
+	<word weight="0.23076923076923078" count="9">type</word>
+	<word weight="0.15384615384615385" count="6">controller</word>
+	<word weight="0.05128205128205128" count="2">page</word>
+	<word weight="0.02564102564102564" count="1">search</word>
+	<word weight="0.02564102564102564" count="1">query</word>
+	<phrase weight="0.875" count="7">datum type</phrase>
+	<phrase weight="0.125" count="1">param query</phrase>
+  </topic>
+  <topic id="2" alpha="1.2255033922411516" totalTokens="27" titles="integer, datum, api, timestamp, del, logic, highlighter, object, require, implicit">
+	<word weight="0.3333333333333333" count="9">integer</word>
+	<word weight="0.2222222222222222" count="6">datum</word>
+	<word weight="0.18518518518518517" count="5">api</word>
+	<word weight="0.037037037037037035" count="1">timestamp</word>
+	<word weight="0.037037037037037035" count="1">del</word>
+	<word weight="0.037037037037037035" count="1">logic</word>
+	<word weight="0.037037037037037035" count="1">highlighter</word>
+	<word weight="0.037037037037037035" count="1">object</word>
+	<word weight="0.037037037037037035" count="1">require</word>
+	<word weight="0.037037037037037035" count="1">implicit</word>
+	<phrase weight="1.0" count="1">integer api implicit</phrase>
+  </topic>
+  <topic id="3" alpha="0.4772910379288297" totalTokens="14" titles="enable, admin, update, app, string, implicit, ">
+	<word weight="0.2857142857142857" count="4">enable</word>
+	<word weight="0.14285714285714285" count="2">admin</word>
+	<word weight="0.14285714285714285" count="2">update</word>
+	<word weight="0.14285714285714285" count="2">app</word>
+	<word weight="0.14285714285714285" count="2">string</word>
+	<word weight="0.14285714285714285" count="2">implicit</word>
+	<phrase weight="1.0" count="2">update enable</phrase>
+  </topic>
+  <topic id="4" alpha="1.1558708855548765" totalTokens="34" titles="page, api, col, highlighter, string, integer, slowlog, timestamp, sort, operation">
+	<word weight="0.29411764705882354" count="10">page</word>
+	<word weight="0.20588235294117646" count="7">api</word>
+	<word weight="0.11764705882352941" count="4">col</word>
+	<word weight="0.08823529411764706" count="3">highlighter</word>
+	<word weight="0.08823529411764706" count="3">string</word>
+	<word weight="0.058823529411764705" count="2">integer</word>
+	<word weight="0.029411764705882353" count="1">slowlog</word>
+	<word weight="0.029411764705882353" count="1">timestamp</word>
+	<word weight="0.029411764705882353" count="1">time</word>
+	<word weight="0.029411764705882353" count="1">sort</word>
+	<word weight="0.029411764705882353" count="1">operation</word>
+	<phrase weight="0.5" count="1">sort col</phrase>
+	<phrase weight="0.5" count="1">col timestamp</phrase>
+  </topic>
+  <topic id="5" alpha="0.9854418782135373" totalTokens="27" titles="api, operation, object, request, result, param, log, ">
+	<word weight="0.4444444444444444" count="12">api</word>
+	<word weight="0.18518518518518517" count="5">operation</word>
+	<word weight="0.1111111111111111" count="3">object</word>
+	<word weight="0.07407407407407407" count="2">request</word>
+	<word weight="0.07407407407407407" count="2">result</word>
+	<word weight="0.07407407407407407" count="2">param</word>
+	<word weight="0.037037037037037035" count="1">log</word>
+	<phrase weight="0.75" count="3">operation api</phrase>
+	<phrase weight="0.25" count="1">api operation</phrase>
+  </topic>
+  <topic id="6" alpha="1.295597721435407" totalTokens="37" titles="true, set, result, log, sort, limit, mysql, fail, update, ">
+	<word weight="0.3783783783783784" count="14">true</word>
+	<word weight="0.21621621621621623" count="8">set</word>
+	<word weight="0.13513513513513514" count="5">result</word>
+	<word weight="0.05405405405405406" count="2">log</word>
+	<word weight="0.05405405405405406" count="2">sort</word>
+	<word weight="0.05405405405405406" count="2">limit</word>
+	<word weight="0.02702702702702703" count="1">mysql</word>
+	<word weight="0.02702702702702703" count="1">sql</word>
+	<word weight="0.02702702702702703" count="1">fail</word>
+	<word weight="0.02702702702702703" count="1">update</word>
+	<phrase weight="1.0" count="1">set sort</phrase>
+  </topic>
+  <topic id="7" alpha="0.8653409259927177" totalTokens="32" titles="user, param, map, find, true, api, change, check, ">
+	<word weight="0.28125" count="9">user</word>
+	<word weight="0.28125" count="9">param</word>
+	<word weight="0.1875" count="6">map</word>
+	<word weight="0.0625" count="2">find</word>
+	<word weight="0.0625" count="2">true</word>
+	<word weight="0.0625" count="2">api</word>
+	<word weight="0.03125" count="1">change</word>
+	<word weight="0.03125" count="1">check</word>
+	<phrase weight="0.4" count="2">map user</phrase>
+	<phrase weight="0.2" count="1">user find user</phrase>
+	<phrase weight="0.2" count="1">param check</phrase>
+	<phrase weight="0.2" count="1">param map</phrase>
+  </topic>
+  <topic id="8" alpha="0.9629991503277799" totalTokens="56" titles="implicit, query, dto, type, str, log, limit, mapping, util, object">
+	<word weight="0.3392857142857143" count="19">implicit</word>
+	<word weight="0.16071428571428573" count="9">query</word>
+	<word weight="0.125" count="7">dto</word>
+	<word weight="0.125" count="7">type</word>
+	<word weight="0.07142857142857142" count="4">str</word>
+	<word weight="0.05357142857142857" count="3">log</word>
+	<word weight="0.05357142857142857" count="3">limit</word>
+	<word weight="0.017857142857142856" count="1">mapping</word>
+	<word weight="0.017857142857142856" count="1">util</word>
+	<word weight="0.017857142857142856" count="1">object</word>
+	<word weight="0.017857142857142856" count="1">map</word>
+	<phrase weight="0.5" count="2">query str</phrase>
+	<phrase weight="0.25" count="1">map log</phrase>
+	<phrase weight="0.25" count="1">str query</phrase>
+  </topic>
+  <topic id="9" alpha="1.2921178508207265" totalTokens="55" titles="search, dto, param, str, query, audit, mapping, create, sort, object">
+	<word weight="0.4" count="22">search</word>
+	<word weight="0.21818181818181817" count="12">dto</word>
+	<word weight="0.14545454545454545" count="8">param</word>
+	<word weight="0.07272727272727272" count="4">str</word>
+	<word weight="0.05454545454545454" count="3">query</word>
+	<word weight="0.03636363636363636" count="2">audit</word>
+	<word weight="0.01818181818181818" count="1">mapping</word>
+	<word weight="0.01818181818181818" count="1">create</word>
+	<word weight="0.01818181818181818" count="1">sort</word>
+	<word weight="0.01818181818181818" count="1">object</word>
+	<phrase weight="0.2727272727272727" count="3">search dto search</phrase>
+	<phrase weight="0.2727272727272727" count="3">search dto</phrase>
+	<phrase weight="0.09090909090909091" count="1">search dto search dto</phrase>
+	<phrase weight="0.09090909090909091" count="1">mapping audit</phrase>
+	<phrase weight="0.09090909090909091" count="1">str query</phrase>
+	<phrase weight="0.09090909090909091" count="1">search search dto search dto search dto</phrase>
+	<phrase weight="0.09090909090909091" count="1">param query</phrase>
+  </topic>
+</topics>

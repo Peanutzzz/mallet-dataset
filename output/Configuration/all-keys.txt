@@ -1,0 +1,10 @@
+0	0.00732	ldap property file search source info extend context group base user true auth oss environment manager set path client protect 
+1	0.02013	http authentication security exception handler filter web login logout success request auth url configurer config user configuration response path entry 
+2	0.01112	token service granter detail auth client converter authorization code request factory entity authentication manager string autowire list open enhancer user 
+3	0.05333	config bean test apollo java configuration application enable app consumer registry placeholder set protocol auto update annotation property dubbo nest 
+4	0.00424	message release controller config service cache notification scanner rule gray add holder configuration file listener bean mapping gson role biz 
+5	0.0415	configuration enable profile service property config conditional application ctrip email bean test apollo type auto component miss true protocol biz 
+6	0.00532	filter user bean set handler holder init listener portal param registration logout sso ctrip miss url service heartbeat username cas 
+7	0.01154	set rule gateway api sentinel server flow resolver view configurer param item handler strategy codec add web definition parse exception 
+8	0.01269	job xxl config naco string scheduler executor route property dao log factory admin dynamic set bean context spring locator configuration 
+9	0.02526	filter registration config bean add set sentinel interceptor web registry configuration mvc url resource pattern cor total order naco spring 

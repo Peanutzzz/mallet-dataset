@@ -1,0 +1,10 @@
+0	0.2999	configuration exclude service biz 
+1	0.21359	cor source init configuration controller console post autowire 
+2	0.52614	client scan component register origin exception adminservice 
+3	0.25597	server datasource csp credentials 
+4	0.96515	arg string admin boot management transaction scheduling 
+5	0.72182	service auto set bean common configuration proxy sentinel meta configservice biz application 
+6	0.36222	method cache add filter naco alibaba construct 
+7	1.3628	config property run base classpath url alibaba arg cloud age header true 
+8	1.57874	application enable spring apollo main source component eureka aspect 
+9	0.3907	test max 

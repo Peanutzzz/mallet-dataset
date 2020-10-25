@@ -1,0 +1,10 @@
+0	2.34238	method istio alibaba observer java base build extend server result file stream grpc util annotation error unary proto google assertion 
+1	0.14212	aggregate mesh config incremental service response single override update request marshaller naco multiple ability impl api deliver management sequence configuration 
+2	0.71866	resource source establish override client impl responsible message connection initiate opening call string supplier act methodid unary tracing reflect istio 
+3	0	
+4	0	
+5	0	
+6	0.96336	mcp stream protobuf req block bidi type marshaller methodid resource model handler support server client style instance call send result 
+7	0.41858	sink method streams java naco req definition create impl response option bind listenable local set builder opening connection true stub 
+8	5.15919	grpc stub descriptor resource service channel call model naco stream option method request mcp pre lang supplier future streaming response 
+9	0.08171	full resp bidi string mesh url provide aggregated generate google invoke handler java unimplemented multiplex sequence impl output unary true 

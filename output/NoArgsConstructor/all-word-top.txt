@@ -1,0 +1,50 @@
+0 menu 7:5
+1 setter 9:3
+2 getter 7:2 0:1
+3 arg 9:10 1:5
+4 constructor 9:14 3:1
+5 equal 9:4
+6 hash 9:4
+7 code 8:15 2:3
+8 call 9:4
+9 false 9:4
+10 table 7:2
+11 role 7:8
+12 extend 7:2
+13 model 0:7 7:1
+14 user 4:5
+15 data 8:4
+16 builder 5:1
+17 page 2:1
+18 result 8:9
+19 implement 1:4
+20 serializable 1:4
+21 serial 5:3
+22 version 5:3
+23 count 8:1
+24 list 2:1
+25 datum 9:2
+26 integer 8:1 0:1
+27 resp 0:2
+28 string 1:11 8:2
+29 msg 8:11
+30 succeed 8:3
+31 success 0:3
+32 fail 8:2
+33 error 0:2
+34 order 5:6
+35 demo 3:2
+36 kid 2:1
+37 random 1:2
+38 util 9:1
+39 key 4:1
+40 field 2:1
+41 group 3:1
+42 date 4:1
+43 create 1:1
+44 time 1:1
+45 app 3:1
+46 extraction 2:1
+47 test 6:2
+48 lombok 2:1
+49 age 6:1

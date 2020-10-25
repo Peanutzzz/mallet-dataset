@@ -1,0 +1,10 @@
+0	0.36699	establish resource istio stream sink source instance set mcp bidi request build schema protobuf local synchronize stub service tracing sample 
+1	0	
+2	0	
+3	0	
+4	0.88797	grpc proto istio config sample builder bidi response mesh method service util alpha generate full annotation 
+5	0	
+6	0.10955	incremental resource mcp response model istio schema instance generate aggregated mesh method service 
+7	0	
+8	2.76147	method resource grpc alibaba model mcp naco stream descriptor istio type request set marshaller full response protobuf supplier util true 
+9	0.35271	aggregate config mesh service naco response request set method marshaller util grpc build instance tracing local synchronize bidi type stub 

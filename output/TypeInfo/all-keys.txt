@@ -1,0 +1,10 @@
+0	0.02326	map key view exception system entry param access type information iterator put insert mapping give remove iterable true check delete 
+1	0.02047	list view element add remove param datum system information give clear exception create evolve append store 
+2	0.01623	split input hive timestamp time modification state table comp deserialize partition info wrapper stream thread serializable extend util mod compare 
+3	0.0195	left leave input param serializer object reference illegal instance link string state support encapsulate retrieve reuse create obtain internal container 
+4	0.14735	info factory type empty test option tuple faulty simple comparable add map link hash 
+5	0.01883	add mark element exceed store source number minimal release implementation reset save combined end limit allocate bound size copyable normalizable 
+6	0.01628	proper code hash serializer comparator suppress obj config execution unchecked encapsulate copy ascend sort typeutil api apache org order snapshot 
+7	0.01754	array capacity reset append index full structure fill param call code underlie restore clear shrink order collector garbage impact expect 
+8	0.13964	type override exception code hash datum object equal create false info set iterable reuse version extend map factory initialize serial 
+9	0.03463	override serializer view snapshot source information target warning output copy link string deserialize serialize instance number read access evolution format 

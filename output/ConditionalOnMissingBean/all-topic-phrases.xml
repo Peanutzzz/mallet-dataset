@@ -1,0 +1,207 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.032277043318594295" totalTokens="85" titles="handler, logout, heartbeat, sso, bean, miss, conditional, ">
+	<word weight="0.2823529411764706" count="24">handler</word>
+	<word weight="0.1411764705882353" count="12">logout</word>
+	<word weight="0.1411764705882353" count="12">heartbeat</word>
+	<word weight="0.1411764705882353" count="12">sso</word>
+	<word weight="0.1411764705882353" count="12">bean</word>
+	<word weight="0.08235294117647059" count="7">miss</word>
+	<word weight="0.07058823529411765" count="6">conditional</word>
+  </topic>
+  <topic id="1" alpha="0.01115249193965762" totalTokens="61" titles="property, bean, source, conditional, processor, configuration, auto, swagger, miss, apollo">
+	<word weight="0.18032786885245902" count="11">property</word>
+	<word weight="0.09836065573770492" count="6">bean</word>
+	<word weight="0.08196721311475409" count="5">source</word>
+	<word weight="0.08196721311475409" count="5">conditional</word>
+	<word weight="0.06557377049180328" count="4">processor</word>
+	<word weight="0.06557377049180328" count="4">configuration</word>
+	<word weight="0.06557377049180328" count="4">auto</word>
+	<word weight="0.04918032786885246" count="3">config</word>
+	<word weight="0.04918032786885246" count="3">swagger</word>
+	<word weight="0.04918032786885246" count="3">miss</word>
+	<word weight="0.03278688524590164" count="2">apollo</word>
+	<word weight="0.03278688524590164" count="2">enable</word>
+	<word weight="0.03278688524590164" count="2">fill</word>
+	<word weight="0.01639344262295082" count="1">bootstrap</word>
+	<word weight="0.01639344262295082" count="1">constant</word>
+	<word weight="0.01639344262295082" count="1">date</word>
+	<word weight="0.01639344262295082" count="1">meta</word>
+	<word weight="0.01639344262295082" count="1">missing</word>
+	<word weight="0.01639344262295082" count="1">prefix</word>
+	<word weight="0.01639344262295082" count="1">configure</word>
+	<phrase weight="0.5" count="1">auto configure bean conditional miss bean conditional property prefix</phrase>
+	<phrase weight="0.5" count="1">auto fill enable</phrase>
+  </topic>
+  <topic id="2" alpha="0.005071872304460399" totalTokens="13" titles="handler, object, meta, true, match, mybatis, zlt, ">
+	<word weight="0.23076923076923078" count="3">handler</word>
+	<word weight="0.23076923076923078" count="3">object</word>
+	<word weight="0.15384615384615385" count="2">meta</word>
+	<word weight="0.15384615384615385" count="2">true</word>
+	<word weight="0.07692307692307693" count="1">match</word>
+	<word weight="0.07692307692307693" count="1">mybatis</word>
+	<word weight="0.07692307692307693" count="1">zlt</word>
+	<phrase weight="0.3333333333333333" count="1">true meta object handler</phrase>
+	<phrase weight="0.3333333333333333" count="1">meta object handler</phrase>
+	<phrase weight="0.3333333333333333" count="1">object handler</phrase>
+  </topic>
+  <topic id="3" alpha="0.003912311055610398" totalTokens="25" titles="rest, client, level, high, template, elasticsearch, bean, conditional, configure, ">
+	<word weight="0.24" count="6">rest</word>
+	<word weight="0.12" count="3">client</word>
+	<word weight="0.12" count="3">level</word>
+	<word weight="0.12" count="3">high</word>
+	<word weight="0.12" count="3">template</word>
+	<word weight="0.12" count="3">elasticsearch</word>
+	<word weight="0.08" count="2">bean</word>
+	<word weight="0.04" count="1">conditional</word>
+	<word weight="0.04" count="1">configure</word>
+	<phrase weight="1.0" count="1">configure bean conditional</phrase>
+  </topic>
+  <topic id="4" alpha="0.030122413664742408" totalTokens="102" titles="user, holder, service, info, bean, miss, spring, security, conditional, determine">
+	<word weight="0.24509803921568626" count="25">user</word>
+	<word weight="0.11764705882352941" count="12">holder</word>
+	<word weight="0.11764705882352941" count="12">service</word>
+	<word weight="0.11764705882352941" count="12">info</word>
+	<word weight="0.10784313725490197" count="11">bean</word>
+	<word weight="0.0784313725490196" count="8">miss</word>
+	<word weight="0.06862745098039216" count="7">spring</word>
+	<word weight="0.06862745098039216" count="7">security</word>
+	<word weight="0.06862745098039216" count="7">conditional</word>
+	<word weight="0.00980392156862745" count="1">determine</word>
+	<phrase weight="0.5" count="1">conditional miss</phrase>
+	<phrase weight="0.5" count="1">bean conditional miss bean user service user service spring security user service</phrase>
+  </topic>
+  <topic id="5" alpha="0.004692550725212821" totalTokens="31" titles="ldap, template, source, context, bean, exception, result, partial, ignore, operation">
+	<word weight="0.25806451612903225" count="8">ldap</word>
+	<word weight="0.22580645161290322" count="7">template</word>
+	<word weight="0.0967741935483871" count="3">source</word>
+	<word weight="0.0967741935483871" count="3">context</word>
+	<word weight="0.06451612903225806" count="2">bean</word>
+	<word weight="0.03225806451612903" count="1">exception</word>
+	<word weight="0.03225806451612903" count="1">result</word>
+	<word weight="0.03225806451612903" count="1">partial</word>
+	<word weight="0.03225806451612903" count="1">ignore</word>
+	<word weight="0.03225806451612903" count="1">operation</word>
+	<word weight="0.03225806451612903" count="1">set</word>
+	<word weight="0.03225806451612903" count="1">true</word>
+	<word weight="0.03225806451612903" count="1">conditional</word>
+	<phrase weight="1.0" count="1">bean conditional</phrase>
+  </topic>
+  <topic id="6" alpha="0.004342399471206481" totalTokens="102" titles="swagger, url, exclude, predicate, factory, api, group, configurable, parameter, global">
+	<word weight="0.19607843137254902" count="20">swagger</word>
+	<word weight="0.10784313725490197" count="11">url</word>
+	<word weight="0.058823529411764705" count="6">exclude</word>
+	<word weight="0.058823529411764705" count="6">predicate</word>
+	<word weight="0.058823529411764705" count="6">factory</word>
+	<word weight="0.058823529411764705" count="6">api</word>
+	<word weight="0.049019607843137254" count="5">group</word>
+	<word weight="0.049019607843137254" count="5">configurable</word>
+	<word weight="0.0392156862745098" count="4">parameter</word>
+	<word weight="0.0392156862745098" count="4">global</word>
+	<word weight="0.029411764705882353" count="3">security</word>
+	<word weight="0.029411764705882353" count="3">title</word>
+	<word weight="0.0196078431372549" count="2">context</word>
+	<word weight="0.0196078431372549" count="2">operation</word>
+	<word weight="0.0196078431372549" count="2">host</word>
+	<word weight="0.0196078431372549" count="2">array</word>
+	<word weight="0.0196078431372549" count="2">singleton</word>
+	<word weight="0.0196078431372549" count="2">register</word>
+	<word weight="0.00980392156862745" count="1">apis</word>
+	<word weight="0.00980392156862745" count="1">assembly</word>
+	<phrase weight="0.14285714285714285" count="2">factory configurable</phrase>
+	<phrase weight="0.07142857142857142" count="1">swagger enable match</phrase>
+	<phrase weight="0.07142857142857142" count="1">factory register singleton</phrase>
+	<phrase weight="0.07142857142857142" count="1">api swagger</phrase>
+	<phrase weight="0.07142857142857142" count="1">factory register singleton group</phrase>
+	<phrase weight="0.07142857142857142" count="1">predicate predicate exclude</phrase>
+	<phrase weight="0.07142857142857142" count="1">context configurable</phrase>
+	<phrase weight="0.07142857142857142" count="1">operation parameter group group</phrase>
+	<phrase weight="0.07142857142857142" count="1">global operation parameter assembly global</phrase>
+	<phrase weight="0.07142857142857142" count="1">security context</phrase>
+	<phrase weight="0.07142857142857142" count="1">host api</phrase>
+	<phrase weight="0.07142857142857142" count="1">type swagger host swagger</phrase>
+	<phrase weight="0.07142857142857142" count="1">parameter swagger</phrase>
+  </topic>
+  <topic id="7" alpha="0.00394569547067476" totalTokens="210" titles="docket, info, path, property, contact, list, base, empty, license, string">
+	<word weight="0.23333333333333334" count="49">docket</word>
+	<word weight="0.15714285714285714" count="33">info</word>
+	<word weight="0.10476190476190476" count="22">path</word>
+	<word weight="0.09047619047619047" count="19">property</word>
+	<word weight="0.05238095238095238" count="11">contact</word>
+	<word weight="0.05238095238095238" count="11">list</word>
+	<word weight="0.047619047619047616" count="10">base</word>
+	<word weight="0.04285714285714286" count="9">empty</word>
+	<word weight="0.0380952380952381" count="8">license</word>
+	<word weight="0.023809523809523808" count="5">string</word>
+	<word weight="0.023809523809523808" count="5">add</word>
+	<word weight="0.01904761904761905" count="4">term</word>
+	<word weight="0.01904761904761905" count="4">description</word>
+	<word weight="0.014285714285714285" count="3">selector</word>
+	<word weight="0.014285714285714285" count="3">size</word>
+	<word weight="0.009523809523809525" count="2">scheme</word>
+	<word weight="0.009523809523809525" count="2">ant</word>
+	<word weight="0.009523809523809525" count="2">build</word>
+	<word weight="0.009523809523809525" count="2">service</word>
+	<word weight="0.004761904761904762" count="1">request</word>
+	<phrase weight="0.125" count="5">docket info</phrase>
+	<phrase weight="0.075" count="3">docket info contact</phrase>
+	<phrase weight="0.05" count="2">property docket</phrase>
+	<phrase weight="0.05" count="2">docket info license</phrase>
+	<phrase weight="0.05" count="2">property contact</phrase>
+	<phrase weight="0.025" count="1">docket docket list add docket docket list string</phrase>
+	<phrase weight="0.025" count="1">property description docket info description</phrase>
+	<phrase weight="0.025" count="1">property term</phrase>
+	<phrase weight="0.025" count="1">list docket info base path size string path docket info base path base path add path selector ant path</phrase>
+	<phrase weight="0.025" count="1">property license docket info license license</phrase>
+	<phrase weight="0.025" count="1">string base path</phrase>
+	<phrase weight="0.025" count="1">base path build</phrase>
+	<phrase weight="0.025" count="1">description docket info description empty</phrase>
+	<phrase weight="0.025" count="1">property docket info docket info</phrase>
+	<phrase weight="0.025" count="1">list docket docket list</phrase>
+	<phrase weight="0.025" count="1">docket info term service</phrase>
+	<phrase weight="0.025" count="1">path add path selector ant path docket docket docket</phrase>
+	<phrase weight="0.025" count="1">docket info term</phrase>
+	<phrase weight="0.025" count="1">term service</phrase>
+	<phrase weight="0.025" count="1">list docket</phrase>
+  </topic>
+  <topic id="8" alpha="0.004729657925346203" totalTokens="54" titles="source, property, set, ldap, context, base, environment, read, anonymous, password">
+	<word weight="0.2222222222222222" count="12">source</word>
+	<word weight="0.12962962962962962" count="7">property</word>
+	<word weight="0.1111111111111111" count="6">set</word>
+	<word weight="0.07407407407407407" count="4">ldap</word>
+	<word weight="0.07407407407407407" count="4">context</word>
+	<word weight="0.07407407407407407" count="4">base</word>
+	<word weight="0.05555555555555555" count="3">environment</word>
+	<word weight="0.037037037037037035" count="2">read</word>
+	<word weight="0.037037037037037035" count="2">anonymous</word>
+	<word weight="0.037037037037037035" count="2">password</word>
+	<word weight="0.037037037037037035" count="2">url</word>
+	<word weight="0.037037037037037035" count="2">bean</word>
+	<word weight="0.018518518518518517" count="1">map</word>
+	<word weight="0.018518518518518517" count="1">unmodifiable</word>
+	<word weight="0.018518518518518517" count="1">collection</word>
+	<word weight="0.018518518518518517" count="1">username</word>
+	<phrase weight="0.5" count="1">property username source set password property password source set anonymous read property anonymous read source set base property base source set url property</phrase>
+	<phrase weight="0.5" count="1">context source ldap context source ldap context source source ldap context source source set</phrase>
+  </topic>
+  <topic id="9" alpha="0.0123643775234604" totalTokens="56" titles="bean, email, service, version, conditional, rule, miss, operation, create, isolation">
+	<word weight="0.23214285714285715" count="13">bean</word>
+	<word weight="0.125" count="7">email</word>
+	<word weight="0.10714285714285714" count="6">service</word>
+	<word weight="0.10714285714285714" count="6">version</word>
+	<word weight="0.08928571428571429" count="5">conditional</word>
+	<word weight="0.05357142857142857" count="3">rule</word>
+	<word weight="0.05357142857142857" count="3">miss</word>
+	<word weight="0.03571428571428571" count="2">operation</word>
+	<word weight="0.03571428571428571" count="2">create</word>
+	<word weight="0.03571428571428571" count="2">isolation</word>
+	<word weight="0.017857142857142856" count="1">security</word>
+	<word weight="0.017857142857142856" count="1">title</word>
+	<word weight="0.017857142857142856" count="1">set</word>
+	<word weight="0.017857142857142856" count="1">key</word>
+	<word weight="0.017857142857142856" count="1">server</word>
+	<word weight="0.017857142857142856" count="1">naco</word>
+	<word weight="0.017857142857142856" count="1">missing</word>
+	<phrase weight="1.0" count="1">bean conditional miss bean conditional</phrase>
+  </topic>
+</topics>

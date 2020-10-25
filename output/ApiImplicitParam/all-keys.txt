@@ -1,0 +1,10 @@
+0	3.86143	implicit datum api type page enable limit integer true require 
+1	1.71616	string integer page api true str limit param 
+2	3.68849	api implicit datum query string type require controller 
+3	2.532	require integer datum type query true implicit log param controller 
+4	1.72305	type controller implicit string query page param 
+5	5.54922	param type true page implicit api str datum integer log string limit 
+6	1.63392	integer require str implicit enable type 
+7	2.85213	integer limit datum true implicit require page api 
+8	1.93626	true type controller api limit param string str query integer implicit 
+9	3.03175	datum require param controller str api log query 

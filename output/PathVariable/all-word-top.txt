@@ -1,0 +1,28 @@
+0 path 0:170 8:138 2:77 3:73 9:18
+1 variable 8:174 0:145 2:67 3:57 9:33
+2 string 8:164 0:137 3:80 2:49 6:3
+3 index 6:6
+4 routing 5:3
+5 controller 8:60 0:40 9:36 2:24 3:4
+6 role 4:12
+7 code 4:6
+8 username 6:2 4:1
+9 device 8:1
+10 mobile 7:1
+11 app 8:165 0:3
+12 namespace 3:101
+13 cluster 2:100 9:3
+14 item 1:7
+15 key 7:6
+16 branch 8:16
+17 release 7:6
+18 env 0:70
+19 token 0:1
+20 favorite 8:2
+21 permission 4:3
+22 type 4:9
+23 user 9:6
+24 product 1:1
+25 test 9:7
+26 rule 9:2
+27 client 9:2

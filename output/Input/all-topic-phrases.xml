@@ -1,0 +1,29 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.579370289069013" totalTokens="34" titles="input, channel, subscribable, config, dlq, sink, ">
+	<word weight="0.4411764705882353" count="15">input</word>
+	<word weight="0.14705882352941177" count="5">channel</word>
+	<word weight="0.14705882352941177" count="5">subscribable</word>
+	<word weight="0.14705882352941177" count="5">config</word>
+	<word weight="0.058823529411764705" count="2">dlq</word>
+	<word weight="0.058823529411764705" count="2">sink</word>
+  </topic>
+  <topic id="1" alpha="3.314444167884904E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="3.314444167884904E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="3.314444167884904E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="3.314444167884904E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="3.314444167884904E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="3.314444167884904E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="3.314444167884904E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="3.314444167884904E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="3.314444167884904E-19" totalTokens="0" titles="">
+  </topic>
+</topics>

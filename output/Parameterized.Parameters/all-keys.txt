@@ -1,0 +1,10 @@
+0	0.01668	type datum row field literal time bridge decimal list test string sql timestamp date array local spec cast big common 
+1	0.00447	type datum comparable strategy argument equal test expect spec call input structure raw timestamp decimal map list comparison comparision singleton 
+2	0.00849	test function field table func call datum scalar expression spec bigint schema build result equal nest expect method reference list 
+3	0.00402	conf test expect spec access exception string configuration split true conversion evaluate input number format integer quote encode loader empty 
+4	0.0334	object execution mode list test config parameter key type reuse collection option array parameterized spec memory size string duration true 
+5	0.07947	parameter list array parameterized test object true false collection time jar checkpoint stream kafka characteristic topic datum factory cancel builder 
+6	0.00449	create test item nullable fixture type time timestamp zone decimal array integer derby postgresql raw mysql list varbinary string multiset 
+7	0.04138	test specification serializer version migration array upgrade add verifier setup list pojo basic primitive parameterized exception collection parameter subclass register 
+8	0.01205	config test checkpoint set execution ssl setter spec file getter rest enable configuration pipeline true false level timeout string security 
+9	0.0355	migration version state backend tuple loader parameter array rocksdb memory list collection parameterized junit savepoint context test ttl part folder 

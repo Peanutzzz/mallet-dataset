@@ -1,0 +1,10 @@
+0	0.01868	info handler executor desc pagesize offset page string count list 
+1	0.00877	registry string key timeout param dead remove 
+2	0.04454	mapper demo base delete insert save extend app time create group field kid 
+3	0.02133	role menu param type code find integer set list 
+4	0.06103	job param xxl group list dao update save find info delete load address type mapper num remove regist fail day 
+5	0.11271	mapper param list string page extend user object find map client file separator 
+6	0.00963	map string query table column total object generator component 
+7	0.0097	log trigger param time status date pagesize alarm clear handle end start offset count code group page object 
+8	0.01627	user role item index foreach script select insert find close open collection join delete 
+9	0.00951	glue log limit 

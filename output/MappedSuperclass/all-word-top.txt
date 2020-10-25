@@ -1,0 +1,35 @@
+0 map 3:1
+1 superclass 0:1
+2 inheritance 1:2
+3 strategy 6:2
+4 type 8:2
+5 table 5:1
+6 base 3:1
+7 entity 1:1
+8 generate 2:1
+9 generation 3:1
+10 identity 5:1
+11 column 3:7
+12 delete 8:4 1:4
+13 definition 6:1
+14 bit 2:1
+15 protect 7:5
+16 false 0:2 6:1
+17 datum 1:38
+18 change 2:46
+19 create 8:22
+20 nullable 1:2
+21 string 7:13
+22 time 3:17 4:9
+23 date 5:6 0:4
+24 modify 2:23
+25 set 9:3 3:3
+26 data 8:7 9:1
+27 pre 1:5 3:1
+28 persist 8:2
+29 update 1:2
+30 remove 3:2
+31 helper 3:4
+32 object 0:1
+33 omit 1:1
+34 add 3:5

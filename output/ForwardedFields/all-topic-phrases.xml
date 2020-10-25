@@ -1,0 +1,415 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.030985016469353924" totalTokens="169" titles="integer, centroid, point, center, triad, leaf, distance, string, val, combine">
+	<word weight="0.1952662721893491" count="33">integer</word>
+	<word weight="0.10650887573964497" count="18">centroid</word>
+	<word weight="0.08875739644970414" count="15">point</word>
+	<word weight="0.07692307692307693" count="13">center</word>
+	<word weight="0.0650887573964497" count="11">triad</word>
+	<word weight="0.05325443786982249" count="9">leaf</word>
+	<word weight="0.047337278106508875" count="8">distance</word>
+	<word weight="0.04142011834319527" count="7">string</word>
+	<word weight="0.04142011834319527" count="7">val</word>
+	<word weight="0.01775147928994083" count="3">combine</word>
+	<word weight="0.01775147928994083" count="3">higher</word>
+	<word weight="0.01775147928994083" count="3">closest</word>
+	<word weight="0.01775147928994083" count="3">min</word>
+	<word weight="0.01775147928994083" count="3">forward</word>
+	<word weight="0.011834319526627219" count="2">execute</word>
+	<word weight="0.011834319526627219" count="2">compiler</word>
+	<word weight="0.011834319526627219" count="2">flat</word>
+	<word weight="0.011834319526627219" count="2">lower</word>
+	<word weight="0.011834319526627219" count="2">emit</word>
+	<word weight="0.011834319526627219" count="2">cluster</word>
+	<phrase weight="0.20833333333333334" count="5">integer point</phrase>
+	<phrase weight="0.08333333333333333" count="2">string string integer</phrase>
+	<phrase weight="0.041666666666666664" count="1">previously read</phrase>
+	<phrase weight="0.041666666666666664" count="1">select nearest center</phrase>
+	<phrase weight="0.041666666666666664" count="1">integer lower</phrase>
+	<phrase weight="0.041666666666666664" count="1">center leaf</phrase>
+	<phrase weight="0.041666666666666664" count="1">build emit triad</phrase>
+	<phrase weight="0.041666666666666664" count="1">point val</phrase>
+	<phrase weight="0.041666666666666664" count="1">leaf leaf</phrase>
+	<phrase weight="0.041666666666666664" count="1">point centroid</phrase>
+	<phrase weight="0.041666666666666664" count="1">center leaf leaf center leaf</phrase>
+	<phrase weight="0.041666666666666664" count="1">centroid averager</phrase>
+	<phrase weight="0.041666666666666664" count="1">centroid centroid read centroid</phrase>
+	<phrase weight="0.041666666666666664" count="1">min distance max closest centroid check cluster center centroid centroid centroid compute distance distance euclidean distance centroid update nearest cluster distance min distance min distance distance closest centroid centroid emit record center datum point</phrase>
+	<phrase weight="0.041666666666666664" count="1">integer point val</phrase>
+	<phrase weight="0.041666666666666664" count="1">compiler test forward</phrase>
+	<phrase weight="0.041666666666666664" count="1">triad triad triad</phrase>
+	<phrase weight="0.041666666666666664" count="1">integer integer</phrase>
+	<phrase weight="0.041666666666666664" count="1">integer higher</phrase>
+  </topic>
+  <topic id="1" alpha="0.189977885379092" totalTokens="560" titles="tuple, map, key, field, function, override, implement, forward, flat, selector">
+	<word weight="0.22321428571428573" count="125">tuple</word>
+	<word weight="0.14464285714285716" count="81">map</word>
+	<word weight="0.0625" count="35">key</word>
+	<word weight="0.05714285714285714" count="32">field</word>
+	<word weight="0.055357142857142855" count="31">function</word>
+	<word weight="0.05178571428571429" count="29">override</word>
+	<word weight="0.048214285714285716" count="27">implement</word>
+	<word weight="0.04285714285714286" count="24">forward</word>
+	<word weight="0.04107142857142857" count="23">flat</word>
+	<word weight="0.0375" count="21">selector</word>
+	<word weight="0.033928571428571426" count="19">exception</word>
+	<word weight="0.026785714285714284" count="15">filter</word>
+	<word weight="0.025" count="14">mapper</word>
+	<word weight="0.023214285714285715" count="13">serial</word>
+	<word weight="0.017857142857142856" count="10">version</word>
+	<word weight="0.014285714285714285" count="8">extract</word>
+	<word weight="0.014285714285714285" count="8">extend</word>
+	<word weight="0.010714285714285714" count="6">test</word>
+	<word weight="0.010714285714285714" count="6">collector</word>
+	<word weight="0.010714285714285714" count="6">rich</word>
+	<phrase weight="0.0547945205479452" count="4">forward field</phrase>
+	<phrase weight="0.0547945205479452" count="4">tuple tuple</phrase>
+	<phrase weight="0.0410958904109589" count="3">implement map function tuple</phrase>
+	<phrase weight="0.0410958904109589" count="3">serial version</phrase>
+	<phrase weight="0.0410958904109589" count="3">map tuple</phrase>
+	<phrase weight="0.0273972602739726" count="2">map tuple tuple</phrase>
+	<phrase weight="0.0273972602739726" count="2">tuple override tuple map</phrase>
+	<phrase weight="0.0273972602739726" count="2">tuple exception</phrase>
+	<phrase weight="0.0273972602739726" count="2">tuple override flat map</phrase>
+	<phrase weight="0.0273972602739726" count="2">tuple map</phrase>
+	<phrase weight="0.0273972602739726" count="2">override tuple map</phrase>
+	<phrase weight="0.0273972602739726" count="2">implement flat map function</phrase>
+	<phrase weight="0.0273972602739726" count="2">flat map</phrase>
+	<phrase weight="0.0273972602739726" count="2">tuple map implement map function</phrase>
+	<phrase weight="0.0273972602739726" count="2">tuple map forward field</phrase>
+	<phrase weight="0.0136986301369863" count="1">field tuple</phrase>
+	<phrase weight="0.0136986301369863" count="1">serial version override tuple</phrase>
+	<phrase weight="0.0136986301369863" count="1">translation test forward field individual</phrase>
+	<phrase weight="0.0136986301369863" count="1">tuple override flat</phrase>
+	<phrase weight="0.0136986301369863" count="1">field identity mapper implement map</phrase>
+  </topic>
+  <topic id="2" alpha="0.010517697319735387" totalTokens="200" titles="message, type, function, gather, result, iterator, combiner, information, tuple, number">
+	<word weight="0.195" count="39">message</word>
+	<word weight="0.12" count="24">type</word>
+	<word weight="0.085" count="17">function</word>
+	<word weight="0.07" count="14">gather</word>
+	<word weight="0.06" count="12">result</word>
+	<word weight="0.06" count="12">iterator</word>
+	<word weight="0.04" count="8">combiner</word>
+	<word weight="0.04" count="8">information</word>
+	<word weight="0.035" count="7">tuple</word>
+	<word weight="0.03" count="6">number</word>
+	<word weight="0.03" count="6">udf</word>
+	<word weight="0.03" count="6">iter</word>
+	<word weight="0.025" count="5">combine</word>
+	<word weight="0.02" count="4">iteration</word>
+	<word weight="0.015" count="3">superstep</word>
+	<word weight="0.015" count="3">warning</word>
+	<word weight="0.015" count="3">suppress</word>
+	<word weight="0.015" count="3">wrap</word>
+	<word weight="0.015" count="3">vertex</word>
+	<word weight="0.01" count="2">downcast</word>
+	<phrase weight="0.12121212121212122" count="4">type information</phrase>
+	<phrase weight="0.06060606060606061" count="2">result type queryable</phrase>
+	<phrase weight="0.06060606060606061" count="2">iteration suppress warning</phrase>
+	<phrase weight="0.030303030303030304" count="1">message tuple message</phrase>
+	<phrase weight="0.030303030303030304" count="1">tuple message</phrase>
+	<phrase weight="0.030303030303030304" count="1">iterator tuple message message iterator message iterator message iterator tuple message message iterator vertex message iterator message message iter message iterator message iter</phrase>
+	<phrase weight="0.030303030303030304" count="1">message iterator message iterator message iter</phrase>
+	<phrase weight="0.030303030303030304" count="1">message result type message combiner udf message combiner message combine</phrase>
+	<phrase weight="0.030303030303030304" count="1">iterator iteration</phrase>
+	<phrase weight="0.030303030303030304" count="1">post superstep</phrase>
+	<phrase weight="0.030303030303030304" count="1">message produce type result type</phrase>
+	<phrase weight="0.030303030303030304" count="1">result type gather function gather</phrase>
+	<phrase weight="0.030303030303030304" count="1">suppress warning unchecked iterator tuple message downcast iter iterator</phrase>
+	<phrase weight="0.030303030303030304" count="1">message message combiner message combiner</phrase>
+	<phrase weight="0.030303030303030304" count="1">superstep number gather function init iteration</phrase>
+	<phrase weight="0.030303030303030304" count="1">gather function gather function type information</phrase>
+	<phrase weight="0.030303030303030304" count="1">result type result type</phrase>
+	<phrase weight="0.030303030303030304" count="1">gather function gather</phrase>
+	<phrase weight="0.030303030303030304" count="1">message message</phrase>
+	<phrase weight="0.030303030303030304" count="1">vertex combiner function combine message message iter</phrase>
+  </topic>
+  <topic id="3" alpha="0.08569534885182804" totalTokens="308" titles="edge, dimension, target, vertex, source, val, set, map, exception, increment">
+	<word weight="0.4967532467532468" count="153">edge</word>
+	<word weight="0.045454545454545456" count="14">dimension</word>
+	<word weight="0.045454545454545456" count="14">target</word>
+	<word weight="0.03896103896103896" count="12">vertex</word>
+	<word weight="0.03571428571428571" count="11">source</word>
+	<word weight="0.03571428571428571" count="11">val</word>
+	<word weight="0.032467532467532464" count="10">set</word>
+	<word weight="0.032467532467532464" count="10">map</word>
+	<word weight="0.02922077922077922" count="9">exception</word>
+	<word weight="0.025974025974025976" count="8">increment</word>
+	<word weight="0.025974025974025976" count="8">collect</word>
+	<word weight="0.01948051948051948" count="6">instance</word>
+	<word weight="0.012987012987012988" count="4">index</word>
+	<word weight="0.012987012987012988" count="4">link</word>
+	<word weight="0.012987012987012988" count="4">field</word>
+	<word weight="0.00974025974025974" count="3">remainder</word>
+	<word weight="0.00974025974025974" count="3">neighbor</word>
+	<word weight="0.00974025974025974" count="3">list</word>
+	<word weight="0.00974025974025974" count="3">function</word>
+	<word weight="0.00974025974025974" count="3">forward</word>
+	<phrase weight="0.11764705882352941" count="4">edge edge edge edge</phrase>
+	<phrase weight="0.11764705882352941" count="4">edge edge</phrase>
+	<phrase weight="0.08823529411764706" count="3">edge exception</phrase>
+	<phrase weight="0.058823529411764705" count="2">edge edge edge</phrase>
+	<phrase weight="0.029411764705882353" count="1">edge exception edge source val source distance neighbor</phrase>
+	<phrase weight="0.029411764705882353" count="1">dimension dimension</phrase>
+	<phrase weight="0.029411764705882353" count="1">edge target</phrase>
+	<phrase weight="0.029411764705882353" count="1">edge map edge</phrase>
+	<phrase weight="0.029411764705882353" count="1">edge vertex</phrase>
+	<phrase weight="0.029411764705882353" count="1">dimension vertex count vertex</phrase>
+	<phrase weight="0.029411764705882353" count="1">field link vertex neighbor</phrase>
+	<phrase weight="0.029411764705882353" count="1">edge edge map edge edge</phrase>
+	<phrase weight="0.029411764705882353" count="1">map function edge source target edge edge edge source target instance</phrase>
+	<phrase weight="0.029411764705882353" count="1">map function edge</phrase>
+	<phrase weight="0.029411764705882353" count="1">edge edge instance</phrase>
+	<phrase weight="0.029411764705882353" count="1">edge copy vertex</phrase>
+	<phrase weight="0.029411764705882353" count="1">dimension target edge edge edge target instance link vertex</phrase>
+	<phrase weight="0.029411764705882353" count="1">iteration increment vertex count remain dimension remainder val</phrase>
+	<phrase weight="0.029411764705882353" count="1">vertex singleton neighbor</phrase>
+	<phrase weight="0.029411764705882353" count="1">map source</phrase>
+  </topic>
+  <topic id="4" alpha="0.17130899547343056" totalTokens="531" titles="tuple, reduce, function, override, exception, field, implement, forward, set, collector">
+	<word weight="0.2448210922787194" count="130">tuple</word>
+	<word weight="0.12052730696798493" count="64">reduce</word>
+	<word weight="0.0903954802259887" count="48">function</word>
+	<word weight="0.0696798493408663" count="37">override</word>
+	<word weight="0.05649717514124294" count="30">exception</word>
+	<word weight="0.054613935969868174" count="29">field</word>
+	<word weight="0.04519774011299435" count="24">implement</word>
+	<word weight="0.04519774011299435" count="24">forward</word>
+	<word weight="0.03389830508474576" count="18">set</word>
+	<word weight="0.032015065913371" count="17">collector</word>
+	<word weight="0.030131826741996232" count="16">neighbor</word>
+	<word weight="0.02824858757062147" count="15">leave</word>
+	<word weight="0.02824858757062147" count="15">iterable</word>
+	<word weight="0.02448210922787194" count="13">group</word>
+	<word weight="0.02448210922787194" count="13">count</word>
+	<word weight="0.011299435028248588" count="6">left</word>
+	<word weight="0.009416195856873822" count="5">score</word>
+	<word weight="0.009416195856873822" count="5">apply</word>
+	<word weight="0.007532956685499058" count="4">fun</word>
+	<word weight="0.005649717514124294" count="3">sum</word>
+	<phrase weight="0.1643835616438356" count="12">forward field</phrase>
+	<phrase weight="0.0684931506849315" count="5">reduce function</phrase>
+	<phrase weight="0.0547945205479452" count="4">reduce iterable</phrase>
+	<phrase weight="0.0547945205479452" count="4">tuple tuple</phrase>
+	<phrase weight="0.0547945205479452" count="4">forward field reduce</phrase>
+	<phrase weight="0.0547945205479452" count="4">reduce iterable tuple collector</phrase>
+	<phrase weight="0.0410958904109589" count="3">function tuple</phrase>
+	<phrase weight="0.0273972602739726" count="2">collector tuple</phrase>
+	<phrase weight="0.0273972602739726" count="2">group reduce</phrase>
+	<phrase weight="0.0273972602739726" count="2">implement group reduce function tuple</phrase>
+	<phrase weight="0.0273972602739726" count="2">tuple neighbor</phrase>
+	<phrase weight="0.0273972602739726" count="2">function tuple tuple</phrase>
+	<phrase weight="0.0273972602739726" count="2">group reduce function tuple</phrase>
+	<phrase weight="0.0136986301369863" count="1">set field</phrase>
+	<phrase weight="0.0136986301369863" count="1">count implement group reduce function</phrase>
+	<phrase weight="0.0136986301369863" count="1">override tuple</phrase>
+	<phrase weight="0.0136986301369863" count="1">neighbor tuple</phrase>
+	<phrase weight="0.0136986301369863" count="1">collector tuple neighbor</phrase>
+	<phrase weight="0.0136986301369863" count="1">reduce function tuple</phrase>
+	<phrase weight="0.0136986301369863" count="1">tuple override reduce iterable tuple collector tuple exception</phrase>
+  </topic>
+  <topic id="5" alpha="0.10317229662169171" totalTokens="315" titles="vertex, function, map, translate, implement, override, field, forward, output, translator">
+	<word weight="0.36507936507936506" count="115">vertex</word>
+	<word weight="0.11428571428571428" count="36">function</word>
+	<word weight="0.08571428571428572" count="27">map</word>
+	<word weight="0.07301587301587302" count="23">translate</word>
+	<word weight="0.047619047619047616" count="15">implement</word>
+	<word weight="0.047619047619047616" count="15">override</word>
+	<word weight="0.03492063492063492" count="11">field</word>
+	<word weight="0.03492063492063492" count="11">forward</word>
+	<word weight="0.031746031746031744" count="10">output</word>
+	<word weight="0.025396825396825397" count="8">translator</word>
+	<word weight="0.022222222222222223" count="7">wrap</word>
+	<word weight="0.01904761904761905" count="6">dampen</word>
+	<word weight="0.015873015873015872" count="5">exception</word>
+	<word weight="0.012698412698412698" count="4">extend</word>
+	<word weight="0.009523809523809525" count="3">jump</word>
+	<word weight="0.009523809523809525" count="3">random</word>
+	<word weight="0.006349206349206349" count="2">authority</word>
+	<word weight="0.006349206349206349" count="2">initialize</word>
+	<word weight="0.006349206349206349" count="2">wrapping</word>
+	<word weight="0.006349206349206349" count="2">num</word>
+	<phrase weight="0.058823529411764705" count="2">map function vertex</phrase>
+	<phrase weight="0.058823529411764705" count="2">implement map function</phrase>
+	<phrase weight="0.058823529411764705" count="2">map function</phrase>
+	<phrase weight="0.058823529411764705" count="2">translate function translator translator override</phrase>
+	<phrase weight="0.058823529411764705" count="2">function translate</phrase>
+	<phrase weight="0.058823529411764705" count="2">field translate</phrase>
+	<phrase weight="0.029411764705882353" count="1">wrap function translate</phrase>
+	<phrase weight="0.029411764705882353" count="1">vertex vertex vertex vertex</phrase>
+	<phrase weight="0.029411764705882353" count="1">function forward field map</phrase>
+	<phrase weight="0.029411764705882353" count="1">vertex override vertex map</phrase>
+	<phrase weight="0.029411764705882353" count="1">forward field dampener</phrase>
+	<phrase weight="0.029411764705882353" count="1">function forward</phrase>
+	<phrase weight="0.029411764705882353" count="1">forward field</phrase>
+	<phrase weight="0.029411764705882353" count="1">function vertex vertex</phrase>
+	<phrase weight="0.029411764705882353" count="1">vertex vertex output vertex override vertex</phrase>
+	<phrase weight="0.029411764705882353" count="1">vertex vertex</phrase>
+	<phrase weight="0.029411764705882353" count="1">map vertex exception output</phrase>
+	<phrase weight="0.029411764705882353" count="1">field translate vertex extend wrap function translate function implement map function vertex vertex vertex vertex vertex translate vertex translate function translator translator override vertex map vertex</phrase>
+	<phrase weight="0.029411764705882353" count="1">vertex vertex override vertex</phrase>
+	<phrase weight="0.029411764705882353" count="1">util forward field create vertex implement map function vertex vertex vertex vertex</phrase>
+  </topic>
+  <topic id="6" alpha="0.06480261312662665" totalTokens="189" titles="degree, output, tuple, bitmask, collect, maximum, set, edge, log, inverse">
+	<word weight="0.328042328042328" count="62">degree</word>
+	<word weight="0.2962962962962963" count="56">output</word>
+	<word weight="0.08994708994708994" count="17">tuple</word>
+	<word weight="0.06878306878306878" count="13">bitmask</word>
+	<word weight="0.042328042328042326" count="8">collect</word>
+	<word weight="0.026455026455026454" count="5">maximum</word>
+	<word weight="0.026455026455026454" count="5">set</word>
+	<word weight="0.026455026455026454" count="5">edge</word>
+	<word weight="0.021164021164021163" count="4">log</word>
+	<word weight="0.015873015873015872" count="3">inverse</word>
+	<word weight="0.010582010582010581" count="2">order</word>
+	<word weight="0.010582010582010581" count="2">collector</word>
+	<word weight="0.005291005291005291" count="1">math</word>
+	<word weight="0.005291005291005291" count="1">divide</word>
+	<word weight="0.005291005291005291" count="1">logarithm</word>
+	<word weight="0.005291005291005291" count="1">stats</word>
+	<word weight="0.005291005291005291" count="1">reverse</word>
+	<word weight="0.005291005291005291" count="1">source</word>
+	<word weight="0.005291005291005291" count="1">extend</word>
+	<phrase weight="0.1" count="2">degree degree</phrase>
+	<phrase weight="0.05" count="1">tuple degree</phrase>
+	<phrase weight="0.05" count="1">output set</phrase>
+	<phrase weight="0.05" count="1">degree degree logarithm</phrase>
+	<phrase weight="0.05" count="1">degree bitmask edge order</phrase>
+	<phrase weight="0.05" count="1">collector tuple</phrase>
+	<phrase weight="0.05" count="1">edge output edge bitmask</phrase>
+	<phrase weight="0.05" count="1">edge degree</phrase>
+	<phrase weight="0.05" count="1">output bitmask output</phrase>
+	<phrase weight="0.05" count="1">degree tuple degree output tuple</phrase>
+	<phrase weight="0.05" count="1">log degree</phrase>
+	<phrase weight="0.05" count="1">bitmask degree bitmask</phrase>
+	<phrase weight="0.05" count="1">order reverse bitmask degree degree degree output degree set degree output degree</phrase>
+	<phrase weight="0.05" count="1">degree output degree</phrase>
+	<phrase weight="0.05" count="1">maximum degree maximum degree maximum degree</phrase>
+	<phrase weight="0.05" count="1">tuple output tuple</phrase>
+	<phrase weight="0.05" count="1">maximum degree</phrase>
+	<phrase weight="0.05" count="1">degree output</phrase>
+	<phrase weight="0.05" count="1">degree degree degree</phrase>
+  </topic>
+  <topic id="7" alpha="0.014912260791023908" totalTokens="211" titles="score, minimum, result, output, denominator, numerator, maximum, set, edge, count">
+	<word weight="0.2132701421800948" count="45">score</word>
+	<word weight="0.10900473933649289" count="23">minimum</word>
+	<word weight="0.08530805687203792" count="18">result</word>
+	<word weight="0.07582938388625593" count="16">output</word>
+	<word weight="0.04739336492890995" count="10">denominator</word>
+	<word weight="0.04739336492890995" count="10">numerator</word>
+	<word weight="0.04739336492890995" count="10">maximum</word>
+	<word weight="0.04265402843601896" count="9">set</word>
+	<word weight="0.04265402843601896" count="9">edge</word>
+	<word weight="0.04265402843601896" count="9">count</word>
+	<word weight="0.03317535545023697" count="7">neighbor</word>
+	<word weight="0.03317535545023697" count="7">vertex</word>
+	<word weight="0.02843601895734597" count="6">ratio</word>
+	<word weight="0.023696682464454975" count="5">distinct</word>
+	<word weight="0.023696682464454975" count="5">unbounded</word>
+	<word weight="0.018957345971563982" count="4">compute</word>
+	<word weight="0.014218009478672985" count="3">var</word>
+	<word weight="0.009478672985781991" count="2">average</word>
+	<word weight="0.009478672985781991" count="2">rank</word>
+	<word weight="0.009478672985781991" count="2">page</word>
+	<phrase weight="0.11764705882352941" count="2">vertex compute score</phrase>
+	<phrase weight="0.11764705882352941" count="2">hub score</phrase>
+	<phrase weight="0.058823529411764705" count="1">vertex edge output set share neighbor count</phrase>
+	<phrase weight="0.058823529411764705" count="1">score output set vertex edge output set vertex edge output set adamic adar score</phrase>
+	<phrase weight="0.058823529411764705" count="1">result output result</phrase>
+	<phrase weight="0.058823529411764705" count="1">unbounded score minimum score numerator minimum score denominator maximum score numerator maximum score denominator result output result compute score unbounded score minimum score numerator minimum score denominator maximum score numerator maximum score denominator unbounded score unbounded score minimum score numerator minimum score numerator minimum score denominator minimum score denominator maximum score numerator maximum score numerator maximum score denominator maximum score denominator</phrase>
+	<phrase weight="0.058823529411764705" count="1">neighbor pair</phrase>
+	<phrase weight="0.058823529411764705" count="1">average score</phrase>
+	<phrase weight="0.058823529411764705" count="1">max minimum score average score minimum ratio</phrase>
+	<phrase weight="0.058823529411764705" count="1">minimum ratio result output result compute score minimum score minimum ratio minimum score minimum score minimum ratio minimum ratio</phrase>
+	<phrase weight="0.058823529411764705" count="1">count var</phrase>
+	<phrase weight="0.058823529411764705" count="1">count minimum score</phrase>
+	<phrase weight="0.058823529411764705" count="1">result result</phrase>
+	<phrase weight="0.058823529411764705" count="1">page rank score</phrase>
+	<phrase weight="0.058823529411764705" count="1">distinct neighbor edge count unbounded score count minimum score denominator distinct neighbor minimum score numerator count maximum score denominator distinct neighbor maximum score numerator output set vertex edge output</phrase>
+  </topic>
+  <topic id="8" alpha="0.035396504300734544" totalTokens="324" titles="group, edge, visit, tuple, output, span, count, size, list, idx">
+	<word weight="0.12654320987654322" count="41">group</word>
+	<word weight="0.09876543209876543" count="32">edge</word>
+	<word weight="0.08950617283950617" count="29">visit</word>
+	<word weight="0.08024691358024691" count="26">tuple</word>
+	<word weight="0.07098765432098765" count="23">output</word>
+	<word weight="0.06790123456790123" count="22">span</word>
+	<word weight="0.06481481481481481" count="21">count</word>
+	<word weight="0.037037037037037035" count="12">size</word>
+	<word weight="0.033950617283950615" count="11">list</word>
+	<word weight="0.024691358024691357" count="8">idx</word>
+	<word weight="0.024691358024691357" count="8">generate</word>
+	<word weight="0.024691358024691357" count="8">set</word>
+	<word weight="0.024691358024691357" count="8">iter</word>
+	<word weight="0.021604938271604937" count="7">bitmask</word>
+	<word weight="0.021604938271604937" count="7">collect</word>
+	<word weight="0.021604938271604937" count="7">array</word>
+	<word weight="0.021604938271604937" count="7">add</word>
+	<word weight="0.018518518518518517" count="6">iterator</word>
+	<word weight="0.018518518518518517" count="6">copy</word>
+	<word weight="0.009259259259259259" count="3">previous</word>
+	<phrase weight="0.12121212121212122" count="4">group span</phrase>
+	<phrase weight="0.06060606060606061" count="2">array list</phrase>
+	<phrase weight="0.06060606060606061" count="2">triplet extend copyable</phrase>
+	<phrase weight="0.030303030303030304" count="1">group pair extend copyable</phrase>
+	<phrase weight="0.030303030303030304" count="1">previous visit output previous output set previous bitmask bitmask collect output iter shift bitmask bitmask visit count visit size visit add tuple edge copy shift bitmask tuple update visit visit count edge copy update update set</phrase>
+	<phrase weight="0.030303030303030304" count="1">group count group span group span</phrase>
+	<phrase weight="0.030303030303030304" count="1">count group span group span</phrase>
+	<phrase weight="0.030303030303030304" count="1">output tuple group span</phrase>
+	<phrase weight="0.030303030303030304" count="1">visit count tuple edge output edge output edge visit count output visit collect output visit count group size</phrase>
+	<phrase weight="0.030303030303030304" count="1">max runtime</phrase>
+	<phrase weight="0.030303030303030304" count="1">iter iterator</phrase>
+	<phrase weight="0.030303030303030304" count="1">visit count iterator</phrase>
+	<phrase weight="0.030303030303030304" count="1">iterator edge edge</phrase>
+	<phrase weight="0.030303030303030304" count="1">edge output edge output edge output edge collect output group count group size group count</phrase>
+	<phrase weight="0.030303030303030304" count="1">edge output set</phrase>
+	<phrase weight="0.030303030303030304" count="1">group span generate group span group size group size group size</phrase>
+	<phrase weight="0.030303030303030304" count="1">tuple initialized false list visit array list group size</phrase>
+	<phrase weight="0.030303030303030304" count="1">iterable edge</phrase>
+	<phrase weight="0.030303030303030304" count="1">tuple output tuple list visit array list</phrase>
+	<phrase weight="0.030303030303030304" count="1">tuple tuple output tuple list tuple visit array list</phrase>
+  </topic>
+  <topic id="9" alpha="0.020196984248168" totalTokens="189" titles="vertex, sum, iterator, count, score, context, runtime, parameter, open, variable">
+	<word weight="0.1164021164021164" count="22">vertex</word>
+	<word weight="0.08994708994708994" count="17">sum</word>
+	<word weight="0.08994708994708994" count="17">iterator</word>
+	<word weight="0.07936507936507936" count="15">count</word>
+	<word weight="0.06878306878306878" count="13">score</word>
+	<word weight="0.047619047619047616" count="9">context</word>
+	<word weight="0.047619047619047616" count="9">runtime</word>
+	<word weight="0.042328042328042326" count="8">parameter</word>
+	<word weight="0.042328042328042326" count="8">open</word>
+	<word weight="0.042328042328042326" count="8">variable</word>
+	<word weight="0.042328042328042326" count="8">broadcast</word>
+	<word weight="0.037037037037037035" count="7">factor</word>
+	<word weight="0.037037037037037035" count="7">damp</word>
+	<word weight="0.037037037037037035" count="7">collection</word>
+	<word weight="0.026455026455026454" count="5">configuration</word>
+	<word weight="0.026455026455026454" count="5">rich</word>
+	<word weight="0.015873015873015872" count="3">sink</word>
+	<word weight="0.015873015873015872" count="3">distribute</word>
+	<word weight="0.015873015873015872" count="3">uniformly</word>
+	<word weight="0.015873015873015872" count="3">extend</word>
+	<phrase weight="0.2" count="5">open configuration parameter</phrase>
+	<phrase weight="0.08" count="2">runtime context broadcast variable</phrase>
+	<phrase weight="0.04" count="1">variable collection</phrase>
+	<phrase weight="0.04" count="1">vertex count iterator</phrase>
+	<phrase weight="0.04" count="1">extend rich</phrase>
+	<phrase weight="0.04" count="1">count iterator vertex count iterator</phrase>
+	<phrase weight="0.04" count="1">sum score iterator sum score iterator point precision error</phrase>
+	<phrase weight="0.04" count="1">sum score runtime context broadcast variable sum score iterator</phrase>
+	<phrase weight="0.04" count="1">score extend rich</phrase>
+	<phrase weight="0.04" count="1">open parameter collection</phrase>
+	<phrase weight="0.04" count="1">factor vertex count uniformly distribute score adjust score damp factor damp factor damp factor</phrase>
+	<phrase weight="0.04" count="1">runtime context broadcast variable sum</phrase>
+	<phrase weight="0.04" count="1">open parameter collection vertex count runtime context broadcast variable vertex count iterator</phrase>
+	<phrase weight="0.04" count="1">rich map</phrase>
+	<phrase weight="0.04" count="1">sum sink sum sink sum score iterator sum score iterator collection vertex count runtime context broadcast variable vertex count iterator vertex count iterator vertex count iterator vertex count vertex count iterator vertex count iterator uniformly distribute score damp factor damp factor sum sink vertex count</phrase>
+	<phrase weight="0.04" count="1">collection tuple</phrase>
+	<phrase weight="0.04" count="1">vertex runtime context broadcast variable</phrase>
+	<phrase weight="0.04" count="1">open parameter</phrase>
+	<phrase weight="0.04" count="1">sum sum</phrase>
+	<phrase weight="0.04" count="1">count iterator</phrase>
+  </topic>
+</topics>

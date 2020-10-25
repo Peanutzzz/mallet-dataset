@@ -1,0 +1,10 @@
+0	6.23748	resource provider reactive 
+1	9.15881	handler auto flux attribute conditional object 
+2	10.2964	server web writer order precedence collection 
+3	5.2871	context 
+4	7.96939	application view provider 
+5	7.03609	resolver configurer configuration reader message highest custom 
+6	6.80456	property list bean empty 
+7	5.40737	error set configure configurer 
+8	8.8307	exception json list custom enable 
+9	6.13505	codec configuration type 

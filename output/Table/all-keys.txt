@@ -1,0 +1,10 @@
+0	0.02817	change time datum modify create config date release data add instance column pre center key delivery persist nullable protect omit 
+1	0.02033	user enable username email secret info password position string column nullable favorite set access identity strategy generate 
+2	0.04588	comment key string entity abandon configuration num line config blank server column integer item lob commit audit message cluster sql 
+3	0.03687	role permission type string set delete privil column false nullable entity target table base extend update clause sql privilege generation 
+4	0.015	release branch operation string rule previous context status cluster history gray extend 
+5	0.02624	message format validator input word invalid code hash equal file regexp pattern override false body object persist bit definition app 
+6	0.01039	owner org string email app builder blank nullable set false build 
+7	0.22625	string app set namespace cluster column false add nullable delete entity table helper clause update base extend sql parent override 
+8	0.01697	consumer string token expire method uri set date override delete strategy entity 
+9	0.02187	batch counter string pojo column set integer keyspace annotate annotated cassandra custom table version serial serializable test implement flink instanciation 

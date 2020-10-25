@@ -1,0 +1,338 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.015914281197348792" totalTokens="139" titles="lock, write, read, simple, true, test, release, false, fail, add">
+	<word weight="0.38848920863309355" count="54">lock</word>
+	<word weight="0.16546762589928057" count="23">write</word>
+	<word weight="0.15827338129496402" count="22">read</word>
+	<word weight="0.07913669064748201" count="11">simple</word>
+	<word weight="0.05755395683453238" count="8">true</word>
+	<word weight="0.05755395683453238" count="8">test</word>
+	<word weight="0.04316546762589928" count="6">release</word>
+	<word weight="0.02158273381294964" count="3">false</word>
+	<word weight="0.007194244604316547" count="1">fail</word>
+	<word weight="0.007194244604316547" count="1">add</word>
+	<word weight="0.007194244604316547" count="1">configuration</word>
+	<word weight="0.007194244604316547" count="1">web</word>
+	<phrase weight="0.25" count="1">configuration simple read write lock test test</phrase>
+	<phrase weight="0.25" count="1">read lock release write lock simple read write lock lock simple read write lock true lock read lock true lock read lock lock release read lock lock release read lock true lock write lock test test add write lock simple read write lock lock simple read write lock true lock write lock lock release write lock test test write lock simple read write lock lock simple read write lock true lock write lock false lock write lock</phrase>
+	<phrase weight="0.25" count="1">write lock test</phrase>
+	<phrase weight="0.25" count="1">test read lock write lock simple read write lock lock simple read write lock true lock read lock false lock write lock</phrase>
+  </topic>
+  <topic id="1" alpha="0.016116887854941656" totalTokens="271" titles="key, test, string, group, exception, parse, act, expect, actual, equal">
+	<word weight="0.18081180811808117" count="49">key</word>
+	<word weight="0.08118081180811808" count="22">test</word>
+	<word weight="0.07749077490774908" count="21">string</word>
+	<word weight="0.06642066420664207" count="18">group</word>
+	<word weight="0.06273062730627306" count="17">exception</word>
+	<word weight="0.05166051660516605" count="14">parse</word>
+	<word weight="0.04059040590405904" count="11">act</word>
+	<word weight="0.03690036900369004" count="10">expect</word>
+	<word weight="0.03690036900369004" count="10">actual</word>
+	<word weight="0.033210332103321034" count="9">equal</word>
+	<word weight="0.02952029520295203" count="8">argument</word>
+	<word weight="0.02952029520295203" count="8">illegal</word>
+	<word weight="0.02214022140221402" count="6">encode</word>
+	<word weight="0.02214022140221402" count="6">url</word>
+	<word weight="0.01845018450184502" count="5">result</word>
+	<word weight="0.01845018450184502" count="5">builder</word>
+	<word weight="0.014760147601476014" count="4">due</word>
+	<word weight="0.014760147601476014" count="4">method</word>
+	<word weight="0.014760147601476014" count="4">param</word>
+	<word weight="0.014760147601476014" count="4">println</word>
+	<phrase weight="0.3333333333333333" count="1">test parse key illegal argument exception act expect illegal argument exception group key parse key method expect due exception test test parse key percent illegal argument exception act expect illegal argument exception group key parse key method expect due exception test</phrase>
+	<phrase weight="0.3333333333333333" count="1">parse key invalid string index bound exception act expect string index bound exception group key parse key method expect due exception test test url encode arrange string builder string builder act group key url encode side effect equal string test</phrase>
+	<phrase weight="0.3333333333333333" count="1">key test rule expect exception expect exception test test parse invalid group key string key group key parse key key fail illegal argument exception system println string key group key parse key key fail illegal argument exception system println string key group key parse key key fail illegal argument exception system println string key group key parse key key fail illegal argument exception system println string key string pair group key parse key key equal pair equal pair test test key param act string actual group key key result equal actual test test key param act string actual group key key result equal actual test test key tenant param act string actual group key key tenant result equal actual test test key tenant percent param act string actual group key key tenant result equal actual test test parse key single character act string actual group key parse key result array equal string actual</phrase>
+  </topic>
+  <topic id="2" alpha="0.038380754386159406" totalTokens="183" titles="client, service, group, string, track, key, equal, list, push, udp">
+	<word weight="0.16393442622950818" count="30">client</word>
+	<word weight="0.09836065573770492" count="18">service</word>
+	<word weight="0.08743169398907104" count="16">group</word>
+	<word weight="0.07103825136612021" count="13">string</word>
+	<word weight="0.060109289617486336" count="11">track</word>
+	<word weight="0.04918032786885246" count="9">key</word>
+	<word weight="0.04918032786885246" count="9">equal</word>
+	<word weight="0.04371584699453552" count="8">list</word>
+	<word weight="0.03825136612021858" count="7">push</word>
+	<word weight="0.0273224043715847" count="5">udp</word>
+	<word weight="0.02185792349726776" count="4">fuzzy</word>
+	<word weight="0.02185792349726776" count="4">subscriber</word>
+	<word weight="0.02185792349726776" count="4">datum</word>
+	<word weight="0.01639344262295082" count="3">agent</word>
+	<word weight="0.01639344262295082" count="3">size</word>
+	<word weight="0.01092896174863388" count="2">bad</word>
+	<word weight="0.01092896174863388" count="2">fuzzylist</word>
+	<word weight="0.01092896174863388" count="2">address</word>
+	<word weight="0.01092896174863388" count="2">inet</word>
+	<word weight="0.01092896174863388" count="2">count</word>
+	<phrase weight="0.1111111111111111" count="2">push service add client</phrase>
+	<phrase weight="0.1111111111111111" count="2">agent inet</phrase>
+	<phrase weight="0.05555555555555555" count="1">equal list size equal list</phrase>
+	<phrase weight="0.05555555555555555" count="1">list subscriber</phrase>
+	<phrase weight="0.05555555555555555" count="1">string agent</phrase>
+	<phrase weight="0.05555555555555555" count="1">list subscriber datum list push</phrase>
+	<phrase weight="0.05555555555555555" count="1">client fuzzy</phrase>
+	<phrase weight="0.05555555555555555" count="1">address client</phrase>
+	<phrase weight="0.05555555555555555" count="1">push service client fuzzy equal fuzzylist size equal fuzzylist service group service list subscriber list push</phrase>
+	<phrase weight="0.05555555555555555" count="1">update group key system current time</phrase>
+	<phrase weight="0.05555555555555555" count="1">track service</phrase>
+	<phrase weight="0.05555555555555555" count="1">java client string client localhost string</phrase>
+	<phrase weight="0.05555555555555555" count="1">client track service client record clear</phrase>
+	<phrase weight="0.05555555555555555" count="1">client fuzzy group</phrase>
+	<phrase weight="0.05555555555555555" count="1">address client udp</phrase>
+	<phrase weight="0.05555555555555555" count="1">track client string client string datum taobao session xml string group online string group key group key key datum group string xxxxxxxxxxxxx config cache service update group key system current time millis client track service track client client group key client track service track client client group key equal true client track service client uptodate client group key equal client track service subscribe client count equal client track service subscriber count config cache</phrase>
+  </topic>
+  <topic id="3" alpha="0.01508554490702188" totalTokens="133" titles="service, instance, host, list, util, set, json, result, common, add">
+	<word weight="0.19548872180451127" count="26">service</word>
+	<word weight="0.18796992481203006" count="25">instance</word>
+	<word weight="0.09774436090225563" count="13">host</word>
+	<word weight="0.08270676691729323" count="11">list</word>
+	<word weight="0.06015037593984962" count="8">util</word>
+	<word weight="0.05263157894736842" count="7">set</word>
+	<word weight="0.03759398496240601" count="5">json</word>
+	<word weight="0.03759398496240601" count="5">result</word>
+	<word weight="0.03007518796992481" count="4">common</word>
+	<word weight="0.03007518796992481" count="4">add</word>
+	<word weight="0.022556390977443608" count="3">node</word>
+	<word weight="0.022556390977443608" count="3">param</word>
+	<word weight="0.022556390977443608" count="3">equal</word>
+	<word weight="0.015037593984962405" count="2">size</word>
+	<word weight="0.015037593984962405" count="2">weight</word>
+	<word weight="0.015037593984962405" count="2">false</word>
+	<word weight="0.015037593984962405" count="2">array</word>
+	<word weight="0.015037593984962405" count="2">http</word>
+	<word weight="0.007518796992481203" count="1">text</word>
+	<word weight="0.007518796992481203" count="1">raft</word>
+	<phrase weight="0.09523809523809523" count="2">list false</phrase>
+	<phrase weight="0.047619047619047616" count="1">host size json node host host host</phrase>
+	<phrase weight="0.047619047619047616" count="1">list param</phrase>
+	<phrase weight="0.047619047619047616" count="1">weight instance</phrase>
+	<phrase weight="0.047619047619047616" count="1">list instance list array list list add instance service</phrase>
+	<phrase weight="0.047619047619047616" count="1">service result text json</phrase>
+	<phrase weight="0.047619047619047616" count="1">instance instance instance instance set instance</phrase>
+	<phrase weight="0.047619047619047616" count="1">json node result jackson util</phrase>
+	<phrase weight="0.047619047619047616" count="1">service add</phrase>
+	<phrase weight="0.047619047619047616" count="1">instance list param</phrase>
+	<phrase weight="0.047619047619047616" count="1">json node host result host</phrase>
+	<phrase weight="0.047619047619047616" count="1">service set</phrase>
+	<phrase weight="0.047619047619047616" count="1">context instance</phrase>
+	<phrase weight="0.047619047619047616" count="1">list array</phrase>
+	<phrase weight="0.047619047619047616" count="1">host result host host</phrase>
+	<phrase weight="0.047619047619047616" count="1">list add</phrase>
+	<phrase weight="0.047619047619047616" count="1">instance instance set instance set</phrase>
+	<phrase weight="0.047619047619047616" count="1">service service add</phrase>
+	<phrase weight="0.047619047619047616" count="1">util common</phrase>
+	<phrase weight="0.047619047619047616" count="1">equal host weight</phrase>
+  </topic>
+  <topic id="4" alpha="0.018472006705304425" totalTokens="56" titles="disk, file, temp, test, util, content, tenant, create, config, group">
+	<word weight="0.16071428571428573" count="9">disk</word>
+	<word weight="0.125" count="7">file</word>
+	<word weight="0.08928571428571429" count="5">temp</word>
+	<word weight="0.08928571428571429" count="5">test</word>
+	<word weight="0.07142857142857142" count="4">util</word>
+	<word weight="0.07142857142857142" count="4">content</word>
+	<word weight="0.03571428571428571" count="2">tenant</word>
+	<word weight="0.03571428571428571" count="2">create</word>
+	<word weight="0.03571428571428571" count="2">config</word>
+	<word weight="0.03571428571428571" count="2">group</word>
+	<word weight="0.03571428571428571" count="2">string</word>
+	<word weight="0.03571428571428571" count="2">path</word>
+	<word weight="0.03571428571428571" count="2">exception</word>
+	<word weight="0.03571428571428571" count="2">datum</word>
+	<word weight="0.017857142857142856" count="1">delete</word>
+	<word weight="0.017857142857142856" count="1">tear</word>
+	<word weight="0.017857142857142856" count="1">save</word>
+	<word weight="0.017857142857142856" count="1">parent</word>
+	<word weight="0.017857142857142856" count="1">tmp</word>
+	<word weight="0.017857142857142856" count="1">web</word>
+	<phrase weight="0.1" count="1">exception temp file file create temp file disk</phrase>
+	<phrase weight="0.1" count="1">util disk</phrase>
+	<phrase weight="0.1" count="1">test create config</phrase>
+	<phrase weight="0.1" count="1">datum test group test tenant</phrase>
+	<phrase weight="0.1" count="1">disk util</phrase>
+	<phrase weight="0.1" count="1">content string content disk util config</phrase>
+	<phrase weight="0.1" count="1">test tmp path temp file parent disk</phrase>
+	<phrase weight="0.1" count="1">disk util save disk</phrase>
+	<phrase weight="0.1" count="1">file temp file string path</phrase>
+	<phrase weight="0.1" count="1">datum test group</phrase>
+  </topic>
+  <topic id="5" alpha="0.015763347615734863" totalTokens="88" titles="readiness, config, persist, url, status, command, api, test, runtime, naming">
+	<word weight="0.13636363636363635" count="12">readiness</word>
+	<word weight="0.09090909090909091" count="8">config</word>
+	<word weight="0.06818181818181818" count="6">persist</word>
+	<word weight="0.06818181818181818" count="6">url</word>
+	<word weight="0.056818181818181816" count="5">status</word>
+	<word weight="0.056818181818181816" count="5">command</word>
+	<word weight="0.056818181818181816" count="5">api</word>
+	<word weight="0.056818181818181816" count="5">test</word>
+	<word weight="0.045454545454545456" count="4">runtime</word>
+	<word weight="0.045454545454545456" count="4">naming</word>
+	<word weight="0.045454545454545456" count="4">metric</word>
+	<word weight="0.045454545454545456" count="4">info</word>
+	<word weight="0.045454545454545456" count="4">count</word>
+	<word weight="0.022727272727272728" count="2">json</word>
+	<word weight="0.022727272727272728" count="2">empty</word>
+	<word weight="0.022727272727272728" count="2">jackson</word>
+	<word weight="0.022727272727272728" count="2">liveness</word>
+	<word weight="0.022727272727272728" count="2">util</word>
+	<word weight="0.022727272727272728" count="2">mockito</word>
+	<word weight="0.011363636363636364" count="1">request</word>
+	<phrase weight="0.21052631578947367" count="4">config info count</phrase>
+	<phrase weight="0.15789473684210525" count="3">api command metric</phrase>
+	<phrase weight="0.15789473684210525" count="3">test readiness</phrase>
+	<phrase weight="0.10526315789473684" count="2">empty json</phrase>
+	<phrase weight="0.05263157894736842" count="1">config naming readiness mockito persist</phrase>
+	<phrase weight="0.05263157894736842" count="1">config readiness</phrase>
+	<phrase weight="0.05263157894736842" count="1">request jackson util</phrase>
+	<phrase weight="0.05263157894736842" count="1">naming readiness</phrase>
+	<phrase weight="0.05263157894736842" count="1">readiness mockito api command metric</phrase>
+	<phrase weight="0.05263157894736842" count="1">jackson util</phrase>
+	<phrase weight="0.05263157894736842" count="1">config naming readiness</phrase>
+  </topic>
+  <topic id="6" alpha="0.05606388899815426" totalTokens="308" titles="service, cluster, test, param, port, builder, namespace, exception, expect, naco">
+	<word weight="0.16558441558441558" count="51">service</word>
+	<word weight="0.13636363636363635" count="42">cluster</word>
+	<word weight="0.08441558441558442" count="26">test</word>
+	<word weight="0.06818181818181818" count="21">param</word>
+	<word weight="0.05519480519480519" count="17">port</word>
+	<word weight="0.05194805194805195" count="16">builder</word>
+	<word weight="0.045454545454545456" count="14">namespace</word>
+	<word weight="0.03896103896103896" count="12">exception</word>
+	<word weight="0.032467532467532464" count="10">expect</word>
+	<word weight="0.02922077922077922" count="9">naco</word>
+	<word weight="0.025974025974025976" count="8">check</word>
+	<word weight="0.022727272727272728" count="7">context</word>
+	<word weight="0.01948051948051948" count="6">type</word>
+	<word weight="0.01948051948051948" count="6">common</word>
+	<word weight="0.01948051948051948" count="6">constant</word>
+	<word weight="0.016233766233766232" count="5">instance</word>
+	<word weight="0.016233766233766232" count="5">manager</word>
+	<word weight="0.016233766233766232" count="5">update</word>
+	<word weight="0.012987012987012988" count="4">put</word>
+	<word weight="0.012987012987012988" count="4">util</word>
+	<phrase weight="0.0392156862745098" count="2">constant namespace test</phrase>
+	<phrase weight="0.0392156862745098" count="2">test extend base test</phrase>
+	<phrase weight="0.0392156862745098" count="2">cluster param cluster</phrase>
+	<phrase weight="0.0392156862745098" count="2">service service</phrase>
+	<phrase weight="0.0392156862745098" count="2">param check port param instance port check true</phrase>
+	<phrase weight="0.0392156862745098" count="2">checker type</phrase>
+	<phrase weight="0.0392156862745098" count="2">service manager</phrase>
+	<phrase weight="0.0196078431372549" count="1">builder mock</phrase>
+	<phrase weight="0.0196078431372549" count="1">exception service service</phrase>
+	<phrase weight="0.0196078431372549" count="1">common naco context</phrase>
+	<phrase weight="0.0196078431372549" count="1">type exception expect</phrase>
+	<phrase weight="0.0196078431372549" count="1">service service service</phrase>
+	<phrase weight="0.0196078431372549" count="1">cluster port check</phrase>
+	<phrase weight="0.0196078431372549" count="1">builder put util common naco</phrase>
+	<phrase weight="0.0196078431372549" count="1">common naco</phrase>
+	<phrase weight="0.0196078431372549" count="1">constant namespace test service</phrase>
+	<phrase weight="0.0196078431372549" count="1">cluster service cluster map</phrase>
+	<phrase weight="0.0196078431372549" count="1">service find</phrase>
+	<phrase weight="0.0196078431372549" count="1">update exception service service service test service service</phrase>
+	<phrase weight="0.0196078431372549" count="1">cluster service cluster</phrase>
+  </topic>
+  <topic id="7" alpha="0.30392342105278" totalTokens="211" titles="test, service, app, configuration, unit, spring, runner, web, application, socket">
+	<word weight="0.32701421800947866" count="69">test</word>
+	<word weight="0.10900473933649289" count="23">service</word>
+	<word weight="0.08530805687203792" count="18">app</word>
+	<word weight="0.08056872037914692" count="17">configuration</word>
+	<word weight="0.07582938388625593" count="16">unit</word>
+	<word weight="0.06635071090047394" count="14">spring</word>
+	<word weight="0.05687203791469194" count="12">runner</word>
+	<word weight="0.05687203791469194" count="12">run</word>
+	<word weight="0.04265402843601896" count="9">web</word>
+	<word weight="0.014218009478672985" count="3">application</word>
+	<word weight="0.009478672985781991" count="2">socket</word>
+	<word weight="0.009478672985781991" count="2">console</word>
+	<word weight="0.009478672985781991" count="2">init</word>
+	<word weight="0.009478672985781991" count="2">dump</word>
+	<word weight="0.009478672985781991" count="2">autowire</word>
+	<word weight="0.004739336492890996" count="1">fuzzylist</word>
+	<word weight="0.004739336492890996" count="1">push</word>
+	<word weight="0.004739336492890996" count="1">throwable</word>
+	<word weight="0.004739336492890996" count="1">boot</word>
+	<word weight="0.004739336492890996" count="1">milli</word>
+	<phrase weight="0.16666666666666666" count="4">app configuration</phrase>
+	<phrase weight="0.08333333333333333" count="2">test run spring unit runner</phrase>
+	<phrase weight="0.08333333333333333" count="2">run spring unit runner</phrase>
+	<phrase weight="0.08333333333333333" count="2">web app configuration</phrase>
+	<phrase weight="0.08333333333333333" count="2">test run spring unit runner web app configuration</phrase>
+	<phrase weight="0.08333333333333333" count="2">unit test run spring unit runner</phrase>
+	<phrase weight="0.041666666666666664" count="1">test run</phrase>
+	<phrase weight="0.041666666666666664" count="1">spring unit runner</phrase>
+	<phrase weight="0.041666666666666664" count="1">test test</phrase>
+	<phrase weight="0.041666666666666664" count="1">test service test</phrase>
+	<phrase weight="0.041666666666666664" count="1">service unit test</phrase>
+	<phrase weight="0.041666666666666664" count="1">unit test</phrase>
+	<phrase weight="0.041666666666666664" count="1">test web app configuration run spring unit runner</phrase>
+	<phrase weight="0.041666666666666664" count="1">unit runner web app configuration</phrase>
+	<phrase weight="0.041666666666666664" count="1">classpath spring xml spring</phrase>
+	<phrase weight="0.041666666666666664" count="1">test autowire web application</phrase>
+  </topic>
+  <topic id="8" alpha="0.11915524876698533" totalTokens="419" titles="mock, builder, response, request, mvc, controller, mockmvc, health, servlet, string">
+	<word weight="0.11217183770883055" count="47">mock</word>
+	<word weight="0.08591885441527446" count="36">builder</word>
+	<word weight="0.06443914081145585" count="27">response</word>
+	<word weight="0.059665871121718374" count="25">request</word>
+	<word weight="0.059665871121718374" count="25">mvc</word>
+	<word weight="0.05250596658711217" count="22">controller</word>
+	<word weight="0.050119331742243436" count="21">mockmvc</word>
+	<word weight="0.050119331742243436" count="21">health</word>
+	<word weight="0.050119331742243436" count="21">servlet</word>
+	<word weight="0.045346062052505964" count="19">string</word>
+	<word weight="0.04295942720763723" count="18">equal</word>
+	<word weight="0.0405727923627685" count="17">http</word>
+	<word weight="0.03341288782816229" count="14">actual</word>
+	<word weight="0.03341288782816229" count="14">context</word>
+	<word weight="0.031026252983293555" count="13">perform</word>
+	<word weight="0.02386634844868735" count="10">mockito</word>
+	<word weight="0.02386634844868735" count="10">exception</word>
+	<word weight="0.01909307875894988" count="8">content</word>
+	<word weight="0.01909307875894988" count="8">set</word>
+	<word weight="0.014319809069212411" count="6">setup</word>
+	<phrase weight="0.07017543859649122" count="4">exception health controller</phrase>
+	<phrase weight="0.07017543859649122" count="4">mock servlet</phrase>
+	<phrase weight="0.07017543859649122" count="4">http servlet request</phrase>
+	<phrase weight="0.05263157894736842" count="3">mock mvc request</phrase>
+	<phrase weight="0.03508771929824561" count="2">builder mock mvc request builder</phrase>
+	<phrase weight="0.03508771929824561" count="2">equal mockmvc perform builder response</phrase>
+	<phrase weight="0.03508771929824561" count="2">mock http servlet request builder builder mock mvc request builder</phrase>
+	<phrase weight="0.03508771929824561" count="2">response mockmvc perform builder response equal response</phrase>
+	<phrase weight="0.03508771929824561" count="2">content string</phrase>
+	<phrase weight="0.03508771929824561" count="2">servlet request</phrase>
+	<phrase weight="0.03508771929824561" count="2">controller build</phrase>
+	<phrase weight="0.017543859649122806" count="1">http servlet response response mockmvc perform builder response string actual response</phrase>
+	<phrase weight="0.017543859649122806" count="1">standalone setup</phrase>
+	<phrase weight="0.017543859649122806" count="1">equal actual</phrase>
+	<phrase weight="0.017543859649122806" count="1">mock http servlet request builder builder mock mvc request</phrase>
+	<phrase weight="0.017543859649122806" count="1">context protect mock mvc mock mvc setup mock mvc mock mvc builder</phrase>
+	<phrase weight="0.017543859649122806" count="1">mock http servlet response response mockmvc perform builder response string actual response content string</phrase>
+	<phrase weight="0.017543859649122806" count="1">mock mvc mockmvc set</phrase>
+	<phrase weight="0.017543859649122806" count="1">mock servlet context</phrase>
+	<phrase weight="0.017543859649122806" count="1">servlet request builder builder mock mvc request builder</phrase>
+  </topic>
+  <topic id="9" alpha="0.021835098026661903" totalTokens="82" titles="aggr, list, whitelist, datum, taobao, abc, jiuren, true, false, add">
+	<word weight="0.2073170731707317" count="17">aggr</word>
+	<word weight="0.12195121951219512" count="10">list</word>
+	<word weight="0.12195121951219512" count="10">whitelist</word>
+	<word weight="0.08536585365853659" count="7">datum</word>
+	<word weight="0.07317073170731707" count="6">taobao</word>
+	<word weight="0.04878048780487805" count="4">abc</word>
+	<word weight="0.04878048780487805" count="4">jiuren</word>
+	<word weight="0.036585365853658534" count="3">true</word>
+	<word weight="0.036585365853658534" count="3">false</word>
+	<word weight="0.036585365853658534" count="3">add</word>
+	<word weight="0.024390243902439025" count="2">grid</word>
+	<word weight="0.024390243902439025" count="2">tae</word>
+	<word weight="0.024390243902439025" count="2">topic</word>
+	<word weight="0.024390243902439025" count="2">subscription</word>
+	<word weight="0.024390243902439025" count="2">string</word>
+	<word weight="0.012195121951219513" count="1">naco</word>
+	<word weight="0.012195121951219513" count="1">compile</word>
+	<word weight="0.012195121951219513" count="1">nacos</word>
+	<word weight="0.012195121951219513" count="1">array</word>
+	<word weight="0.012195121951219513" count="1">exception</word>
+	<phrase weight="0.5" count="2">aggr whitelist</phrase>
+	<phrase weight="0.25" count="1">list grid aggr whitelist compile list false aggr whitelist aggr datum abc false aggr whitelist aggr datum taobao jiuren false aggr whitelist aggr datum taobao jiuren true aggr whitelist aggr datum taobao jiuren abc true aggr whitelist aggr datum naco subscription topic abc true aggr whitelist aggr datum taobao tae</phrase>
+	<phrase weight="0.25" count="1">aggr datum list string list array list string list add taobao jiuren list add nacos subscription topic list add taobao tae</phrase>
+  </topic>
+</topics>

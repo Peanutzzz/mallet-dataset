@@ -1,0 +1,36 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="4.571165600745897" totalTokens="19" titles="configure, isolation, ribbon, auto, rule, configuration, client, true, enable, constant">
+	<word weight="0.15789473684210525" count="3">configure</word>
+	<word weight="0.10526315789473684" count="2">isolation</word>
+	<word weight="0.10526315789473684" count="2">ribbon</word>
+	<word weight="0.10526315789473684" count="2">config</word>
+	<word weight="0.10526315789473684" count="2">auto</word>
+	<word weight="0.05263157894736842" count="1">rule</word>
+	<word weight="0.05263157894736842" count="1">configuration</word>
+	<word weight="0.05263157894736842" count="1">client</word>
+	<word weight="0.05263157894736842" count="1">true</word>
+	<word weight="0.05263157894736842" count="1">enable</word>
+	<word weight="0.05263157894736842" count="1">constant</word>
+	<word weight="0.05263157894736842" count="1">property</word>
+	<word weight="0.05263157894736842" count="1">conditional</word>
+  </topic>
+  <topic id="1" alpha="0.006139056823553912" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="0.006139056823553912" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="0.006139056823553912" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="0.006139056823553912" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="0.006139056823553912" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="0.006139056823553912" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="0.006139056823553912" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="0.006139056823553912" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="0.006139056823553912" totalTokens="0" titles="">
+  </topic>
+</topics>

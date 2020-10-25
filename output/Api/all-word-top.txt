@@ -1,0 +1,153 @@
+0 controller 7:20 8:2 4:2
+1 rest 7:8 3:1
+2 api 7:35 5:11 2:4
+3 tag 7:8 2:1
+4 request 7:26 3:3
+5 map 7:35 0:8 2:5
+6 generator 8:8
+7 sys 8:1 7:1
+8 autowire 7:8
+9 service 7:62 2:11
+10 response 8:8 9:2 6:1
+11 body 7:8 9:2 0:1
+12 mapping 7:25 2:1
+13 list 7:27 0:17 8:2
+14 page 7:14 5:3
+15 result 7:37 5:26
+16 table 8:3
+17 param 7:33 9:25 3:2 0:1
+18 string 7:32 4:2
+19 object 7:12 5:3 9:1
+20 query 7:9 9:1
+21 file 2:2 8:1
+22 util 9:4 0:3 8:2
+23 code 0:11 8:3
+24 make 7:1
+25 http 8:1 2:1
+26 servlet 8:1 2:1
+27 exception 7:13 4:2
+28 datum 7:7 9:3 8:3
+29 split 7:1
+30 reset 6:2 8:1
+31 set 0:11 9:7 8:2 4:2
+32 header 8:2
+33 content 8:3
+34 disposition 8:1
+35 attachment 8:1
+36 filename 8:1
+37 zip 7:1
+38 add 0:4 8:1 2:1
+39 length 8:2
+40 type 2:6 9:3 8:1
+41 application 8:1
+42 octet 8:1
+43 stream 8:2 0:2
+44 charset 8:1
+45 utf 8:1
+46 write 8:1
+47 output 8:1
+48 slf 7:6
+49 admin 2:10 7:1
+50 index 4:32 3:4
+51 property 4:3 9:1
+52 post 7:10
+53 create 4:3
+54 dto 6:18 4:7 1:3
+55 number 4:4
+56 shard 4:2
+57 replica 4:2
+58 succeed 5:6 7:3 4:3 2:2
+59 require 2:6 4:1 6:1
+60 false 7:1 4:1 5:1 1:1
+61 str 4:4 2:2
+62 show 4:3
+63 delete 7:14 6:1
+64 agg 3:3
+65 aggregation 3:9
+66 routing 3:3
+67 stat 3:3
+68 route 3:1
+69 path 7:13 3:1 1:1
+70 variable 7:10 2:5
+71 search 6:26
+72 menu 0:85
+73 tree 0:13
+74 builder 0:4
+75 array 5:4
+76 equal 0:2
+77 parent 0:3
+78 operation 5:13 7:8 9:5 1:3
+79 remove 0:1
+80 log 5:4 9:2 7:1
+81 error 5:6
+82 memu 0:2
+83 fail 5:8
+84 role 5:69
+85 find 5:21 2:8
+86 hash 0:3 1:1
+87 auth 0:11
+88 collect 5:2
+89 collector 5:2
+90 put 0:6 2:4
+91 open 9:10 0:1
+92 true 9:7 5:2 7:1 1:1
+93 check 2:5 0:2
+94 suppress 0:1
+95 warning 0:1
+96 unchecked 0:1
+97 cacheable 5:1 6:1
+98 key 6:2 5:2
+99 empty 5:3 9:1
+100 convert 0:1
+101 collection 5:3
+102 common 0:2 9:1
+103 constant 0:2 5:1
+104 permission 7:1
+105 grant 0:1
+106 count 0:2
+107 size 5:3
+108 build 0:2
+109 save 5:11 1:3
+110 update 5:9 9:8 1:2
+111 current 0:1 9:1
+112 login 9:7 0:1 2:1
+113 user 9:105 0:4 2:1
+114 parallel 0:1
+115 change 9:5
+116 msg 2:5
+117 logic 9:4
+118 del 2:5 9:1 1:1
+119 autowired 9:1
+120 app 9:24
+121 access 9:1
+122 token 3:9 2:1
+123 full 5:1
+124 username 2:14
+125 select 2:2
+126 anon 9:3
+127 mobile 2:7
+128 cache 2:2
+129 audit 9:3 6:1
+130 implicit 2:10
+131 integer 2:5
+132 limit 2:2
+133 enable 2:4
+134 password 9:9 6:1
+135 evict 6:1
+136 excel 9:9
+137 export 6:2 2:1
+138 excl 2:4
+139 multipart 9:1
+140 row 6:5
+141 num 2:5
+142 bean 7:1
+143 copy 9:1
+144 def 2:1
+145 backend 7:1
+146 batch 9:1
+147 highlighter 5:1
+148 sort 2:1
+149 col 9:1
+150 time 6:1
+151 client 1:21
+152 tenant 3:2

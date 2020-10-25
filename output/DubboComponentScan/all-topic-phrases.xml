@@ -1,0 +1,73 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.103527845397148" totalTokens="28" titles="registry, sentinel, line, bean, dubbo, ">
+	<word weight="0.7142857142857143" count="20">registry</word>
+	<word weight="0.07142857142857142" count="2">sentinel</word>
+	<word weight="0.07142857142857142" count="2">line</word>
+	<word weight="0.07142857142857142" count="2">bean</word>
+	<word weight="0.07142857142857142" count="2">dubbo</word>
+  </topic>
+  <topic id="1" alpha="8.240785576891689" totalTokens="25" titles="set, config, service, alibaba, ">
+	<word weight="0.72" count="18">set</word>
+	<word weight="0.16" count="4">config</word>
+	<word weight="0.08" count="2">service</word>
+	<word weight="0.04" count="1">alibaba</word>
+	<phrase weight="1.0" count="1">config set</phrase>
+  </topic>
+  <topic id="2" alpha="16.934469297799577" totalTokens="45" titles="protocol, registry, dubbo, demo, ">
+	<word weight="0.4888888888888889" count="22">protocol</word>
+	<word weight="0.3333333333333333" count="15">registry</word>
+	<word weight="0.15555555555555556" count="7">dubbo</word>
+	<word weight="0.022222222222222223" count="1">demo</word>
+  </topic>
+  <topic id="3" alpha="20.615800268543925" totalTokens="50" titles="application, demo, provider, component, port, alibaba, ">
+	<word weight="0.5" count="25">application</word>
+	<word weight="0.2" count="10">demo</word>
+	<word weight="0.12" count="6">provider</word>
+	<word weight="0.1" count="5">component</word>
+	<word weight="0.06" count="3">port</word>
+	<word weight="0.02" count="1">alibaba</word>
+	<phrase weight="0.8" count="4">demo provider</phrase>
+	<phrase weight="0.2" count="1">demo provider application</phrase>
+  </topic>
+  <topic id="4" alpha="6.802808103864506" totalTokens="15" titles="application, protocol, uncomment, csp, ">
+	<word weight="0.6666666666666666" count="10">application</word>
+	<word weight="0.13333333333333333" count="2">protocol</word>
+	<word weight="0.13333333333333333" count="2">uncomment</word>
+	<word weight="0.06666666666666667" count="1">csp</word>
+  </topic>
+  <topic id="5" alpha="4.3319292071655084" totalTokens="14" titles="filter, sentinel, consumer, don, ">
+	<word weight="0.2857142857142857" count="4">filter</word>
+	<word weight="0.2857142857142857" count="4">sentinel</word>
+	<word weight="0.2857142857142857" count="4">consumer</word>
+	<word weight="0.14285714285714285" count="2">don</word>
+	<phrase weight="1.0" count="2">filter sentinel</phrase>
+  </topic>
+  <topic id="6" alpha="6.4746144688074265" totalTokens="32" titles="consumer, address, annotation, enable, ">
+	<word weight="0.75" count="24">consumer</word>
+	<word weight="0.125" count="4">address</word>
+	<word weight="0.0625" count="2">annotation</word>
+	<word weight="0.0625" count="2">enable</word>
+	<phrase weight="0.6666666666666666" count="2">consumer annotation</phrase>
+	<phrase weight="0.3333333333333333" count="1">consumer consumer</phrase>
+  </topic>
+  <topic id="7" alpha="8.365058167713936" totalTokens="13" titles="multicast, scan, foo, csp, ">
+	<word weight="0.38461538461538464" count="5">multicast</word>
+	<word weight="0.38461538461538464" count="5">scan</word>
+	<word weight="0.15384615384615385" count="2">foo</word>
+	<word weight="0.07692307692307693" count="1">csp</word>
+  </topic>
+  <topic id="8" alpha="48.417536911735716" totalTokens="132" titles="config, bean, configuration, foo, address, ">
+	<word weight="0.7878787878787878" count="104">config</word>
+	<word weight="0.11363636363636363" count="15">bean</word>
+	<word weight="0.07575757575757576" count="10">configuration</word>
+	<word weight="0.015151515151515152" count="2">foo</word>
+	<word weight="0.007575757575757576" count="1">address</word>
+	<phrase weight="0.75" count="9">config bean</phrase>
+	<phrase weight="0.25" count="3">configuration bean</phrase>
+  </topic>
+  <topic id="9" alpha="3.0479851604426544" totalTokens="11" titles="service, dubbo, ">
+	<word weight="0.5454545454545454" count="6">service</word>
+	<word weight="0.45454545454545453" count="5">dubbo</word>
+  </topic>
+</topics>

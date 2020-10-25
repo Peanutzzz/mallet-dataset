@@ -1,0 +1,10 @@
+0	4.63248	label state util interceptor media unchecked xml holder list secure service 
+1	6.47732	template map environment exception server json suppress springframework locator 
+2	6.51894	composite set client env retry 
+3	6.55549	result record array core retryable 
+4	5.04789	body locate override http warning remote work delimit comma 
+5	6.05332	property fail response include rule error 
+6	4.31152	rest log find illegal header object text 
+7	4.06013	error type response storage sentinel object 
+8	7.84296	string source fast content application add trim 
+9	7.79739	source config org message warn rule core springframework 

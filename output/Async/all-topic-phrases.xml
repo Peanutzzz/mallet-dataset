@@ -1,0 +1,40 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1761.4725358779451" totalTokens="27" titles="audit, user, timestamp, operation, client, method, application, sql, insert, update">
+	<word weight="0.37037037037037035" count="10">audit</word>
+	<word weight="0.07407407407407407" count="2">user</word>
+	<word weight="0.037037037037037035" count="1">timestamp</word>
+	<word weight="0.037037037037037035" count="1">operation</word>
+	<word weight="0.037037037037037035" count="1">client</word>
+	<word weight="0.037037037037037035" count="1">method</word>
+	<word weight="0.037037037037037035" count="1">application</word>
+	<word weight="0.037037037037037035" count="1">sql</word>
+	<word weight="0.037037037037037035" count="1">insert</word>
+	<word weight="0.037037037037037035" count="1">update</word>
+	<word weight="0.037037037037037035" count="1">template</word>
+	<word weight="0.037037037037037035" count="1">jdbc</word>
+	<word weight="0.037037037037037035" count="1">save</word>
+	<word weight="0.037037037037037035" count="1">override</word>
+	<word weight="0.037037037037037035" count="1">async</word>
+	<word weight="0.037037037037037035" count="1">impl</word>
+	<word weight="0.037037037037037035" count="1">service</word>
+  </topic>
+  <topic id="1" alpha="1.345238400277038E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="1.345238400277038E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="1.345238400277038E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="1.345238400277038E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="1.345238400277038E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="1.345238400277038E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="1.345238400277038E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="1.345238400277038E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="1.345238400277038E-20" totalTokens="0" titles="">
+  </topic>
+</topics>

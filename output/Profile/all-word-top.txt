@@ -1,0 +1,190 @@
+0 customizer 0:8
+1 component 0:2
+2 profile 6:2 5:2 4:2 0:2 8:1 3:1
+3 ctrip 7:14 4:10 0:2 5:1
+4 biz 0:12
+5 log 5:8 0:6
+6 extend 8:17 0:2
+7 config 0:16 5:15 7:7
+8 override 0:4 2:3
+9 protect 0:4 9:3
+10 string 5:14 0:4 2:1 3:1
+11 clog 0:8 5:2
+12 url 5:15 2:10 0:4 6:2
+13 port 5:5 0:4
+14 configuration 8:8 5:7 4:5 9:2 1:2
+15 auth 8:11 1:4 7:2
+16 auto 8:4 5:2 3:2 1:1
+17 portal 5:14 7:10 0:8
+18 bean 6:21 7:19 5:14 4:3 9:1 3:1
+19 servlet 5:12
+20 listener 7:22
+21 registration 7:12 5:9
+22 redis 7:8
+23 app 7:5
+24 set 6:16 7:13 5:9 3:5
+25 listner 7:2
+26 org 7:4
+27 jasig 7:4
+28 cas 7:14
+29 client 7:6
+30 credi 7:1
+31 single 7:13
+32 sign 7:11
+33 http 9:21 7:2 2:2
+34 session 7:11 2:2
+35 filter 7:69 5:15 3:11 8:2
+36 add 7:4 5:1
+37 pattern 5:3 7:2
+38 order 7:4 2:2
+39 authentication 9:14 1:2
+40 map 7:9 2:2 6:1
+41 init 7:20 5:4
+42 param 7:18
+43 hash 7:3
+44 put 7:12
+45 cluster 7:4
+46 principal 7:2
+47 server 5:16
+48 login 2:6 7:4 3:1
+49 don 7:2
+50 store 7:2
+51 information 7:1 5:1
+52 deploy 7:2
+53 instance 7:6
+54 false 7:2
+55 openapus 7:2
+56 exclude 5:2
+57 parameter 5:6
+58 framework 7:2
+59 apollo 7:4 3:2
+60 sso 6:8 7:5
+61 validation 7:9
+62 prefix 7:2 2:1 8:1
+63 encode 7:1
+64 utf 5:1
+65 true 2:10 8:3 5:1
+66 proxy 5:1
+67 receive 7:1
+68 ticket 7:1
+69 assertion 7:8
+70 holder 5:16 6:8 7:1
+71 thread 7:1
+72 local 5:1
+73 user 1:36 8:25 5:14 9:7
+74 info 5:10 6:8
+75 logout 9:11 6:7 7:2 1:1
+76 handler 6:15 7:6 8:1
+77 clazz 7:6
+78 object 7:2
+79 obj 7:4
+80 exception 7:4 9:3 3:3 6:2
+81 runtime 7:2
+82 fail 7:1 5:1
+83 event 7:2
+84 service 6:9 5:8 4:6
+85 heartbeat 6:7 7:3 1:1
+86 spring 6:10 9:3
+87 security 9:8 6:8 8:2 2:2 1:1
+88 conditional 6:10
+89 miss 6:10
+90 jdbc 1:13
+91 detail 1:13
+92 manager 1:13 3:1
+93 builder 4:3 6:1 8:1
+94 datum 6:2
+95 source 6:16 8:11
+96 datasource 1:2
+97 password 6:9
+98 encoder 1:2
+99 crypt 1:1
+100 username 1:14 8:1
+101 query 1:2
+102 select 1:11
+103 enable 9:4 8:3 1:3
+104 authority 1:9 8:1 9:1
+105 exist 1:1
+106 sql 1:7
+107 create 1:2
+108 insert 1:2
+109 update 1:3
+110 delete 1:4
+111 change 1:1
+112 web 2:4 5:2
+113 global 9:2
+114 method 9:2
+115 pre 2:2
+116 post 2:2
+117 configurer 2:5
+118 adapter 9:2
+119 role 2:3
+120 configure 9:3
+121 csrf 2:2
+122 disable 9:2
+123 header 2:2
+124 frame 9:2
+125 option 2:2
+126 origin 2:2
+127 authorize 2:2
+128 request 4:3 9:2
+129 ant 2:4
+130 matcher 2:4
+131 prometheus 2:2
+132 metric 2:2
+133 openapi 9:2
+134 vendor 9:1 3:1
+135 style 9:2
+136 script 2:2
+137 view 9:2
+138 img 9:2
+139 path 2:2
+140 permit 9:4
+141 form 2:2
+142 page 9:1 3:1
+143 signin 2:6 9:2
+144 success 2:4
+145 failure 2:2
+146 error 2:2
+147 basic 8:2
+148 invalidate 2:2
+149 clear 9:2
+150 handle 9:2
+151 entry 9:3 8:1
+152 point 2:4
+153 ldap 8:71
+154 property 8:38 2:1
+155 environment 6:9
+156 context 8:14 5:8 3:3
+157 anonymous 6:2
+158 read 6:2
+159 base 8:12
+160 determine 6:1
+161 collection 6:1
+162 unmodifiable 6:1
+163 operation 6:1
+164 template 6:7
+165 ignore 6:1 2:1
+166 partial 6:1 9:1
+167 result 8:1 3:1
+168 search 3:20 2:1
+169 group 3:14
+170 util 3:1
+171 blank 8:1
+172 subtree 3:3
+173 rdn 3:1
+174 key 2:1
+175 membership 8:1
+176 provider 3:7
+177 bind 3:5
+178 authenticator 3:5
+179 populator 3:2
+180 rewrite 3:1
+181 logic 2:1
+182 system 8:1
+183 input 3:1
+184 authenticate 2:1
+185 email 4:7
+186 initializer 5:2
+187 credis 5:5
+188 empty 5:3
+189 access 5:2

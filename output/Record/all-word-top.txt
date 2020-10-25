@@ -1,0 +1,10 @@
+0 image 0:1
+1 processor 0:1
+2 build 0:2
+3 step 0:1
+4 record 0:2
+5 execution 0:1
+6 time 0:1
+7 init 0:2
+8 sentinel 0:1
+9 recorder 0:3

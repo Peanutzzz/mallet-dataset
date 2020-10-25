@@ -1,0 +1,144 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.083649013445031E-18" totalTokens="0" titles="">
+  </topic>
+  <topic id="1" alpha="0.29837580815842807" totalTokens="97" titles="exception, test, run, argument, illegal, number, time, retry, failure, pass">
+	<word weight="0.25773195876288657" count="25">exception</word>
+	<word weight="0.18556701030927836" count="18">test</word>
+	<word weight="0.13402061855670103" count="13">run</word>
+	<word weight="0.061855670103092786" count="6">argument</word>
+	<word weight="0.061855670103092786" count="6">illegal</word>
+	<word weight="0.061855670103092786" count="6">number</word>
+	<word weight="0.041237113402061855" count="4">time</word>
+	<word weight="0.041237113402061855" count="4">retry</word>
+	<word weight="0.030927835051546393" count="3">failure</word>
+	<word weight="0.030927835051546393" count="3">pass</word>
+	<word weight="0.030927835051546393" count="3">subclass</word>
+	<word weight="0.030927835051546393" count="3">match</word>
+	<word weight="0.020618556701030927" count="2">successful</word>
+	<word weight="0.010309278350515464" count="1">runtime</word>
+  </topic>
+  <topic id="2" alpha="2.2459320118890547E-196" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="0.03979440086543413" totalTokens="189" titles="topic, tuple, set, cnt, schema, element, parallelism, producer, prop, information">
+	<word weight="0.07407407407407407" count="14">topic</word>
+	<word weight="0.06878306878306878" count="13">tuple</word>
+	<word weight="0.05291005291005291" count="10">set</word>
+	<word weight="0.047619047619047616" count="9">cnt</word>
+	<word weight="0.042328042328042326" count="8">schema</word>
+	<word weight="0.042328042328042326" count="8">element</word>
+	<word weight="0.042328042328042326" count="8">parallelism</word>
+	<word weight="0.042328042328042326" count="8">producer</word>
+	<word weight="0.037037037037037035" count="7">prop</word>
+	<word weight="0.026455026455026454" count="5">information</word>
+	<word weight="0.026455026455026454" count="5">run</word>
+	<word weight="0.021164021164021163" count="4">override</word>
+	<word weight="0.021164021164021163" count="4">sink</word>
+	<word weight="0.021164021164021163" count="4">type</word>
+	<word weight="0.021164021164021163" count="4">execution</word>
+	<word weight="0.021164021164021163" count="4">total</word>
+	<word weight="0.021164021164021163" count="4">consumer</word>
+	<word weight="0.015873015873015872" count="3">list</word>
+	<word weight="0.015873015873015872" count="3">flink</word>
+	<word weight="0.015873015873015872" count="3">add</word>
+	<phrase weight="0.045454545454545456" count="2">schema tuple</phrase>
+	<phrase weight="0.022727272727272728" count="1">topic uuid random</phrase>
+	<phrase weight="0.022727272727272728" count="1">add producer</phrase>
+	<phrase weight="0.022727272727272728" count="1">parallelism create</phrase>
+	<phrase weight="0.022727272727272728" count="1">nest success</phrase>
+	<phrase weight="0.022727272727272728" count="1">topic topic parallelism create test</phrase>
+	<phrase weight="0.022727272727272728" count="1">parse equal</phrase>
+	<phrase weight="0.022727272727272728" count="1">retry producer</phrase>
+	<phrase weight="0.022727272727272728" count="1">uuid random</phrase>
+	<phrase weight="0.022727272727272728" count="1">tuple cnt</phrase>
+	<phrase weight="0.022727272727272728" count="1">receive tuple</phrase>
+	<phrase weight="0.022727272727272728" count="1">parallelism parallelism consume add sink rich sink</phrase>
+	<phrase weight="0.022727272727272728" count="1">execution environment</phrase>
+	<phrase weight="0.022727272727272728" count="1">bitset set</phrase>
+	<phrase weight="0.022727272727272728" count="1">cnt cnt</phrase>
+	<phrase weight="0.022727272727272728" count="1">job execution</phrase>
+	<phrase weight="0.022727272727272728" count="1">set total element override</phrase>
+	<phrase weight="0.022727272727272728" count="1">source schema prop</phrase>
+	<phrase weight="0.022727272727272728" count="1">set cnt cnt total element</phrase>
+	<phrase weight="0.022727272727272728" count="1">set parallelism parallelism</phrase>
+  </topic>
+  <topic id="4" alpha="0.03971547624725187" totalTokens="73" titles="source, type, empty, validator, add, additional, serialization, depth, clear, config">
+	<word weight="0.0958904109589041" count="7">source</word>
+	<word weight="0.0821917808219178" count="6">type</word>
+	<word weight="0.0821917808219178" count="6">empty</word>
+	<word weight="0.0684931506849315" count="5">validator</word>
+	<word weight="0.0547945205479452" count="4">add</word>
+	<word weight="0.0547945205479452" count="4">additional</word>
+	<word weight="0.0410958904109589" count="3">serialization</word>
+	<word weight="0.0273972602739726" count="2">depth</word>
+	<word weight="0.0273972602739726" count="2">clear</word>
+	<word weight="0.0273972602739726" count="2">config</word>
+	<word weight="0.0273972602739726" count="2">string</word>
+	<word weight="0.0273972602739726" count="2">consumer</word>
+	<word weight="0.0273972602739726" count="2">test</word>
+	<word weight="0.0136986301369863" count="1">search</word>
+	<word weight="0.0136986301369863" count="1">propagate</word>
+	<word weight="0.0136986301369863" count="1">execute</word>
+	<word weight="0.0136986301369863" count="1">close</word>
+	<word weight="0.0136986301369863" count="1">integer</word>
+	<word weight="0.0136986301369863" count="1">invoke</word>
+	<word weight="0.0136986301369863" count="1">array</word>
+	<phrase weight="0.16666666666666666" count="2">additional empty</phrase>
+	<phrase weight="0.08333333333333333" count="1">set validator</phrase>
+	<phrase weight="0.08333333333333333" count="1">parallel source</phrase>
+	<phrase weight="0.08333333333333333" count="1">remain empty</phrase>
+	<phrase weight="0.08333333333333333" count="1">put secure</phrase>
+	<phrase weight="0.08333333333333333" count="1">checkpoint trigger</phrase>
+	<phrase weight="0.08333333333333333" count="1">string additional empty</phrase>
+	<phrase weight="0.08333333333333333" count="1">depth depth</phrase>
+	<phrase weight="0.08333333333333333" count="1">validator clear</phrase>
+	<phrase weight="0.08333333333333333" count="1">type hint</phrase>
+	<phrase weight="0.08333333333333333" count="1">add source source</phrase>
+  </topic>
+  <topic id="5" alpha="5.858025722554721E-164" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="8.930708774171882E-199" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="7.643806620815146E-185" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="0.04059068674842175" totalTokens="115" titles="string, exception, property, env, kafka, stream, bit, topic, partition, datum">
+	<word weight="0.16521739130434782" count="19">string</word>
+	<word weight="0.13043478260869565" count="15">exception</word>
+	<word weight="0.0782608695652174" count="9">property</word>
+	<word weight="0.0782608695652174" count="9">env</word>
+	<word weight="0.06956521739130435" count="8">kafka</word>
+	<word weight="0.05217391304347826" count="6">stream</word>
+	<word weight="0.034782608695652174" count="4">bit</word>
+	<word weight="0.034782608695652174" count="4">topic</word>
+	<word weight="0.034782608695652174" count="4">partition</word>
+	<word weight="0.02608695652173913" count="3">datum</word>
+	<word weight="0.02608695652173913" count="3">concurrent</word>
+	<word weight="0.02608695652173913" count="3">base</word>
+	<word weight="0.017391304347826087" count="2">put</word>
+	<word weight="0.017391304347826087" count="2">false</word>
+	<word weight="0.017391304347826087" count="2">function</word>
+	<word weight="0.017391304347826087" count="2">common</word>
+	<word weight="0.008695652173913044" count="1">check</word>
+	<word weight="0.008695652173913044" count="1">standard</word>
+	<word weight="0.008695652173913044" count="1">produce</word>
+	<word weight="0.008695652173913044" count="1">server</word>
+	<phrase weight="0.0625" count="1">simple concurrent</phrase>
+	<phrase weight="0.0625" count="1">base property</phrase>
+	<phrase weight="0.0625" count="1">enable checkpoint env</phrase>
+	<phrase weight="0.0625" count="1">string running</phrase>
+	<phrase weight="0.0625" count="1">exception kafka common</phrase>
+	<phrase weight="0.0625" count="1">datum stream</phrase>
+	<phrase weight="0.0625" count="1">kafka server</phrase>
+	<phrase weight="0.0625" count="1">string stream env</phrase>
+	<phrase weight="0.0625" count="1">produce kafka stream topic</phrase>
+	<phrase weight="0.0625" count="1">exception env</phrase>
+	<phrase weight="0.0625" count="1">false property</phrase>
+	<phrase weight="0.0625" count="1">put secure</phrase>
+	<phrase weight="0.0625" count="1">string topic</phrase>
+	<phrase weight="0.0625" count="1">string exception string</phrase>
+	<phrase weight="0.0625" count="1">put standard</phrase>
+	<phrase weight="0.0625" count="1">common leader partition exception exception</phrase>
+  </topic>
+  <topic id="9" alpha="1.4050977743294315E-185" totalTokens="0" titles="">
+  </topic>
+</topics>

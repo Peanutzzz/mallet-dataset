@@ -1,0 +1,79 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.8213789005227536" totalTokens="16" titles="arg, run, string, management, classpath, meta, ">
+	<word weight="0.25" count="4">arg</word>
+	<word weight="0.1875" count="3">run</word>
+	<word weight="0.1875" count="3">string</word>
+	<word weight="0.1875" count="3">management</word>
+	<word weight="0.125" count="2">classpath</word>
+	<word weight="0.0625" count="1">meta</word>
+	<phrase weight="1.0" count="2">string arg</phrase>
+  </topic>
+  <topic id="1" alpha="1.896704201985983" totalTokens="14" titles="sentinel, scan, resource, aop, integration, true, ">
+	<word weight="0.2857142857142857" count="4">sentinel</word>
+	<word weight="0.2857142857142857" count="4">scan</word>
+	<word weight="0.21428571428571427" count="3">resource</word>
+	<word weight="0.07142857142857142" count="1">aop</word>
+	<word weight="0.07142857142857142" count="1">integration</word>
+	<word weight="0.07142857142857142" count="1">true</word>
+	<phrase weight="0.75" count="3">sentinel resource</phrase>
+	<phrase weight="0.25" count="1">integration aop</phrase>
+  </topic>
+  <topic id="2" alpha="0.6174455683457811" totalTokens="5" titles="admin, eureka, ">
+	<word weight="0.6" count="3">admin</word>
+	<word weight="0.4" count="2">eureka</word>
+  </topic>
+  <topic id="3" alpha="4.089029264619381" totalTokens="28" titles="enable, configuration, component, common, application, annotation, ">
+	<word weight="0.39285714285714285" count="11">enable</word>
+	<word weight="0.25" count="7">configuration</word>
+	<word weight="0.14285714285714285" count="4">component</word>
+	<word weight="0.10714285714285714" count="3">common</word>
+	<word weight="0.07142857142857142" count="2">application</word>
+	<word weight="0.03571428571428571" count="1">annotation</word>
+	<phrase weight="1.0" count="5">configuration enable</phrase>
+  </topic>
+  <topic id="4" alpha="2.1184646492555608" totalTokens="22" titles="config, aspect, alibaba, exclude, ">
+	<word weight="0.5909090909090909" count="13">config</word>
+	<word weight="0.3181818181818182" count="7">aspect</word>
+	<word weight="0.045454545454545456" count="1">alibaba</word>
+	<word weight="0.045454545454545456" count="1">exclude</word>
+	<phrase weight="1.0" count="2">config config</phrase>
+  </topic>
+  <topic id="5" alpha="2.7449076044379384" totalTokens="10" titles="auto, arg, csp, ">
+	<word weight="0.7" count="7">auto</word>
+	<word weight="0.2" count="2">arg</word>
+	<word weight="0.1" count="1">csp</word>
+  </topic>
+  <topic id="6" alpha="2.8646422672118423" totalTokens="23" titles="application, proxy, property, api, open, ">
+	<word weight="0.5217391304347826" count="12">application</word>
+	<word weight="0.21739130434782608" count="5">proxy</word>
+	<word weight="0.17391304347826086" count="4">property</word>
+	<word weight="0.043478260869565216" count="1">api</word>
+	<word weight="0.043478260869565216" count="1">open</word>
+	<phrase weight="0.5" count="1">proxy proxy</phrase>
+	<phrase weight="0.5" count="1">open api</phrase>
+  </topic>
+  <topic id="7" alpha="1.4918441491968453" totalTokens="15" titles="service, base, transaction, biz, ">
+	<word weight="0.4666666666666667" count="7">service</word>
+	<word weight="0.2" count="3">base</word>
+	<word weight="0.2" count="3">transaction</word>
+	<word weight="0.13333333333333333" count="2">biz</word>
+  </topic>
+  <topic id="8" alpha="2.553889655796943" totalTokens="18" titles="apollo, portal, spring, exception, client, target, ">
+	<word weight="0.3333333333333333" count="6">apollo</word>
+	<word weight="0.2222222222222222" count="4">portal</word>
+	<word weight="0.16666666666666666" count="3">spring</word>
+	<word weight="0.1111111111111111" count="2">exception</word>
+	<word weight="0.1111111111111111" count="2">client</word>
+	<word weight="0.05555555555555555" count="1">target</word>
+  </topic>
+  <topic id="9" alpha="2.2806138385589634" totalTokens="11" titles="main, bean, source, test, aspectj, configservice, adminservice, ">
+	<word weight="0.2727272727272727" count="3">main</word>
+	<word weight="0.18181818181818182" count="2">bean</word>
+	<word weight="0.18181818181818182" count="2">source</word>
+	<word weight="0.09090909090909091" count="1">test</word>
+	<word weight="0.09090909090909091" count="1">aspectj</word>
+	<word weight="0.09090909090909091" count="1">configservice</word>
+	<word weight="0.09090909090909091" count="1">adminservice</word>
+  </topic>
+</topics>

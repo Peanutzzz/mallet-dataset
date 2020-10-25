@@ -1,0 +1,28 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="24.324489119686" totalTokens="7" titles="info, resource, context, filter, provider, ">
+	<word weight="0.2857142857142857" count="2">info</word>
+	<word weight="0.2857142857142857" count="2">resource</word>
+	<word weight="0.14285714285714285" count="1">context</word>
+	<word weight="0.14285714285714285" count="1">filter</word>
+	<word weight="0.14285714285714285" count="1">provider</word>
+  </topic>
+  <topic id="1" alpha="0.0029495311784735116" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="0.0029495311784735116" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="0.0029495311784735116" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="0.0029495311784735116" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="0.0029495311784735116" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="0.0029495311784735116" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="0.0029495311784735116" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="0.0029495311784735116" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="0.0029495311784735116" totalTokens="0" titles="">
+  </topic>
+</topics>

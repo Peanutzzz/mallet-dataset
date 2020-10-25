@@ -1,0 +1,159 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.1843930581626237" totalTokens="52" titles="parameterize, base, strategy, connector, failover, watermark, planner, broadcast, tolerance, window">
+	<word weight="0.3076923076923077" count="16">parameterize</word>
+	<word weight="0.15384615384615385" count="8">base</word>
+	<word weight="0.1346153846153846" count="7">parameter</word>
+	<word weight="0.09615384615384616" count="5">strategy</word>
+	<word weight="0.07692307692307693" count="4">connector</word>
+	<word weight="0.038461538461538464" count="2">failover</word>
+	<word weight="0.038461538461538464" count="2">watermark</word>
+	<word weight="0.038461538461538464" count="2">planner</word>
+	<word weight="0.019230769230769232" count="1">broadcast</word>
+	<word weight="0.019230769230769232" count="1">tolerance</word>
+	<word weight="0.019230769230769232" count="1">window</word>
+	<word weight="0.019230769230769232" count="1">ctx</word>
+	<word weight="0.019230769230769232" count="1">context</word>
+	<word weight="0.019230769230769232" count="1">compression</word>
+	<phrase weight="0.3333333333333333" count="3">base parameterize parameter</phrase>
+	<phrase weight="0.3333333333333333" count="3">base parameterize</phrase>
+	<phrase weight="0.1111111111111111" count="1">connector parameterize</phrase>
+	<phrase weight="0.1111111111111111" count="1">connector parameterize parameter planner</phrase>
+	<phrase weight="0.1111111111111111" count="1">parameterize parameter broadcast</phrase>
+  </topic>
+  <topic id="1" alpha="0.04051727391422144" totalTokens="10" titles="ssl, serializer, previous, integer, server, async, request, ">
+	<word weight="0.3" count="3">ssl</word>
+	<word weight="0.2" count="2">serializer</word>
+	<word weight="0.1" count="1">previous</word>
+	<word weight="0.1" count="1">integer</word>
+	<word weight="0.1" count="1">server</word>
+	<word weight="0.1" count="1">async</word>
+	<word weight="0.1" count="1">request</word>
+	<phrase weight="0.5" count="1">server ssl</phrase>
+	<phrase weight="0.5" count="1">request serializer</phrase>
+  </topic>
+  <topic id="2" alpha="0.12701182181042844" totalTokens="41" titles="backend, state, async, checkpointing, incremental, enable, memory, partitioner, asyncmode, escape">
+	<word weight="0.36585365853658536" count="15">backend</word>
+	<word weight="0.24390243902439024" count="10">state</word>
+	<word weight="0.07317073170731707" count="3">async</word>
+	<word weight="0.04878048780487805" count="2">checkpointing</word>
+	<word weight="0.04878048780487805" count="2">incremental</word>
+	<word weight="0.04878048780487805" count="2">enable</word>
+	<word weight="0.04878048780487805" count="2">memory</word>
+	<word weight="0.024390243902439025" count="1">partitioner</word>
+	<word weight="0.024390243902439025" count="1">asyncmode</word>
+	<word weight="0.024390243902439025" count="1">mode</word>
+	<word weight="0.024390243902439025" count="1">escape</word>
+	<word weight="0.024390243902439025" count="1">size</word>
+	<phrase weight="1.0" count="2">state backend</phrase>
+  </topic>
+  <topic id="3" alpha="0.03927490966464656" totalTokens="20" titles="stream, output, state, checkpoint, abort, table, path, relative, mode, ">
+	<word weight="0.25" count="5">stream</word>
+	<word weight="0.2" count="4">output</word>
+	<word weight="0.15" count="3">state</word>
+	<word weight="0.15" count="3">checkpoint</word>
+	<word weight="0.05" count="1">abort</word>
+	<word weight="0.05" count="1">table</word>
+	<word weight="0.05" count="1">path</word>
+	<word weight="0.05" count="1">relative</word>
+	<word weight="0.05" count="1">mode</word>
+	<phrase weight="0.75" count="3">state output stream</phrase>
+	<phrase weight="0.25" count="1">output stream</phrase>
+  </topic>
+  <topic id="4" alpha="0.7809524956562531" totalTokens="220" titles="test, parameter, parameterized, spec, configuration, version, splitter, restore, false, fixer">
+	<word weight="0.36818181818181817" count="81">test</word>
+	<word weight="0.2590909090909091" count="57">parameter</word>
+	<word weight="0.2" count="44">parameterized</word>
+	<word weight="0.1" count="22">spec</word>
+	<word weight="0.01818181818181818" count="4">configuration</word>
+	<word weight="0.00909090909090909" count="2">version</word>
+	<word weight="0.00909090909090909" count="2">splitter</word>
+	<word weight="0.004545454545454545" count="1">restore</word>
+	<word weight="0.004545454545454545" count="1">false</word>
+	<word weight="0.004545454545454545" count="1">fixer</word>
+	<word weight="0.004545454545454545" count="1">precision</word>
+	<word weight="0.004545454545454545" count="1">tree</word>
+	<word weight="0.004545454545454545" count="1">environment</word>
+	<word weight="0.004545454545454545" count="1">migration</word>
+	<word weight="0.004545454545454545" count="1">pad</word>
+	<phrase weight="0.5625" count="18">parameterized parameter</phrase>
+	<phrase weight="0.3125" count="10">test parameterized parameter</phrase>
+	<phrase weight="0.03125" count="1">splitter test parameterized</phrase>
+	<phrase weight="0.03125" count="1">restore test parameterized parameter</phrase>
+	<phrase weight="0.03125" count="1">test parameterized parameter test</phrase>
+	<phrase weight="0.03125" count="1">parameterized parameter test</phrase>
+  </topic>
+  <topic id="5" alpha="0.04104742437697295" totalTokens="14" titles="string, scheme, system, info, file, behavior, parameter, ">
+	<word weight="0.35714285714285715" count="5">string</word>
+	<word weight="0.21428571428571427" count="3">scheme</word>
+	<word weight="0.14285714285714285" count="2">system</word>
+	<word weight="0.07142857142857142" count="1">info</word>
+	<word weight="0.07142857142857142" count="1">file</word>
+	<word weight="0.07142857142857142" count="1">behavior</word>
+	<word weight="0.07142857142857142" count="1">parameter</word>
+	<phrase weight="0.5" count="1">system behavior</phrase>
+	<phrase weight="0.5" count="1">file system</phrase>
+  </topic>
+  <topic id="6" alpha="0.05700692944190851" totalTokens="16" titles="factory, parameterized, future, legacy, schema, derive, ternary, sink, duration, ">
+	<word weight="0.25" count="4">factory</word>
+	<word weight="0.1875" count="3">parameterized</word>
+	<word weight="0.125" count="2">future</word>
+	<word weight="0.125" count="2">legacy</word>
+	<word weight="0.0625" count="1">schema</word>
+	<word weight="0.0625" count="1">derive</word>
+	<word weight="0.0625" count="1">ternary</word>
+	<word weight="0.0625" count="1">sink</word>
+	<word weight="0.0625" count="1">duration</word>
+	<phrase weight="1.0" count="1">sink factory</phrase>
+  </topic>
+  <topic id="7" alpha="0.04394653341332586" totalTokens="16" titles="enable, invalid, format, option, unaligned, builder, view, read, config, ">
+	<word weight="0.1875" count="3">enable</word>
+	<word weight="0.1875" count="3">invalid</word>
+	<word weight="0.1875" count="3">format</word>
+	<word weight="0.125" count="2">option</word>
+	<word weight="0.0625" count="1">unaligned</word>
+	<word weight="0.0625" count="1">builder</word>
+	<word weight="0.0625" count="1">view</word>
+	<word weight="0.0625" count="1">read</word>
+	<word weight="0.0625" count="1">config</word>
+	<phrase weight="0.6666666666666666" count="2">invalid format</phrase>
+	<phrase weight="0.3333333333333333" count="1">read view</phrase>
+  </topic>
+  <topic id="8" alpha="0.07692279239416311" totalTokens="39" titles="string, identifier, print, pretty, expect, parse, provider, util, parsed, list">
+	<word weight="0.28205128205128205" count="11">string</word>
+	<word weight="0.10256410256410256" count="4">identifier</word>
+	<word weight="0.10256410256410256" count="4">print</word>
+	<word weight="0.10256410256410256" count="4">pretty</word>
+	<word weight="0.07692307692307693" count="3">expect</word>
+	<word weight="0.05128205128205128" count="2">parse</word>
+	<word weight="0.05128205128205128" count="2">provider</word>
+	<word weight="0.05128205128205128" count="2">util</word>
+	<word weight="0.02564102564102564" count="1">parsed</word>
+	<word weight="0.02564102564102564" count="1">list</word>
+	<word weight="0.02564102564102564" count="1">ttl</word>
+	<word weight="0.02564102564102564" count="1">compression</word>
+	<word weight="0.02564102564102564" count="1">duration</word>
+	<word weight="0.02564102564102564" count="1">size</word>
+	<word weight="0.02564102564102564" count="1">pipeline</word>
+	<phrase weight="0.5714285714285714" count="4">pretty print</phrase>
+	<phrase weight="0.2857142857142857" count="2">identifier parse</phrase>
+	<phrase weight="0.14285714285714285" count="1">util pipeline</phrase>
+  </topic>
+  <topic id="9" alpha="0.09207515652059588" totalTokens="41" titles="type, datum, converter, item, util, nullable, benchmark, snapshot, object, clazz">
+	<word weight="0.4146341463414634" count="17">type</word>
+	<word weight="0.12195121951219512" count="5">datum</word>
+	<word weight="0.0975609756097561" count="4">converter</word>
+	<word weight="0.0975609756097561" count="4">item</word>
+	<word weight="0.07317073170731707" count="3">util</word>
+	<word weight="0.04878048780487805" count="2">nullable</word>
+	<word weight="0.04878048780487805" count="2">benchmark</word>
+	<word weight="0.024390243902439025" count="1">snapshot</word>
+	<word weight="0.024390243902439025" count="1">object</word>
+	<word weight="0.024390243902439025" count="1">clazz</word>
+	<word weight="0.024390243902439025" count="1">information</word>
+	<phrase weight="0.5" count="4">type converter</phrase>
+	<phrase weight="0.25" count="2">benchmark util</phrase>
+	<phrase weight="0.125" count="1">information type</phrase>
+	<phrase weight="0.125" count="1">datum type</phrase>
+  </topic>
+</topics>

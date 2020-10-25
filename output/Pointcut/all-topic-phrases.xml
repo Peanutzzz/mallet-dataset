@@ -1,0 +1,36 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="504.83201540690135" totalTokens="22" titles="sentinel, annotation, repository, pointcut, resource, csp, alibaba, aspect, method, datum">
+	<word weight="0.13636363636363635" count="3">sentinel</word>
+	<word weight="0.13636363636363635" count="3">annotation</word>
+	<word weight="0.13636363636363635" count="3">repository</word>
+	<word weight="0.13636363636363635" count="3">pointcut</word>
+	<word weight="0.09090909090909091" count="2">resource</word>
+	<word weight="0.045454545454545456" count="1">csp</word>
+	<word weight="0.045454545454545456" count="1">alibaba</word>
+	<word weight="0.045454545454545456" count="1">aspect</word>
+	<word weight="0.045454545454545456" count="1">method</word>
+	<word weight="0.045454545454545456" count="1">datum</word>
+	<word weight="0.045454545454545456" count="1">springframework</word>
+	<word weight="0.045454545454545456" count="1">org</word>
+	<word weight="0.045454545454545456" count="1">execution</word>
+  </topic>
+  <topic id="1" alpha="9.81385512275009E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="9.81385512275009E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="9.81385512275009E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="9.81385512275009E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="9.81385512275009E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="9.81385512275009E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="9.81385512275009E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="9.81385512275009E-20" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="9.81385512275009E-20" totalTokens="0" titles="">
+  </topic>
+</topics>

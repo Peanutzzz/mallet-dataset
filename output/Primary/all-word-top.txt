@@ -1,0 +1,109 @@
+0 configure 2:1
+1 bean 2:1 7:1 0:1
+2 cache 2:15
+3 manager 2:7
+4 primary 2:1 7:1 9:1 0:1 4:1
+5 redis 2:16
+6 connection 2:3
+7 factory 2:3
+8 redi 2:2
+9 serializer 2:8
+10 string 4:7 9:3 0:3 2:2
+11 key 2:4 4:2
+12 object 2:1 0:1 4:1
+13 configuration 2:7 9:1
+14 dif 2:2
+15 conf 2:6
+16 def 2:2
+17 entry 2:2
+18 ttl 2:2
+19 duration 2:2
+20 hour 2:1
+21 config 0:11 2:5 7:1
+22 size 2:4
+23 property 9:14 2:3 4:1
+24 configs 2:1
+25 map 2:5
+26 hash 2:1 9:1
+27 seconds 2:1
+28 put 2:1
+29 builder 2:1
+30 initial 2:1
+31 build 2:1
+32 proxy 7:4
+33 datum 7:6
+34 source 7:6
+35 druid 7:3
+36 component 9:1 0:1 4:1
+37 enable 9:1 4:1
+38 swagger 9:23
+39 agg 9:6
+40 provider 9:3
+41 implement 4:2 9:1
+42 resource 9:17
+43 route 9:22
+44 locator 9:7
+45 gateway 9:8
+46 override 4:6 9:1 0:1
+47 list 9:3 0:2
+48 array 9:1
+49 set 9:5
+50 spring 9:1
+51 cloud 9:1
+52 subscribe 9:1
+53 add 9:2
+54 application 9:1
+55 yml 9:1
+56 stream 9:2
+57 filter 9:2
+58 definition 9:10
+59 show 9:1
+60 predicate 9:5
+61 path 9:2
+62 equal 0:2 9:1
+63 ignore 9:1
+64 arg 9:1
+65 util 9:1 0:1
+66 generate 9:1
+67 prefix 9:1
+68 replace 9:1
+69 api 9:1
+70 doc 9:1
+71 location 9:3
+72 version 9:2
+73 client 0:4
+74 apollo 0:2
+75 eureka 0:6
+76 extend 0:1
+77 biz 0:7
+78 zone 0:4
+79 multiple 0:1
+80 environment 0:1
+81 server 0:2
+82 service 4:4 0:3
+83 url 0:6
+84 collection 0:1
+85 empty 0:1
+86 auth 4:13
+87 impl 4:5
+88 conditional 4:1
+89 match 4:1
+90 missing 4:1
+91 true 4:3
+92 simple 4:4
+93 web 4:6
+94 http 4:3
+95 servlet 4:2
+96 request 4:4
+97 session 4:7
+98 sentinel 4:5
+99 admin 4:1
+100 user 4:12
+101 obj 4:4
+102 attribute 4:1
+103 username 4:7
+104 target 4:2
+105 privilege 4:2
+106 type 4:2
+107 nick 4:1
+108 login 4:1

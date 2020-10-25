@@ -1,0 +1,33 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="21.43938770638471" totalTokens="114" titles="time, change, create, data, modify, datum, persist, pre, date, protect">
+	<word weight="0.18421052631578946" count="21">time</word>
+	<word weight="0.18421052631578946" count="21">change</word>
+	<word weight="0.09649122807017543" count="11">create</word>
+	<word weight="0.09649122807017543" count="11">data</word>
+	<word weight="0.08771929824561403" count="10">modify</word>
+	<word weight="0.08771929824561403" count="10">datum</word>
+	<word weight="0.08771929824561403" count="10">persist</word>
+	<word weight="0.07894736842105263" count="9">pre</word>
+	<word weight="0.05263157894736842" count="6">date</word>
+	<word weight="0.043859649122807015" count="5">protect</word>
+  </topic>
+  <topic id="1" alpha="3.323702231616358E-171" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="5.2449496044212E-171" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="3.9204350887989794E-171" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="3.0302857211362596E-171" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="2.9377099392275274E-171" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="2.2968084737274973E-171" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="3.83174325116514E-171" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="3.540412249893513E-171" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="3.367900391683689E-171" totalTokens="0" titles="">
+  </topic>
+</topics>

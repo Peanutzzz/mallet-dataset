@@ -1,0 +1,102 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.4078547935053087" totalTokens="20" titles="warn, command, info, org, string, log, ">
+	<word weight="0.35" count="7">warn</word>
+	<word weight="0.3" count="6">command</word>
+	<word weight="0.15" count="3">info</word>
+	<word weight="0.1" count="2">org</word>
+	<word weight="0.05" count="1">string</word>
+	<word weight="0.05" count="1">log</word>
+	<phrase weight="1.0" count="1">warn string</phrase>
+  </topic>
+  <topic id="1" alpha="14.809914321019473" totalTokens="69" titles="logger, error, trace, object, center, impl, ">
+	<word weight="0.5072463768115942" count="35">logger</word>
+	<word weight="0.2318840579710145" count="16">error</word>
+	<word weight="0.18840579710144928" count="13">trace</word>
+	<word weight="0.043478260869565216" count="3">object</word>
+	<word weight="0.014492753623188406" count="1">center</word>
+	<word weight="0.014492753623188406" count="1">impl</word>
+	<phrase weight="0.6" count="6">logger error</phrase>
+	<phrase weight="0.2" count="2">logger trace</phrase>
+	<phrase weight="0.1" count="1">logger logger</phrase>
+	<phrase weight="0.1" count="1">logger logger logger</phrase>
+  </topic>
+  <topic id="2" alpha="3.4658363683213893" totalTokens="10" titles="trace, argument, impl, org, ">
+	<word weight="0.3" count="3">trace</word>
+	<word weight="0.3" count="3">argument</word>
+	<word weight="0.3" count="3">impl</word>
+	<word weight="0.1" count="1">org</word>
+  </topic>
+  <topic id="3" alpha="12.142377122071041" totalTokens="69" titles="logger, info, format, override, center, throwable, argument, factory, object, ">
+	<word weight="0.5362318840579711" count="37">logger</word>
+	<word weight="0.11594202898550725" count="8">info</word>
+	<word weight="0.10144927536231885" count="7">format</word>
+	<word weight="0.07246376811594203" count="5">override</word>
+	<word weight="0.07246376811594203" count="5">center</word>
+	<word weight="0.028985507246376812" count="2">throwable</word>
+	<word weight="0.028985507246376812" count="2">argument</word>
+	<word weight="0.028985507246376812" count="2">factory</word>
+	<word weight="0.014492753623188406" count="1">object</word>
+	<phrase weight="0.4" count="2">override info</phrase>
+	<phrase weight="0.2" count="1">logger factory logger</phrase>
+	<phrase weight="0.2" count="1">logger info</phrase>
+	<phrase weight="0.2" count="1">throwable logger</phrase>
+  </topic>
+  <topic id="4" alpha="2.3142948517750948" totalTokens="8" titles="object, override, argument, slf, org, log, ">
+	<word weight="0.25" count="2">object</word>
+	<word weight="0.25" count="2">override</word>
+	<word weight="0.125" count="1">argument</word>
+	<word weight="0.125" count="1">slf</word>
+	<word weight="0.125" count="1">org</word>
+	<word weight="0.125" count="1">log</word>
+  </topic>
+  <topic id="5" alpha="11.732881755672562" totalTokens="78" titles="format, argument, warn, slf, record, throwable, info, ">
+	<word weight="0.4230769230769231" count="33">format</word>
+	<word weight="0.3974358974358974" count="31">argument</word>
+	<word weight="0.11538461538461539" count="9">warn</word>
+	<word weight="0.02564102564102564" count="2">slf</word>
+	<word weight="0.01282051282051282" count="1">record</word>
+	<word weight="0.01282051282051282" count="1">throwable</word>
+	<word weight="0.01282051282051282" count="1">info</word>
+	<phrase weight="0.8181818181818182" count="9">format argument</phrase>
+	<phrase weight="0.09090909090909091" count="1">warn format</phrase>
+	<phrase weight="0.09090909090909091" count="1">warn format argument</phrase>
+  </topic>
+  <topic id="6" alpha="4.812315652909432" totalTokens="29" titles="debug, object, info, ">
+	<word weight="0.4827586206896552" count="14">debug</word>
+	<word weight="0.4827586206896552" count="14">object</word>
+	<word weight="0.034482758620689655" count="1">info</word>
+  </topic>
+  <topic id="7" alpha="9.76943645134239" totalTokens="48" titles="msg, override, debug, ">
+	<word weight="0.8333333333333334" count="40">msg</word>
+	<word weight="0.125" count="6">override</word>
+	<word weight="0.041666666666666664" count="2">debug</word>
+	<phrase weight="0.5" count="1">msg override</phrase>
+	<phrase weight="0.5" count="1">debug msg</phrase>
+  </topic>
+  <topic id="8" alpha="15.459572491406496" totalTokens="89" titles="string, throwable, log, record, target, logger, argument, override, factory, slf">
+	<word weight="0.43820224719101125" count="39">string</word>
+	<word weight="0.19101123595505617" count="17">throwable</word>
+	<word weight="0.1348314606741573" count="12">log</word>
+	<word weight="0.056179775280898875" count="5">record</word>
+	<word weight="0.0449438202247191" count="4">target</word>
+	<word weight="0.0449438202247191" count="4">logger</word>
+	<word weight="0.033707865168539325" count="3">argument</word>
+	<word weight="0.033707865168539325" count="3">override</word>
+	<word weight="0.011235955056179775" count="1">factory</word>
+	<word weight="0.011235955056179775" count="1">slf</word>
+	<phrase weight="0.2857142857142857" count="2">record log</phrase>
+	<phrase weight="0.2857142857142857" count="2">log target record log</phrase>
+	<phrase weight="0.14285714285714285" count="1">throwable logger</phrase>
+	<phrase weight="0.14285714285714285" count="1">logger factory</phrase>
+	<phrase weight="0.14285714285714285" count="1">log target</phrase>
+  </topic>
+  <topic id="9" alpha="6.465234282447944" totalTokens="36" titles="override, implement, log, info, factory, ">
+	<word weight="0.6666666666666666" count="24">override</word>
+	<word weight="0.1111111111111111" count="4">implement</word>
+	<word weight="0.1111111111111111" count="4">log</word>
+	<word weight="0.08333333333333333" count="3">info</word>
+	<word weight="0.027777777777777776" count="1">factory</word>
+	<phrase weight="1.0" count="1">override info</phrase>
+  </topic>
+</topics>

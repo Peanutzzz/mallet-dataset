@@ -1,0 +1,10 @@
+0	11.10353	registry sentinel line bean dubbo 
+1	8.24079	set config service alibaba 
+2	16.93447	protocol registry dubbo demo 
+3	20.6158	application demo provider component port alibaba 
+4	6.80281	application protocol uncomment csp 
+5	4.33193	filter sentinel consumer don 
+6	6.47461	consumer address annotation enable 
+7	8.36506	multicast scan foo csp 
+8	48.41754	config bean configuration foo address 
+9	3.04799	service dubbo 

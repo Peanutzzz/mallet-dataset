@@ -1,0 +1,37 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.092571771207915" totalTokens="120" titles="json, bean, list, apollo, property, test, placeholder, update, auto, set">
+	<word weight="0.3333333333333333" count="40">json</word>
+	<word weight="0.225" count="27">bean</word>
+	<word weight="0.10833333333333334" count="13">list</word>
+	<word weight="0.06666666666666667" count="8">apollo</word>
+	<word weight="0.058333333333333334" count="7">property</word>
+	<word weight="0.05" count="6">test</word>
+	<word weight="0.05" count="6">placeholder</word>
+	<word weight="0.03333333333333333" count="4">update</word>
+	<word weight="0.025" count="3">auto</word>
+	<word weight="0.016666666666666666" count="2">set</word>
+	<word weight="0.008333333333333333" count="1">info</word>
+	<word weight="0.008333333333333333" count="1">logger</word>
+	<word weight="0.008333333333333333" count="1">embed</word>
+	<word weight="0.008333333333333333" count="1">string</word>
+  </topic>
+  <topic id="1" alpha="1.3484636190632582E-191" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="1.515716894383395E-191" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="1.7334733481237553E-191" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="1.855295917403023E-191" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="1.498147774287163E-191" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="1.3819388869006453E-191" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="1.695408588954511E-191" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="1.6313894351887883E-191" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="1.7157288868468053E-191" totalTokens="0" titles="">
+  </topic>
+</topics>

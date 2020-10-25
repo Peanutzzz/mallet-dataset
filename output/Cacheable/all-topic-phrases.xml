@@ -1,0 +1,43 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.954656944319169" totalTokens="82" titles="role, code, username, string, set, menu, result, select, service, variable">
+	<word weight="0.12195121951219512" count="10">role</word>
+	<word weight="0.08536585365853659" count="7">code</word>
+	<word weight="0.07317073170731707" count="6">username</word>
+	<word weight="0.07317073170731707" count="6">string</word>
+	<word weight="0.06097560975609756" count="5">set</word>
+	<word weight="0.06097560975609756" count="5">menu</word>
+	<word weight="0.04878048780487805" count="4">user</word>
+	<word weight="0.036585365853658534" count="3">result</word>
+	<word weight="0.024390243902439025" count="2">select</word>
+	<word weight="0.024390243902439025" count="2">service</word>
+	<word weight="0.024390243902439025" count="2">variable</word>
+	<word weight="0.024390243902439025" count="2">path</word>
+	<word weight="0.024390243902439025" count="2">find</word>
+	<word weight="0.024390243902439025" count="2">list</word>
+	<word weight="0.024390243902439025" count="2">key</word>
+	<word weight="0.024390243902439025" count="2">cacheable</word>
+	<word weight="0.024390243902439025" count="2">operation</word>
+	<word weight="0.024390243902439025" count="2">api</word>
+	<word weight="0.024390243902439025" count="2">controller</word>
+	<word weight="0.012195121951219513" count="1">app</word>
+  </topic>
+  <topic id="1" alpha="1.7659199894839447E-32" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="1.7659199894839447E-32" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="1.7659199894839447E-32" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="1.7659199894839447E-32" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="1.7659199894839447E-32" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="1.7659199894839447E-32" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="1.7659199894839447E-32" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="1.7659199894839447E-32" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="1.7659199894839447E-32" totalTokens="0" titles="">
+  </topic>
+</topics>

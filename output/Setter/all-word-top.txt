@@ -1,0 +1,271 @@
+0 setter 5:10 2:10 3:4 1:4 4:3 0:3 9:1 8:1 7:1
+1 getter 2:11 5:10 1:6 3:5 9:1 4:1 7:1
+2 fdf 2:3
+3 property 2:48 1:8 7:2
+4 fastdf 2:2
+5 http 1:7 6:2
+6 string 5:28 7:23 1:20 0:10 8:4 2:4 6:2 9:1
+7 web 2:1
+8 url 1:30
+9 configuration 2:12
+10 prefix 2:11 9:4 0:2
+11 zlt 2:13 9:1 8:1
+12 file 2:2
+13 server 2:2
+14 refresh 2:9
+15 scope 2:8 4:1
+16 qiniu 2:1
+17 oss 2:6 5:1
+18 aliyun 2:1
+19 fast 2:2
+20 type 5:2 2:2
+21 fdfs 2:1
+22 key 5:7 0:1
+23 access 5:2 7:1
+24 secret 5:1
+25 endpoint 1:3 5:1
+26 bucket 5:2
+27 domain 5:1
+28 agg 0:3
+29 item 7:4 0:1
+30 dto 5:2 3:1
+31 arg 3:4 5:2
+32 constructor 3:4 5:2
+33 logic 5:3
+34 del 5:3
+35 field 7:27 4:6 5:1
+36 index 7:9 2:2
+37 show 2:2
+38 menu 3:5
+39 equal 3:2 6:1
+40 hash 3:3 0:2
+41 code 2:5 3:3 7:1
+42 call 3:2
+43 false 2:4 3:2 1:2 7:1 0:1
+44 table 3:6
+45 role 3:12
+46 extend 3:8 6:1
+47 model 4:2 3:2 5:1
+48 user 3:14 8:10
+49 auth 6:3 2:3 8:1
+50 security 2:2 1:1
+51 ignore 0:6 1:5 2:2
+52 token 8:11 5:2 1:2 3:1
+53 redi 1:1
+54 renew 1:4
+55 permission 1:6
+56 permit 2:2 9:1
+57 swagger 0:5 1:4
+58 oauth 1:1
+59 actuator 4:1
+60 api 1:4 0:3
+61 doc 1:2 0:2
+62 html 1:1
+63 resource 1:1
+64 webjar 1:1
+65 druid 1:1
+66 length 1:1
+67 list 1:22 7:15 0:1
+68 array 1:8 7:4
+69 add 1:3 7:2
+70 size 9:9 0:6 1:1 7:1
+71 redis 1:2
+72 enable 1:15 2:1
+73 true 1:11 0:4 7:1 8:1
+74 include 1:2
+75 client 7:15 1:5 2:3 6:2 5:2 3:1
+76 exclusive 1:2
+77 time 4:10 5:1
+78 ratio 1:1
+79 validate 2:3
+80 task 9:10
+81 config 5:4 9:2 3:1
+82 async 9:1
+83 proxy 9:1
+84 target 9:1 7:1
+85 asyc 9:5
+86 core 9:4
+87 pool 9:12 4:3
+88 max 9:5 4:4
+89 queue 9:4
+90 capacity 9:4
+91 thread 9:7
+92 executor 9:14
+93 bean 9:1
+94 custom 9:1 0:1
+95 set 7:12 9:5 0:4 3:3 8:2
+96 rejection 9:1
+97 policy 9:2
+98 caller 9:2
+99 run 9:2
+100 reject 9:1
+101 execution 9:1
+102 handler 9:1
+103 initialize 9:1
+104 login 3:1
+105 app 3:1
+106 implement 8:1 3:1 5:1
+107 social 3:1
+108 detail 8:7 3:1
+109 serial 3:3
+110 version 3:3 0:1
+111 json 7:6 3:1 0:1
+112 override 3:7 8:3
+113 collection 3:6
+114 grant 3:4
+115 authority 3:4 8:1
+116 util 7:9 3:1
+117 empty 7:7 3:1
+118 parallel 3:1
+119 stream 1:1
+120 simple 3:1
+121 account 3:2
+122 expire 3:2
+123 lock 1:1
+124 credentials 8:2 3:1
+125 open 3:1
+126 entity 0:4 4:1
+127 fill 4:9
+128 insert 4:3
+129 date 5:2 3:2
+130 create 4:3
+131 update 4:5
+132 protect 4:1
+133 serializable 4:1 3:1
+134 val 4:1
+135 tenant 6:6 1:2
+136 sql 2:2
+137 mapper 1:3
+138 central 3:1
+139 find 3:1 0:1
+140 auto 4:3
+141 mybatis 4:2
+142 elasticsearch 7:9 4:1
+143 rest 7:6 4:4
+144 integer 7:6 4:5
+145 connect 2:3 4:1
+146 socket 2:1
+147 connection 4:1
+148 request 7:20 6:10 4:1
+149 num 4:1
+150 route 0:26 7:2 4:2
+151 search 7:68
+152 builder 7:52
+153 highlighter 7:8
+154 pre 7:7
+155 tag 7:14
+156 mark 7:2
+157 post 7:7 6:3
+158 source 7:15
+159 high 7:6
+160 level 7:4
+161 param 7:20
+162 template 7:8 4:2
+163 query 7:18 5:1
+164 str 7:9
+165 match 7:1 8:1
+166 page 7:22
+167 limit 7:11
+168 track 7:5
+169 total 7:8 4:1
+170 hit 7:16
+171 order 7:5
+172 sort 7:3
+173 highlight 7:19
+174 routing 7:4
+175 response 7:5 6:2
+176 exception 7:8 8:3 6:1
+177 option 7:1
+178 object 7:16
+179 result 7:8 8:3
+180 cnt 7:2
+181 datum 7:1
+182 count 7:1
+183 build 7:1
+184 parse 7:1
+185 put 7:1
+186 map 0:3 7:2
+187 populate 7:2
+188 light 7:2
+189 end 7:1
+190 keyword 7:1
+191 concat 7:2
+192 fragment 7:2
+193 invocation 7:1
+194 illegal 7:1
+195 method 6:3 7:1 5:1
+196 fail 7:1
+197 text 7:6
+198 buffer 7:2
+199 append 7:1
+200 audit 2:4
+201 local 5:1
+202 timestamp 5:1
+203 application 5:1
+204 operation 5:2
+205 log 2:5
+206 logger 2:1
+207 datasource 2:1
+208 hikari 2:1
+209 trace 2:2
+210 cache 5:7
+211 manager 5:2 6:1
+212 sec 5:2
+213 read 2:1
+214 timeout 4:2
+215 global 5:1
+216 parameter 5:2
+217 description 5:1
+218 ref 5:1
+219 header 0:2
+220 path 0:5
+221 body 5:1
+222 form 5:1
+223 require 0:2
+224 generate 0:7
+225 zuul 0:3
+226 pattern 0:2
+227 foo 0:1
+228 service 0:6 8:5 3:1
+229 physical 0:3
+230 full 1:1
+231 alternative 0:1
+232 discovery 0:1
+233 address 0:1
+234 flag 0:2
+235 determine 0:1
+236 minus 1:1
+237 patcher 0:1
+238 strip 0:2
+239 forward 0:1
+240 retryable 0:2
+241 support 8:2 0:1
+242 generally 0:1
+243 retry 0:1
+244 ribbon 0:1
+245 sensitive 0:1
+246 locator 0:1
+247 provider 8:3
+248 mobile 8:9
+249 authentication 8:22 6:11
+250 password 6:10 8:8
+251 encoder 8:3
+252 authenticate 8:1 6:1
+253 principal 8:1
+254 load 8:1
+255 internal 8:1
+256 bad 8:1
+257 assignable 8:1
+258 expiration 5:1
+259 username 6:12 5:1
+260 filter 6:4
+261 attempt 8:1
+262 servlet 6:2
+263 obtain 6:2
+264 context 6:1
+265 holder 8:1
+266 trim 8:1
+267 extraction 5:1
+268 test 5:2
+269 lombok 5:1
+270 age 5:1

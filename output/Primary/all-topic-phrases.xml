@@ -1,0 +1,110 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.378896726544028E-4" totalTokens="63" titles="config, biz, url, eureka, zone, client, service, string, server, apollo">
+	<word weight="0.1746031746031746" count="11">config</word>
+	<word weight="0.1111111111111111" count="7">biz</word>
+	<word weight="0.09523809523809523" count="6">url</word>
+	<word weight="0.09523809523809523" count="6">eureka</word>
+	<word weight="0.06349206349206349" count="4">zone</word>
+	<word weight="0.06349206349206349" count="4">client</word>
+	<word weight="0.047619047619047616" count="3">service</word>
+	<word weight="0.047619047619047616" count="3">string</word>
+	<word weight="0.031746031746031744" count="2">server</word>
+	<word weight="0.031746031746031744" count="2">apollo</word>
+	<word weight="0.031746031746031744" count="2">equal</word>
+	<word weight="0.031746031746031744" count="2">list</word>
+	<word weight="0.015873015873015872" count="1">empty</word>
+	<word weight="0.015873015873015872" count="1">collection</word>
+	<word weight="0.015873015873015872" count="1">environment</word>
+	<word weight="0.015873015873015872" count="1">multiple</word>
+	<word weight="0.015873015873015872" count="1">extend</word>
+	<word weight="0.015873015873015872" count="1">util</word>
+	<word weight="0.015873015873015872" count="1">override</word>
+	<word weight="0.015873015873015872" count="1">component</word>
+  </topic>
+  <topic id="1" alpha="1.4386578074446442E-289" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="9.384085134652647E-4" totalTokens="112" titles="redis, cache, serializer, configuration, manager, map, size, key, property, factory">
+	<word weight="0.14285714285714285" count="16">redis</word>
+	<word weight="0.13392857142857142" count="15">cache</word>
+	<word weight="0.07142857142857142" count="8">serializer</word>
+	<word weight="0.0625" count="7">configuration</word>
+	<word weight="0.0625" count="7">manager</word>
+	<word weight="0.05357142857142857" count="6">conf</word>
+	<word weight="0.044642857142857144" count="5">map</word>
+	<word weight="0.044642857142857144" count="5">config</word>
+	<word weight="0.03571428571428571" count="4">size</word>
+	<word weight="0.03571428571428571" count="4">key</word>
+	<word weight="0.026785714285714284" count="3">property</word>
+	<word weight="0.026785714285714284" count="3">factory</word>
+	<word weight="0.026785714285714284" count="3">connection</word>
+	<word weight="0.017857142857142856" count="2">duration</word>
+	<word weight="0.017857142857142856" count="2">ttl</word>
+	<word weight="0.017857142857142856" count="2">entry</word>
+	<word weight="0.017857142857142856" count="2">def</word>
+	<word weight="0.017857142857142856" count="2">dif</word>
+	<word weight="0.017857142857142856" count="2">string</word>
+	<word weight="0.017857142857142856" count="2">redi</word>
+  </topic>
+  <topic id="3" alpha="4.753435962648932E-271" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="9.384244576506026E-4" totalTokens="114" titles="auth, user, username, session, string, web, override, sentinel, impl, obj">
+	<word weight="0.11403508771929824" count="13">auth</word>
+	<word weight="0.10526315789473684" count="12">user</word>
+	<word weight="0.06140350877192982" count="7">username</word>
+	<word weight="0.06140350877192982" count="7">session</word>
+	<word weight="0.06140350877192982" count="7">string</word>
+	<word weight="0.05263157894736842" count="6">web</word>
+	<word weight="0.05263157894736842" count="6">override</word>
+	<word weight="0.043859649122807015" count="5">sentinel</word>
+	<word weight="0.043859649122807015" count="5">impl</word>
+	<word weight="0.03508771929824561" count="4">obj</word>
+	<word weight="0.03508771929824561" count="4">request</word>
+	<word weight="0.03508771929824561" count="4">simple</word>
+	<word weight="0.03508771929824561" count="4">service</word>
+	<word weight="0.02631578947368421" count="3">http</word>
+	<word weight="0.02631578947368421" count="3">true</word>
+	<word weight="0.017543859649122806" count="2">type</word>
+	<word weight="0.017543859649122806" count="2">privilege</word>
+	<word weight="0.017543859649122806" count="2">target</word>
+	<word weight="0.017543859649122806" count="2">servlet</word>
+	<word weight="0.017543859649122806" count="2">implement</word>
+  </topic>
+  <topic id="5" alpha="2.729185070739572E-268" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="1.567899081761258E-271" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="9.36935955386743E-4" totalTokens="22" titles="source, datum, proxy, druid, config, primary, bean, ">
+	<word weight="0.2727272727272727" count="6">source</word>
+	<word weight="0.2727272727272727" count="6">datum</word>
+	<word weight="0.18181818181818182" count="4">proxy</word>
+	<word weight="0.13636363636363635" count="3">druid</word>
+	<word weight="0.045454545454545456" count="1">config</word>
+	<word weight="0.045454545454545456" count="1">primary</word>
+	<word weight="0.045454545454545456" count="1">bean</word>
+  </topic>
+  <topic id="8" alpha="6.743774430470949E-277" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="9.38740887052761E-4" totalTokens="162" titles="swagger, route, resource, property, definition, gateway, locator, predicate, set, location">
+	<word weight="0.1419753086419753" count="23">swagger</word>
+	<word weight="0.13580246913580246" count="22">route</word>
+	<word weight="0.10493827160493827" count="17">resource</word>
+	<word weight="0.08641975308641975" count="14">property</word>
+	<word weight="0.06172839506172839" count="10">definition</word>
+	<word weight="0.04938271604938271" count="8">gateway</word>
+	<word weight="0.043209876543209874" count="7">locator</word>
+	<word weight="0.037037037037037035" count="6">agg</word>
+	<word weight="0.030864197530864196" count="5">predicate</word>
+	<word weight="0.030864197530864196" count="5">set</word>
+	<word weight="0.018518518518518517" count="3">location</word>
+	<word weight="0.018518518518518517" count="3">list</word>
+	<word weight="0.018518518518518517" count="3">provider</word>
+	<word weight="0.018518518518518517" count="3">string</word>
+	<word weight="0.012345679012345678" count="2">version</word>
+	<word weight="0.012345679012345678" count="2">path</word>
+	<word weight="0.012345679012345678" count="2">filter</word>
+	<word weight="0.012345679012345678" count="2">stream</word>
+	<word weight="0.012345679012345678" count="2">add</word>
+	<word weight="0.006172839506172839" count="1">doc</word>
+  </topic>
+</topics>

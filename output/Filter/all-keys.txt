@@ -1,0 +1,10 @@
+0	57.68157	type filter test configuration annotation placeholder application service config component update auto admin local assignable security web converter message http 
+1	0	
+2	0	
+3	0	
+4	0	
+5	0	
+6	0	
+7	0	
+8	0	
+9	0	

@@ -1,0 +1,299 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.01649147353709483" totalTokens="107" titles="score, change, tuple, parameter, open, superstep, math, context, runtime, iteration">
+	<word weight="0.12149532710280374" count="13">score</word>
+	<word weight="0.12149532710280374" count="13">change</word>
+	<word weight="0.06542056074766354" count="7">tuple</word>
+	<word weight="0.056074766355140186" count="6">parameter</word>
+	<word weight="0.056074766355140186" count="6">open</word>
+	<word weight="0.04672897196261682" count="5">superstep</word>
+	<word weight="0.04672897196261682" count="5">math</word>
+	<word weight="0.04672897196261682" count="5">context</word>
+	<word weight="0.04672897196261682" count="5">runtime</word>
+	<word weight="0.04672897196261682" count="5">iteration</word>
+	<word weight="0.037383177570093455" count="4">agg</word>
+	<word weight="0.037383177570093455" count="4">aggregator</word>
+	<word weight="0.037383177570093455" count="4">close</word>
+	<word weight="0.037383177570093455" count="4">initial</word>
+	<word weight="0.028037383177570093" count="3">abs</word>
+	<word weight="0.028037383177570093" count="3">configuration</word>
+	<word weight="0.028037383177570093" count="3">sum</word>
+	<word weight="0.028037383177570093" count="3">rich</word>
+	<word weight="0.028037383177570093" count="3">extend</word>
+	<word weight="0.018691588785046728" count="2">aggregate</word>
+	<phrase weight="0.23076923076923078" count="3">open configuration parameter</phrase>
+	<phrase weight="0.15384615384615385" count="2">close sum aggregator agg iteration runtime context iteration aggregator change score agg aggregate change score</phrase>
+	<phrase weight="0.07692307692307693" count="1">open parameter</phrase>
+	<phrase weight="0.07692307692307693" count="1">open parameter change score</phrase>
+	<phrase weight="0.07692307692307693" count="1">extend rich</phrase>
+	<phrase weight="0.07692307692307693" count="1">open parameter initial superstep iteration runtime context superstep number change score initial superstep</phrase>
+	<phrase weight="0.07692307692307693" count="1">score extend rich</phrase>
+	<phrase weight="0.07692307692307693" count="1">initial superstep change score</phrase>
+	<phrase weight="0.07692307692307693" count="1">change score extend rich</phrase>
+	<phrase weight="0.07692307692307693" count="1">tuple tuple</phrase>
+  </topic>
+  <topic id="1" alpha="0.4866508414573648" totalTokens="590" titles="tuple, field, forward, join, override, exception, function, implement, collector, flat">
+	<word weight="0.3135593220338983" count="185">tuple</word>
+	<word weight="0.1152542372881356" count="68">field</word>
+	<word weight="0.10508474576271186" count="62">forward</word>
+	<word weight="0.1016949152542373" count="60">join</word>
+	<word weight="0.06610169491525424" count="39">override</word>
+	<word weight="0.06440677966101695" count="38">exception</word>
+	<word weight="0.061016949152542375" count="36">function</word>
+	<word weight="0.059322033898305086" count="35">implement</word>
+	<word weight="0.03898305084745763" count="23">collector</word>
+	<word weight="0.03220338983050847" count="19">collect</word>
+	<word weight="0.022033898305084745" count="13">flat</word>
+	<word weight="0.005084745762711864" count="3">annotation</word>
+	<word weight="0.003389830508474576" count="2">set</word>
+	<word weight="0.003389830508474576" count="2">test</word>
+	<word weight="0.003389830508474576" count="2">translation</word>
+	<word weight="0.001694915254237288" count="1">hubbiness</word>
+	<word weight="0.001694915254237288" count="1">iteration</word>
+	<word weight="0.001694915254237288" count="1">internal</word>
+	<phrase weight="0.08791208791208792" count="8">forward field</phrase>
+	<phrase weight="0.07692307692307693" count="7">field forward field</phrase>
+	<phrase weight="0.06593406593406594" count="6">forward field forward field</phrase>
+	<phrase weight="0.054945054945054944" count="5">tuple tuple</phrase>
+	<phrase weight="0.054945054945054944" count="5">join tuple</phrase>
+	<phrase weight="0.054945054945054944" count="5">flat join function</phrase>
+	<phrase weight="0.04395604395604396" count="4">flat join function tuple</phrase>
+	<phrase weight="0.03296703296703297" count="3">tuple exception</phrase>
+	<phrase weight="0.03296703296703297" count="3">tuple override</phrase>
+	<phrase weight="0.03296703296703297" count="3">tuple join</phrase>
+	<phrase weight="0.03296703296703297" count="3">collector tuple exception</phrase>
+	<phrase weight="0.02197802197802198" count="2">function forward field forward field join</phrase>
+	<phrase weight="0.02197802197802198" count="2">override join tuple</phrase>
+	<phrase weight="0.02197802197802198" count="2">collect tuple</phrase>
+	<phrase weight="0.02197802197802198" count="2">tuple collector tuple exception</phrase>
+	<phrase weight="0.02197802197802198" count="2">flat join</phrase>
+	<phrase weight="0.02197802197802198" count="2">function tuple tuple tuple tuple</phrase>
+	<phrase weight="0.02197802197802198" count="2">function tuple</phrase>
+	<phrase weight="0.02197802197802198" count="2">tuple collect tuple</phrase>
+	<phrase weight="0.02197802197802198" count="2">join function tuple tuple</phrase>
+  </topic>
+  <topic id="2" alpha="0.027364731632310495" totalTokens="135" titles="edge, projection, vvb, vvt, bipartite, equal, full, bottom, simple, top">
+	<word weight="0.35555555555555557" count="48">edge</word>
+	<word weight="0.2222222222222222" count="30">projection</word>
+	<word weight="0.13333333333333333" count="18">vvb</word>
+	<word weight="0.13333333333333333" count="18">vvt</word>
+	<word weight="0.05925925925925926" count="8">bipartite</word>
+	<word weight="0.02962962962962963" count="4">equal</word>
+	<word weight="0.014814814814814815" count="2">full</word>
+	<word weight="0.014814814814814815" count="2">bottom</word>
+	<word weight="0.014814814814814815" count="2">simple</word>
+	<word weight="0.014814814814814815" count="2">top</word>
+	<word weight="0.007407407407407408" count="1">collector</word>
+	<phrase weight="0.1" count="2">vvt vvb</phrase>
+	<phrase weight="0.1" count="2">edge bipartite edge edge</phrase>
+	<phrase weight="0.1" count="2">edge edge edge</phrase>
+	<phrase weight="0.1" count="2">equal edge edge projection projection projection projection projection projection</phrase>
+	<phrase weight="0.05" count="1">vvt vvb edge projection vvb vvt projection vvb vvt projection projection edge projection vvb vvt edge edge projection</phrase>
+	<phrase weight="0.05" count="1">bipartite edge bipartite edge collector edge</phrase>
+	<phrase weight="0.05" count="1">bottom simple</phrase>
+	<phrase weight="0.05" count="1">bottom full vvt vvb</phrase>
+	<phrase weight="0.05" count="1">edge projection vvb vvt</phrase>
+	<phrase weight="0.05" count="1">top full vvt vvb</phrase>
+	<phrase weight="0.05" count="1">bipartite edge bipartite edge</phrase>
+	<phrase weight="0.05" count="1">edge projection vvt vvb</phrase>
+	<phrase weight="0.05" count="1">edge edge edge edge</phrase>
+	<phrase weight="0.05" count="1">equal edge edge edge edge</phrase>
+	<phrase weight="0.05" count="1">top simple</phrase>
+	<phrase weight="0.05" count="1">vvt vvb edge projection vvt vvb projection vvt vvb projection projection edge projection vvt vvb edge edge projection</phrase>
+  </topic>
+  <topic id="3" alpha="0.023923364509816636" totalTokens="90" titles="vertex, triplet, set, output, result, val, src, edge, project, triangle">
+	<word weight="0.24444444444444444" count="22">vertex</word>
+	<word weight="0.18888888888888888" count="17">triplet</word>
+	<word weight="0.13333333333333333" count="12">set</word>
+	<word weight="0.12222222222222222" count="11">output</word>
+	<word weight="0.08888888888888889" count="8">result</word>
+	<word weight="0.05555555555555555" count="5">val</word>
+	<word weight="0.05555555555555555" count="5">src</word>
+	<word weight="0.044444444444444446" count="4">edge</word>
+	<word weight="0.03333333333333333" count="3">project</word>
+	<word weight="0.022222222222222223" count="2">triangle</word>
+	<word weight="0.011111111111111112" count="1">bitmask</word>
+	<phrase weight="0.25" count="2">vertex vertex project triangle</phrase>
+	<phrase weight="0.25" count="2">result output result</phrase>
+	<phrase weight="0.25" count="2">vertex vertex</phrase>
+	<phrase weight="0.125" count="1">src val set vertex vertex</phrase>
+	<phrase weight="0.125" count="1">edge vertex</phrase>
+  </topic>
+  <topic id="4" alpha="0.024722705197906245" totalTokens="84" titles="integer, string, function, annotation, group, test, iterable, read, dummy, execute">
+	<word weight="0.30952380952380953" count="26">integer</word>
+	<word weight="0.15476190476190477" count="13">string</word>
+	<word weight="0.14285714285714285" count="12">function</word>
+	<word weight="0.09523809523809523" count="8">annotation</word>
+	<word weight="0.07142857142857142" count="6">group</word>
+	<word weight="0.05952380952380952" count="5">test</word>
+	<word weight="0.047619047619047616" count="4">iterable</word>
+	<word weight="0.047619047619047616" count="4">read</word>
+	<word weight="0.03571428571428571" count="3">dummy</word>
+	<word weight="0.011904761904761904" count="1">execute</word>
+	<word weight="0.011904761904761904" count="1">win</word>
+	<word weight="0.011904761904761904" count="1">operator</word>
+	<phrase weight="0.4" count="10">integer string integer</phrase>
+	<phrase weight="0.16" count="4">function annotation read</phrase>
+	<phrase weight="0.08" count="2">group function</phrase>
+	<phrase weight="0.08" count="2">function annotation</phrase>
+	<phrase weight="0.04" count="1">integer string integer iterable</phrase>
+	<phrase weight="0.04" count="1">dummy test group function</phrase>
+	<phrase weight="0.04" count="1">group iterable</phrase>
+	<phrase weight="0.04" count="1">dummy test</phrase>
+	<phrase weight="0.04" count="1">operator test function annotation</phrase>
+	<phrase weight="0.04" count="1">test function annotation</phrase>
+	<phrase weight="0.04" count="1">string integer</phrase>
+  </topic>
+  <topic id="5" alpha="0.098947069124343" totalTokens="280" titles="edge, vertex, neighbor, function, join, field, message, representative, target, project">
+	<word weight="0.26785714285714285" count="75">edge</word>
+	<word weight="0.19642857142857142" count="55">vertex</word>
+	<word weight="0.060714285714285714" count="17">neighbor</word>
+	<word weight="0.05357142857142857" count="15">function</word>
+	<word weight="0.04285714285714286" count="12">join</word>
+	<word weight="0.03571428571428571" count="10">field</word>
+	<word weight="0.02857142857142857" count="8">message</word>
+	<word weight="0.02857142857142857" count="8">representative</word>
+	<word weight="0.02857142857142857" count="8">target</word>
+	<word weight="0.02857142857142857" count="8">project</word>
+	<word weight="0.025" count="7">key</word>
+	<word weight="0.025" count="7">source</word>
+	<word weight="0.02142857142857143" count="6">reuse</word>
+	<word weight="0.02142857142857143" count="6">warning</word>
+	<word weight="0.02142857142857143" count="6">group</word>
+	<word weight="0.017857142857142856" count="5">position</word>
+	<word weight="0.017857142857142856" count="5">serial</word>
+	<word weight="0.014285714285714285" count="4">suppress</word>
+	<word weight="0.014285714285714285" count="4">set</word>
+	<word weight="0.014285714285714285" count="4">annotation</word>
+	<phrase weight="0.13333333333333333" count="6">edge vertex</phrase>
+	<phrase weight="0.044444444444444446" count="2">warning serial function annotation</phrase>
+	<phrase weight="0.044444444444444446" count="2">vertex message</phrase>
+	<phrase weight="0.044444444444444446" count="2">edge join vertex vertex edge edge</phrase>
+	<phrase weight="0.022222222222222223" count="1">field project vertex neighbor join</phrase>
+	<phrase weight="0.022222222222222223" count="1">message message</phrase>
+	<phrase weight="0.022222222222222223" count="1">project key neighbor</phrase>
+	<phrase weight="0.022222222222222223" count="1">source vertex edge group function annotation</phrase>
+	<phrase weight="0.022222222222222223" count="1">suppress warning serial</phrase>
+	<phrase weight="0.022222222222222223" count="1">join function vertex</phrase>
+	<phrase weight="0.022222222222222223" count="1">field vertex group edge target target vertex</phrase>
+	<phrase weight="0.022222222222222223" count="1">vertex edge src</phrase>
+	<phrase weight="0.022222222222222223" count="1">field project edge remove</phrase>
+	<phrase weight="0.022222222222222223" count="1">join function edge vertex representative edge</phrase>
+	<phrase weight="0.022222222222222223" count="1">vertex edge edge</phrase>
+	<phrase weight="0.022222222222222223" count="1">vertex vertex edge edge</phrase>
+	<phrase weight="0.022222222222222223" count="1">edge join edge edge vertex representative vertex</phrase>
+	<phrase weight="0.022222222222222223" count="1">field append vertex state message</phrase>
+	<phrase weight="0.022222222222222223" count="1">project edge neighbor</phrase>
+	<phrase weight="0.022222222222222223" count="1">edge edge vertex vertex</phrase>
+  </topic>
+  <topic id="6" alpha="0.006087001022589963" totalTokens="95" titles="square, sum, authority, hubbiness, iterator, root, output, sqrt, variable, broadcast">
+	<word weight="0.17894736842105263" count="17">square</word>
+	<word weight="0.17894736842105263" count="17">sum</word>
+	<word weight="0.15789473684210525" count="15">authority</word>
+	<word weight="0.1368421052631579" count="13">hubbiness</word>
+	<word weight="0.09473684210526316" count="9">iterator</word>
+	<word weight="0.06315789473684211" count="6">root</word>
+	<word weight="0.05263157894736842" count="5">output</word>
+	<word weight="0.021052631578947368" count="2">sqrt</word>
+	<word weight="0.021052631578947368" count="2">variable</word>
+	<word weight="0.021052631578947368" count="2">broadcast</word>
+	<word weight="0.021052631578947368" count="2">collection</word>
+	<word weight="0.021052631578947368" count="2">set</word>
+	<word weight="0.010526315789473684" count="1">squared</word>
+	<word weight="0.010526315789473684" count="1">normalize</word>
+	<word weight="0.010526315789473684" count="1">join</word>
+	<phrase weight="0.125" count="1">broadcast variable authority sum square iterator authority sum square iterator authority sum square iterator authority root sum squared authority sum square iterator</phrase>
+	<phrase weight="0.125" count="1">collection authority sum square</phrase>
+	<phrase weight="0.125" count="1">square iterator hubbiness root sum square hubbiness sum square iterator</phrase>
+	<phrase weight="0.125" count="1">hubbiness sum square</phrase>
+	<phrase weight="0.125" count="1">sqrt hubbiness sum square</phrase>
+	<phrase weight="0.125" count="1">broadcast variable hubbiness sum square iterator hubbiness sum square iterator hubbiness</phrase>
+	<phrase weight="0.125" count="1">hubbiness root sum square authority root sum square</phrase>
+	<phrase weight="0.125" count="1">sqrt authority sum square iterator</phrase>
+  </topic>
+  <topic id="7" alpha="0.030476546566994688" totalTokens="98" titles="component, candidate, minimum, current, iterator, iterable, group, update, version, serial">
+	<word weight="0.22448979591836735" count="22">component</word>
+	<word weight="0.15306122448979592" count="15">candidate</word>
+	<word weight="0.10204081632653061" count="10">minimum</word>
+	<word weight="0.07142857142857142" count="7">current</word>
+	<word weight="0.07142857142857142" count="7">iterator</word>
+	<word weight="0.04081632653061224" count="4">iterable</word>
+	<word weight="0.04081632653061224" count="4">group</word>
+	<word weight="0.030612244897959183" count="3">update</word>
+	<word weight="0.030612244897959183" count="3">version</word>
+	<word weight="0.030612244897959183" count="3">serial</word>
+	<word weight="0.02040816326530612" count="2">max</word>
+	<word weight="0.02040816326530612" count="2">encounter</word>
+	<word weight="0.02040816326530612" count="2">error</word>
+	<word weight="0.02040816326530612" count="2">min</word>
+	<word weight="0.02040816326530612" count="2">connect</word>
+	<word weight="0.02040816326530612" count="2">rich</word>
+	<word weight="0.02040816326530612" count="2">extend</word>
+	<word weight="0.01020408163265306" count="1">mirror</word>
+	<word weight="0.01020408163265306" count="1">match</word>
+	<word weight="0.01020408163265306" count="1">solution</word>
+	<phrase weight="0.13333333333333333" count="2">connect component</phrase>
+	<phrase weight="0.13333333333333333" count="2">error encounter</phrase>
+	<phrase weight="0.06666666666666667" count="1">tuple iterator</phrase>
+	<phrase weight="0.06666666666666667" count="1">candidate candidate candidate component candidate candidate component minimum component minimum component candidate component minimum component minimum component</phrase>
+	<phrase weight="0.06666666666666667" count="1">iterator minimum component max</phrase>
+	<phrase weight="0.06666666666666667" count="1">current minimum component max</phrase>
+	<phrase weight="0.06666666666666667" count="1">candidate candidate component candidate candidate component minimum component minimum component candidate component minimum component</phrase>
+	<phrase weight="0.06666666666666667" count="1">group iterable</phrase>
+	<phrase weight="0.06666666666666667" count="1">iterator current iterator iterator runtime</phrase>
+	<phrase weight="0.06666666666666667" count="1">component match mirror</phrase>
+	<phrase weight="0.06666666666666667" count="1">candidate iterable</phrase>
+	<phrase weight="0.06666666666666667" count="1">current iterator current</phrase>
+	<phrase weight="0.06666666666666667" count="1">update extend rich group</phrase>
+  </topic>
+  <topic id="8" alpha="0.036879195914787354" totalTokens="101" titles="edge, output, iterator, vertex, iterable, group, send, score, authority, set">
+	<word weight="0.45544554455445546" count="46">edge</word>
+	<word weight="0.2079207920792079" count="21">output</word>
+	<word weight="0.09900990099009901" count="10">iterator</word>
+	<word weight="0.07920792079207921" count="8">vertex</word>
+	<word weight="0.0594059405940594" count="6">iterable</word>
+	<word weight="0.0594059405940594" count="6">group</word>
+	<word weight="0.009900990099009901" count="1">send</word>
+	<word weight="0.009900990099009901" count="1">score</word>
+	<word weight="0.009900990099009901" count="1">authority</word>
+	<word weight="0.009900990099009901" count="1">set</word>
+	<phrase weight="0.15384615384615385" count="2">output edge</phrase>
+	<phrase weight="0.15384615384615385" count="2">edge edge output edge</phrase>
+	<phrase weight="0.15384615384615385" count="2">vertex iterator</phrase>
+	<phrase weight="0.07692307692307693" count="1">edge output edge</phrase>
+	<phrase weight="0.07692307692307693" count="1">edge edge</phrase>
+	<phrase weight="0.07692307692307693" count="1">output edge iterator edge edge iterator output edge</phrase>
+	<phrase weight="0.07692307692307693" count="1">output edge output edge</phrase>
+	<phrase weight="0.07692307692307693" count="1">edge edge iterator edge iterator edge iterator edge edge edge iterator output edge output set vertex iterator edge</phrase>
+	<phrase weight="0.07692307692307693" count="1">vertex iterable edge edge</phrase>
+	<phrase weight="0.07692307692307693" count="1">vertex iterable</phrase>
+  </topic>
+  <topic id="9" alpha="0.03978261768155921" totalTokens="170" titles="vertex, degree, output, join, count, triangle, result, set, coefficient, field">
+	<word weight="0.3588235294117647" count="61">vertex</word>
+	<word weight="0.2529411764705882" count="43">degree</word>
+	<word weight="0.10588235294117647" count="18">output</word>
+	<word weight="0.06470588235294118" count="11">join</word>
+	<word weight="0.058823529411764705" count="10">count</word>
+	<word weight="0.058823529411764705" count="10">triangle</word>
+	<word weight="0.047058823529411764" count="8">result</word>
+	<word weight="0.029411764705882353" count="5">set</word>
+	<word weight="0.011764705882352941" count="2">coefficient</word>
+	<word weight="0.011764705882352941" count="2">field</word>
+	<phrase weight="0.10526315789473684" count="2">result result output result</phrase>
+	<phrase weight="0.10526315789473684" count="2">vertex triangle count</phrase>
+	<phrase weight="0.10526315789473684" count="2">vertex vertex degree</phrase>
+	<phrase weight="0.05263157894736842" count="1">vertex degree join vertex vertex vertex degree vertex degree</phrase>
+	<phrase weight="0.05263157894736842" count="1">vertex vertex vertex vertex degree</phrase>
+	<phrase weight="0.05263157894736842" count="1">output set vertex vertex degree output</phrase>
+	<phrase weight="0.05263157894736842" count="1">field vertex join vertex degree triangle count</phrase>
+	<phrase weight="0.05263157894736842" count="1">degree vertex degree</phrase>
+	<phrase weight="0.05263157894736842" count="1">vertex vertex vertex output vertex</phrase>
+	<phrase weight="0.05263157894736842" count="1">vertex degree triangle count</phrase>
+	<phrase weight="0.05263157894736842" count="1">degree degree degree degree degree</phrase>
+	<phrase weight="0.05263157894736842" count="1">vertex degree</phrase>
+	<phrase weight="0.05263157894736842" count="1">vertex vertex degree vertex degree vertex degree output vertex degree</phrase>
+	<phrase weight="0.05263157894736842" count="1">result join vertex vertex degree</phrase>
+	<phrase weight="0.05263157894736842" count="1">vertex vertex</phrase>
+	<phrase weight="0.05263157894736842" count="1">result join vertex degree vertex degree</phrase>
+  </topic>
+</topics>

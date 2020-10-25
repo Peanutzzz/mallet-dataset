@@ -1,0 +1,10 @@
+0	2.02809	enable management client proxy discovery 
+1	3.26163	application auto aspect exception rocket api exclude 
+2	2.06836	arg string transaction portal center configservice 
+3	1.12962	apollo base interceptor management 
+4	1.17038	main scan biz user bean adminservice feign 
+5	1.84593	configuration property common admin 
+6	1.38794	enable component 
+7	1.21544	config service classpath source eureka open meta 
+8	1.12528	spring application boot 
+9	1.13136	run app enable admin search 

@@ -1,0 +1,375 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.05394975450048282" totalTokens="823" titles="stream, type, key, operator, datum, link, selector, param, execution, strategy">
+	<word weight="0.15066828675577157" count="124">stream</word>
+	<word weight="0.06561360874848117" count="54">type</word>
+	<word weight="0.053462940461725394" count="44">key</word>
+	<word weight="0.04374240583232078" count="36">operator</word>
+	<word weight="0.03645200486026731" count="30">datum</word>
+	<word weight="0.03523693803159174" count="29">link</word>
+	<word weight="0.031591737545565005" count="26">selector</word>
+	<word weight="0.026731470230862697" count="22">param</word>
+	<word weight="0.02551640340218712" count="21">execution</word>
+	<word weight="0.024301336573511544" count="20">strategy</word>
+	<word weight="0.024301336573511544" count="20">factory</word>
+	<word weight="0.02187120291616039" count="18">output</word>
+	<word weight="0.020656136087484813" count="17">environment</word>
+	<word weight="0.019441069258809233" count="16">chain</word>
+	<word weight="0.01701093560145808" count="14">information</word>
+	<word weight="0.015795868772782502" count="13">partition</word>
+	<word weight="0.015795868772782502" count="13">info</word>
+	<word weight="0.014580801944106925" count="12">collect</word>
+	<word weight="0.014580801944106925" count="12">sink</word>
+	<word weight="0.014580801944106925" count="12">config</word>
+	<phrase weight="0.09523809523809523" count="2">datum stream</phrase>
+	<phrase weight="0.047619047619047616" count="1">operator event</phrase>
+	<phrase weight="0.047619047619047616" count="1">selector extract key</phrase>
+	<phrase weight="0.047619047619047616" count="1">information type info type information</phrase>
+	<phrase weight="0.047619047619047616" count="1">experimental add job parameter</phrase>
+	<phrase weight="0.047619047619047616" count="1">stream datum stream</phrase>
+	<phrase weight="0.047619047619047616" count="1">datum stream stream execution environment</phrase>
+	<phrase weight="0.047619047619047616" count="1">chain strategy chain strategy strategy chain strategy strategy override chain strategy chain strategy chain strategy</phrase>
+	<phrase weight="0.047619047619047616" count="1">key configuration set</phrase>
+	<phrase weight="0.047619047619047616" count="1">define key extract datum stream param type event datum stream param type extract key reinterpretation link data stream link key stream keyed stream reinterpret keyed stream datum stream stream key selector key selector reinterpret keyed stream stream key selector type extractor key selector type key selector stream type reinterpret give link datum stream link key stream extract key give link key selector important partition base stream key event base stream partition create link data stream key key selector param stream datum stream reinterpret partition stream partition create link data stream key key selector param key selector</phrase>
+	<phrase weight="0.047619047619047616" count="1">datum stream collect iterator set job client job client exception runtime exception fail execute datum stream iterator reinterpret give link datum stream link key stream extract key give link key selector important partition base stream key event base stream partition create link data stream key key selector param stream datum stream reinterpret partition stream partition create link data stream key key selector param key selector</phrase>
+	<phrase weight="0.047619047619047616" count="1">util experimental datum stream util iterator iterate element datum stream iterator iterator collect datum stream stream type serializer serializer stream type create serializer stream execution environment config string accumulator datum stream collect uuid random string collect sink operator factory factory collect sink operator factory serializer accumulator collect sink operator operator collect sink operator factory operator collect result iterator iterator collect result iterator operator operator future serializer accumulator collect stream sink sink collect stream sink stream factory sink datum stream collect sink stream execution environment env stream execution environment env add operator sink transformation job client job client env execute</phrase>
+	<phrase weight="0.047619047619047616" count="1">experimental stream</phrase>
+	<phrase weight="0.047619047619047616" count="1">chain strategy chain strategy chain strategy</phrase>
+	<phrase weight="0.047619047619047616" count="1">environment experimental</phrase>
+	<phrase weight="0.047619047619047616" count="1">type legacy info</phrase>
+	<phrase weight="0.047619047619047616" count="1">type info type info</phrase>
+	<phrase weight="0.047619047619047616" count="1">env type information</phrase>
+	<phrase weight="0.047619047619047616" count="1">implement stream</phrase>
+	<phrase weight="0.047619047619047616" count="1">info datum stream</phrase>
+  </topic>
+  <topic id="1" alpha="0.009240701613168482" totalTokens="306" titles="batch, val, max, parameter, size, min, num, provider, jdbc, count">
+	<word weight="0.11437908496732026" count="35">batch</word>
+	<word weight="0.10784313725490197" count="33">val</word>
+	<word weight="0.08823529411764706" count="27">max</word>
+	<word weight="0.08496732026143791" count="26">parameter</word>
+	<word weight="0.06535947712418301" count="20">size</word>
+	<word weight="0.05555555555555555" count="17">min</word>
+	<word weight="0.05228758169934641" count="16">num</word>
+	<word weight="0.049019607843137254" count="15">provider</word>
+	<word weight="0.03594771241830065" count="11">jdbc</word>
+	<word weight="0.032679738562091505" count="10">count</word>
+	<word weight="0.032679738562091505" count="10">elem</word>
+	<word weight="0.02287581699346405" count="7">numeric</word>
+	<word weight="0.02287581699346405" count="7">serializable</word>
+	<word weight="0.016339869281045753" count="5">precondition</word>
+	<word weight="0.016339869281045753" count="5">check</word>
+	<word weight="0.016339869281045753" count="5">produce</word>
+	<word weight="0.016339869281045753" count="5">param</word>
+	<word weight="0.013071895424836602" count="4">start</word>
+	<word weight="0.013071895424836602" count="4">bind</word>
+	<word weight="0.013071895424836602" count="4">argument</word>
+	<phrase weight="0.5" count="1">provider experimental</phrase>
+	<phrase weight="0.5" count="1">parameter provider parameter</phrase>
+  </topic>
+  <topic id="2" alpha="0.027995194146042787" totalTokens="392" titles="table, type, format, link, sink, input, datum, base, result, instance">
+	<word weight="0.08418367346938775" count="33">table</word>
+	<word weight="0.05102040816326531" count="20">type</word>
+	<word weight="0.04591836734693878" count="18">format</word>
+	<word weight="0.04081632653061224" count="16">link</word>
+	<word weight="0.03571428571428571" count="14">sink</word>
+	<word weight="0.03316326530612245" count="13">input</word>
+	<word weight="0.030612244897959183" count="12">datum</word>
+	<word weight="0.02806122448979592" count="11">base</word>
+	<word weight="0.025510204081632654" count="10">result</word>
+	<word weight="0.02295918367346939" count="9">instance</word>
+	<word weight="0.02295918367346939" count="9">configuration</word>
+	<word weight="0.02040816326530612" count="8">method</word>
+	<word weight="0.017857142857142856" count="7">override</word>
+	<word weight="0.017857142857142856" count="7">conf</word>
+	<word weight="0.015306122448979591" count="6">grouping</word>
+	<word weight="0.015306122448979591" count="6">support</word>
+	<word weight="0.015306122448979591" count="6">configure</word>
+	<word weight="0.015306122448979591" count="6">experimental</word>
+	<word weight="0.012755102040816327" count="5">code</word>
+	<word weight="0.012755102040816327" count="5">partition</word>
+	<phrase weight="0.015384615384615385" count="1">input format read</phrase>
+	<phrase weight="0.015384615384615385" count="1">experimental async table</phrase>
+	<phrase weight="0.015384615384615385" count="1">sink configure set internal field change writing behavior write</phrase>
+	<phrase weight="0.015384615384615385" count="1">factory table</phrase>
+	<phrase weight="0.015384615384615385" count="1">mix sink</phrase>
+	<phrase weight="0.015384615384615385" count="1">result instance base convert instance link tuple information</phrase>
+	<phrase weight="0.015384615384615385" count="1">sink consume datum</phrase>
+	<phrase weight="0.015384615384615385" count="1">base instance link result method copy datum result instance require link tuple</phrase>
+	<phrase weight="0.015384615384615385" count="1">hbase hbase zookeeper</phrase>
+	<phrase weight="0.015384615384615385" count="1">column javadoc detail partition represent code map</phrase>
+	<phrase weight="0.015384615384615385" count="1">link type</phrase>
+	<phrase weight="0.015384615384615385" count="1">type evaluation method</phrase>
+	<phrase weight="0.015384615384615385" count="1">base type evaluation method flink type extraction</phrase>
+	<phrase weight="0.015384615384615385" count="1">foo bar decode</phrase>
+	<phrase weight="0.015384615384615385" count="1">format override datum</phrase>
+	<phrase weight="0.015384615384615385" count="1">format method</phrase>
+	<phrase weight="0.015384615384615385" count="1">base input format</phrase>
+	<phrase weight="0.015384615384615385" count="1">number partition writer improve write performance method configure behavior input group</phrase>
+	<phrase weight="0.015384615384615385" count="1">kind kind</phrase>
+	<phrase weight="0.015384615384615385" count="1">param support grouping</phrase>
+  </topic>
+  <topic id="3" alpha="0.02104359742271666" totalTokens="410" titles="partition, string, policy, extractor, exception, map, custom, kind, commit, table">
+	<word weight="0.14878048780487804" count="61">partition</word>
+	<word weight="0.11707317073170732" count="48">string</word>
+	<word weight="0.06341463414634146" count="26">policy</word>
+	<word weight="0.036585365853658534" count="15">extractor</word>
+	<word weight="0.03170731707317073" count="13">exception</word>
+	<word weight="0.03170731707317073" count="13">map</word>
+	<word weight="0.026829268292682926" count="11">custom</word>
+	<word weight="0.024390243902439025" count="10">kind</word>
+	<word weight="0.024390243902439025" count="10">commit</word>
+	<word weight="0.024390243902439025" count="10">table</word>
+	<word weight="0.02195121951219512" count="9">metastore</word>
+	<word weight="0.02195121951219512" count="9">list</word>
+	<word weight="0.01951219512195122" count="8">file</word>
+	<word weight="0.01951219512195122" count="8">key</word>
+	<word weight="0.01951219512195122" count="8">time</word>
+	<word weight="0.01707317073170732" count="7">remain</word>
+	<word weight="0.014634146341463415" count="6">success</word>
+	<word weight="0.014634146341463415" count="6">instance</word>
+	<word weight="0.014634146341463415" count="6">link</word>
+	<word weight="0.012195121951219513" count="5">apply</word>
+	<phrase weight="0.047619047619047616" count="1">option global</phrase>
+	<phrase weight="0.047619047619047616" count="1">string partition</phrase>
+	<phrase weight="0.047619047619047616" count="1">instance link</phrase>
+	<phrase weight="0.047619047619047616" count="1">instance hold prune partition</phrase>
+	<phrase weight="0.047619047619047616" count="1">partition partition pruning apply apply partition pruning link table</phrase>
+	<phrase weight="0.047619047619047616" count="1">user partition</phrase>
+	<phrase weight="0.047619047619047616" count="1">optional pipeline option global</phrase>
+	<phrase weight="0.047619047619047616" count="1">hold prune partition</phrase>
+	<phrase weight="0.047619047619047616" count="1">partition partition</phrase>
+	<phrase weight="0.047619047619047616" count="1">key string map string string</phrase>
+	<phrase weight="0.047619047619047616" count="1">list partition commit policy create policy chain loader string policy kind string custom string success file supplier file system supplier policy kind collection empty list string policy string policy kind split array</phrase>
+	<phrase weight="0.047619047619047616" count="1">serializable string string custom custom extract time partition key local date time extract list string partition key list string partition partition time extractor create loader user loader string extractor kind string extractor string extractor pattern extractor kind part time extractor extractor pattern custom partition time extractor user loader load extractor instance find exception illegal access exception instantiation exception</phrase>
+	<phrase weight="0.047619047619047616" count="1">link partitionable</phrase>
+	<phrase weight="0.047619047619047616" count="1">string string partition</phrase>
+	<phrase weight="0.047619047619047616" count="1">string map partition</phrase>
+	<phrase weight="0.047619047619047616" count="1">list map string string partition apply remain partition table</phrase>
+	<phrase weight="0.047619047619047616" count="1">map hash map hash map</phrase>
+	<phrase weight="0.047619047619047616" count="1">extractor experimental partition time extractor</phrase>
+	<phrase weight="0.047619047619047616" count="1">remain partition remain partition partition pruning apply</phrase>
+	<phrase weight="0.047619047619047616" count="1">remain partition remain partition</phrase>
+  </topic>
+  <topic id="4" alpha="0.003817791298631176" totalTokens="1385" titles="kafka, key, shuffle, producer, stream, partition, datum, property, flink, parallelism">
+	<word weight="0.08375451263537906" count="116">kafka</word>
+	<word weight="0.07292418772563176" count="101">key</word>
+	<word weight="0.049819494584837545" count="69">shuffle</word>
+	<word weight="0.04909747292418772" count="68">producer</word>
+	<word weight="0.044765342960288806" count="62">stream</word>
+	<word weight="0.03898916967509025" count="54">partition</word>
+	<word weight="0.03754512635379061" count="52">datum</word>
+	<word weight="0.034657039711191336" count="48">property</word>
+	<word weight="0.03104693140794224" count="43">flink</word>
+	<word weight="0.03104693140794224" count="43">parallelism</word>
+	<word weight="0.0296028880866426" count="41">link</word>
+	<word weight="0.026714801444043323" count="37">number</word>
+	<word weight="0.025992779783393503" count="36">param</word>
+	<word weight="0.02527075812274368" count="35">type</word>
+	<word weight="0.021660649819494584" count="30">selector</word>
+	<word weight="0.019494584837545126" count="27">consumer</word>
+	<word weight="0.017328519855595668" count="24">watermark</word>
+	<word weight="0.017328519855595668" count="24">task</word>
+	<word weight="0.01516245487364621" count="21">topic</word>
+	<word weight="0.01444043321299639" count="20">write</word>
+	<phrase weight="0.2" count="1">flink kafka shuffle string producer parallelism producer parallelism string partition number partition number kafka message bus persist key shuffle persist key shuffle achieve wrap link flink kafka shuffle producer link flink kafka shuffle consumer producer side link flink kafka shuffle producer similar link datum stream key key selector key group assignment function link key group range assignment assign key parallel operator decide partition key producer task potentially write kafka partition base key number partition equal key group size link time characteristic event time producer task broadcast watermark kafka partition make watermark information propagate correctly consumer side consumer task read partition equal key group index assign number partition maximum parallelism consumer version support number partition consumer parallelism link time characteristic event time consumer task responsible emit watermark watermark read correspond kafka partition notice consumer task start emit watermark read watermark producer task make watermark monotonically increase consumer task producer parallelism flink kafka shuffle write key flink kafka shuffle read key param datum stream datum stream shuffle param topic kafka topic write param producer parallelism parallelism producer param number partition number partition param property kafka property param key selector key selector retrieve key datum stream param type input datum stream param type key keyed stream persistent key datum stream datum</phrase>
+	<phrase weight="0.2" count="1">number partition equal key group size link time characteristic event time producer task broadcast watermark kafka partition make watermark information propagate properly attention make kafka property include link flink kafka shuffle producer parallelism link flink kafka shuffle partition number explicitly link flink kafka shuffle producer parallelism parallelism producer link flink kafka shuffle partition number number partition necessarily set independently flink kafka shuffle persistent key flink kafka shuffle read key param datum stream datum stream shuffle param topic kafka topic write param kafka property kafka property kafka producer param field key position input datum stream param type input datum stream write key datum stream datum stream string topic property kafka property field write key datum stream topic kafka property key selector datum stream field read side link flink kafka shuffle persistent key consumer task read kafka partition equal key group index assign number kafka partition maximum parallelism consumer version support number partition consumer parallelism link time characteristic event time consumer task responsible emit watermark watermark read correspond kafka partition notice consumer task start emit watermark receive watermark producer task make watermark monotonically increase consumer task producer parallelism attention make kafka property include link flink kafka shuffle producer parallelism link flink kafka shuffle partition number explicitly link flink kafka shuffle producer parallelism parallelism producer link flink kafka shuffle partition number number partition necessarily set independently flink kafka shuffle persistent key flink kafka shuffle write key param topic topic kafka datum persist param env execution environment read key environment write key param type information type information datum persist kafka param kafka property kafka property kafka consumer param key selector key selector retrieve key param schema type param key type key datum stream keyed stream read key string topic stream execution environment env type information type information property kafka property key selector key selector type serializer type serializer type information create serializer env config type information serialization schema schema type information serialization schema type information type serializer source function kafka consumer flink kafka shuffle consumer topic schema type serializer kafka property todo situation number partition consumer parallelism precondition check argument kafka property property partition number missing partition number kafka shuffle number partition property util kafka property partition number integer min datum stream output datum stream env add source kafka consumer set parallelism number partition datum stream util reinterpret keyed stream output datum stream key selector add link stream kafka shuffle sink link datum stream link stream kafka shuffle sink associate link flink kafka shuffle producer param input stream input datum stream connect shuffle param kafka shuffle producer kafka shuffle sink function handle record watermark param producer parallelism number task write kafka shuffle add kafka shuffle datum stream input stream flink kafka shuffle producer kafka shuffle producer producer parallelism read output type input transform coax error miss type info input stream transformation output type stream kafka shuffle sink shuffle sink operator stream kafka shuffle sink kafka shuffle producer sink transformation transformation sink transformation input stream transformation kafka shuffle shuffle sink operator input stream execution environment parallelism input</phrase>
+	<phrase weight="0.2" count="1">execution environment add operator transformation transformation set parallelism producer parallelism place put function datum stream put avoid change datum stream key selector tuple key selector datum stream source field key selector tuple key selector source type basic array type info source type primitive array type info key selector key selector util selector array field source type key key key expression key field source type key selector key</phrase>
+	<phrase weight="0.2" count="1">flink kafka shuffle producer link flink kafka shuffle consumer producer side link flink kafka shuffle producer similar link datum stream key key selector key group assignment function link key group range assignment assign key parallel operator decide partition key producer task potentially write kafka partition base key number partition equal key group size link time characteristic event time producer task broadcast watermark kafka partition make watermark information propagate correctly consumer side consumer task read partition equal key group index assign number partition maximum parallelism consumer version support number partition consumer parallelism link time characteristic event time consumer task responsible emit watermark watermark read correspond kafka partition notice consumer task start emit watermark read watermark producer task make watermark monotonically increase consumer task producer parallelism flink kafka shuffle write key flink kafka shuffle read key param datum stream datum stream shuffle param topic kafka topic write param producer parallelism parallelism producer param number partition number partition param property kafka property param field key position input datum stream param type input datum stream key stream tuple persistent key datum stream datum stream string topic producer parallelism number partition property property field persistent key datum stream topic producer parallelism number partition property key selector datum stream field write side link flink kafka shuffle persistent key function link flink kafka shuffle producer shuffle persist datum kafka link flink kafka shuffle producer key group assignment function link key group range assignment assign key parallel operator decide partition key producer task potentially write kafka partition base key number partition equal key group size link time characteristic event time producer task broadcast watermark kafka partition make watermark information propagate properly attention make kafka property include link flink kafka shuffle producer parallelism link flink kafka shuffle partition number explicitly link flink kafka shuffle producer parallelism parallelism producer link flink kafka shuffle partition number number partition necessarily set independently flink kafka shuffle persistent key flink kafka shuffle read key param datum stream datum stream shuffle param topic kafka topic write param kafka property kafka property kafka producer param key selector key selector retrieve key datum stream param type input datum stream param type key write key datum stream datum stream string topic property kafka property key selector key selector stream execution environment env datum stream execution environment type serializer type serializer datum stream type create serializer env config write datum kafka flink kafka shuffle producer kafka producer flink kafka shuffle producer topic type serializer kafka property env clean key selector flink kafka producer semantic flink kafka producer kafka producer pool size make sink parallelism set producer parallelism precondition check argument kafka property property producer parallelism missing producer parallelism kafka shuffle producer parallelism property util kafka property producer parallelism integer min add kafka shuffle datum stream kafka producer producer parallelism write side link flink kafka shuffle persistent key function link flink kafka shuffle producer shuffle persist datum kafka link flink kafka shuffle producer key group assignment function link key group range assignment assign key parallel operator decide partition key producer task potentially write kafka partition base</phrase>
+	<phrase weight="0.2" count="1">string topic producer parallelism number partition property property key selector key selector kafka producer prop map property purely hash map property flatten property level element property kafka property property util flatten property kafka property set property producer parallelism string producer parallelism kafka property set property partition number string number partition stream execution environment env datum stream execution environment write key datum stream topic kafka property key selector read key topic env datum stream type kafka property key selector kafka message bus persist key shuffle persist key shuffle achieve wrap</phrase>
+  </topic>
+  <topic id="5" alpha="0.015354747719314665" totalTokens="1408" titles="state, operator, service, time, metric, key, processing, exception, config, latency">
+	<word weight="0.060369318181818184" count="85">state</word>
+	<word weight="0.05113636363636364" count="72">operator</word>
+	<word weight="0.04616477272727273" count="65">service</word>
+	<word weight="0.04261363636363636" count="60">time</word>
+	<word weight="0.028409090909090908" count="40">metric</word>
+	<word weight="0.028409090909090908" count="40">key</word>
+	<word weight="0.02556818181818182" count="36">processing</word>
+	<word weight="0.024857954545454544" count="35">exception</word>
+	<word weight="0.0234375" count="33">config</word>
+	<word weight="0.022727272727272728" count="32">latency</word>
+	<word weight="0.022017045454545456" count="31">task</word>
+	<word weight="0.022017045454545456" count="31">input</word>
+	<word weight="0.02130681818181818" count="30">group</word>
+	<word weight="0.019886363636363636" count="28">context</word>
+	<word weight="0.019176136363636364" count="27">output</word>
+	<word weight="0.018465909090909092" count="26">stream</word>
+	<word weight="0.018465909090909092" count="26">manager</word>
+	<word weight="0.01775568181818182" count="25">watermark</word>
+	<word weight="0.017045454545454544" count="24">timer</word>
+	<word weight="0.015625" count="22">override</word>
+	<phrase weight="0.014184397163120567" count="2">state namespace</phrase>
+	<phrase weight="0.014184397163120567" count="2">serializer namespace serializer state descriptor state descriptor exception state handler</phrase>
+	<phrase weight="0.014184397163120567" count="2">stream operator</phrase>
+	<phrase weight="0.0070921985815602835" count="1">handler operator state backend link processing time service responsible current processing time register timer visible test processing time service processing time service processing time service create</phrase>
+	<phrase weight="0.0070921985815602835" count="1">override hook method</phrase>
+	<phrase weight="0.0070921985815602835" count="1">loader cancelable parameter task cancelable runtime</phrase>
+	<phrase weight="0.0070921985815602835" count="1">state handle state backend configure task illegal state exception key state initialize exception state backend create</phrase>
+	<phrase weight="0.0070921985815602835" count="1">active key</phrase>
+	<phrase weight="0.0070921985815602835" count="1">serializer key serializer config state key</phrase>
+	<phrase weight="0.0070921985815602835" count="1">override open exception method call record add operator method</phrase>
+	<phrase weight="0.0070921985815602835" count="1">granularity key granularity task manager job metric group</phrase>
+	<phrase weight="0.0070921985815602835" count="1">parameter task index subtask group processing time service</phrase>
+	<phrase weight="0.0070921985815602835" count="1">snapshot state checkpoint timestamp checkpoint option checkpoint option checkpoint stream factory factory exception state handler</phrase>
+	<phrase weight="0.0070921985815602835" count="1">environment job operator belong</phrase>
+	<phrase weight="0.0070921985815602835" count="1">owner config state</phrase>
+	<phrase weight="0.0070921985815602835" count="1">subsequent request timer</phrase>
+	<phrase weight="0.0070921985815602835" count="1">triggerable invoke timer fire</phrase>
+	<phrase weight="0.0070921985815602835" count="1">context context register state override initialize state state initialization context context exception override notify checkpoint complete checkpoint exception state handler notify checkpoint complete checkpoint override notify checkpoint aborted checkpoint exception state handler notify checkpoint aborted checkpoint property service execution config</phrase>
+	<phrase weight="0.0070921985815602835" count="1">config config output</phrase>
+	<phrase weight="0.0070921985815602835" count="1">config parameter task execution config user code loader parameter task user</phrase>
+  </topic>
+  <topic id="6" alpha="0.10095932831851198" totalTokens="518" titles="source, function, lookup, table, string, link, runtime, experimental, key, provider">
+	<word weight="0.10810810810810811" count="56">source</word>
+	<word weight="0.0945945945945946" count="49">function</word>
+	<word weight="0.055984555984555984" count="29">lookup</word>
+	<word weight="0.0444015444015444" count="23">table</word>
+	<word weight="0.04054054054054054" count="21">string</word>
+	<word weight="0.04054054054054054" count="21">link</word>
+	<word weight="0.03861003861003861" count="20">runtime</word>
+	<word weight="0.03861003861003861" count="20">experimental</word>
+	<word weight="0.025096525096525095" count="13">key</word>
+	<word weight="0.025096525096525095" count="13">provider</word>
+	<word weight="0.023166023166023165" count="12">extend</word>
+	<word weight="0.021235521235521235" count="11">async</word>
+	<word weight="0.019305019305019305" count="10">context</word>
+	<word weight="0.019305019305019305" count="10">create</word>
+	<word weight="0.019305019305019305" count="10">datum</word>
+	<word weight="0.017374517374517374" count="9">implementation</word>
+	<word weight="0.017374517374517374" count="9">define</word>
+	<word weight="0.015444015444015444" count="8">limit</word>
+	<word weight="0.015444015444015444" count="8">path</word>
+	<word weight="0.013513513513513514" count="7">user</word>
+	<phrase weight="0.07407407407407407" count="2">record link</phrase>
+	<phrase weight="0.07407407407407407" count="2">source experimental</phrase>
+	<phrase weight="0.037037037037037035" count="1">table source</phrase>
+	<phrase weight="0.037037037037037035" count="1">source context array key index path lookup index</phrase>
+	<phrase weight="0.037037037037037035" count="1">table function provider lookup runtime provider lookup runtime provider lookup context context helper context create runtime implementation</phrase>
+	<phrase weight="0.037037037037037035" count="1">support composite key possibly nest structure give table</phrase>
+	<phrase weight="0.037037037037037035" count="1">source extend</phrase>
+	<phrase weight="0.037037037037037035" count="1">source source source source watermark</phrase>
+	<phrase weight="0.037037037037037035" count="1">check source source check timestamp watermark timestamp watermark check resolve</phrase>
+	<phrase weight="0.037037037037037035" count="1">source experimental lookup table source extend dynamic table source provider runtime implementation</phrase>
+	<phrase weight="0.037037037037037035" count="1">lookup runtime provider offer utility planner create runtime implementation minimal dependency internal datum structure</phrase>
+	<phrase weight="0.037037037037037035" count="1">timestamp watermark string source</phrase>
+	<phrase weight="0.037037037037037035" count="1">user define function</phrase>
+	<phrase weight="0.037037037037037035" count="1">datum exist runtime implementation link lookup runtime provider serve</phrase>
+	<phrase weight="0.037037037037037035" count="1">datum exist runtime implementation</phrase>
+	<phrase weight="0.037037037037037035" count="1">source source</phrase>
+	<phrase weight="0.037037037037037035" count="1">true suppress</phrase>
+	<phrase weight="0.037037037037037035" count="1">source source source watermark</phrase>
+	<phrase weight="0.037037037037037035" count="1">code row string row string</phrase>
+	<phrase weight="0.037037037037037035" count="1">lookup runtime provider serve</phrase>
+  </topic>
+  <topic id="7" alpha="0.014357597464257285" totalTokens="1158" titles="format, set, jdbc, input, builder, statement, type, param, exception, result">
+	<word weight="0.0690846286701209" count="80">format</word>
+	<word weight="0.05785837651122625" count="67">set</word>
+	<word weight="0.05094991364421416" count="59">jdbc</word>
+	<word weight="0.047495682210708115" count="55">input</word>
+	<word weight="0.030224525043177894" count="35">builder</word>
+	<word weight="0.02936096718480138" count="34">statement</word>
+	<word weight="0.02936096718480138" count="34">type</word>
+	<word weight="0.02677029360967185" count="31">param</word>
+	<word weight="0.025043177892918825" count="29">exception</word>
+	<word weight="0.025043177892918825" count="29">result</word>
+	<word weight="0.023316062176165803" count="27">row</word>
+	<word weight="0.023316062176165803" count="27">string</word>
+	<word weight="0.022452504317789293" count="26">split</word>
+	<word weight="0.019861830742659757" count="23">size</word>
+	<word weight="0.019861830742659757" count="23">parameter</word>
+	<word weight="0.019861830742659757" count="23">output</word>
+	<word weight="0.018134715025906734" count="21">query</word>
+	<word weight="0.018134715025906734" count="21">protect</word>
+	<word weight="0.016407599309153715" count="19">info</word>
+	<word weight="0.015544041450777202" count="18">username</word>
+	<phrase weight="0.0625" count="1">log error</phrase>
+	<phrase weight="0.0625" count="1">builder batch size batch size build ctx create row executor sql type array ctx jdbc batch output format record</phrase>
+	<phrase weight="0.0625" count="1">explicitly set auto commit mode protect auto commit protect object parameter jdbc input format override row type info produce type row type info override configure configuration parameter override open input format call input format open drivername username conn driver manager connection conn driver manager connection username password set auto commit mode explicitly configure connection auto commit conn set auto commit auto commit statement conn prepare statement query template result set type result set concurrency fetch size integer min fetch size statement set fetch size fetch size exception illegal argument exception open fail message find exception cnfe illegal argument exception jdbc find cnfe message cnfe override close input format call input format close statement statement close exception log info inputformat statement couldn close message statement conn conn close exception log info inputformat couldn close message conn parameter connect</phrase>
+	<phrase weight="0.0625" count="1">reuse arity reuse set</phrase>
+	<phrase weight="0.0625" count="1">query parallel</phrase>
+	<phrase weight="0.0625" count="1">jdbc input format extend rich input format row input split implement result type queryable row protect serial version protect logger log logger factory logger jdbc input format protect string username protect string password protect string drivername protect string protect string query template protect result set type protect result set concurrency protect row type info row type info protect connection conn protect prepared statement statement protect result set result set protect fetch size</phrase>
+	<phrase weight="0.0625" count="1">close input format</phrase>
+	<phrase weight="0.0625" count="1">ctx jdbc statement builder row statement builder record set record statement type array record jdbc batch statement executor simple sql statement builder ctx execution config object reuse enable row copy</phrase>
+	<phrase weight="0.0625" count="1">identity jdbc batch statement executor row create row executor string sql type array</phrase>
+	<phrase weight="0.0625" count="1">identity jdbc output format builder build jdbc output format jdbc output format builder builder</phrase>
+	<phrase weight="0.0625" count="1">hook query parameter split number exception error execution query override open input split input split exception input split parameter parameter input split split number length object param parameter input split split number param string statement set string string param</phrase>
+	<phrase weight="0.0625" count="1">result set object update read record result set reuse exception exception couldn read datum message pointer exception npe exception couldn access result set npe override base statistics statistics base statistics cache statistics exception cache statistics override input split create input split min num split exception parameter generic input split generic input split generic input split ret generic input split parameter length ret length ret generic input split ret length ret override input split assigner input split assigner input split input split input split assigner input split visible testing protect prepared statement statement statement visible testing protect connection conn conn builder set parameter output format configuration fluent builder jdbc input format builder build jdbc input format jdbc input format builder builder link jdbc input format jdbc input format builder jdbc input format format jdbc input format builder format jdbc input format type forward high</phrase>
+	<phrase weight="0.0625" count="1">jdbc output format jdbc output format builder string username string password</phrase>
+	<phrase weight="0.0625" count="1">database execute query parallel fashion link input format build parameterized query link prepared statement proper link jdbc parameter provider parallel fashion param input split ignore input format execute parallel</phrase>
+	<phrase weight="0.0625" count="1">jdbc output format extend jdbc batching output format row row jdbc batch statement executor row serial version logger log logger factory logger jdbc output format jdbc output format jdbc connection provider connection provider string sql type array batch size connection provider jdbc execution</phrase>
+	<phrase weight="0.0625" count="1">statement set param param integer statement set integer param param statement set param param statement set param param statement set param param big decimal statement set big decimal big decimal param param statement set param param statement set param param date statement set date date param param time statement set time time param param timestamp statement set timestamp timestamp param param array statement set array array param extend type illegal argument exception open fail parameter type param handle log debug enable log debug string format execute parameter query template array deep string parameter input split split number result set statement execute query result set exception illegal argument exception open fail message close resource exception resource closed override close exception result set result set close exception log info inputformat result set couldn close message check datum read indication datum read exception override reach end exception store result set row tuple param reuse row reuse row link row exception override row record row reuse exception</phrase>
+  </topic>
+  <topic id="8" alpha="0.018512151955720688" totalTokens="588" titles="generator, context, random, state, override, emit, start, end, sequence, datum">
+	<word weight="0.1360544217687075" count="80">generator</word>
+	<word weight="0.05102040816326531" count="30">context</word>
+	<word weight="0.04931972789115646" count="29">random</word>
+	<word weight="0.04591836734693878" count="27">state</word>
+	<word weight="0.04081632653061224" count="24">override</word>
+	<word weight="0.0391156462585034" count="23">emit</word>
+	<word weight="0.0391156462585034" count="23">start</word>
+	<word weight="0.0391156462585034" count="23">end</word>
+	<word weight="0.02891156462585034" count="17">sequence</word>
+	<word weight="0.025510204081632654" count="15">datum</word>
+	<word weight="0.023809523809523808" count="14">max</word>
+	<word weight="0.023809523809523808" count="14">min</word>
+	<word weight="0.023809523809523808" count="14">string</word>
+	<word weight="0.01870748299319728" count="11">checkpoint</word>
+	<word weight="0.017006802721088437" count="10">snapshot</word>
+	<word weight="0.015306122448979591" count="9">runtime</word>
+	<word weight="0.013605442176870748" count="8">integer</word>
+	<word weight="0.013605442176870748" count="8">exception</word>
+	<word weight="0.011904761904761904" count="7">poll</word>
+	<word weight="0.011904761904761904" count="7">collect</word>
+	<phrase weight="0.09090909090909091" count="2">datum generator</phrase>
+	<phrase weight="0.045454545454545456" count="1">iterator open initialize state</phrase>
+	<phrase weight="0.045454545454545456" count="1">emit rate datum generator</phrase>
+	<phrase weight="0.045454545454545456" count="1">wait read time</phrase>
+	<phrase weight="0.045454545454545456" count="1">experimental sequence generator implement datum generator start end list state checkpoint state protect deque emit create data generator emit number</phrase>
+	<phrase weight="0.045454545454545456" count="1">generator generator row run</phrase>
+	<phrase weight="0.045454545454545456" count="1">interval param start start range number emit param end end range number emit sequence generator start end start start end end override open string function initialization context context runtime context runtime context exception precondition check state checkpoint state simple initialize checkpoint state context</phrase>
+	<phrase weight="0.045454545454545456" count="1">datum generator generator generator max create</phrase>
+	<phrase weight="0.045454545454545456" count="1">datum generator generator row generator generator row row override initialize state function initialization context context exception generator open datum generator context runtime context run true override snapshot state function snapshot context context exception generator snapshot state context override run</phrase>
+	<phrase weight="0.045454545454545456" count="1">context ctx exception task row row runtime context number parallel subtask read time</phrase>
+	<phrase weight="0.045454545454545456" count="1">initialize state</phrase>
+	<phrase weight="0.045454545454545456" count="1">initialization context context runtime context</phrase>
+	<phrase weight="0.045454545454545456" count="1">state store list state list state descriptor sequence state</phrase>
+	<phrase weight="0.045454545454545456" count="1">generator datum generator param</phrase>
+	<phrase weight="0.045454545454545456" count="1">emit rate param generator data generator datum generator</phrase>
+	<phrase weight="0.045454545454545456" count="1">function implement checkpoint function serial version</phrase>
+	<phrase weight="0.045454545454545456" count="1">snapshot state snapshot state</phrase>
+	<phrase weight="0.045454545454545456" count="1">context exception snapshot state</phrase>
+	<phrase weight="0.045454545454545456" count="1">datum generator relate make state open string</phrase>
+	<phrase weight="0.045454545454545456" count="1">instance emit array deque context restore restore checkpoint state emit add time</phrase>
+  </topic>
+  <topic id="9" alpha="0.00769133138009587" totalTokens="420" titles="stream, socket, exception, serializer, port, close, error, address, datum, client">
+	<word weight="0.0880952380952381" count="37">stream</word>
+	<word weight="0.08571428571428572" count="36">socket</word>
+	<word weight="0.06190476190476191" count="26">exception</word>
+	<word weight="0.05714285714285714" count="24">serializer</word>
+	<word weight="0.047619047619047616" count="20">port</word>
+	<word weight="0.04047619047619048" count="17">close</word>
+	<word weight="0.03571428571428571" count="15">error</word>
+	<word weight="0.030952380952380953" count="13">address</word>
+	<word weight="0.030952380952380953" count="13">datum</word>
+	<word weight="0.02619047619047619" count="11">client</word>
+	<word weight="0.023809523809523808" count="10">output</word>
+	<word weight="0.02142857142857143" count="9">throwable</word>
+	<word weight="0.02142857142857143" count="9">host</word>
+	<word weight="0.02142857142857143" count="9">iterator</word>
+	<word weight="0.02142857142857143" count="9">element</word>
+	<word weight="0.01904761904761905" count="8">param</word>
+	<word weight="0.016666666666666666" count="7">server</word>
+	<word weight="0.016666666666666666" count="7">connect</word>
+	<word weight="0.014285714285714285" count="6">ignore</word>
+	<word weight="0.014285714285714285" count="6">override</word>
+	<phrase weight="0.1111111111111111" count="1">rich sink</phrase>
+	<phrase weight="0.1111111111111111" count="1">iterator experimental socket stream iterator implement iterator server socket listen server socket socket serializer deserialize stream type serializer serializer set thread read datum input view stream wrapper stream element handover socket specific stream socket connect socket async error executor program produce stream throwable error create iterator datum socket stream automatic port bind address param serializer serializer deserialize incoming record exception socket open socket stream iterator type serializer serializer exception serializer create iterator datum socket stream custom port bind address param port port socket connection automatic port selection param address address socket connection param serializer serializer deserialize incoming record exception socket open socket stream iterator port inet address address</phrase>
+	<phrase weight="0.1111111111111111" count="1">exception open socket receive back stream result property port iterator datum internally port port socket local port inet address bind address socket inet address close connect socket connect socket close throwable ignore socket close throwable ignore iterator semantics true datum stream element note block element true datum stream element override read</phrase>
+	<phrase weight="0.1111111111111111" count="1">back client host</phrase>
+	<phrase weight="0.1111111111111111" count="1">exception serializer serialize stream writer exception exception error send datum back client host</phrase>
+	<phrase weight="0.1111111111111111" count="1">serializer serializer exception serializer serializer socket server socket port address exception</phrase>
+	<phrase weight="0.1111111111111111" count="1">port initialize connection socket server param parameter configuration override open configuration parameter exception client socket host port output stream client output stream stream writer datum output view stream wrapper output stream exception exception connect client send back stream close connection socket server override close exception output stream output stream flush output stream close regular attempt cleanly close fail escalate client client close exception exception error close connection stream</phrase>
+	<phrase weight="0.1111111111111111" count="1">collect sink</phrase>
+	<phrase weight="0.1111111111111111" count="1">serial version inet address host port type serializer serializer socket client output stream output stream datum output view stream wrapper stream writer create collect sink send datum host param host address socket server param port port socket server param serializer serializer datum collect sink inet address host port type serializer serializer host host port port serializer serializer override invoke</phrase>
+  </topic>
+</topics>

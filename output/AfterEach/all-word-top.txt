@@ -1,0 +1,17 @@
+0 quarkus 0:2
+1 adapter 0:2
+2 test 0:3
+3 tear 0:1
+4 exception 0:1
+5 flow 0:3
+6 rule 0:5
+7 manager 0:2
+8 load 0:2
+9 array 0:1
+10 list 0:1
+11 cluster 0:6
+12 builder 0:3
+13 slot 0:3
+14 reset 0:3
+15 node 0:3
+16 clean 0:2

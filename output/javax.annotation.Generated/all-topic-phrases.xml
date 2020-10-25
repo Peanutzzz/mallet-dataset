@@ -1,0 +1,256 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.3423803100919978" totalTokens="578" titles="method, istio, alibaba, observer, java, base, build, extend, result, file">
+	<word weight="0.21453287197231835" count="124">method</word>
+	<word weight="0.14359861591695502" count="83">istio</word>
+	<word weight="0.13494809688581316" count="78">alibaba</word>
+	<word weight="0.10207612456747404" count="59">observer</word>
+	<word weight="0.04325259515570934" count="25">java</word>
+	<word weight="0.03460207612456748" count="20">base</word>
+	<word weight="0.031141868512110725" count="18">build</word>
+	<word weight="0.02422145328719723" count="14">extend</word>
+	<word weight="0.02422145328719723" count="14">server</word>
+	<word weight="0.02249134948096886" count="13">result</word>
+	<word weight="0.01730103806228374" count="10">file</word>
+	<word weight="0.015570934256055362" count="9">stream</word>
+	<word weight="0.015570934256055362" count="9">grpc</word>
+	<word weight="0.01384083044982699" count="8">util</word>
+	<word weight="0.012110726643598616" count="7">annotation</word>
+	<word weight="0.010380622837370242" count="6">error</word>
+	<word weight="0.010380622837370242" count="6">unary</word>
+	<word weight="0.010380622837370242" count="6">proto</word>
+	<word weight="0.00865051903114187" count="5">google</word>
+	<word weight="0.00865051903114187" count="5">assertion</word>
+	<phrase weight="0.2571428571428571" count="9">observer alibaba</phrase>
+	<phrase weight="0.08571428571428572" count="3">proto util</phrase>
+	<phrase weight="0.08571428571428572" count="3">observer java</phrase>
+	<phrase weight="0.05714285714285714" count="2">method assertion error java</phrase>
+	<phrase weight="0.05714285714285714" count="2">unary method</phrase>
+	<phrase weight="0.02857142857142857" count="1">method method handler</phrase>
+	<phrase weight="0.02857142857142857" count="1">add method</phrase>
+	<phrase weight="0.02857142857142857" count="1">extend grpc</phrase>
+	<phrase weight="0.02857142857142857" count="1">channel channel</phrase>
+	<phrase weight="0.02857142857142857" count="1">method method method</phrase>
+	<phrase weight="0.02857142857142857" count="1">supplier extend</phrase>
+	<phrase weight="0.02857142857142857" count="1">assertion error</phrase>
+	<phrase weight="0.02857142857142857" count="1">method istio</phrase>
+	<phrase weight="0.02857142857142857" count="1">istio mcp</phrase>
+	<phrase weight="0.02857142857142857" count="1">method method method java</phrase>
+	<phrase weight="0.02857142857142857" count="1">method create</phrase>
+	<phrase weight="0.02857142857142857" count="1">assertion error java</phrase>
+	<phrase weight="0.02857142857142857" count="1">observer assertion error</phrase>
+	<phrase weight="0.02857142857142857" count="1">method method</phrase>
+	<phrase weight="0.02857142857142857" count="1">stream observer</phrase>
+  </topic>
+  <topic id="1" alpha="0.14212236805944714" totalTokens="504" titles="aggregate, mesh, config, incremental, service, response, single, override, update, request">
+	<word weight="0.20833333333333334" count="105">aggregate</word>
+	<word weight="0.19047619047619047" count="96">mesh</word>
+	<word weight="0.19047619047619047" count="96">config</word>
+	<word weight="0.0873015873015873" count="44">incremental</word>
+	<word weight="0.06746031746031746" count="34">service</word>
+	<word weight="0.051587301587301584" count="26">response</word>
+	<word weight="0.01984126984126984" count="10">single</word>
+	<word weight="0.017857142857142856" count="9">override</word>
+	<word weight="0.015873015873015872" count="8">update</word>
+	<word weight="0.015873015873015872" count="8">request</word>
+	<word weight="0.00992063492063492" count="5">marshaller</word>
+	<word weight="0.00992063492063492" count="5">naco</word>
+	<word weight="0.007936507936507936" count="4">multiple</word>
+	<word weight="0.007936507936507936" count="4">ability</word>
+	<word weight="0.007936507936507936" count="4">impl</word>
+	<word weight="0.007936507936507936" count="4">api</word>
+	<word weight="0.007936507936507936" count="4">deliver</word>
+	<word weight="0.007936507936507936" count="4">management</word>
+	<word weight="0.005952380952380952" count="3">sequence</word>
+	<word weight="0.005952380952380952" count="3">configuration</word>
+	<phrase weight="0.1484375" count="19">mesh config</phrase>
+	<phrase weight="0.1328125" count="17">incremental aggregate</phrase>
+	<phrase weight="0.1328125" count="17">aggregate mesh config</phrase>
+	<phrase weight="0.0859375" count="11">aggregate mesh config service</phrase>
+	<phrase weight="0.0703125" count="9">mesh config response</phrase>
+	<phrase weight="0.0625" count="8">mesh config service</phrase>
+	<phrase weight="0.03125" count="4">deliver api update</phrase>
+	<phrase weight="0.03125" count="4">incremental mesh config</phrase>
+	<phrase weight="0.0234375" count="3">incremental mesh config request</phrase>
+	<phrase weight="0.015625" count="2">mesh config response incremental aggregate</phrase>
+	<phrase weight="0.015625" count="2">mesh config response response</phrase>
+	<phrase weight="0.015625" count="2">single management</phrase>
+	<phrase weight="0.015625" count="2">ability incrementally update</phrase>
+	<phrase weight="0.015625" count="2">service aggregate mesh config</phrase>
+	<phrase weight="0.015625" count="2">aggregate mesh configuration</phrase>
+	<phrase weight="0.0078125" count="1">type single</phrase>
+	<phrase weight="0.0078125" count="1">ability carefully sequence update multiple</phrase>
+	<phrase weight="0.0078125" count="1">multiple independent mesh config request</phrase>
+	<phrase weight="0.0078125" count="1">suppress warning</phrase>
+	<phrase weight="0.0078125" count="1">ability carefully</phrase>
+  </topic>
+  <topic id="2" alpha="0.7186558421628279" totalTokens="331" titles="resource, establish, override, client, impl, responsible, message, connection, initiate, opening">
+	<word weight="0.3293051359516616" count="109">resource</word>
+	<word weight="0.19637462235649547" count="65">source</word>
+	<word weight="0.1510574018126888" count="50">establish</word>
+	<word weight="0.054380664652567974" count="18">override</word>
+	<word weight="0.03323262839879154" count="11">client</word>
+	<word weight="0.027190332326283987" count="9">impl</word>
+	<word weight="0.02416918429003021" count="8">responsible</word>
+	<word weight="0.021148036253776436" count="7">message</word>
+	<word weight="0.021148036253776436" count="7">connection</word>
+	<word weight="0.021148036253776436" count="7">initiate</word>
+	<word weight="0.01812688821752266" count="6">opening</word>
+	<word weight="0.01812688821752266" count="6">call</word>
+	<word weight="0.01812688821752266" count="6">string</word>
+	<word weight="0.00906344410876133" count="3">supplier</word>
+	<word weight="0.006042296072507553" count="2">act</word>
+	<word weight="0.006042296072507553" count="2">methodid</word>
+	<word weight="0.006042296072507553" count="2">unary</word>
+	<word weight="0.006042296072507553" count="2">tracing</word>
+	<word weight="0.006042296072507553" count="2">reflect</word>
+	<word weight="0.006042296072507553" count="2">istio</word>
+	<phrase weight="0.2033898305084746" count="12">establish resource</phrase>
+	<phrase weight="0.1864406779661017" count="11">resource source</phrase>
+	<phrase weight="0.06779661016949153" count="4">resource establish resource</phrase>
+	<phrase weight="0.03389830508474576" count="2">resource message source</phrase>
+	<phrase weight="0.03389830508474576" count="2">impl establish resource</phrase>
+	<phrase weight="0.03389830508474576" count="2">resource establish</phrase>
+	<phrase weight="0.03389830508474576" count="2">resource source impl</phrase>
+	<phrase weight="0.03389830508474576" count="2">resource message</phrase>
+	<phrase weight="0.03389830508474576" count="2">act client establish</phrase>
+	<phrase weight="0.03389830508474576" count="2">responsible initiate connection opening</phrase>
+	<phrase weight="0.03389830508474576" count="2">responsible initiate connection</phrase>
+	<phrase weight="0.01694915254237288" count="1">methodid establish</phrase>
+	<phrase weight="0.01694915254237288" count="1">call establish resource</phrase>
+	<phrase weight="0.01694915254237288" count="1">resource source establish resource</phrase>
+	<phrase weight="0.01694915254237288" count="1">source resource source</phrase>
+	<phrase weight="0.01694915254237288" count="1">source responsible</phrase>
+	<phrase weight="0.01694915254237288" count="1">source impl</phrase>
+	<phrase weight="0.01694915254237288" count="1">source responsible initiate connection opening</phrase>
+	<phrase weight="0.01694915254237288" count="1">client establish resource</phrase>
+	<phrase weight="0.01694915254237288" count="1">client source responsible initiate connection opening</phrase>
+  </topic>
+  <topic id="3" alpha="8.29856249494348E-61" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="1.2376019600119382E-140" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="9.719140322832595E-153" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="0.9633644263201552" totalTokens="303" titles="mcp, stream, protobuf, req, block, bidi, type, marshaller, methodid, resource">
+	<word weight="0.15181518151815182" count="46">mcp</word>
+	<word weight="0.1485148514851485" count="45">stream</word>
+	<word weight="0.08250825082508251" count="25">protobuf</word>
+	<word weight="0.066006600660066" count="20">req</word>
+	<word weight="0.066006600660066" count="20">block</word>
+	<word weight="0.052805280528052806" count="16">bidi</word>
+	<word weight="0.039603960396039604" count="12">type</word>
+	<word weight="0.036303630363036306" count="11">marshaller</word>
+	<word weight="0.033003300330033" count="10">methodid</word>
+	<word weight="0.0297029702970297" count="9">resource</word>
+	<word weight="0.0297029702970297" count="9">model</word>
+	<word weight="0.026402640264026403" count="8">handler</word>
+	<word weight="0.026402640264026403" count="8">support</word>
+	<word weight="0.0231023102310231" count="7">server</word>
+	<word weight="0.019801980198019802" count="6">client</word>
+	<word weight="0.019801980198019802" count="6">style</word>
+	<word weight="0.019801980198019802" count="6">instance</word>
+	<word weight="0.0165016501650165" count="5">call</word>
+	<word weight="0.013201320132013201" count="4">send</word>
+	<word weight="0.013201320132013201" count="4">result</word>
+	<phrase weight="0.3076923076923077" count="4">model mcp</phrase>
+	<phrase weight="0.15384615384615385" count="2">handler req</phrase>
+	<phrase weight="0.15384615384615385" count="2">client support goal</phrase>
+	<phrase weight="0.07692307692307693" count="1">strictly reflect</phrase>
+	<phrase weight="0.07692307692307693" count="1">type bidi</phrase>
+	<phrase weight="0.07692307692307693" count="1">call client</phrase>
+	<phrase weight="0.07692307692307693" count="1">compiler version</phrase>
+	<phrase weight="0.07692307692307693" count="1">mcp mcp</phrase>
+  </topic>
+  <topic id="7" alpha="0.41857642659379474" totalTokens="134" titles="sink, method, streams, java, naco, req, definition, create, impl, response">
+	<word weight="0.4626865671641791" count="62">sink</word>
+	<word weight="0.11940298507462686" count="16">method</word>
+	<word weight="0.05970149253731343" count="8">streams</word>
+	<word weight="0.05223880597014925" count="7">java</word>
+	<word weight="0.03731343283582089" count="5">naco</word>
+	<word weight="0.029850746268656716" count="4">req</word>
+	<word weight="0.029850746268656716" count="4">definition</word>
+	<word weight="0.029850746268656716" count="4">create</word>
+	<word weight="0.022388059701492536" count="3">impl</word>
+	<word weight="0.022388059701492536" count="3">response</word>
+	<word weight="0.014925373134328358" count="2">option</word>
+	<word weight="0.014925373134328358" count="2">bind</word>
+	<word weight="0.014925373134328358" count="2">listenable</word>
+	<word weight="0.014925373134328358" count="2">local</word>
+	<word weight="0.014925373134328358" count="2">set</word>
+	<word weight="0.014925373134328358" count="2">builder</word>
+	<word weight="0.007462686567164179" count="1">opening</word>
+	<word weight="0.007462686567164179" count="1">connection</word>
+	<word weight="0.007462686567164179" count="1">true</word>
+	<word weight="0.007462686567164179" count="1">stub</word>
+	<phrase weight="0.3333333333333333" count="2">definition bind</phrase>
+	<phrase weight="0.3333333333333333" count="2">sink sink</phrase>
+	<phrase weight="0.16666666666666666" count="1">definition builder</phrase>
+	<phrase weight="0.16666666666666666" count="1">sink method</phrase>
+  </topic>
+  <topic id="8" alpha="5.159192104928805" totalTokens="1734" titles="grpc, stub, descriptor, resource, service, channel, call, model, naco, stream">
+	<word weight="0.11130334486735871" count="193">grpc</word>
+	<word weight="0.08996539792387544" count="156">stub</word>
+	<word weight="0.08073817762399077" count="140">descriptor</word>
+	<word weight="0.07381776239907728" count="128">resource</word>
+	<word weight="0.06862745098039216" count="119">service</word>
+	<word weight="0.06113033448673587" count="106">channel</word>
+	<word weight="0.04844290657439446" count="84">call</word>
+	<word weight="0.040369088811995385" count="70">model</word>
+	<word weight="0.039792387543252594" count="69">naco</word>
+	<word weight="0.03690888119953864" count="64">stream</word>
+	<word weight="0.03229527104959631" count="56">option</word>
+	<word weight="0.03229527104959631" count="56">method</word>
+	<word weight="0.025374855824682813" count="44">request</word>
+	<word weight="0.024798154555940023" count="43">mcp</word>
+	<word weight="0.02249134948096886" count="39">pre</word>
+	<word weight="0.01903114186851211" count="33">lang</word>
+	<word weight="0.01845444059976932" count="32">supplier</word>
+	<word weight="0.01730103806228374" count="30">future</word>
+	<word weight="0.016147635524798153" count="28">streaming</word>
+	<word weight="0.014994232987312572" count="26">response</word>
+	<phrase weight="0.05120481927710843" count="17">model mcp</phrase>
+	<phrase weight="0.04819277108433735" count="16">descriptor supplier</phrase>
+	<phrase weight="0.03614457831325301" count="12">grpc stub</phrase>
+	<phrase weight="0.024096385542168676" count="8">grpc stub stream</phrase>
+	<phrase weight="0.02108433734939759" count="7">resp grpc stub</phrase>
+	<phrase weight="0.02108433734939759" count="7">service descriptor</phrase>
+	<phrase weight="0.018072289156626505" count="6">model mcp request</phrase>
+	<phrase weight="0.018072289156626505" count="6">streaming call</phrase>
+	<phrase weight="0.018072289156626505" count="6">stub channel</phrase>
+	<phrase weight="0.015060240963855422" count="5">grpc stub stub</phrase>
+	<phrase weight="0.015060240963855422" count="5">descriptor supplier implement grpc</phrase>
+	<phrase weight="0.012048192771084338" count="4">service impl</phrase>
+	<phrase weight="0.012048192771084338" count="4">stub grpc channel channel grpc call option call option channel call option</phrase>
+	<phrase weight="0.012048192771084338" count="4">resource stream</phrase>
+	<phrase weight="0.012048192771084338" count="4">resource grpc stub stream</phrase>
+	<phrase weight="0.012048192771084338" count="4">grpc method descriptor</phrase>
+	<phrase weight="0.012048192771084338" count="4">pre service</phrase>
+	<phrase weight="0.012048192771084338" count="4">grpc channel channel grpc call option call option</phrase>
+	<phrase weight="0.012048192771084338" count="4">resp response</phrase>
+	<phrase weight="0.009036144578313253" count="3">call service resource</phrase>
+  </topic>
+  <topic id="9" alpha="0.08171314052775767" totalTokens="40" titles="full, resp, bidi, string, mesh, url, provide, aggregated, generate, google">
+	<word weight="0.15" count="6">full</word>
+	<word weight="0.125" count="5">resp</word>
+	<word weight="0.075" count="3">bidi</word>
+	<word weight="0.075" count="3">string</word>
+	<word weight="0.075" count="3">mesh</word>
+	<word weight="0.05" count="2">url</word>
+	<word weight="0.05" count="2">provide</word>
+	<word weight="0.05" count="2">aggregated</word>
+	<word weight="0.05" count="2">generate</word>
+	<word weight="0.025" count="1">google</word>
+	<word weight="0.025" count="1">invoke</word>
+	<word weight="0.025" count="1">handler</word>
+	<word weight="0.025" count="1">java</word>
+	<word weight="0.025" count="1">unimplemented</word>
+	<word weight="0.025" count="1">multiplex</word>
+	<word weight="0.025" count="1">sequence</word>
+	<word weight="0.025" count="1">impl</word>
+	<word weight="0.025" count="1">output</word>
+	<word weight="0.025" count="1">unary</word>
+	<word weight="0.025" count="1">true</word>
+	<phrase weight="1.0" count="2">generate full</phrase>
+  </topic>
+</topics>

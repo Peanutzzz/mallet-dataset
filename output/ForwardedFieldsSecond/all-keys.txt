@@ -1,0 +1,10 @@
+0	0.01649	score change tuple parameter open superstep math context runtime iteration agg aggregator close initial abs configuration sum rich extend aggregate 
+1	0.48665	tuple field forward join override exception function implement collector collect flat annotation set test translation hubbiness iteration internal 
+2	0.02736	edge projection vvb vvt bipartite equal full bottom simple top collector 
+3	0.02392	vertex triplet set output result val src edge project triangle bitmask 
+4	0.02472	integer string function annotation group test iterable read dummy execute win operator 
+5	0.09895	edge vertex neighbor function join field message representative target project key source reuse warning group position serial suppress set annotation 
+6	0.00609	square sum authority hubbiness iterator root output sqrt variable broadcast collection set squared normalize join 
+7	0.03048	component candidate minimum current iterator iterable group update version serial max encounter error min connect rich extend mirror match solution 
+8	0.03688	edge output iterator vertex iterable group send score authority set 
+9	0.03978	vertex degree output join count triangle result set coefficient field 

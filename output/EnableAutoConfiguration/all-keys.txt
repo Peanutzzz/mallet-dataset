@@ -1,0 +1,10 @@
+0	0	
+1	0.36602	config configuration apollo auto enable component scan base biz common bean adminservice proxy 
+2	0	
+3	0.02369	http service firewall admin meta application slash encode url 
+4	0.05235	configuration type filter service test local assignable exclude application security web converter message scan 
+5	0	
+6	0.07029	test bean configuration conditional property enable key auto 
+7	0.04961	portal api open exception config 
+8	0	
+9	0.07816	application service arg property enable run spring string main admin common management transaction aspect classpath source client eureka proxy exception 

@@ -1,0 +1,43 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="24.456432514584275" totalTokens="55" titles="test, quarkus, archive, unit, add, foo, java, create, wrap, shrink">
+	<word weight="0.16363636363636364" count="9">test</word>
+	<word weight="0.10909090909090909" count="6">quarkus</word>
+	<word weight="0.07272727272727272" count="4">archive</word>
+	<word weight="0.07272727272727272" count="4">unit</word>
+	<word weight="0.05454545454545454" count="3">add</word>
+	<word weight="0.03636363636363636" count="2">foo</word>
+	<word weight="0.03636363636363636" count="2">java</word>
+	<word weight="0.03636363636363636" count="2">create</word>
+	<word weight="0.03636363636363636" count="2">wrap</word>
+	<word weight="0.03636363636363636" count="2">shrink</word>
+	<word weight="0.03636363636363636" count="2">producer</word>
+	<word weight="0.03636363636363636" count="2">set</word>
+	<word weight="0.03636363636363636" count="2">extension</word>
+	<word weight="0.03636363636363636" count="2">register</word>
+	<word weight="0.03636363636363636" count="2">adapter</word>
+	<word weight="0.01818181818181818" count="1">resource</word>
+	<word weight="0.01818181818181818" count="1">interceptor</word>
+	<word weight="0.01818181818181818" count="1">cdi</word>
+	<word weight="0.01818181818181818" count="1">annotation</word>
+	<word weight="0.01818181818181818" count="1">sentinel</word>
+  </topic>
+  <topic id="1" alpha="2.6379323271692287E-48" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="2.6379323271692287E-48" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="2.6379323271692287E-48" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="2.6379323271692287E-48" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="2.6379323271692287E-48" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="2.6379323271692287E-48" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="2.6379323271692287E-48" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="2.6379323271692287E-48" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="2.6379323271692287E-48" totalTokens="0" titles="">
+  </topic>
+</topics>

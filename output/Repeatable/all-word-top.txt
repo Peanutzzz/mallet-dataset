@@ -1,0 +1,53 @@
+0 evolve 6:1
+1 retention 1:2
+2 policy 3:1
+3 runtime 5:1
+4 target 4:1
+5 element 3:2
+6 type 5:15 3:2
+7 method 1:1
+8 repeatable 0:1
+9 function 9:6
+10 hint 0:8
+11 note 7:2
+12 implementer 7:1
+13 support 1:1
+14 annotation 8:3
+15 parameter 4:4
+16 representation 9:1
+17 unknown 8:1
+18 order 6:1
+19 merge 9:1
+20 multi 0:1
+21 level 4:1
+22 explicitly 8:4
+23 list 5:2
+24 argument 6:11
+25 input 3:10
+26 explicit 5:3 6:1
+27 undefined 2:4
+28 reflection 0:6
+29 base 4:6
+30 extraction 9:3 1:2 2:1
+31 manually 4:2
+32 disable 2:1
+33 entire 5:1
+34 link 9:6 8:1
+35 var 5:4
+36 arg 8:4
+37 require 7:1
+38 datum 8:6
+39 define 7:8
+40 treat 9:1
+41 variable 2:1
+42 length 7:1
+43 decide 7:1
+44 flag 8:1
+45 ignore 4:2
+46 false 0:1
+47 provide 3:1
+48 string 8:1
+49 intermediate 0:1
+50 result 2:2
+51 accumulator 5:3
+52 output 1:3

@@ -1,0 +1,37 @@
+0 web 8:11
+1 flux 0:5
+2 auto 0:5
+3 configuration 3:6
+4 conditional 1:3
+5 application 3:9
+6 type 6:2
+7 reactive 7:1
+8 configurer 6:9
+9 configure 4:1
+10 enable 3:1
+11 property 7:17
+12 server 8:16
+13 resource 4:4 2:4
+14 custom 6:2
+15 error 3:6 5:4
+16 context 6:7
+17 list 8:3
+18 view 9:8
+19 resolver 0:7 3:1
+20 codec 3:8
+21 object 0:1
+22 provider 5:3
+23 collection 8:1
+24 empty 0:1
+25 bean 9:1
+26 order 7:2
+27 highest 0:1
+28 precedence 6:1
+29 exception 0:9
+30 handler 1:9
+31 attribute 9:3
+32 json 4:2
+33 set 7:3
+34 message 2:2
+35 writer 3:2
+36 reader 8:2

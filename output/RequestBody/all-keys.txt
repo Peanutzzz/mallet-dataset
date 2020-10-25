@@ -1,0 +1,10 @@
+0	0.01033	body request item controller set change menu role favorite open node member dto 
+1	0.00101	bean config list clone true require 
+2	0.01097	model namespace body request release sync text creation del gray controller 
+3	0	
+4	0	
+5	0.01248	request app body valid namespace cluster assign model server open dto controller single full 
+6	0.00406	req body controller request update api add config consumer 
+7	0.00568	dto body request search key access controller client index false require 
+8	0.00887	rule entity body request controller flow release gray authority param list dto 
+9	0.0134	body request string user controller map datum payload machine instance param collection command list set 

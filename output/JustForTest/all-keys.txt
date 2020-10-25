@@ -1,0 +1,10 @@
+0	0.1086	publisher instance map canonical 
+1	0.05313	task report naco 
+2	0.05418	standalone util assignable 
+3	0.03294	protocol consistency mock impl operate 
+4	0.06538	enable caching cache config auth 
+5	0.08564	server raft tuple group update 
+6	0.11083	member info address manager application put 
+7	0.14751	event topic recover error extend list slow 
+8	0.47526	test set string share 
+9	0.07212	path home naco 

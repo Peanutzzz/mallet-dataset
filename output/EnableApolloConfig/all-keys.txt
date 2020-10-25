@@ -1,0 +1,10 @@
+0	0.02338	key interested prefix integration 
+1	0.02738	filter type component annotation exclude include scan auto 
+2	0.04041	batch timeout set java win 
+3	0.06075	yaml order application 
+4	2.20437	bean test config apollo configuration enable app auto spring server 
+5	0.52949	java config placeholder update application xml yml resource 
+6	0.01139	datum kind type 
+7	0.12252	listener change apollo annotation child file namespace 
+8	0.04971	property nest placeholder 
+9	0.04221	json test apollo placeholder 

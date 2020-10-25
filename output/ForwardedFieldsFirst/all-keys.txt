@@ -1,0 +1,10 @@
+0	0.11705	vertex degree output join implement forward coefficient trg iterator function field 
+1	0.0455	vertex message neighbor key project state warning suppress iteration hubbiness collect 
+2	0.06974	component tuple candidate group iterable iterator minimum current max encounter error update min connect win dummy runtime duration 
+3	0.69326	tuple join field forward function override collector implement exception collect flat project test rich serial execute annotation translation version extend 
+4	0.01726	projection vvb vvt full exception join bottom flat field 
+5	0.16558	edge bipartite equal projection field simple top target source bottom 
+6	0.01316	square sum authority hubbiness iterator root output sqrt variable broadcast collection set squared hub normalize rich forward 
+7	0.05215	vertex set triplet result output triangle count field src val exception function 
+8	0.01492	integer string rank visit emit pair compiler relation entry check avg url format output empty anti analysis 
+9	0.02653	score change exception override parameter open iteration superstep math context runtime agg aggregator close initial abs configuration extend aggregate sum 

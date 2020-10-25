@@ -1,0 +1,10 @@
+0	0.03179	security http remove exception auth role option frame disable csrf configure protect extend global ldap admin problem server useless miss 
+1	0.0299	handler bean user miss conditional service logout holder info heartbeat sso configuration auth auto ldap ctrip profile 
+2	0.05114	enable web config origin header configurer true post pre password autowire spring client compatibility adapter method auth 
+3	0	
+4	0.04441	user authentication web manager follow big information backward adapter global miss conditional 
+5	0	
+6	0.34692	profile configuration conditional miss combine test true enable override 
+7	0	
+8	0.04905	apollo password memory builder send basic configure override method 
+9	0.0722	service email bean ctrip 

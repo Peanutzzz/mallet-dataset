@@ -1,0 +1,10 @@
+0	5.8049	excel true field width format string height time date datetime constant common update create sex integer replace mobile nickname username 
+1	0	
+2	0	
+3	0	
+4	0	
+5	0	
+6	0	
+7	0	
+8	0	
+9	0	

@@ -1,0 +1,296 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.025407790506792493" totalTokens="140" titles="route, string, generate, service, size, ignore, path, swagger, entity, set">
+	<word weight="0.18571428571428572" count="26">route</word>
+	<word weight="0.07142857142857142" count="10">string</word>
+	<word weight="0.05" count="7">generate</word>
+	<word weight="0.04285714285714286" count="6">service</word>
+	<word weight="0.04285714285714286" count="6">size</word>
+	<word weight="0.04285714285714286" count="6">ignore</word>
+	<word weight="0.03571428571428571" count="5">path</word>
+	<word weight="0.03571428571428571" count="5">swagger</word>
+	<word weight="0.02857142857142857" count="4">entity</word>
+	<word weight="0.02857142857142857" count="4">set</word>
+	<word weight="0.02857142857142857" count="4">true</word>
+	<word weight="0.02142857142857143" count="3">physical</word>
+	<word weight="0.02142857142857143" count="3">zuul</word>
+	<word weight="0.02142857142857143" count="3">map</word>
+	<word weight="0.02142857142857143" count="3">api</word>
+	<word weight="0.02142857142857143" count="3">agg</word>
+	<word weight="0.02142857142857143" count="3">setter</word>
+	<word weight="0.014285714285714285" count="2">retryable</word>
+	<word weight="0.014285714285714285" count="2">strip</word>
+	<word weight="0.014285714285714285" count="2">flag</word>
+	<phrase weight="0.125" count="1">entity setter</phrase>
+	<phrase weight="0.125" count="1">string route generate route size generate route size ignore route size ignore route size generate route size generate route route false ignore route size ignore route route</phrase>
+	<phrase weight="0.125" count="1">zuul route entity route map key string path pattern route foo string path service map route physical</phrase>
+	<phrase weight="0.125" count="1">pattern patcher strip forward strip prefix true flag route retryable support generally retry require service ribbon retryable string api</phrase>
+	<phrase weight="0.125" count="1">flag determine prefix route path</phrase>
+	<phrase weight="0.125" count="1">map route alternative service service discovery find physical address string</phrase>
+	<phrase weight="0.125" count="1">swagger json string api doc path api doc swagger string swagger version generate route ignore route set string generate route hash set generate route set string ignore route hash set</phrase>
+	<phrase weight="0.125" count="1">service string service</phrase>
+  </topic>
+  <topic id="1" alpha="0.06530850610810607" totalTokens="196" titles="url, list, string, enable, true, array, property, http, permission, getter">
+	<word weight="0.15306122448979592" count="30">url</word>
+	<word weight="0.11224489795918367" count="22">list</word>
+	<word weight="0.10204081632653061" count="20">string</word>
+	<word weight="0.07653061224489796" count="15">enable</word>
+	<word weight="0.05612244897959184" count="11">true</word>
+	<word weight="0.04081632653061224" count="8">array</word>
+	<word weight="0.04081632653061224" count="8">property</word>
+	<word weight="0.03571428571428571" count="7">http</word>
+	<word weight="0.030612244897959183" count="6">permission</word>
+	<word weight="0.030612244897959183" count="6">getter</word>
+	<word weight="0.025510204081632654" count="5">client</word>
+	<word weight="0.025510204081632654" count="5">ignore</word>
+	<word weight="0.02040816326530612" count="4">api</word>
+	<word weight="0.02040816326530612" count="4">swagger</word>
+	<word weight="0.02040816326530612" count="4">renew</word>
+	<word weight="0.02040816326530612" count="4">setter</word>
+	<word weight="0.015306122448979591" count="3">mapper</word>
+	<word weight="0.015306122448979591" count="3">add</word>
+	<word weight="0.015306122448979591" count="3">endpoint</word>
+	<word weight="0.01020408163265306" count="2">tenant</word>
+	<phrase weight="0.16666666666666666" count="2">setter getter</phrase>
+	<phrase weight="0.08333333333333333" count="1">property enable</phrase>
+	<phrase weight="0.08333333333333333" count="1">array list</phrase>
+	<phrase weight="0.08333333333333333" count="1">security ignore http url url url string http url token redi renew property renew renew property url url permission</phrase>
+	<phrase weight="0.08333333333333333" count="1">property swagger url string endpoint oauth</phrase>
+	<phrase weight="0.08333333333333333" count="1">enable enable</phrase>
+	<phrase weight="0.08333333333333333" count="1">setter getter renew property token redis enable false enable true list string include client array list enable true list string exclusive client array list</phrase>
+	<phrase weight="0.08333333333333333" count="1">enable true enable</phrase>
+	<phrase weight="0.08333333333333333" count="1">list list string ignore</phrase>
+	<phrase weight="0.08333333333333333" count="1">true enable</phrase>
+	<phrase weight="0.08333333333333333" count="1">list string ignore</phrase>
+  </topic>
+  <topic id="2" alpha="0.11684105597274348" totalTokens="199" titles="property, zlt, configuration, prefix, getter, setter, refresh, scope, oss, log">
+	<word weight="0.24120603015075376" count="48">property</word>
+	<word weight="0.06532663316582915" count="13">zlt</word>
+	<word weight="0.06030150753768844" count="12">configuration</word>
+	<word weight="0.05527638190954774" count="11">prefix</word>
+	<word weight="0.05527638190954774" count="11">getter</word>
+	<word weight="0.05025125628140704" count="10">setter</word>
+	<word weight="0.04522613065326633" count="9">refresh</word>
+	<word weight="0.04020100502512563" count="8">scope</word>
+	<word weight="0.03015075376884422" count="6">oss</word>
+	<word weight="0.02512562814070352" count="5">log</word>
+	<word weight="0.02512562814070352" count="5">code</word>
+	<word weight="0.020100502512562814" count="4">audit</word>
+	<word weight="0.020100502512562814" count="4">false</word>
+	<word weight="0.020100502512562814" count="4">string</word>
+	<word weight="0.01507537688442211" count="3">connect</word>
+	<word weight="0.01507537688442211" count="3">validate</word>
+	<word weight="0.01507537688442211" count="3">client</word>
+	<word weight="0.01507537688442211" count="3">auth</word>
+	<word weight="0.01507537688442211" count="3">fdf</word>
+	<word weight="0.010050251256281407" count="2">trace</word>
+	<phrase weight="0.16666666666666666" count="2">refresh scope</phrase>
+	<phrase weight="0.16666666666666666" count="2">getter configuration property prefix zlt</phrase>
+	<phrase weight="0.16666666666666666" count="2">configuration property prefix zlt</phrase>
+	<phrase weight="0.08333333333333333" count="1">property setter getter configuration property prefix zlt audit log datasource log property</phrase>
+	<phrase weight="0.08333333333333333" count="1">property prefix zlt</phrase>
+	<phrase weight="0.08333333333333333" count="1">property setter getter configuration property prefix zlt audit log refresh scope audit log property</phrase>
+	<phrase weight="0.08333333333333333" count="1">getter configuration property zlt</phrase>
+	<phrase weight="0.08333333333333333" count="1">false logger</phrase>
+	<phrase weight="0.08333333333333333" count="1">setter getter fdf property fastdf</phrase>
+  </topic>
+  <topic id="3" alpha="0.04488518674076823" totalTokens="132" titles="user, role, extend, override, collection, table, menu, getter, authority, grant">
+	<word weight="0.10606060606060606" count="14">user</word>
+	<word weight="0.09090909090909091" count="12">role</word>
+	<word weight="0.06060606060606061" count="8">extend</word>
+	<word weight="0.05303030303030303" count="7">override</word>
+	<word weight="0.045454545454545456" count="6">collection</word>
+	<word weight="0.045454545454545456" count="6">table</word>
+	<word weight="0.03787878787878788" count="5">menu</word>
+	<word weight="0.03787878787878788" count="5">getter</word>
+	<word weight="0.030303030303030304" count="4">authority</word>
+	<word weight="0.030303030303030304" count="4">grant</word>
+	<word weight="0.030303030303030304" count="4">constructor</word>
+	<word weight="0.030303030303030304" count="4">arg</word>
+	<word weight="0.030303030303030304" count="4">setter</word>
+	<word weight="0.022727272727272728" count="3">version</word>
+	<word weight="0.022727272727272728" count="3">serial</word>
+	<word weight="0.022727272727272728" count="3">set</word>
+	<word weight="0.022727272727272728" count="3">code</word>
+	<word weight="0.022727272727272728" count="3">hash</word>
+	<word weight="0.015151515151515152" count="2">date</word>
+	<word weight="0.015151515151515152" count="2">expire</word>
+	<phrase weight="0.09090909090909091" count="1">override collection extend grant authority authority collection grant authority collection hash set collection util empty role role parallel</phrase>
+	<phrase weight="0.09090909090909091" count="1">override account</phrase>
+	<phrase weight="0.09090909090909091" count="1">simple grant authority role code collection override account expire</phrase>
+	<phrase weight="0.09090909090909091" count="1">dto extend client serial version</phrase>
+	<phrase weight="0.09090909090909091" count="1">table table</phrase>
+	<phrase weight="0.09090909090909091" count="1">override credentials expire</phrase>
+	<phrase weight="0.09090909090909091" count="1">central user</phrase>
+	<phrase weight="0.09090909090909091" count="1">user getter setter login app user extend user implement social user detail serial version set</phrase>
+	<phrase weight="0.09090909090909091" count="1">setter getter</phrase>
+	<phrase weight="0.09090909090909091" count="1">serializable serial version</phrase>
+	<phrase weight="0.09090909090909091" count="1">role collection</phrase>
+  </topic>
+  <topic id="4" alpha="0.0224998820055796" totalTokens="81" titles="time, fill, field, integer, update, rest, max, auto, create, insert">
+	<word weight="0.12345679012345678" count="10">time</word>
+	<word weight="0.1111111111111111" count="9">fill</word>
+	<word weight="0.07407407407407407" count="6">field</word>
+	<word weight="0.06172839506172839" count="5">integer</word>
+	<word weight="0.06172839506172839" count="5">update</word>
+	<word weight="0.04938271604938271" count="4">rest</word>
+	<word weight="0.04938271604938271" count="4">max</word>
+	<word weight="0.037037037037037035" count="3">auto</word>
+	<word weight="0.037037037037037035" count="3">create</word>
+	<word weight="0.037037037037037035" count="3">insert</word>
+	<word weight="0.037037037037037035" count="3">pool</word>
+	<word weight="0.037037037037037035" count="3">setter</word>
+	<word weight="0.024691358024691357" count="2">timeout</word>
+	<word weight="0.024691358024691357" count="2">template</word>
+	<word weight="0.024691358024691357" count="2">route</word>
+	<word weight="0.024691358024691357" count="2">mybatis</word>
+	<word weight="0.024691358024691357" count="2">model</word>
+	<word weight="0.012345679012345678" count="1">total</word>
+	<word weight="0.012345679012345678" count="1">num</word>
+	<word weight="0.012345679012345678" count="1">request</word>
+	<phrase weight="0.14285714285714285" count="2">auto fill</phrase>
+	<phrase weight="0.07142857142857142" count="1">create time</phrase>
+	<phrase weight="0.07142857142857142" count="1">field fill field fill insert update</phrase>
+	<phrase weight="0.07142857142857142" count="1">template rest template</phrase>
+	<phrase weight="0.07142857142857142" count="1">create time field create time</phrase>
+	<phrase weight="0.07142857142857142" count="1">integer connect time integer</phrase>
+	<phrase weight="0.07142857142857142" count="1">update time</phrase>
+	<phrase weight="0.07142857142857142" count="1">time integer connection request time integer max</phrase>
+	<phrase weight="0.07142857142857142" count="1">max total max route</phrase>
+	<phrase weight="0.07142857142857142" count="1">fill field fill insert</phrase>
+	<phrase weight="0.07142857142857142" count="1">num integer max</phrase>
+	<phrase weight="0.07142857142857142" count="1">rest pool</phrase>
+	<phrase weight="0.07142857142857142" count="1">scope mybatis auto fill</phrase>
+  </topic>
+  <topic id="5" alpha="0.061287317276602145" totalTokens="123" titles="string, getter, setter, cache, key, config, del, logic, test, parameter">
+	<word weight="0.22764227642276422" count="28">string</word>
+	<word weight="0.08130081300813008" count="10">getter</word>
+	<word weight="0.08130081300813008" count="10">setter</word>
+	<word weight="0.056910569105691054" count="7">cache</word>
+	<word weight="0.056910569105691054" count="7">key</word>
+	<word weight="0.032520325203252036" count="4">config</word>
+	<word weight="0.024390243902439025" count="3">del</word>
+	<word weight="0.024390243902439025" count="3">logic</word>
+	<word weight="0.016260162601626018" count="2">test</word>
+	<word weight="0.016260162601626018" count="2">parameter</word>
+	<word weight="0.016260162601626018" count="2">sec</word>
+	<word weight="0.016260162601626018" count="2">manager</word>
+	<word weight="0.016260162601626018" count="2">operation</word>
+	<word weight="0.016260162601626018" count="2">date</word>
+	<word weight="0.016260162601626018" count="2">client</word>
+	<word weight="0.016260162601626018" count="2">token</word>
+	<word weight="0.016260162601626018" count="2">constructor</word>
+	<word weight="0.016260162601626018" count="2">arg</word>
+	<word weight="0.016260162601626018" count="2">dto</word>
+	<word weight="0.016260162601626018" count="2">bucket</word>
+	<phrase weight="0.3333333333333333" count="3">setter getter</phrase>
+	<phrase weight="0.1111111111111111" count="1">setter getter global operation parameter string string description string model ref</phrase>
+	<phrase weight="0.1111111111111111" count="1">body form string parameter type string</phrase>
+	<phrase weight="0.1111111111111111" count="1">string token date expiration string username string client string</phrase>
+	<phrase weight="0.1111111111111111" count="1">local date time timestamp string application string string method string</phrase>
+	<phrase weight="0.1111111111111111" count="1">manager cache manager</phrase>
+	<phrase weight="0.1111111111111111" count="1">setter getter oss</phrase>
+  </topic>
+  <topic id="6" alpha="0.006731776364960243" totalTokens="80" titles="username, authentication, password, request, tenant, filter, method, post, obtain, servlet">
+	<word weight="0.15" count="12">username</word>
+	<word weight="0.1375" count="11">authentication</word>
+	<word weight="0.125" count="10">password</word>
+	<word weight="0.125" count="10">request</word>
+	<word weight="0.075" count="6">tenant</word>
+	<word weight="0.05" count="4">filter</word>
+	<word weight="0.0375" count="3">method</word>
+	<word weight="0.0375" count="3">post</word>
+	<word weight="0.0375" count="3">auth</word>
+	<word weight="0.025" count="2">obtain</word>
+	<word weight="0.025" count="2">servlet</word>
+	<word weight="0.025" count="2">response</word>
+	<word weight="0.025" count="2">client</word>
+	<word weight="0.025" count="2">string</word>
+	<word weight="0.025" count="2">http</word>
+	<word weight="0.0125" count="1">context</word>
+	<word weight="0.0125" count="1">authenticate</word>
+	<word weight="0.0125" count="1">manager</word>
+	<word weight="0.0125" count="1">exception</word>
+	<word weight="0.0125" count="1">extend</word>
+	<phrase weight="0.08333333333333333" count="1">request method</phrase>
+	<phrase weight="0.08333333333333333" count="1">tenant username password authentication</phrase>
+	<phrase weight="0.08333333333333333" count="1">password authentication filter</phrase>
+	<phrase weight="0.08333333333333333" count="1">authentication http servlet request request http servlet response response authentication exception post request method equal post authentication</phrase>
+	<phrase weight="0.08333333333333333" count="1">authentication filter extend username password authentication filter post</phrase>
+	<phrase weight="0.08333333333333333" count="1">tenant username password</phrase>
+	<phrase weight="0.08333333333333333" count="1">tenant username username password password username username</phrase>
+	<phrase weight="0.08333333333333333" count="1">auth request tenant username password authentication</phrase>
+	<phrase weight="0.08333333333333333" count="1">username obtain username request string password obtain password request string client tenant context</phrase>
+	<phrase weight="0.08333333333333333" count="1">authentication method</phrase>
+	<phrase weight="0.08333333333333333" count="1">tenant username</phrase>
+	<phrase weight="0.08333333333333333" count="1">username password client</phrase>
+  </topic>
+  <topic id="7" alpha="0.006790734806282178" totalTokens="588" titles="search, builder, field, string, page, param, request, highlight, query, object">
+	<word weight="0.11564625850340136" count="68">search</word>
+	<word weight="0.08843537414965986" count="52">builder</word>
+	<word weight="0.04591836734693878" count="27">field</word>
+	<word weight="0.0391156462585034" count="23">string</word>
+	<word weight="0.03741496598639456" count="22">page</word>
+	<word weight="0.034013605442176874" count="20">param</word>
+	<word weight="0.034013605442176874" count="20">request</word>
+	<word weight="0.03231292517006803" count="19">highlight</word>
+	<word weight="0.030612244897959183" count="18">query</word>
+	<word weight="0.027210884353741496" count="16">object</word>
+	<word weight="0.027210884353741496" count="16">hit</word>
+	<word weight="0.025510204081632654" count="15">source</word>
+	<word weight="0.025510204081632654" count="15">client</word>
+	<word weight="0.025510204081632654" count="15">list</word>
+	<word weight="0.023809523809523808" count="14">tag</word>
+	<word weight="0.02040816326530612" count="12">set</word>
+	<word weight="0.01870748299319728" count="11">limit</word>
+	<word weight="0.015306122448979591" count="9">str</word>
+	<word weight="0.015306122448979591" count="9">elasticsearch</word>
+	<word weight="0.015306122448979591" count="9">util</word>
+  </topic>
+  <topic id="8" alpha="0.01473077467695564" totalTokens="113" titles="authentication, token, user, mobile, password, detail, service, string, encoder, provider">
+	<word weight="0.19469026548672566" count="22">authentication</word>
+	<word weight="0.09734513274336283" count="11">token</word>
+	<word weight="0.08849557522123894" count="10">user</word>
+	<word weight="0.07964601769911504" count="9">mobile</word>
+	<word weight="0.07079646017699115" count="8">password</word>
+	<word weight="0.061946902654867256" count="7">detail</word>
+	<word weight="0.04424778761061947" count="5">service</word>
+	<word weight="0.035398230088495575" count="4">string</word>
+	<word weight="0.02654867256637168" count="3">encoder</word>
+	<word weight="0.02654867256637168" count="3">provider</word>
+	<word weight="0.02654867256637168" count="3">result</word>
+	<word weight="0.02654867256637168" count="3">exception</word>
+	<word weight="0.02654867256637168" count="3">override</word>
+	<word weight="0.017699115044247787" count="2">support</word>
+	<word weight="0.017699115044247787" count="2">credentials</word>
+	<word weight="0.017699115044247787" count="2">set</word>
+	<word weight="0.008849557522123894" count="1">trim</word>
+	<word weight="0.008849557522123894" count="1">holder</word>
+	<word weight="0.008849557522123894" count="1">attempt</word>
+	<word weight="0.008849557522123894" count="1">assignable</word>
+  </topic>
+  <topic id="9" alpha="0.005377273747571862" totalTokens="106" titles="executor, pool, task, size, thread, set, max, asyc, capacity, queue">
+	<word weight="0.1320754716981132" count="14">executor</word>
+	<word weight="0.11320754716981132" count="12">pool</word>
+	<word weight="0.09433962264150944" count="10">task</word>
+	<word weight="0.08490566037735849" count="9">size</word>
+	<word weight="0.0660377358490566" count="7">thread</word>
+	<word weight="0.04716981132075472" count="5">set</word>
+	<word weight="0.04716981132075472" count="5">max</word>
+	<word weight="0.04716981132075472" count="5">asyc</word>
+	<word weight="0.03773584905660377" count="4">capacity</word>
+	<word weight="0.03773584905660377" count="4">queue</word>
+	<word weight="0.03773584905660377" count="4">core</word>
+	<word weight="0.03773584905660377" count="4">prefix</word>
+	<word weight="0.018867924528301886" count="2">run</word>
+	<word weight="0.018867924528301886" count="2">caller</word>
+	<word weight="0.018867924528301886" count="2">policy</word>
+	<word weight="0.018867924528301886" count="2">config</word>
+	<word weight="0.009433962264150943" count="1">initialize</word>
+	<word weight="0.009433962264150943" count="1">handler</word>
+	<word weight="0.009433962264150943" count="1">execution</word>
+	<word weight="0.009433962264150943" count="1">reject</word>
+	<phrase weight="0.5" count="1">async proxy target</phrase>
+	<phrase weight="0.5" count="1">task config setter getter</phrase>
+  </topic>
+</topics>

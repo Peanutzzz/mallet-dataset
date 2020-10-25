@@ -1,0 +1,72 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.237476760862418" totalTokens="10" titles="resource, provider, reactive, ">
+	<word weight="0.8" count="8">resource</word>
+	<word weight="0.1" count="1">provider</word>
+	<word weight="0.1" count="1">reactive</word>
+  </topic>
+  <topic id="1" alpha="9.158807151341186" totalTokens="26" titles="handler, auto, flux, attribute, conditional, object, ">
+	<word weight="0.34615384615384615" count="9">handler</word>
+	<word weight="0.19230769230769232" count="5">auto</word>
+	<word weight="0.19230769230769232" count="5">flux</word>
+	<word weight="0.11538461538461539" count="3">attribute</word>
+	<word weight="0.11538461538461539" count="3">conditional</word>
+	<word weight="0.038461538461538464" count="1">object</word>
+	<phrase weight="1.0" count="4">flux auto</phrase>
+  </topic>
+  <topic id="2" alpha="10.296397729484342" totalTokens="33" titles="server, web, writer, order, precedence, collection, ">
+	<word weight="0.48484848484848486" count="16">server</word>
+	<word weight="0.3333333333333333" count="11">web</word>
+	<word weight="0.06060606060606061" count="2">writer</word>
+	<word weight="0.06060606060606061" count="2">order</word>
+	<word weight="0.030303030303030304" count="1">precedence</word>
+	<word weight="0.030303030303030304" count="1">collection</word>
+	<phrase weight="0.5" count="1">writer server</phrase>
+	<phrase weight="0.5" count="1">order order</phrase>
+  </topic>
+  <topic id="3" alpha="5.287098406157034" totalTokens="7" titles="context, ">
+	<word weight="1.0" count="7">context</word>
+  </topic>
+  <topic id="4" alpha="7.969391133342231" totalTokens="19" titles="application, view, provider, ">
+	<word weight="0.47368421052631576" count="9">application</word>
+	<word weight="0.42105263157894735" count="8">view</word>
+	<word weight="0.10526315789473684" count="2">provider</word>
+  </topic>
+  <topic id="5" alpha="7.0360857238692835" totalTokens="25" titles="resolver, configurer, configuration, reader, message, highest, custom, ">
+	<word weight="0.32" count="8">resolver</word>
+	<word weight="0.32" count="8">configurer</word>
+	<word weight="0.12" count="3">configuration</word>
+	<word weight="0.08" count="2">reader</word>
+	<word weight="0.08" count="2">message</word>
+	<word weight="0.04" count="1">highest</word>
+	<word weight="0.04" count="1">custom</word>
+	<phrase weight="0.3333333333333333" count="1">message reader</phrase>
+	<phrase weight="0.3333333333333333" count="1">configurer reader</phrase>
+	<phrase weight="0.3333333333333333" count="1">configurer custom</phrase>
+  </topic>
+  <topic id="6" alpha="6.804558648026049" totalTokens="21" titles="property, list, bean, empty, ">
+	<word weight="0.8095238095238095" count="17">property</word>
+	<word weight="0.09523809523809523" count="2">list</word>
+	<word weight="0.047619047619047616" count="1">bean</word>
+	<word weight="0.047619047619047616" count="1">empty</word>
+	<phrase weight="1.0" count="1">empty list</phrase>
+  </topic>
+  <topic id="7" alpha="5.40736836517661" totalTokens="15" titles="error, set, configure, configurer, ">
+	<word weight="0.6666666666666666" count="10">error</word>
+	<word weight="0.2" count="3">set</word>
+	<word weight="0.06666666666666667" count="1">configure</word>
+	<word weight="0.06666666666666667" count="1">configurer</word>
+  </topic>
+  <topic id="8" alpha="8.830702593290935" totalTokens="14" titles="exception, json, list, custom, enable, ">
+	<word weight="0.6428571428571429" count="9">exception</word>
+	<word weight="0.14285714285714285" count="2">json</word>
+	<word weight="0.07142857142857142" count="1">list</word>
+	<word weight="0.07142857142857142" count="1">custom</word>
+	<word weight="0.07142857142857142" count="1">enable</word>
+  </topic>
+  <topic id="9" alpha="6.135052691436272" totalTokens="13" titles="codec, configuration, type, ">
+	<word weight="0.6153846153846154" count="8">codec</word>
+	<word weight="0.23076923076923078" count="3">configuration</word>
+	<word weight="0.15384615384615385" count="2">type</word>
+  </topic>
+</topics>

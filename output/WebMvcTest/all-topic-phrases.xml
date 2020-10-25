@@ -1,0 +1,263 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.9536362072771067" totalTokens="309" titles="port, string, gmt, repository, list, strategy, json, memory, type, entity">
+	<word weight="0.11974110032362459" count="37">port</word>
+	<word weight="0.08737864077669903" count="27">string</word>
+	<word weight="0.08090614886731391" count="25">gmt</word>
+	<word weight="0.07766990291262135" count="24">repository</word>
+	<word weight="0.061488673139158574" count="19">list</word>
+	<word weight="0.05501618122977346" count="17">strategy</word>
+	<word weight="0.05177993527508091" count="16">json</word>
+	<word weight="0.03559870550161812" count="11">memory</word>
+	<word weight="0.03559870550161812" count="11">type</word>
+	<word weight="0.03559870550161812" count="11">entity</word>
+	<word weight="0.032362459546925564" count="10">gateway</word>
+	<word weight="0.02912621359223301" count="9">path</word>
+	<word weight="0.025889967637540454" count="8">exception</word>
+	<word weight="0.022653721682847898" count="7">size</word>
+	<word weight="0.016181229773462782" count="5">completable</word>
+	<word weight="0.012944983818770227" count="4">call</word>
+	<word weight="0.012944983818770227" count="4">matcher</word>
+	<word weight="0.012944983818770227" count="4">array</word>
+	<word weight="0.012944983818770227" count="4">controller</word>
+	<word weight="0.009708737864077669" count="3">util</word>
+	<phrase weight="0.1" count="3">exception string</phrase>
+	<phrase weight="0.1" count="3">strategy url</phrase>
+	<phrase weight="0.06666666666666667" count="2">json controller</phrase>
+	<phrase weight="0.06666666666666667" count="2">post path</phrase>
+	<phrase weight="0.06666666666666667" count="2">array list</phrase>
+	<phrase weight="0.06666666666666667" count="2">exception string path</phrase>
+	<phrase weight="0.06666666666666667" count="2">memory repository list</phrase>
+	<phrase weight="0.03333333333333333" count="1">repository update</phrase>
+	<phrase weight="0.03333333333333333" count="1">exception string path gateway</phrase>
+	<phrase weight="0.03333333333333333" count="1">auth service</phrase>
+	<phrase weight="0.03333333333333333" count="1">port string</phrase>
+	<phrase weight="0.03333333333333333" count="1">string path</phrase>
+	<phrase weight="0.03333333333333333" count="1">repository list</phrase>
+	<phrase weight="0.03333333333333333" count="1">port controller</phrase>
+	<phrase weight="0.03333333333333333" count="1">json string</phrase>
+	<phrase weight="0.03333333333333333" count="1">port autowire</phrase>
+	<phrase weight="0.03333333333333333" count="1">memory repository gateway</phrase>
+	<phrase weight="0.03333333333333333" count="1">list json list</phrase>
+	<phrase weight="0.03333333333333333" count="1">memory list</phrase>
+	<phrase weight="0.03333333333333333" count="1">json list</phrase>
+  </topic>
+  <topic id="1" alpha="4.850978137401246" totalTokens="1456" titles="entity set, test, add, result, item, mvc, app, equal, mock, builder">
+	<word weight="0.21771978021978022" count="317">entity</word>
+	<word weight="0.08791208791208792" count="128">test</word>
+	<word weight="0.07760989010989011" count="113">set</word>
+	<word weight="0.07005494505494506" count="102">add</word>
+	<word weight="0.05631868131868132" count="82">result</word>
+	<word weight="0.05357142857142857" count="78">item</word>
+	<word weight="0.03914835164835165" count="57">mvc</word>
+	<word weight="0.03502747252747253" count="51">app</word>
+	<word weight="0.03159340659340659" count="46">equal</word>
+	<word weight="0.027472527472527472" count="40">mock</word>
+	<word weight="0.026785714285714284" count="39">builder</word>
+	<word weight="0.023351648351648352" count="34">request</word>
+	<word weight="0.022664835164835164" count="33">modify</word>
+	<word weight="0.017857142857142856" count="26">verify</word>
+	<word weight="0.01510989010989011" count="22">date</word>
+	<word weight="0.01510989010989011" count="22">client</word>
+	<word weight="0.01510989010989011" count="22">mem</word>
+	<word weight="0.013736263736263736" count="20">sentinel</word>
+	<word weight="0.01098901098901099" count="16">object</word>
+	<word weight="0.010302197802197802" count="15">content</word>
+	<phrase weight="0.06528189910979229" count="22">entity set</phrase>
+	<phrase weight="0.05341246290801187" count="18">add entity</phrase>
+	<phrase weight="0.02373887240356083" count="8">app test test</phrase>
+	<phrase weight="0.02373887240356083" count="8">item entity</phrase>
+	<phrase weight="0.02373887240356083" count="8">add entity set</phrase>
+	<phrase weight="0.02373887240356083" count="8">request builder</phrase>
+	<phrase weight="0.020771513353115726" count="7">mock mvc result</phrase>
+	<phrase weight="0.020771513353115726" count="7">client modify</phrase>
+	<phrase weight="0.017804154302670624" count="6">result object</phrase>
+	<phrase weight="0.017804154302670624" count="6">entity entity</phrase>
+	<phrase weight="0.017804154302670624" count="6">create entity</phrase>
+	<phrase weight="0.01483679525222552" count="5">reference result</phrase>
+	<phrase weight="0.01483679525222552" count="5">true mock</phrase>
+	<phrase weight="0.01483679525222552" count="5">print verify modify</phrase>
+	<phrase weight="0.01483679525222552" count="5">equal entity</phrase>
+	<phrase weight="0.011869436201780416" count="4">object mvc result response content</phrase>
+	<phrase weight="0.011869436201780416" count="4">entity mem</phrase>
+	<phrase weight="0.011869436201780416" count="4">verify sentinel</phrase>
+	<phrase weight="0.011869436201780416" count="4">find app test app equal entity mem</phrase>
+	<phrase weight="0.011869436201780416" count="4">test app test test</phrase>
+  </topic>
+  <topic id="2" alpha="0.31494468068567744" totalTokens="460" titles="flow rule, gateway, set, param, req, resource, interval, parse, unit, behavior">
+	<word weight="0.15869565217391304" count="73">flow</word>
+	<word weight="0.11956521739130435" count="55">gateway</word>
+	<word weight="0.11739130434782609" count="54">rule</word>
+	<word weight="0.05434782608695652" count="25">param</word>
+	<word weight="0.05434782608695652" count="25">set</word>
+	<word weight="0.05217391304347826" count="24">req</word>
+	<word weight="0.04565217391304348" count="21">resource</word>
+	<word weight="0.043478260869565216" count="20">interval</word>
+	<word weight="0.03260869565217391" count="15">parse</word>
+	<word weight="0.030434782608695653" count="14">behavior</word>
+	<word weight="0.030434782608695653" count="14">unit</word>
+	<word weight="0.02608695652173913" count="12">control</word>
+	<word weight="0.02391304347826087" count="11">route</word>
+	<word weight="0.021739130434782608" count="10">grade</word>
+	<word weight="0.021739130434782608" count="10">app</word>
+	<word weight="0.01956521739130435" count="9">mode</word>
+	<word weight="0.015217391304347827" count="7">timeout</word>
+	<word weight="0.015217391304347827" count="7">count</word>
+	<word weight="0.015217391304347827" count="7">datum</word>
+	<word weight="0.015217391304347827" count="7">mock</word>
+	<phrase weight="0.20754716981132076" count="22">flow rule</phrase>
+	<phrase weight="0.16981132075471697" count="18">gateway flow rule</phrase>
+	<phrase weight="0.0660377358490566" count="7">param flow</phrase>
+	<phrase weight="0.05660377358490566" count="6">interval unit</phrase>
+	<phrase weight="0.03773584905660377" count="4">unit gateway flow rule</phrase>
+	<phrase weight="0.03773584905660377" count="4">behavior control behavior</phrase>
+	<phrase weight="0.02830188679245283" count="3">param parse</phrase>
+	<phrase weight="0.018867924528301886" count="2">mode resource mode route</phrase>
+	<phrase weight="0.018867924528301886" count="2">interval unit gateway flow rule</phrase>
+	<phrase weight="0.018867924528301886" count="2">control behavior</phrase>
+	<phrase weight="0.018867924528301886" count="2">set count</phrase>
+	<phrase weight="0.018867924528301886" count="2">grade flow grade</phrase>
+	<phrase weight="0.018867924528301886" count="2">mode resource</phrase>
+	<phrase weight="0.018867924528301886" count="2">req set</phrase>
+	<phrase weight="0.018867924528301886" count="2">mock mvc</phrase>
+	<phrase weight="0.018867924528301886" count="2">gateway flow</phrase>
+	<phrase weight="0.018867924528301886" count="2">flow rule req req</phrase>
+	<phrase weight="0.009433962264150943" count="1">behavior req</phrase>
+	<phrase weight="0.009433962264150943" count="1">control behavior control behavior rate</phrase>
+	<phrase weight="0.009433962264150943" count="1">control behavior rate</phrase>
+  </topic>
+  <topic id="3" alpha="0.7805634214152996" totalTokens="56" titles="strategy, perform, type, make, customize, set, equal, fetch, gmt, autowire">
+	<word weight="0.16071428571428573" count="9">strategy</word>
+	<word weight="0.14285714285714285" count="8">perform</word>
+	<word weight="0.07142857142857142" count="4">type</word>
+	<word weight="0.05357142857142857" count="3">make</word>
+	<word weight="0.05357142857142857" count="3">customize</word>
+	<word weight="0.05357142857142857" count="3">set</word>
+	<word weight="0.03571428571428571" count="2">equal</word>
+	<word weight="0.03571428571428571" count="2">fetch</word>
+	<word weight="0.03571428571428571" count="2">gmt</word>
+	<word weight="0.03571428571428571" count="2">autowire</word>
+	<word weight="0.03571428571428571" count="2">simple</word>
+	<word weight="0.03571428571428571" count="2">impl</word>
+	<word weight="0.03571428571428571" count="2">runner</word>
+	<word weight="0.017857142857142856" count="1">httpbin</word>
+	<word weight="0.017857142857142856" count="1">user</word>
+	<word weight="0.017857142857142856" count="1">handler</word>
+	<word weight="0.017857142857142856" count="1">request</word>
+	<word weight="0.017857142857142856" count="1">http</word>
+	<word weight="0.017857142857142856" count="1">exact</word>
+	<word weight="0.017857142857142856" count="1">pattern</word>
+	<phrase weight="0.5" count="1">repository clear</phrase>
+	<phrase weight="0.5" count="1">pattern user</phrase>
+  </topic>
+  <topic id="4" alpha="0.32973037928773374" totalTokens="318" titles="api, predicate, item, definition, match, apis, req, date, datum, url">
+	<word weight="0.2389937106918239" count="76">api</word>
+	<word weight="0.13522012578616352" count="43">predicate</word>
+	<word weight="0.11320754716981132" count="36">item</word>
+	<word weight="0.07547169811320754" count="24">definition</word>
+	<word weight="0.050314465408805034" count="16">match</word>
+	<word weight="0.040880503144654086" count="13">apis</word>
+	<word weight="0.03459119496855346" count="11">req</word>
+	<word weight="0.025157232704402517" count="8">date</word>
+	<word weight="0.0220125786163522" count="7">datum</word>
+	<word weight="0.0220125786163522" count="7">url</word>
+	<word weight="0.0220125786163522" count="7">pattern</word>
+	<word weight="0.018867924528301886" count="6">update</word>
+	<word weight="0.015723270440251572" count="5">request</word>
+	<word weight="0.015723270440251572" count="5">app</word>
+	<word weight="0.012578616352201259" count="4">redicate</word>
+	<word weight="0.012578616352201259" count="4">size</word>
+	<word weight="0.012578616352201259" count="4">port</word>
+	<word weight="0.009433962264150943" count="3">order</word>
+	<word weight="0.009433962264150943" count="3">parse</word>
+	<word weight="0.009433962264150943" count="3">method</word>
+	<phrase weight="0.16666666666666666" count="9">api definition</phrase>
+	<phrase weight="0.14814814814814814" count="8">predicate item</phrase>
+	<phrase weight="0.1111111111111111" count="6">url match</phrase>
+	<phrase weight="0.07407407407407407" count="4">api predicate item</phrase>
+	<phrase weight="0.07407407407407407" count="4">api predicate</phrase>
+	<phrase weight="0.05555555555555555" count="3">fetch apis</phrase>
+	<phrase weight="0.037037037037037035" count="2">item req</phrase>
+	<phrase weight="0.037037037037037035" count="2">api req req</phrase>
+	<phrase weight="0.018518518518518517" count="1">list api definition</phrase>
+	<phrase weight="0.018518518518518517" count="1">datum size</phrase>
+	<phrase weight="0.018518518518518517" count="1">update api definition</phrase>
+	<phrase weight="0.018518518518518517" count="1">order predicate</phrase>
+	<phrase weight="0.018518518518518517" count="1">update date date</phrase>
+	<phrase weight="0.018518518518518517" count="1">item entities</phrase>
+	<phrase weight="0.018518518518518517" count="1">api req</phrase>
+	<phrase weight="0.018518518518518517" count="1">pattern product</phrase>
+	<phrase weight="0.018518518518518517" count="1">prefix predicate item</phrase>
+	<phrase weight="0.018518518518518517" count="1">url match strategy</phrase>
+	<phrase weight="0.018518518518518517" count="1">product predicate item</phrase>
+	<phrase weight="0.018518518518518517" count="1">api predicate item item api predicate</phrase>
+  </topic>
+  <topic id="5" alpha="1.3688608997845259E-74" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="0.2961815965483151" totalTokens="47" titles="max, httpbin, update, queue, builder, save, minute, verify, status, app">
+	<word weight="0.10638297872340426" count="5">max</word>
+	<word weight="0.10638297872340426" count="5">httpbin</word>
+	<word weight="0.10638297872340426" count="5">update</word>
+	<word weight="0.0851063829787234" count="4">queue</word>
+	<word weight="0.0851063829787234" count="4">builder</word>
+	<word weight="0.06382978723404255" count="3">save</word>
+	<word weight="0.06382978723404255" count="3">http</word>
+	<word weight="0.0425531914893617" count="2">minute</word>
+	<word weight="0.0425531914893617" count="2">verify</word>
+	<word weight="0.0425531914893617" count="2">status</word>
+	<word weight="0.0425531914893617" count="2">app</word>
+	<word weight="0.02127659574468085" count="1">field</word>
+	<word weight="0.02127659574468085" count="1">limiter</word>
+	<word weight="0.02127659574468085" count="1">true</word>
+	<word weight="0.02127659574468085" count="1">method</word>
+	<word weight="0.02127659574468085" count="1">fetch</word>
+	<word weight="0.02127659574468085" count="1">modify</word>
+	<word weight="0.02127659574468085" count="1">foo</word>
+	<word weight="0.02127659574468085" count="1">localhost</word>
+	<word weight="0.02127659574468085" count="1">authorization</word>
+	<phrase weight="0.6666666666666666" count="2">max queue</phrase>
+	<phrase weight="0.3333333333333333" count="1">modify update</phrase>
+  </topic>
+  <topic id="7" alpha="0.43091392391305017" totalTokens="49" titles="set, request, handler, exact, mock, media, status, result, bbb, date">
+	<word weight="0.14285714285714285" count="7">set</word>
+	<word weight="0.08163265306122448" count="4">request</word>
+	<word weight="0.061224489795918366" count="3">handler</word>
+	<word weight="0.061224489795918366" count="3">exact</word>
+	<word weight="0.061224489795918366" count="3">mock</word>
+	<word weight="0.04081632653061224" count="2">media</word>
+	<word weight="0.04081632653061224" count="2">status</word>
+	<word weight="0.04081632653061224" count="2">result</word>
+	<word weight="0.04081632653061224" count="2">bbb</word>
+	<word weight="0.04081632653061224" count="2">date</word>
+	<word weight="0.04081632653061224" count="2">entity</word>
+	<word weight="0.04081632653061224" count="2">mvc</word>
+	<word weight="0.02040816326530612" count="1">seconds</word>
+	<word weight="0.02040816326530612" count="1">save</word>
+	<word weight="0.02040816326530612" count="1">type</word>
+	<word weight="0.02040816326530612" count="1">print</word>
+	<word weight="0.02040816326530612" count="1">give</word>
+	<word weight="0.02040816326530612" count="1">biz</word>
+	<word weight="0.02040816326530612" count="1">add</word>
+	<word weight="0.02040816326530612" count="1">strategy</word>
+	<phrase weight="0.5" count="1">mock mvc</phrase>
+	<phrase weight="0.5" count="1">date set</phrase>
+  </topic>
+  <topic id="8" alpha="1.8472612608058264E-106" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="0.18950732880142554" totalTokens="17" titles="save, expect, link, minute, iterator, content, call, give, hash, integer">
+	<word weight="0.11764705882352941" count="2">save</word>
+	<word weight="0.11764705882352941" count="2">expect</word>
+	<word weight="0.11764705882352941" count="2">link</word>
+	<word weight="0.058823529411764705" count="1">minute</word>
+	<word weight="0.058823529411764705" count="1">iterator</word>
+	<word weight="0.058823529411764705" count="1">content</word>
+	<word weight="0.058823529411764705" count="1">call</word>
+	<word weight="0.058823529411764705" count="1">give</word>
+	<word weight="0.058823529411764705" count="1">hash</word>
+	<word weight="0.058823529411764705" count="1">integer</word>
+	<word weight="0.058823529411764705" count="1">authorization</word>
+	<word weight="0.058823529411764705" count="1">api</word>
+	<word weight="0.058823529411764705" count="1">gateway</word>
+	<word weight="0.058823529411764705" count="1">run</word>
+  </topic>
+</topics>

@@ -1,0 +1,40 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="4.925018532735849" totalTokens="43" titles="cluster, rule, node, reset, slot, builder, flow, test, clean, load">
+	<word weight="0.13953488372093023" count="6">cluster</word>
+	<word weight="0.11627906976744186" count="5">rule</word>
+	<word weight="0.06976744186046512" count="3">node</word>
+	<word weight="0.06976744186046512" count="3">reset</word>
+	<word weight="0.06976744186046512" count="3">slot</word>
+	<word weight="0.06976744186046512" count="3">builder</word>
+	<word weight="0.06976744186046512" count="3">flow</word>
+	<word weight="0.06976744186046512" count="3">test</word>
+	<word weight="0.046511627906976744" count="2">clean</word>
+	<word weight="0.046511627906976744" count="2">load</word>
+	<word weight="0.046511627906976744" count="2">manager</word>
+	<word weight="0.046511627906976744" count="2">adapter</word>
+	<word weight="0.046511627906976744" count="2">quarkus</word>
+	<word weight="0.023255813953488372" count="1">list</word>
+	<word weight="0.023255813953488372" count="1">array</word>
+	<word weight="0.023255813953488372" count="1">exception</word>
+	<word weight="0.023255813953488372" count="1">tear</word>
+  </topic>
+  <topic id="1" alpha="2.2672672772266958E-10" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="2.2672672772266958E-10" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="2.2672672772266958E-10" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="2.2672672772266958E-10" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="2.2672672772266958E-10" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="2.2672672772266958E-10" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="2.2672672772266958E-10" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="2.2672672772266958E-10" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="2.2672672772266958E-10" totalTokens="0" titles="">
+  </topic>
+</topics>

@@ -1,0 +1,10 @@
+0	10.71639	cluster namespace 
+1	23.00689	change item set 
+2	70.55066	app operator update datum isdeleted 
+3	5.88503	config user 
+4	11.9254	isdelet history instance commit 
+5	50.07669	query role repository app list modify release consumer 
+6	29.42409	set permission cluster 
+7	17.91866	namespace integer 
+8	55.90179	modify update 
+9	108.75854	string delete batch datum favorite 

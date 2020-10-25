@@ -1,0 +1,27 @@
+0 configuration 8:10
+1 dubbo 2:7 9:5 0:2
+2 component 3:5
+3 scan 7:5
+4 consumer 6:24 5:4
+5 bean 8:15 0:2
+6 application 3:25 4:10
+7 config 8:104 1:4
+8 set 1:18
+9 demo 3:10 2:1
+10 registry 0:20 2:15
+11 address 6:4 8:1
+12 multicast 7:5
+13 uncomment 4:2
+14 line 0:2
+15 don 5:2
+16 enable 6:2
+17 sentinel 5:4 0:2
+18 service 9:6 1:2
+19 filter 5:4
+20 foo 8:2 7:2
+21 annotation 6:2
+22 provider 3:6
+23 protocol 2:22 4:2
+24 port 3:3
+25 alibaba 3:1 1:1
+26 csp 4:1 7:1

@@ -1,0 +1,99 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.21874777908314036" totalTokens="16" titles="model, success, error, resp, integer, getter, ">
+	<word weight="0.4375" count="7">model</word>
+	<word weight="0.1875" count="3">success</word>
+	<word weight="0.125" count="2">error</word>
+	<word weight="0.125" count="2">resp</word>
+	<word weight="0.0625" count="1">integer</word>
+	<word weight="0.0625" count="1">getter</word>
+  </topic>
+  <topic id="1" alpha="0.2538140716566533" totalTokens="28" titles="string, arg, serializable, implement, random, time, create, ">
+	<word weight="0.39285714285714285" count="11">string</word>
+	<word weight="0.17857142857142858" count="5">arg</word>
+	<word weight="0.14285714285714285" count="4">serializable</word>
+	<word weight="0.14285714285714285" count="4">implement</word>
+	<word weight="0.07142857142857142" count="2">random</word>
+	<word weight="0.03571428571428571" count="1">time</word>
+	<word weight="0.03571428571428571" count="1">create</word>
+	<phrase weight="0.8" count="4">implement serializable</phrase>
+	<phrase weight="0.2" count="1">create time string</phrase>
+  </topic>
+  <topic id="2" alpha="0.2260739091166036" totalTokens="9" titles="code, lombok, extraction, field, kid, list, page, ">
+	<word weight="0.3333333333333333" count="3">code</word>
+	<word weight="0.1111111111111111" count="1">lombok</word>
+	<word weight="0.1111111111111111" count="1">extraction</word>
+	<word weight="0.1111111111111111" count="1">field</word>
+	<word weight="0.1111111111111111" count="1">kid</word>
+	<word weight="0.1111111111111111" count="1">list</word>
+	<word weight="0.1111111111111111" count="1">page</word>
+	<phrase weight="1.0" count="1">code list</phrase>
+  </topic>
+  <topic id="3" alpha="0.12007360842192497" totalTokens="5" titles="demo, app, group, constructor, ">
+	<word weight="0.4" count="2">demo</word>
+	<word weight="0.2" count="1">app</word>
+	<word weight="0.2" count="1">group</word>
+	<word weight="0.2" count="1">constructor</word>
+  </topic>
+  <topic id="4" alpha="0.10652089276850872" totalTokens="7" titles="user, date, key, ">
+	<word weight="0.7142857142857143" count="5">user</word>
+	<word weight="0.14285714285714285" count="1">date</word>
+	<word weight="0.14285714285714285" count="1">key</word>
+  </topic>
+  <topic id="5" alpha="0.09127714003786012" totalTokens="13" titles="order, version, serial, builder, ">
+	<word weight="0.46153846153846156" count="6">order</word>
+	<word weight="0.23076923076923078" count="3">version</word>
+	<word weight="0.23076923076923078" count="3">serial</word>
+	<word weight="0.07692307692307693" count="1">builder</word>
+	<phrase weight="1.0" count="2">version order</phrase>
+  </topic>
+  <topic id="6" alpha="0.09670485641420584" totalTokens="3" titles="test, age, ">
+	<word weight="0.6666666666666666" count="2">test</word>
+	<word weight="0.3333333333333333" count="1">age</word>
+  </topic>
+  <topic id="7" alpha="0.17586686800961537" totalTokens="20" titles="role, menu, extend, table, getter, model, ">
+	<word weight="0.4" count="8">role</word>
+	<word weight="0.25" count="5">menu</word>
+	<word weight="0.1" count="2">extend</word>
+	<word weight="0.1" count="2">table</word>
+	<word weight="0.1" count="2">getter</word>
+	<word weight="0.05" count="1">model</word>
+	<phrase weight="0.5" count="1">role menu role menu extend</phrase>
+	<phrase weight="0.5" count="1">extend model role</phrase>
+  </topic>
+  <topic id="8" alpha="0.4325761556096222" totalTokens="48" titles="code, msg, result, data, succeed, fail, string, integer, count, ">
+	<word weight="0.3125" count="15">code</word>
+	<word weight="0.22916666666666666" count="11">msg</word>
+	<word weight="0.1875" count="9">result</word>
+	<word weight="0.08333333333333333" count="4">data</word>
+	<word weight="0.0625" count="3">succeed</word>
+	<word weight="0.041666666666666664" count="2">fail</word>
+	<word weight="0.041666666666666664" count="2">string</word>
+	<word weight="0.020833333333333332" count="1">integer</word>
+	<word weight="0.020833333333333332" count="1">count</word>
+	<phrase weight="0.2222222222222222" count="2">code msg result succeed</phrase>
+	<phrase weight="0.2222222222222222" count="2">msg code</phrase>
+	<phrase weight="0.1111111111111111" count="1">code string msg result data code msg result fail</phrase>
+	<phrase weight="0.1111111111111111" count="1">msg result succeed</phrase>
+	<phrase weight="0.1111111111111111" count="1">string msg</phrase>
+	<phrase weight="0.1111111111111111" count="1">code result data</phrase>
+	<phrase weight="0.1111111111111111" count="1">code msg result fail</phrase>
+  </topic>
+  <topic id="9" alpha="1.0906104090663284" totalTokens="46" titles="constructor, arg, false, call, hash, equal, setter, datum, util, ">
+	<word weight="0.30434782608695654" count="14">constructor</word>
+	<word weight="0.21739130434782608" count="10">arg</word>
+	<word weight="0.08695652173913043" count="4">false</word>
+	<word weight="0.08695652173913043" count="4">call</word>
+	<word weight="0.08695652173913043" count="4">hash</word>
+	<word weight="0.08695652173913043" count="4">equal</word>
+	<word weight="0.06521739130434782" count="3">setter</word>
+	<word weight="0.043478260869565216" count="2">datum</word>
+	<word weight="0.021739130434782608" count="1">util</word>
+	<phrase weight="0.36363636363636365" count="4">call false</phrase>
+	<phrase weight="0.2727272727272727" count="3">arg constructor arg constructor equal hash</phrase>
+	<phrase weight="0.09090909090909091" count="1">arg constructor arg constructor</phrase>
+	<phrase weight="0.09090909090909091" count="1">constructor arg constructor equal hash</phrase>
+	<phrase weight="0.09090909090909091" count="1">constructor datum</phrase>
+	<phrase weight="0.09090909090909091" count="1">arg constructor</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,160 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.08900331637007626" totalTokens="442" titles="hint, type, datum, test, extractor, output, input, bigint, string, row">
+	<word weight="0.18099547511312217" count="80">hint</word>
+	<word weight="0.17647058823529413" count="78">type</word>
+	<word weight="0.17647058823529413" count="78">datum</word>
+	<word weight="0.13800904977375567" count="61">test</word>
+	<word weight="0.13122171945701358" count="58">extractor</word>
+	<word weight="0.07239819004524888" count="32">output</word>
+	<word weight="0.042986425339366516" count="19">input</word>
+	<word weight="0.029411764705882353" count="13">bigint</word>
+	<word weight="0.02262443438914027" count="10">string</word>
+	<word weight="0.013574660633484163" count="6">row</word>
+	<word weight="0.011312217194570135" count="5">accumulator</word>
+	<word weight="0.0022624434389140274" count="1">builder</word>
+	<word weight="0.0022624434389140274" count="1">tree</word>
+	<phrase weight="0.375" count="3">extractor test output datum type hint</phrase>
+	<phrase weight="0.125" count="1">extractor test datum</phrase>
+	<phrase weight="0.125" count="1">test datum</phrase>
+	<phrase weight="0.125" count="1">test datum type hint</phrase>
+	<phrase weight="0.125" count="1">test output</phrase>
+	<phrase weight="0.125" count="1">datum type hint</phrase>
+  </topic>
+  <topic id="1" alpha="1.1017199676129286E-64" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="0.015546043420635187" totalTokens="179" titles="hint, object, type, datum, field, test, extractor, pojo, raw, string">
+	<word weight="0.10614525139664804" count="19">hint</word>
+	<word weight="0.09497206703910614" count="17">object</word>
+	<word weight="0.09497206703910614" count="17">type</word>
+	<word weight="0.0893854748603352" count="16">datum</word>
+	<word weight="0.07262569832402235" count="13">field</word>
+	<word weight="0.055865921787709494" count="10">test</word>
+	<word weight="0.05027932960893855" count="9">extractor</word>
+	<word weight="0.03910614525139665" count="7">pojo</word>
+	<word weight="0.03910614525139665" count="7">raw</word>
+	<word weight="0.03910614525139665" count="7">string</word>
+	<word weight="0.0335195530726257" count="6">map</word>
+	<word weight="0.0335195530726257" count="6">integer</word>
+	<word weight="0.027932960893854747" count="5">simple</word>
+	<word weight="0.027932960893854747" count="5">bridge</word>
+	<word weight="0.0223463687150838" count="4">primitive</word>
+	<word weight="0.0223463687150838" count="4">pattern</word>
+	<word weight="0.01675977653631285" count="3">force</word>
+	<word weight="0.01675977653631285" count="3">unused</word>
+	<word weight="0.01675977653631285" count="3">warning</word>
+	<word weight="0.01675977653631285" count="3">suppress</word>
+	<phrase weight="0.3333333333333333" count="1">test datum</phrase>
+	<phrase weight="0.3333333333333333" count="1">test suppress warning unused</phrase>
+	<phrase weight="0.3333333333333333" count="1">extractor test</phrase>
+  </topic>
+  <topic id="3" alpha="0.013029097403764714" totalTokens="85" titles="row, string, hint, datum, type, array, eval, nest, expression, access">
+	<word weight="0.24705882352941178" count="21">row</word>
+	<word weight="0.15294117647058825" count="13">string</word>
+	<word weight="0.10588235294117647" count="9">hint</word>
+	<word weight="0.10588235294117647" count="9">datum</word>
+	<word weight="0.09411764705882353" count="8">type</word>
+	<word weight="0.07058823529411765" count="6">array</word>
+	<word weight="0.047058823529411764" count="4">eval</word>
+	<word weight="0.047058823529411764" count="4">nest</word>
+	<word weight="0.03529411764705882" count="3">expression</word>
+	<word weight="0.03529411764705882" count="3">access</word>
+	<word weight="0.03529411764705882" count="3">output</word>
+	<word weight="0.011764705882352941" count="1">preference</word>
+	<word weight="0.011764705882352941" count="1">mask</word>
+	<phrase weight="0.2" count="1">datum type</phrase>
+	<phrase weight="0.2" count="1">output datum</phrase>
+	<phrase weight="0.2" count="1">access expression</phrase>
+	<phrase weight="0.2" count="1">datum type hint row string row eval datum</phrase>
+	<phrase weight="0.2" count="1">type hint row</phrase>
+  </topic>
+  <topic id="4" alpha="0.0073584460610396805" totalTokens="62" titles="input, group, type, hint, datum, test, object, extractor, decimal, ">
+	<word weight="0.22580645161290322" count="14">input</word>
+	<word weight="0.1935483870967742" count="12">group</word>
+	<word weight="0.14516129032258066" count="9">type</word>
+	<word weight="0.11290322580645161" count="7">hint</word>
+	<word weight="0.0967741935483871" count="6">datum</word>
+	<word weight="0.08064516129032258" count="5">test</word>
+	<word weight="0.06451612903225806" count="4">object</word>
+	<word weight="0.06451612903225806" count="4">extractor</word>
+	<word weight="0.016129032258064516" count="1">decimal</word>
+	<phrase weight="0.5" count="2">test input</phrase>
+	<phrase weight="0.25" count="1">extractor test</phrase>
+	<phrase weight="0.25" count="1">hint datum type</phrase>
+  </topic>
+  <topic id="5" alpha="0.003011214170062115" totalTokens="12" titles="decimal, big, balance, converter, miss, digit, eval, ">
+	<word weight="0.3333333333333333" count="4">decimal</word>
+	<word weight="0.25" count="3">big</word>
+	<word weight="0.08333333333333333" count="1">balance</word>
+	<word weight="0.08333333333333333" count="1">converter</word>
+	<word weight="0.08333333333333333" count="1">miss</word>
+	<word weight="0.08333333333333333" count="1">digit</word>
+	<word weight="0.08333333333333333" count="1">eval</word>
+	<phrase weight="1.0" count="1">big decimal eval big</phrase>
+  </topic>
+  <topic id="6" alpha="0.002042244018280515" totalTokens="36" titles="timestamp, offset, datum, call, open, function, scalar, define, millisecond, run">
+	<word weight="0.2777777777777778" count="10">timestamp</word>
+	<word weight="0.16666666666666666" count="6">offset</word>
+	<word weight="0.1388888888888889" count="5">datum</word>
+	<word weight="0.05555555555555555" count="2">call</word>
+	<word weight="0.05555555555555555" count="2">open</word>
+	<word weight="0.05555555555555555" count="2">function</word>
+	<word weight="0.05555555555555555" count="2">scalar</word>
+	<word weight="0.05555555555555555" count="2">define</word>
+	<word weight="0.027777777777777776" count="1">millisecond</word>
+	<word weight="0.027777777777777776" count="1">run</word>
+	<word weight="0.027777777777777776" count="1">fail</word>
+	<word weight="0.027777777777777776" count="1">eval</word>
+	<word weight="0.027777777777777776" count="1">integer</word>
+	<phrase weight="0.2" count="1">millisecond offset offset</phrase>
+	<phrase weight="0.2" count="1">timestamp datum timestamp</phrase>
+	<phrase weight="0.2" count="1">define scalar function datum</phrase>
+	<phrase weight="0.2" count="1">integer offset open call fail open call run timestamp datum offset timestamp</phrase>
+	<phrase weight="0.2" count="1">define scalar function</phrase>
+  </topic>
+  <topic id="7" alpha="0.0021352314998704922" totalTokens="23" titles="raw, reference, buffer, pojo, type, datum, test, age, converter, wrap">
+	<word weight="0.17391304347826086" count="4">raw</word>
+	<word weight="0.13043478260869565" count="3">reference</word>
+	<word weight="0.08695652173913043" count="2">buffer</word>
+	<word weight="0.08695652173913043" count="2">pojo</word>
+	<word weight="0.08695652173913043" count="2">type</word>
+	<word weight="0.08695652173913043" count="2">datum</word>
+	<word weight="0.08695652173913043" count="2">test</word>
+	<word weight="0.043478260869565216" count="1">age</word>
+	<word weight="0.043478260869565216" count="1">converter</word>
+	<word weight="0.043478260869565216" count="1">wrap</word>
+	<word weight="0.043478260869565216" count="1">eval</word>
+	<word weight="0.043478260869565216" count="1">bridge</word>
+	<word weight="0.043478260869565216" count="1">hint</word>
+	<phrase weight="0.5" count="1">test datum type</phrase>
+	<phrase weight="0.5" count="1">converter test</phrase>
+  </topic>
+  <topic id="8" alpha="0.02457794278107535" totalTokens="1045" titles="datum, hint, type, decimal, timestamp, zone, tinyint, binary, local, date">
+	<word weight="0.25263157894736843" count="264">datum</word>
+	<word weight="0.24976076555023924" count="261">hint</word>
+	<word weight="0.24784688995215312" count="259">type</word>
+	<word weight="0.04688995215311005" count="49">decimal</word>
+	<word weight="0.031578947368421054" count="33">timestamp</word>
+	<word weight="0.031578947368421054" count="33">time</word>
+	<word weight="0.016267942583732056" count="17">zone</word>
+	<word weight="0.016267942583732056" count="17">tinyint</word>
+	<word weight="0.015311004784688996" count="16">binary</word>
+	<word weight="0.015311004784688996" count="16">local</word>
+	<word weight="0.015311004784688996" count="16">date</word>
+	<word weight="0.015311004784688996" count="16">smallint</word>
+	<word weight="0.015311004784688996" count="16">array</word>
+	<word weight="0.015311004784688996" count="16">bigint</word>
+	<word weight="0.015311004784688996" count="16">map</word>
+	<phrase weight="0.5" count="2">datum type hint</phrase>
+	<phrase weight="0.25" count="1">type hint timestamp</phrase>
+	<phrase weight="0.25" count="1">datum type hint tinyint datum type hint smallint datum type hint datum type hint bigint datum type hint datum type hint datum type hint decimal datum type hint datum type hint time datum type hint date datum type hint timestamp datum type hint timestamp local time zone datum type hint datum type hint binary datum type hint array decimal datum type</phrase>
+  </topic>
+  <topic id="9" alpha="0.0019397381429901589" totalTokens="9" titles="implementation, helper, annotation, mock, template, type, ">
+	<word weight="0.2222222222222222" count="2">implementation</word>
+	<word weight="0.2222222222222222" count="2">helper</word>
+	<word weight="0.2222222222222222" count="2">annotation</word>
+	<word weight="0.1111111111111111" count="1">mock</word>
+	<word weight="0.1111111111111111" count="1">template</word>
+	<word weight="0.1111111111111111" count="1">type</word>
+  </topic>
+</topics>

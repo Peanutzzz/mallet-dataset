@@ -1,0 +1,149 @@
+0 task 7:8 1:8
+1 config 0:13 4:6 1:4
+2 asyc 1:4
+3 core 3:3 1:2
+4 pool 1:4
+5 size 1:4
+6 max 1:2
+7 queue 1:2
+8 capacity 1:2
+9 thread 1:2
+10 prefix 5:2 1:2
+11 zlt 3:6 1:1
+12 executor 0:5 1:1
+13 string 0:13 2:12 8:9 3:9 5:6 9:4 1:1
+14 aspect 0:1
+15 spring 0:3 5:2 8:1
+16 application 0:2
+17 filter 2:7 4:1
+18 constant 4:1
+19 ribbon 4:1
+20 isolation 4:2
+21 enable 4:4
+22 false 7:3 4:3 8:1
+23 security 3:2
+24 oauth 0:1
+25 sso 3:6
+26 login 0:6 8:2
+27 path 5:4 0:4
+28 success 3:1
+29 handler 3:1
+30 logout 3:2
+31 uri 3:8
+32 client 3:4 5:2
+33 secret 3:6
+34 redirect 3:2
+35 access 0:4 3:2
+36 token 3:6 0:4
+37 user 8:2 3:2 0:1
+38 info 6:2 3:2
+39 admin 0:7
+40 xxl 0:11
+41 job 0:11
+42 username 0:3 2:2
+43 password 2:2 0:2
+44 mail 0:1
+45 email 8:2 0:1
+46 address 0:2
+47 appname 5:2 0:1
+48 app 0:1
+49 port 5:14 0:2
+50 logpath 0:1
+51 log 0:2
+52 logretentionday 0:1
+53 retention 0:1
+54 day 0:1
+55 test 6:23 9:13 5:12
+56 local 5:2
+57 server 5:10 4:2
+58 property 9:24
+59 inject 9:1
+60 placeholder 6:19 9:13
+61 auto 6:13 9:12 8:2
+62 update 6:15 9:12
+63 timeout 6:34
+64 batch 6:39 7:2
+65 bean 4:9
+66 java 4:4 9:1
+67 set 6:8
+68 key 9:4 5:4 3:4 8:2 7:2
+69 nest 9:3
+70 array 9:2
+71 text 9:1
+72 simple 9:1
+73 date 9:5
+74 format 9:2
+75 parse 9:1
+76 fat 2:4
+77 titan 2:12
+78 url 2:10
+79 uat 2:4
+80 pro 2:4
+81 dbname 2:6
+82 integration 5:3
+83 logger 6:2
+84 controller 5:3
+85 service 8:16
+86 ldap 8:10
+87 base 8:4
+88 mapping 8:5
+89 object 8:2
+90 attr 8:5
+91 display 8:2
+92 rdn 8:2
+93 member 2:2
+94 split 2:3
+95 group 8:9
+96 search 8:2
+97 membership 8:2
+98 option 7:4
+99 naco 7:9 3:6 8:3 5:1 4:1
+100 cmdb 7:4
+101 dump 7:2
+102 interval 7:6
+103 event 7:2
+104 label 7:2
+105 load 7:4
+106 datum 7:6
+107 start 7:2
+108 util 3:1
+109 custom 3:1
+110 str 3:1
+111 auth 2:8 3:4
+112 expire 3:3
+113 seconds 3:2
+114 validity 3:1
+115 system 3:2
+116 type 3:2
+117 cache 5:1
+118 servlet 5:1
+119 context 5:2
+120 location 0:1
+121 istio 4:1
+122 mcp 4:2
+123 empty 8:6
+124 clean 8:6
+125 initial 8:1
+126 delay 7:4 8:2
+127 period 8:2 7:2
+128 time 8:1
+129 distro 7:4
+130 dispatch 7:2
+131 sync 7:4
+132 count 7:2
+133 retry 7:4
+134 warmup 7:2
+135 instance 5:4 3:2
+136 true 3:2
+137 milli 7:2
+138 http 5:2
+139 integer 5:4
+140 interceptor 5:1
+141 exclude 2:4
+142 list 2:2
+143 suffix 2:2
+144 sentinel 2:4
+145 dashboard 2:2
+146 version 2:2
+147 source 5:3
+148 eureka 5:2

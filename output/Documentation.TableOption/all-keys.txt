@@ -1,0 +1,10 @@
+0	0.05847	sort limit merge file agg operator handle integer num max table dynamically nest include represent test spill asynchronously true reading 
+1	0.08259	join disabled hash operator broadcast reorder configure threshold optimizer agg broadcasting perform node worker loop kind comma true ignore configuration 
+2	0.03832	optimizer true reuse source plan enable predicate table pushdown filterable push find optimize work 
+3	0.01191	edge pipelined text shuffle code block pointwise forward mode consumer send produce deprecate datum task description build rescale accept linebreak 
+4	0.03786	parallelism spill compression environment execution resource size datum compress memory higher join set fallback override priority instance run filter job 
+5	0.04144	async timeout lookup idle source operation capacity watermark complete min join max set don wait advance task temporarily mark time 
+6	0.04107	aggregate distinct phase bucket stage optimizer agg split aggregation auto strategy number num splitting calculate additional level col global enforce 
+7	0.06762	mini buffer batch record latency size maximum input minibatch window optimization number set note access state reduce trigger true reach 
+8	0.03382	sql dialect enforcer support drop type exception behavior flink column error sink hive grammar parse define lower fully record silently 
+9	0.76658	exec table option mode documentation key config batch description enable stream string false disable set integer hint dynamic duplicate block 

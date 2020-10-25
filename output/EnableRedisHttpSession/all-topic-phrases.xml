@@ -1,0 +1,41 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="17.18412937330768" totalTokens="30" titles="enable, app, arg, server, uaa, application, spring, client, feign, run">
+	<word weight="0.13333333333333333" count="4">enable</word>
+	<word weight="0.1" count="3">app</word>
+	<word weight="0.06666666666666667" count="2">arg</word>
+	<word weight="0.06666666666666667" count="2">server</word>
+	<word weight="0.06666666666666667" count="2">uaa</word>
+	<word weight="0.06666666666666667" count="2">application</word>
+	<word weight="0.06666666666666667" count="2">spring</word>
+	<word weight="0.06666666666666667" count="2">client</word>
+	<word weight="0.06666666666666667" count="2">feign</word>
+	<word weight="0.03333333333333333" count="1">run</word>
+	<word weight="0.03333333333333333" count="1">string</word>
+	<word weight="0.03333333333333333" count="1">main</word>
+	<word weight="0.03333333333333333" count="1">boot</word>
+	<word weight="0.03333333333333333" count="1">session</word>
+	<word weight="0.03333333333333333" count="1">http</word>
+	<word weight="0.03333333333333333" count="1">redis</word>
+	<word weight="0.03333333333333333" count="1">discovery</word>
+	<word weight="0.03333333333333333" count="1">interceptor</word>
+  </topic>
+  <topic id="1" alpha="6.095289987762152E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="6.095289987762152E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="6.095289987762152E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="6.095289987762152E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="6.095289987762152E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="6.095289987762152E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="6.095289987762152E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="6.095289987762152E-19" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="6.095289987762152E-19" totalTokens="0" titles="">
+  </topic>
+</topics>

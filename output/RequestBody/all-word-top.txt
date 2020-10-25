@@ -1,0 +1,59 @@
+0 request 5:19 9:17 0:14 2:13 8:11 7:7 6:4
+1 body 9:18 0:15 5:13 2:13 8:11 7:7 6:5
+2 search 7:4
+3 dto 7:9 5:3 0:1 8:1
+4 index 7:2
+5 require 7:1 1:1
+6 false 7:1
+7 controller 9:8 8:8 0:6 6:4 7:3 5:2 2:1
+8 menu 0:4
+9 role 0:3
+10 user 9:12
+11 set 0:5 9:1
+12 client 7:2
+13 access 7:3
+14 key 7:3
+15 valid 5:10
+16 app 5:17
+17 namespace 2:15 5:8
+18 cluster 5:7
+19 item 0:13
+20 change 0:4
+21 gray 8:3 2:1
+22 release 2:7 8:3
+23 rule 8:19
+24 open 5:3 0:2
+25 model 2:20 5:4
+26 del 2:1
+27 consumer 6:2
+28 favorite 0:2
+29 text 2:2
+30 sync 2:2
+31 list 1:2 8:1 9:1
+32 creation 2:1
+33 string 9:15
+34 server 5:3
+35 config 6:2 1:2
+36 true 1:1
+37 clone 1:1
+38 bean 1:2
+39 map 9:5
+40 command 9:1
+41 member 0:1
+42 node 0:1
+43 collection 9:1
+44 param 8:2 9:1
+45 datum 9:3
+46 instance 9:1
+47 authority 8:2
+48 entity 8:14
+49 full 5:1
+50 assign 5:4
+51 single 5:1
+52 machine 9:1
+53 payload 9:1
+54 flow 8:7
+55 add 6:2
+56 api 6:2
+57 req 6:8
+58 update 6:2

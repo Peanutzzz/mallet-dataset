@@ -1,0 +1,118 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0920967404860287" totalTokens="5" titles="false, factory, request, user, ">
+	<word weight="0.4" count="2">false</word>
+	<word weight="0.2" count="1">factory</word>
+	<word weight="0.2" count="1">request</word>
+	<word weight="0.2" count="1">user</word>
+  </topic>
+  <topic id="1" alpha="1.2421303838052737" totalTokens="22" titles="access, authentication, response, store, configure, filter, redis, user, manager, adapter">
+	<word weight="0.36363636363636365" count="8">access</word>
+	<word weight="0.13636363636363635" count="3">authentication</word>
+	<word weight="0.09090909090909091" count="2">response</word>
+	<word weight="0.09090909090909091" count="2">store</word>
+	<word weight="0.09090909090909091" count="2">configure</word>
+	<word weight="0.045454545454545456" count="1">filter</word>
+	<word weight="0.045454545454545456" count="1">redis</word>
+	<word weight="0.045454545454545456" count="1">user</word>
+	<word weight="0.045454545454545456" count="1">manager</word>
+	<word weight="0.045454545454545456" count="1">adapter</word>
+	<phrase weight="0.5" count="1">store authentication</phrase>
+	<phrase weight="0.5" count="1">authentication manager</phrase>
+  </topic>
+  <topic id="2" alpha="1.5141114076761317" totalTokens="14" titles="exception, code, configure, secret, cache, param, endpoint, ">
+	<word weight="0.42857142857142855" count="6">exception</word>
+	<word weight="0.14285714285714285" count="2">code</word>
+	<word weight="0.14285714285714285" count="2">configure</word>
+	<word weight="0.07142857142857142" count="1">secret</word>
+	<word weight="0.07142857142857142" count="1">cache</word>
+	<word weight="0.07142857142857142" count="1">param</word>
+	<word weight="0.07142857142857142" count="1">endpoint</word>
+  </topic>
+  <topic id="3" alpha="1.1706832061869954" totalTokens="6" titles="security, load, code, required, resource, grant, ">
+	<word weight="0.16666666666666666" count="1">security</word>
+	<word weight="0.16666666666666666" count="1">load</word>
+	<word weight="0.16666666666666666" count="1">code</word>
+	<word weight="0.16666666666666666" count="1">required</word>
+	<word weight="0.16666666666666666" count="1">resource</word>
+	<word weight="0.16666666666666666" count="1">grant</word>
+  </topic>
+  <topic id="4" alpha="1.0591795263020067" totalTokens="19" titles="service, security, store, credentials, extend, ">
+	<word weight="0.6842105263157895" count="13">service</word>
+	<word weight="0.10526315789473684" count="2">security</word>
+	<word weight="0.10526315789473684" count="2">store</word>
+	<word weight="0.05263157894736842" count="1">credentials</word>
+	<word weight="0.05263157894736842" count="1">extend</word>
+  </topic>
+  <topic id="5" alpha="1.5769183355484493" totalTokens="25" titles="endpoint, chain, authorization, authentication, configurer, authenticate, store, password, auto, ">
+	<word weight="0.28" count="7">endpoint</word>
+	<word weight="0.2" count="5">chain</word>
+	<word weight="0.16" count="4">authorization</word>
+	<word weight="0.12" count="3">authentication</word>
+	<word weight="0.08" count="2">configurer</word>
+	<word weight="0.04" count="1">authenticate</word>
+	<word weight="0.04" count="1">store</word>
+	<word weight="0.04" count="1">password</word>
+	<word weight="0.04" count="1">auto</word>
+  </topic>
+  <topic id="6" alpha="1.3533903049875327" totalTokens="16" titles="converter, override, web, oauth, array, set, code, response, ">
+	<word weight="0.3125" count="5">converter</word>
+	<word weight="0.1875" count="3">override</word>
+	<word weight="0.1875" count="3">web</word>
+	<word weight="0.0625" count="1">oauth</word>
+	<word weight="0.0625" count="1">array</word>
+	<word weight="0.0625" count="1">set</word>
+	<word weight="0.0625" count="1">code</word>
+	<word weight="0.0625" count="1">response</word>
+	<phrase weight="1.0" count="1">web response</phrase>
+  </topic>
+  <topic id="7" alpha="1.1850173409247609" totalTokens="26" titles="client, autowire, manager, permit, configurer, ">
+	<word weight="0.5384615384615384" count="14">client</word>
+	<word weight="0.23076923076923078" count="6">autowire</word>
+	<word weight="0.15384615384615385" count="4">manager</word>
+	<word weight="0.038461538461538464" count="1">permit</word>
+	<word weight="0.038461538461538464" count="1">configurer</word>
+	<phrase weight="1.0" count="2">client client</phrase>
+  </topic>
+  <topic id="8" alpha="1.0930928033526648" totalTokens="15" titles="translator, param, user, form, check, list, require, converter, enable, configuration">
+	<word weight="0.26666666666666666" count="4">translator</word>
+	<word weight="0.13333333333333333" count="2">param</word>
+	<word weight="0.13333333333333333" count="2">user</word>
+	<word weight="0.06666666666666667" count="1">form</word>
+	<word weight="0.06666666666666667" count="1">check</word>
+	<word weight="0.06666666666666667" count="1">list</word>
+	<word weight="0.06666666666666667" count="1">require</word>
+	<word weight="0.06666666666666667" count="1">converter</word>
+	<word weight="0.06666666666666667" count="1">enable</word>
+	<word weight="0.06666666666666667" count="1">configuration</word>
+	<phrase weight="1.0" count="1">configuration enable</phrase>
+  </topic>
+  <topic id="9" alpha="1.8378125291291476" totalTokens="88" titles="token, enhancer, detail, server, authorization, granter, jwt, autowired, configurer, key">
+	<word weight="0.3522727272727273" count="31">token</word>
+	<word weight="0.125" count="11">enhancer</word>
+	<word weight="0.11363636363636363" count="10">detail</word>
+	<word weight="0.07954545454545454" count="7">server</word>
+	<word weight="0.07954545454545454" count="7">authorization</word>
+	<word weight="0.056818181818181816" count="5">granter</word>
+	<word weight="0.056818181818181816" count="5">jwt</word>
+	<word weight="0.022727272727272728" count="2">auth</word>
+	<word weight="0.022727272727272728" count="2">autowired</word>
+	<word weight="0.022727272727272728" count="2">configurer</word>
+	<word weight="0.022727272727272728" count="2">config</word>
+	<word weight="0.011363636363636364" count="1">key</word>
+	<word weight="0.011363636363636364" count="1">security</word>
+	<word weight="0.011363636363636364" count="1">random</word>
+	<word weight="0.011363636363636364" count="1">type</word>
+	<phrase weight="0.2222222222222222" count="4">token enhancer</phrase>
+	<phrase weight="0.16666666666666666" count="3">authorization server</phrase>
+	<phrase weight="0.16666666666666666" count="3">token enhancer token enhancer</phrase>
+	<phrase weight="0.05555555555555555" count="1">token granter token granter token</phrase>
+	<phrase weight="0.05555555555555555" count="1">token key</phrase>
+	<phrase weight="0.05555555555555555" count="1">token granter auth</phrase>
+	<phrase weight="0.05555555555555555" count="1">token enhancer jwt</phrase>
+	<phrase weight="0.05555555555555555" count="1">type autowired</phrase>
+	<phrase weight="0.05555555555555555" count="1">token granter token granter auth</phrase>
+	<phrase weight="0.05555555555555555" count="1">server config</phrase>
+	<phrase weight="0.05555555555555555" count="1">authorization server configurer</phrase>
+  </topic>
+</topics>

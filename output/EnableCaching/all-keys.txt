@@ -1,0 +1,10 @@
+0	4.08529	dif serialize enable 
+1	7.24319	cache factory redis object set size bean def configuration concat method initial put seconds map duration primary 
+2	5.44739	cache serialization object concat map 
+3	5.52356	key config connection obj bean compute caching target manager 
+4	5.18738	property cache builder context configure build ttl auto 
+5	4.54485	append template disable duration ttl java serializer 
+6	4.83072	serialize redi 
+7	13.89526	redis serializer configuration string generator key concat method template autowire manager 
+8	3.66006	string template pair hash prefix hour connection enable 
+9	7.92091	manager conf redi map entry cache target configs def param redis property 

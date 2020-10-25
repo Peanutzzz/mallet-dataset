@@ -1,0 +1,146 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.0060102410839897" totalTokens="76" titles="nonnegative, batch, size, write, key, checkpoint, state, incremental, restore, util">
+	<word weight="0.14473684210526316" count="11">nonnegative</word>
+	<word weight="0.11842105263157894" count="9">batch</word>
+	<word weight="0.11842105263157894" count="9">size</word>
+	<word weight="0.10526315789473684" count="8">write</word>
+	<word weight="0.09210526315789473" count="7">key</word>
+	<word weight="0.07894736842105263" count="6">checkpoint</word>
+	<word weight="0.06578947368421052" count="5">state</word>
+	<word weight="0.05263157894736842" count="4">incremental</word>
+	<word weight="0.05263157894736842" count="4">restore</word>
+	<word weight="0.039473684210526314" count="3">util</word>
+	<word weight="0.02631578947368421" count="2">backend</word>
+	<word weight="0.02631578947368421" count="2">handle</word>
+	<word weight="0.02631578947368421" count="2">operation</word>
+	<word weight="0.013157894736842105" count="1">full</word>
+	<word weight="0.013157894736842105" count="1">impl</word>
+	<word weight="0.013157894736842105" count="1">wrapper</word>
+	<word weight="0.013157894736842105" count="1">task</word>
+	<phrase weight="1.0" count="1">incremental checkpoint util</phrase>
+  </topic>
+  <topic id="1" alpha="0.005604467948529139" totalTokens="68" titles="nonnegative, subtask, store, state, index, impl, provider, manager, local, directory">
+	<word weight="0.16176470588235295" count="11">nonnegative</word>
+	<word weight="0.1323529411764706" count="9">subtask</word>
+	<word weight="0.11764705882352941" count="8">store</word>
+	<word weight="0.11764705882352941" count="8">state</word>
+	<word weight="0.11764705882352941" count="8">index</word>
+	<word weight="0.10294117647058823" count="7">impl</word>
+	<word weight="0.058823529411764705" count="4">provider</word>
+	<word weight="0.04411764705882353" count="3">manager</word>
+	<word weight="0.04411764705882353" count="3">local</word>
+	<word weight="0.04411764705882353" count="3">directory</word>
+	<word weight="0.04411764705882353" count="3">checkpoint</word>
+	<word weight="0.014705882352941176" count="1">result</word>
+	<phrase weight="1.0" count="1">state store impl</phrase>
+  </topic>
+  <topic id="2" alpha="0.0034966586822997763" totalTokens="54" titles="key, nonnegative, builder, composite, serialize, group, prefix, mark, initial, ">
+	<word weight="0.24074074074074073" count="13">key</word>
+	<word weight="0.14814814814814814" count="8">nonnegative</word>
+	<word weight="0.12962962962962962" count="7">builder</word>
+	<word weight="0.12962962962962962" count="7">composite</word>
+	<word weight="0.12962962962962962" count="7">serialize</word>
+	<word weight="0.09259259259259259" count="5">group</word>
+	<word weight="0.07407407407407407" count="4">prefix</word>
+	<word weight="0.037037037037037035" count="2">mark</word>
+	<word weight="0.018518518518518517" count="1">initial</word>
+	<phrase weight="1.0" count="1">serialize composite key builder nonnegative initial</phrase>
+  </topic>
+  <topic id="3" alpha="0.0014445428232118139" totalTokens="23" titles="index, subpartition, consume, nonnegative, descriptor, deployment, ">
+	<word weight="0.21739130434782608" count="5">index</word>
+	<word weight="0.17391304347826086" count="4">subpartition</word>
+	<word weight="0.17391304347826086" count="4">consume</word>
+	<word weight="0.17391304347826086" count="4">nonnegative</word>
+	<word weight="0.13043478260869565" count="3">descriptor</word>
+	<word weight="0.13043478260869565" count="3">deployment</word>
+  </topic>
+  <topic id="4" alpha="0.011012665430163193" totalTokens="138" titles="queue, nonnegative, group, key, priority, total, set, partition, capacity, minimum">
+	<word weight="0.16666666666666666" count="23">queue</word>
+	<word weight="0.15217391304347827" count="21">nonnegative</word>
+	<word weight="0.10869565217391304" count="15">group</word>
+	<word weight="0.09420289855072464" count="13">key</word>
+	<word weight="0.07971014492753623" count="11">priority</word>
+	<word weight="0.07246376811594203" count="10">total</word>
+	<word weight="0.06521739130434782" count="9">set</word>
+	<word weight="0.043478260869565216" count="6">partition</word>
+	<word weight="0.036231884057971016" count="5">capacity</word>
+	<word weight="0.036231884057971016" count="5">minimum</word>
+	<word weight="0.028985507246376812" count="4">factory</word>
+	<word weight="0.021739130434782608" count="3">snapshot</word>
+	<word weight="0.014492753623188406" count="2">cache</word>
+	<word weight="0.014492753623188406" count="2">index</word>
+	<word weight="0.014492753623188406" count="2">size</word>
+	<word weight="0.007246376811594203" count="1">prefix</word>
+	<word weight="0.007246376811594203" count="1">num</word>
+	<word weight="0.007246376811594203" count="1">wrapper</word>
+	<word weight="0.007246376811594203" count="1">state</word>
+	<word weight="0.007246376811594203" count="1">element</word>
+	<phrase weight="0.5" count="1">queue set nonnegative total</phrase>
+	<phrase weight="0.5" count="1">priority queue</phrase>
+  </topic>
+  <topic id="5" alpha="0.001442687203663132" totalTokens="15" titles="nonnegative, invocation, generator, number, forwarding, test, budget, checkpoint, size, ">
+	<word weight="0.26666666666666666" count="4">nonnegative</word>
+	<word weight="0.13333333333333333" count="2">invocation</word>
+	<word weight="0.13333333333333333" count="2">generator</word>
+	<word weight="0.13333333333333333" count="2">number</word>
+	<word weight="0.06666666666666667" count="1">forwarding</word>
+	<word weight="0.06666666666666667" count="1">test</word>
+	<word weight="0.06666666666666667" count="1">budget</word>
+	<word weight="0.06666666666666667" count="1">checkpoint</word>
+	<word weight="0.06666666666666667" count="1">size</word>
+  </topic>
+  <topic id="6" alpha="0.003120598752540137" totalTokens="24" titles="nonnegative, cleanup, stats, size, time, end, start, request, config, ">
+	<word weight="0.2916666666666667" count="7">nonnegative</word>
+	<word weight="0.20833333333333334" count="5">cleanup</word>
+	<word weight="0.125" count="3">stats</word>
+	<word weight="0.125" count="3">size</word>
+	<word weight="0.08333333333333333" count="2">time</word>
+	<word weight="0.041666666666666664" count="1">end</word>
+	<word weight="0.041666666666666664" count="1">start</word>
+	<word weight="0.041666666666666664" count="1">request</word>
+	<word weight="0.041666666666666664" count="1">config</word>
+  </topic>
+  <topic id="7" alpha="0.0013542083339641356" totalTokens="24" titles="snapshot, map, state, nonnegative, datum, entry, number, write, user, list">
+	<word weight="0.16666666666666666" count="4">snapshot</word>
+	<word weight="0.125" count="3">map</word>
+	<word weight="0.125" count="3">state</word>
+	<word weight="0.125" count="3">nonnegative</word>
+	<word weight="0.08333333333333333" count="2">datum</word>
+	<word weight="0.08333333333333333" count="2">entry</word>
+	<word weight="0.08333333333333333" count="2">number</word>
+	<word weight="0.08333333333333333" count="2">write</word>
+	<word weight="0.041666666666666664" count="1">user</word>
+	<word weight="0.041666666666666664" count="1">list</word>
+	<word weight="0.041666666666666664" count="1">skip</word>
+	<phrase weight="1.0" count="1">map state nonnegative user</phrase>
+  </topic>
+  <topic id="8" alpha="7.235360019478351E-204" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="0.012079145744523515" totalTokens="152" titles="key, group, nonnegative, partitioner, number, base, strategy, offset, prefix, snapshot">
+	<word weight="0.20394736842105263" count="31">key</word>
+	<word weight="0.19736842105263158" count="30">group</word>
+	<word weight="0.15789473684210525" count="24">nonnegative</word>
+	<word weight="0.09210526315789473" count="14">partitioner</word>
+	<word weight="0.05263157894736842" count="8">number</word>
+	<word weight="0.03289473684210526" count="5">base</word>
+	<word weight="0.03289473684210526" count="5">strategy</word>
+	<word weight="0.03289473684210526" count="5">offset</word>
+	<word weight="0.02631578947368421" count="4">prefix</word>
+	<word weight="0.02631578947368421" count="4">snapshot</word>
+	<word weight="0.02631578947368421" count="4">protect</word>
+	<word weight="0.019736842105263157" count="3">test</word>
+	<word weight="0.019736842105263157" count="3">idx</word>
+	<word weight="0.013157894736842105" count="2">reader</word>
+	<word weight="0.013157894736842105" count="2">element</word>
+	<word weight="0.006578947368421052" count="1">current</word>
+	<word weight="0.006578947368421052" count="1">failure</word>
+	<word weight="0.006578947368421052" count="1">exclusive</word>
+	<word weight="0.006578947368421052" count="1">inclusive</word>
+	<word weight="0.006578947368421052" count="1">context</word>
+	<phrase weight="0.25" count="1">partitioner nonnegative</phrase>
+	<phrase weight="0.25" count="1">partitioner nonnegative protect</phrase>
+	<phrase weight="0.25" count="1">nonnegative number</phrase>
+	<phrase weight="0.25" count="1">partitioner nonnegative key</phrase>
+  </topic>
+</topics>

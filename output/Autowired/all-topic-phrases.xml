@@ -1,0 +1,297 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.006201917494047289" totalTokens="337" titles="service, release, autowire, test, message, repository, util, config, key, biz">
+	<word weight="0.12166172106824925" count="41">service</word>
+	<word weight="0.11275964391691394" count="38">release</word>
+	<word weight="0.09495548961424333" count="32">autowire</word>
+	<word weight="0.05934718100890208" count="20">test</word>
+	<word weight="0.05341246290801187" count="18">message</word>
+	<word weight="0.050445103857566766" count="17">repository</word>
+	<word weight="0.04154302670623145" count="14">util</word>
+	<word weight="0.04154302670623145" count="14">config</word>
+	<word weight="0.03857566765578635" count="13">key</word>
+	<word weight="0.03560830860534125" count="12">biz</word>
+	<word weight="0.032640949554896145" count="11">access</word>
+	<word weight="0.026706231454005934" count="9">batch</word>
+	<word weight="0.026706231454005934" count="9">integration</word>
+	<word weight="0.026706231454005934" count="9">cache</word>
+	<word weight="0.02373887240356083" count="8">timeout</word>
+	<word weight="0.017804154302670624" count="6">gson</word>
+	<word weight="0.017804154302670624" count="6">history</word>
+	<word weight="0.017804154302670624" count="6">namespace</word>
+	<word weight="0.017804154302670624" count="6">converter</word>
+	<word weight="0.011869436201780416" count="4">entity</word>
+	<phrase weight="0.2" count="2">util entity</phrase>
+	<phrase weight="0.1" count="1">factory create notification</phrase>
+	<phrase weight="0.1" count="1">holder autowire gray release</phrase>
+	<phrase weight="0.1" count="1">autowire notification</phrase>
+	<phrase weight="0.1" count="1">repository gray release</phrase>
+	<phrase weight="0.1" count="1">true watch key util watch key util release message service release message service entity</phrase>
+	<phrase weight="0.1" count="1">util namespace util namespace util gson gson biz config biz config large notification batch executor service executor single</phrase>
+	<phrase weight="0.1" count="1">executor apollo</phrase>
+	<phrase weight="0.1" count="1">watch key util watch key util release message service cache release message service entity</phrase>
+  </topic>
+  <topic id="1" alpha="0.01278968897979927" totalTokens="449" titles="test, autowire, service, app, namespace, repository, bean, management, integration, required">
+	<word weight="0.1514476614699332" count="68">test</word>
+	<word weight="0.133630289532294" count="60">autowire</word>
+	<word weight="0.12472160356347439" count="56">service</word>
+	<word weight="0.11804008908685969" count="53">app</word>
+	<word weight="0.0645879732739421" count="29">namespace</word>
+	<word weight="0.062360801781737196" count="28">repository</word>
+	<word weight="0.04899777282850779" count="22">bean</word>
+	<word weight="0.0400890868596882" count="18">management</word>
+	<word weight="0.024498886414253896" count="11">integration</word>
+	<word weight="0.024498886414253896" count="11">required</word>
+	<word weight="0.024498886414253896" count="11">false</word>
+	<word weight="0.022271714922048998" count="10">cluster</word>
+	<word weight="0.0200445434298441" count="9">controller</word>
+	<word weight="0.017817371937639197" count="8">instance</word>
+	<word weight="0.013363028953229399" count="6">admin</word>
+	<word weight="0.013363028953229399" count="6">cache</word>
+	<word weight="0.011135857461024499" count="5">transaction</word>
+	<word weight="0.011135857461024499" count="5">configuration</word>
+	<word weight="0.008908685968819599" count="4">foo</word>
+	<word weight="0.008908685968819599" count="4">branch</word>
+	<phrase weight="0.2222222222222222" count="2">app namespace</phrase>
+	<phrase weight="0.1111111111111111" count="1">repository instance</phrase>
+	<phrase weight="0.1111111111111111" count="1">autowire foo service foo</phrase>
+	<phrase weight="0.1111111111111111" count="1">integration test</phrase>
+	<phrase weight="0.1111111111111111" count="1">repository test</phrase>
+	<phrase weight="0.1111111111111111" count="1">service test autowire</phrase>
+	<phrase weight="0.1111111111111111" count="1">service cluster</phrase>
+	<phrase weight="0.1111111111111111" count="1">autowire required false security configuration</phrase>
+  </topic>
+  <topic id="2" alpha="0.006070945768940864" totalTokens="175" titles="domain, autowire, processor, check, common, health, mapper, distro, lock, autowired">
+	<word weight="0.13714285714285715" count="24">domain</word>
+	<word weight="0.13142857142857142" count="23">autowire</word>
+	<word weight="0.09714285714285714" count="17">processor</word>
+	<word weight="0.07428571428571429" count="13">check</word>
+	<word weight="0.05714285714285714" count="10">common</word>
+	<word weight="0.05714285714285714" count="10">health</word>
+	<word weight="0.05714285714285714" count="10">mapper</word>
+	<word weight="0.05142857142857143" count="9">distro</word>
+	<word weight="0.05142857142857143" count="9">lock</word>
+	<word weight="0.03428571428571429" count="6">autowired</word>
+	<word weight="0.022857142857142857" count="4">filter</word>
+	<word weight="0.022857142857142857" count="4">distribute</word>
+	<word weight="0.011428571428571429" count="2">sense</word>
+	<word weight="0.011428571428571429" count="2">map</word>
+	<word weight="0.011428571428571429" count="2">syncer</word>
+	<word weight="0.011428571428571429" count="2">type</word>
+	<word weight="0.011428571428571429" count="2">protocol</word>
+	<word weight="0.011428571428571429" count="2">sender</word>
+	<word weight="0.011428571428571429" count="2">redisson</word>
+	<word weight="0.011428571428571429" count="2">parser</word>
+	<phrase weight="0.25" count="1">produce application</phrase>
+	<phrase weight="0.25" count="1">lock autowired</phrase>
+	<phrase weight="0.25" count="1">common autowired</phrase>
+	<phrase weight="0.25" count="1">impl autowire</phrase>
+  </topic>
+  <topic id="3" alpha="0.011295792511963184" totalTokens="346" titles="autowire, client, api, sentinel, test, mvc, controller, environment, method, source">
+	<word weight="0.1329479768786127" count="46">autowire</word>
+	<word weight="0.12138728323699421" count="42">client</word>
+	<word weight="0.0953757225433526" count="33">api</word>
+	<word weight="0.07514450867052024" count="26">sentinel</word>
+	<word weight="0.049132947976878616" count="17">test</word>
+	<word weight="0.04335260115606936" count="15">mvc</word>
+	<word weight="0.04335260115606936" count="15">controller</word>
+	<word weight="0.04046242774566474" count="14">environment</word>
+	<word weight="0.02601156069364162" count="9">method</word>
+	<word weight="0.02601156069364162" count="9">source</word>
+	<word weight="0.023121387283236993" count="8">mock</word>
+	<word weight="0.023121387283236993" count="8">cache</word>
+	<word weight="0.023121387283236993" count="8">context</word>
+	<word weight="0.023121387283236993" count="8">application</word>
+	<word weight="0.02023121387283237" count="7">publisher</word>
+	<word weight="0.017341040462427744" count="6">locator</word>
+	<word weight="0.017341040462427744" count="6">rule</word>
+	<word weight="0.017341040462427744" count="6">apollo</word>
+	<word weight="0.017341040462427744" count="6">web</word>
+	<word weight="0.014450867052023121" count="5">provider</word>
+	<phrase weight="0.25" count="1">apollo provider</phrase>
+	<phrase weight="0.25" count="1">controller test</phrase>
+	<phrase weight="0.25" count="1">api provider</phrase>
+	<phrase weight="0.25" count="1">api command</phrase>
+  </topic>
+  <topic id="4" alpha="9.122488051337008E-4" totalTokens="259" titles="task, notify, config, member, event, manager, datum, seconds, change, evt">
+	<word weight="0.08494208494208494" count="22">task</word>
+	<word weight="0.07722007722007722" count="20">notify</word>
+	<word weight="0.06177606177606178" count="16">config</word>
+	<word weight="0.05405405405405406" count="14">member</word>
+	<word weight="0.05405405405405406" count="14">event</word>
+	<word weight="0.05405405405405406" count="14">manager</word>
+	<word weight="0.04633204633204633" count="12">datum</word>
+	<word weight="0.03474903474903475" count="9">seconds</word>
+	<word weight="0.03088803088803089" count="8">change</word>
+	<word weight="0.02702702702702703" count="7">evt</word>
+	<word weight="0.023166023166023165" count="6">queue</word>
+	<word weight="0.023166023166023165" count="6">delay</word>
+	<word weight="0.023166023166023165" count="6">single</word>
+	<word weight="0.023166023166023165" count="6">service</word>
+	<word weight="0.019305019305019305" count="5">merge</word>
+	<word weight="0.019305019305019305" count="5">executor</word>
+	<word weight="0.015444015444015444" count="4">center</word>
+	<word weight="0.015444015444015444" count="4">register</word>
+	<word weight="0.015444015444015444" count="4">processor</word>
+	<word weight="0.015444015444015444" count="4">async</word>
+	<phrase weight="0.5" count="1">task task manager alibaba</phrase>
+	<phrase weight="0.5" count="1">merge datum merge task set task processor merge task processor</phrase>
+  </topic>
+  <topic id="5" alpha="0.012114183556225991" totalTokens="391" titles="manager, autowire, property, service, authentication, member, server, configure, tenant, security">
+	<word weight="0.19437340153452684" count="76">manager</word>
+	<word weight="0.1329923273657289" count="52">autowire</word>
+	<word weight="0.07161125319693094" count="28">property</word>
+	<word weight="0.061381074168797956" count="24">service</word>
+	<word weight="0.056265984654731455" count="22">authentication</word>
+	<word weight="0.05370843989769821" count="21">member</word>
+	<word weight="0.05370843989769821" count="21">server</word>
+	<word weight="0.03580562659846547" count="14">configure</word>
+	<word weight="0.03324808184143223" count="13">auto</word>
+	<word weight="0.030690537084398978" count="12">tenant</word>
+	<word weight="0.030690537084398978" count="12">security</word>
+	<word weight="0.023017902813299233" count="9">config</word>
+	<word weight="0.017902813299232736" count="7">file</word>
+	<word weight="0.017902813299232736" count="7">controller</word>
+	<word weight="0.015345268542199489" count="6">address</word>
+	<word weight="0.015345268542199489" count="6">ldap</word>
+	<word weight="0.01278772378516624" count="5">generator</word>
+	<word weight="0.010230179028132993" count="4">thread</word>
+	<word weight="0.010230179028132993" count="4">handler</word>
+	<word weight="0.010230179028132993" count="4">autowired</word>
+	<phrase weight="0.2" count="2">auto configure</phrase>
+	<phrase weight="0.2" count="2">auto configure autowire</phrase>
+	<phrase weight="0.1" count="1">service autowire</phrase>
+	<phrase weight="0.1" count="1">configure autowire</phrase>
+	<phrase weight="0.1" count="1">member manager</phrase>
+	<phrase weight="0.1" count="1">service manager</phrase>
+	<phrase weight="0.1" count="1">manager autowire</phrase>
+	<phrase weight="0.1" count="1">service server member manager member</phrase>
+  </topic>
+  <topic id="6" alpha="0.013736228117145923" totalTokens="497" titles="service, persist, autowire, impl, controller, raft, capacity, push, demo, config">
+	<word weight="0.32595573440643866" count="162">service</word>
+	<word weight="0.12072434607645875" count="60">persist</word>
+	<word weight="0.11871227364185111" count="59">autowire</word>
+	<word weight="0.05835010060362173" count="29">impl</word>
+	<word weight="0.030181086519114688" count="15">controller</word>
+	<word weight="0.028169014084507043" count="14">raft</word>
+	<word weight="0.022132796780684104" count="11">capacity</word>
+	<word weight="0.02012072434607646" count="10">push</word>
+	<word weight="0.02012072434607646" count="10">demo</word>
+	<word weight="0.02012072434607646" count="10">config</word>
+	<word weight="0.018108651911468814" count="9">dump</word>
+	<word weight="0.01609657947686117" count="8">code</word>
+	<word weight="0.01609657947686117" count="8">query</word>
+	<word weight="0.012072434607645875" count="6">core</word>
+	<word weight="0.012072434607645875" count="6">polling</word>
+	<word weight="0.012072434607645875" count="6">operate</word>
+	<word weight="0.012072434607645875" count="6">database</word>
+	<word weight="0.012072434607645875" count="6">authorization</word>
+	<word weight="0.012072434607645875" count="6">storage</word>
+	<word weight="0.008048289738430584" count="4">consistency</word>
+	<phrase weight="0.3125" count="5">service impl</phrase>
+	<phrase weight="0.125" count="2">persist service</phrase>
+	<phrase weight="0.125" count="2">service persist service</phrase>
+	<phrase weight="0.0625" count="1">service impl autowire</phrase>
+	<phrase weight="0.0625" count="1">autowire push</phrase>
+	<phrase weight="0.0625" count="1">autowire raft</phrase>
+	<phrase weight="0.0625" count="1">service persist service persist service persist service persist service</phrase>
+	<phrase weight="0.0625" count="1">service autowire</phrase>
+	<phrase weight="0.0625" count="1">capacity persist service</phrase>
+	<phrase weight="0.0625" count="1">persist service persist service</phrase>
+  </topic>
+  <topic id="7" alpha="0.011533427452008731" totalTokens="369" titles="config, autowire, token, property, auth, service, portal, store, server, servlet">
+	<word weight="0.1897018970189702" count="70">config</word>
+	<word weight="0.12466124661246612" count="46">autowire</word>
+	<word weight="0.07588075880758807" count="28">token</word>
+	<word weight="0.04607046070460705" count="17">property</word>
+	<word weight="0.04336043360433604" count="16">auth</word>
+	<word weight="0.04065040650406504" count="15">service</word>
+	<word weight="0.037940379403794036" count="14">portal</word>
+	<word weight="0.037940379403794036" count="14">store</word>
+	<word weight="0.02710027100271003" count="10">server</word>
+	<word weight="0.02168021680216802" count="8">servlet</word>
+	<word weight="0.02168021680216802" count="8">naco</word>
+	<word weight="0.018970189701897018" count="7">autowired</word>
+	<word weight="0.016260162601626018" count="6">request</word>
+	<word weight="0.016260162601626018" count="6">builder</word>
+	<word weight="0.016260162601626018" count="6">jwt</word>
+	<word weight="0.016260162601626018" count="6">false</word>
+	<word weight="0.016260162601626018" count="6">require</word>
+	<word weight="0.016260162601626018" count="6">resource</word>
+	<word weight="0.013550135501355014" count="5">email</word>
+	<word weight="0.013550135501355014" count="5">repository</word>
+	<phrase weight="0.11764705882352941" count="2">require false</phrase>
+	<phrase weight="0.11764705882352941" count="2">jwt token</phrase>
+	<phrase weight="0.11764705882352941" count="2">email builder</phrase>
+	<phrase weight="0.058823529411764705" count="1">config repository</phrase>
+	<phrase weight="0.058823529411764705" count="1">email builder autowire</phrase>
+	<phrase weight="0.058823529411764705" count="1">autowire config</phrase>
+	<phrase weight="0.058823529411764705" count="1">http servlet request auth</phrase>
+	<phrase weight="0.058823529411764705" count="1">config autowire jwt token</phrase>
+	<phrase weight="0.058823529411764705" count="1">autowired require false</phrase>
+	<phrase weight="0.058823529411764705" count="1">portal config portal</phrase>
+	<phrase weight="0.058823529411764705" count="1">config servlet config servlet</phrase>
+	<phrase weight="0.058823529411764705" count="1">autowire auth service http servlet request auth</phrase>
+	<phrase weight="0.058823529411764705" count="1">config autowired require false jwt</phrase>
+	<phrase weight="0.058823529411764705" count="1">config servlet</phrase>
+  </topic>
+  <topic id="8" alpha="0.0113595613759588" totalTokens="582" titles="service, user, role, autowire, permission, manager, detail, config, repository, impl">
+	<word weight="0.2027491408934708" count="118">service</word>
+	<word weight="0.10481099656357389" count="61">user</word>
+	<word weight="0.09450171821305842" count="55">role</word>
+	<word weight="0.0859106529209622" count="50">autowire</word>
+	<word weight="0.06529209621993128" count="38">permission</word>
+	<word weight="0.04639175257731959" count="27">manager</word>
+	<word weight="0.0429553264604811" count="25">detail</word>
+	<word weight="0.0429553264604811" count="25">config</word>
+	<word weight="0.03436426116838488" count="20">repository</word>
+	<word weight="0.029209621993127148" count="17">impl</word>
+	<word weight="0.024054982817869417" count="14">auth</word>
+	<word weight="0.020618556701030927" count="12">password</word>
+	<word weight="0.018900343642611683" count="11">initialization</word>
+	<word weight="0.018900343642611683" count="11">naco</word>
+	<word weight="0.01718213058419244" count="10">portal</word>
+	<word weight="0.01718213058419244" count="10">encoder</word>
+	<word weight="0.015463917525773196" count="9">system</word>
+	<word weight="0.013745704467353952" count="8">info</word>
+	<word weight="0.013745704467353952" count="8">holder</word>
+	<word weight="0.012027491408934709" count="7">redis</word>
+	<phrase weight="0.2" count="3">detail service</phrase>
+	<phrase weight="0.06666666666666667" count="1">config autowire redis</phrase>
+	<phrase weight="0.06666666666666667" count="1">controller autowire user service</phrase>
+	<phrase weight="0.06666666666666667" count="1">permission validator user info holder user info holder role permission service role permission service portal config portal config</phrase>
+	<phrase weight="0.06666666666666667" count="1">service role</phrase>
+	<phrase weight="0.06666666666666667" count="1">autowire user</phrase>
+	<phrase weight="0.06666666666666667" count="1">autowire role</phrase>
+	<phrase weight="0.06666666666666667" count="1">service impl autowire</phrase>
+	<phrase weight="0.06666666666666667" count="1">service impl autowire naco user detail</phrase>
+	<phrase weight="0.06666666666666667" count="1">autowired user</phrase>
+	<phrase weight="0.06666666666666667" count="1">config autowire</phrase>
+	<phrase weight="0.06666666666666667" count="1">permission service</phrase>
+	<phrase weight="0.06666666666666667" count="1">system role manager service system role manager service user info holder user info holder role permission service role permission service portal config portal config</phrase>
+  </topic>
+  <topic id="9" alpha="0.006308140536495721" totalTokens="251" titles="rule, autowire, repository, template, flow, entity, rest, converter, string, store">
+	<word weight="0.13545816733067728" count="34">rule</word>
+	<word weight="0.10756972111553785" count="27">autowire</word>
+	<word weight="0.06772908366533864" count="17">repository</word>
+	<word weight="0.06772908366533864" count="17">template</word>
+	<word weight="0.05976095617529881" count="15">flow</word>
+	<word weight="0.05976095617529881" count="15">entity</word>
+	<word weight="0.055776892430278883" count="14">rest</word>
+	<word weight="0.04780876494023904" count="12">converter</word>
+	<word weight="0.035856573705179286" count="9">string</word>
+	<word weight="0.035856573705179286" count="9">store</word>
+	<word weight="0.03187250996015936" count="8">list</word>
+	<word weight="0.03187250996015936" count="8">provider</word>
+	<word weight="0.03187250996015936" count="8">test</word>
+	<word weight="0.027888446215139442" count="7">controller</word>
+	<word weight="0.02390438247011952" count="6">metric</word>
+	<word weight="0.02390438247011952" count="6">publisher</word>
+	<word weight="0.0199203187250996" count="5">mem</word>
+	<word weight="0.01195219123505976" count="3">redis</word>
+	<word weight="0.00796812749003984" count="2">zookeeper</word>
+	<word weight="0.00796812749003984" count="2">dynamic</word>
+	<phrase weight="0.5" count="1">template string</phrase>
+	<phrase weight="0.5" count="1">controller autowire</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,92 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.47973165678526297" totalTokens="13" titles="application, mapper, exclude, ">
+	<word weight="0.5384615384615384" count="7">application</word>
+	<word weight="0.3076923076923077" count="4">mapper</word>
+	<word weight="0.15384615384615385" count="2">exclude</word>
+  </topic>
+  <topic id="1" alpha="0.6369203449222272" totalTokens="17" titles="service, order, scan, source, policy, ">
+	<word weight="0.47058823529411764" count="8">service</word>
+	<word weight="0.17647058823529413" count="3">order</word>
+	<word weight="0.17647058823529413" count="3">scan</word>
+	<word weight="0.11764705882352941" count="2">source</word>
+	<word weight="0.058823529411764705" count="1">policy</word>
+	<phrase weight="1.0" count="1">order service</phrase>
+  </topic>
+  <topic id="2" alpha="3.9091807335324997" totalTokens="77" titles="client, feign, app, string, main, configuration, uaa, auto, datum, zuul">
+	<word weight="0.2597402597402597" count="20">client</word>
+	<word weight="0.18181818181818182" count="14">feign</word>
+	<word weight="0.18181818181818182" count="14">app</word>
+	<word weight="0.1038961038961039" count="8">string</word>
+	<word weight="0.1038961038961039" count="8">main</word>
+	<word weight="0.07792207792207792" count="6">configuration</word>
+	<word weight="0.025974025974025976" count="2">uaa</word>
+	<word weight="0.025974025974025976" count="2">auto</word>
+	<word weight="0.025974025974025976" count="2">datum</word>
+	<word weight="0.012987012987012988" count="1">zuul</word>
+	<phrase weight="0.47368421052631576" count="9">feign client</phrase>
+	<phrase weight="0.21052631578947367" count="4">app main string</phrase>
+	<phrase weight="0.21052631578947367" count="4">main string</phrase>
+	<phrase weight="0.10526315789473684" count="2">auto configuration</phrase>
+  </topic>
+  <topic id="3" alpha="3.1988799766307654" totalTokens="57" titles="arg, spring, run, boot, discovery, enable, ">
+	<word weight="0.2807017543859649" count="16">arg</word>
+	<word weight="0.2807017543859649" count="16">spring</word>
+	<word weight="0.14035087719298245" count="8">run</word>
+	<word weight="0.14035087719298245" count="8">boot</word>
+	<word weight="0.14035087719298245" count="8">discovery</word>
+	<word weight="0.017543859649122806" count="1">enable</word>
+	<phrase weight="1.0" count="6">spring boot</phrase>
+  </topic>
+  <topic id="4" alpha="0.20159836333083447" totalTokens="13" titles="retention, type, session, impl, query, factory, fallback, base, runtime, element">
+	<word weight="0.15384615384615385" count="2">retention</word>
+	<word weight="0.15384615384615385" count="2">type</word>
+	<word weight="0.07692307692307693" count="1">session</word>
+	<word weight="0.07692307692307693" count="1">impl</word>
+	<word weight="0.07692307692307693" count="1">query</word>
+	<word weight="0.07692307692307693" count="1">factory</word>
+	<word weight="0.07692307692307693" count="1">fallback</word>
+	<word weight="0.07692307692307693" count="1">base</word>
+	<word weight="0.07692307692307693" count="1">runtime</word>
+	<word weight="0.07692307692307693" count="1">element</word>
+	<word weight="0.07692307692307693" count="1">target</word>
+	<phrase weight="0.5" count="1">fallback factory query</phrase>
+	<phrase weight="0.5" count="1">target element type type retention retention</phrase>
+  </topic>
+  <topic id="5" alpha="0.563102154450429" totalTokens="9" titles="gateway, base, proxy, component, ">
+	<word weight="0.5555555555555556" count="5">gateway</word>
+	<word weight="0.2222222222222222" count="2">base</word>
+	<word weight="0.1111111111111111" count="1">proxy</word>
+	<word weight="0.1111111111111111" count="1">component</word>
+  </topic>
+  <topic id="6" alpha="2.940754532571582" totalTokens="49" titles="enable, application, interceptor, http, ">
+	<word weight="0.5306122448979592" count="26">enable</word>
+	<word weight="0.3673469387755102" count="18">application</word>
+	<word weight="0.08163265306122448" count="4">interceptor</word>
+	<word weight="0.02040816326530612" count="1">http</word>
+	<phrase weight="0.75" count="3">interceptor enable</phrase>
+	<phrase weight="0.25" count="1">application enable</phrase>
+  </topic>
+  <topic id="7" alpha="0.3151920547925383" totalTokens="12" titles="center, property, file, index, ">
+	<word weight="0.3333333333333333" count="4">center</word>
+	<word weight="0.3333333333333333" count="4">property</word>
+	<word weight="0.25" count="3">file</word>
+	<word weight="0.08333333333333333" count="1">index</word>
+	<phrase weight="0.5" count="2">file center</phrase>
+	<phrase weight="0.25" count="1">property file</phrase>
+	<phrase weight="0.25" count="1">property index property</phrase>
+  </topic>
+  <topic id="8" alpha="0.4423063400588528" totalTokens="7" titles="server, business, redis, feign, ">
+	<word weight="0.42857142857142855" count="3">server</word>
+	<word weight="0.2857142857142857" count="2">business</word>
+	<word weight="0.14285714285714285" count="1">redis</word>
+	<word weight="0.14285714285714285" count="1">feign</word>
+  </topic>
+  <topic id="9" alpha="0.3051581330186788" totalTokens="10" titles="search, storage, central, ">
+	<word weight="0.4" count="4">search</word>
+	<word weight="0.3" count="3">storage</word>
+	<word weight="0.3" count="3">central</word>
+	<phrase weight="0.5" count="1">central search</phrase>
+	<phrase weight="0.5" count="1">central storage</phrase>
+  </topic>
+</topics>

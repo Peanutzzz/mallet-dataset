@@ -1,0 +1,189 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.02084630047123904" totalTokens="25" titles="triad, lower, iter, set, previously, build, array, builder, suppress, warning">
+	<word weight="0.44" count="11">triad</word>
+	<word weight="0.08" count="2">lower</word>
+	<word weight="0.08" count="2">iter</word>
+	<word weight="0.08" count="2">set</word>
+	<word weight="0.04" count="1">previously</word>
+	<word weight="0.04" count="1">build</word>
+	<word weight="0.04" count="1">array</word>
+	<word weight="0.04" count="1">builder</word>
+	<word weight="0.04" count="1">suppress</word>
+	<word weight="0.04" count="1">warning</word>
+	<word weight="0.04" count="1">extend</word>
+	<word weight="0.04" count="1">iterable</word>
+	<phrase weight="0.3333333333333333" count="1">triad triad triad</phrase>
+	<phrase weight="0.3333333333333333" count="1">suppress warning</phrase>
+	<phrase weight="0.3333333333333333" count="1">triad builder extend</phrase>
+  </topic>
+  <topic id="1" alpha="0.023035675181456355" totalTokens="46" titles="edge, degree, copy, reduce, miss, suppress, serial, warning, annotation, ">
+	<word weight="0.45652173913043476" count="21">edge</word>
+	<word weight="0.34782608695652173" count="16">degree</word>
+	<word weight="0.043478260869565216" count="2">copy</word>
+	<word weight="0.043478260869565216" count="2">reduce</word>
+	<word weight="0.021739130434782608" count="1">miss</word>
+	<word weight="0.021739130434782608" count="1">suppress</word>
+	<word weight="0.021739130434782608" count="1">serial</word>
+	<word weight="0.021739130434782608" count="1">warning</word>
+	<word weight="0.021739130434782608" count="1">annotation</word>
+	<phrase weight="0.16666666666666666" count="1">edge degree reduce edge degree edge edge degree edge</phrase>
+	<phrase weight="0.16666666666666666" count="1">miss degree edge degree edge degree edge</phrase>
+	<phrase weight="0.16666666666666666" count="1">suppress warning serial</phrase>
+	<phrase weight="0.16666666666666666" count="1">edge degree edge degree edge edge degree</phrase>
+	<phrase weight="0.16666666666666666" count="1">copy edge edge copy edge</phrase>
+	<phrase weight="0.16666666666666666" count="1">degree edge degree edge degree edge degree edge</phrase>
+  </topic>
+  <topic id="2" alpha="0.02266249353862139" totalTokens="41" titles="degree, edge, tuple, output, target, map, compare, comparable, extend, stats">
+	<word weight="0.24390243902439024" count="10">degree</word>
+	<word weight="0.1951219512195122" count="8">edge</word>
+	<word weight="0.17073170731707318" count="7">tuple</word>
+	<word weight="0.14634146341463414" count="6">output</word>
+	<word weight="0.07317073170731707" count="3">target</word>
+	<word weight="0.04878048780487805" count="2">map</word>
+	<word weight="0.024390243902439025" count="1">compare</word>
+	<word weight="0.024390243902439025" count="1">comparable</word>
+	<word weight="0.024390243902439025" count="1">extend</word>
+	<word weight="0.024390243902439025" count="1">stats</word>
+	<word weight="0.024390243902439025" count="1">mapper</word>
+	<phrase weight="0.16666666666666666" count="1">tuple map edge tuple edge</phrase>
+	<phrase weight="0.16666666666666666" count="1">edge tuple tuple tuple output tuple</phrase>
+	<phrase weight="0.16666666666666666" count="1">tuple degree edge output edge output degree</phrase>
+	<phrase weight="0.16666666666666666" count="1">degree degree target degree degree</phrase>
+	<phrase weight="0.16666666666666666" count="1">stats extend comparable</phrase>
+	<phrase weight="0.16666666666666666" count="1">degree target degree</phrase>
+  </topic>
+  <topic id="3" alpha="0.07377653144589821" totalTokens="89" titles="integer, string, tuple, function, reduce, group, field, combine, dummy, read">
+	<word weight="0.29213483146067415" count="26">integer</word>
+	<word weight="0.14606741573033707" count="13">string</word>
+	<word weight="0.14606741573033707" count="13">tuple</word>
+	<word weight="0.10112359550561797" count="9">function</word>
+	<word weight="0.056179775280898875" count="5">reduce</word>
+	<word weight="0.0449438202247191" count="4">group</word>
+	<word weight="0.0449438202247191" count="4">field</word>
+	<word weight="0.033707865168539325" count="3">combine</word>
+	<word weight="0.033707865168539325" count="3">dummy</word>
+	<word weight="0.033707865168539325" count="3">read</word>
+	<word weight="0.02247191011235955" count="2">collector</word>
+	<word weight="0.02247191011235955" count="2">iterable</word>
+	<word weight="0.02247191011235955" count="2">operator</word>
+	<phrase weight="0.1" count="1">combine iterable tuple integer string integer collector tuple integer string integer</phrase>
+	<phrase weight="0.1" count="1">tuple integer string integer</phrase>
+	<phrase weight="0.1" count="1">group combine function tuple integer string integer tuple integer string integer</phrase>
+	<phrase weight="0.1" count="1">group reduce</phrase>
+	<phrase weight="0.1" count="1">tuple integer string integer tuple integer string integer</phrase>
+	<phrase weight="0.1" count="1">dummy group</phrase>
+	<phrase weight="0.1" count="1">reduce iterable tuple integer string integer collector tuple integer string integer</phrase>
+	<phrase weight="0.1" count="1">dummy reduce function</phrase>
+	<phrase weight="0.1" count="1">tuple integer string integer reduce tuple integer string integer tuple integer string integer</phrase>
+	<phrase weight="0.1" count="1">field dummy group combine function</phrase>
+  </topic>
+  <topic id="4" alpha="0.07632088141480389" totalTokens="112" titles="vertex, group, item, representative, filter, reuse, serial, warning, equal, count">
+	<word weight="0.29464285714285715" count="33">vertex</word>
+	<word weight="0.1875" count="21">group</word>
+	<word weight="0.15178571428571427" count="17">item</word>
+	<word weight="0.125" count="14">representative</word>
+	<word weight="0.05357142857142857" count="6">filter</word>
+	<word weight="0.044642857142857144" count="5">reuse</word>
+	<word weight="0.026785714285714284" count="3">serial</word>
+	<word weight="0.026785714285714284" count="3">warning</word>
+	<word weight="0.017857142857142856" count="2">equal</word>
+	<word weight="0.017857142857142856" count="2">count</word>
+	<word weight="0.017857142857142856" count="2">exception</word>
+	<word weight="0.017857142857142856" count="2">mapper</word>
+	<word weight="0.008928571428571428" count="1">summarize</word>
+	<word weight="0.008928571428571428" count="1">map</word>
+	<phrase weight="0.23076923076923078" count="3">warning serial</phrase>
+	<phrase weight="0.15384615384615385" count="2">vertex group item</phrase>
+	<phrase weight="0.07692307692307693" count="1">group item vertex representative mapper</phrase>
+	<phrase weight="0.07692307692307693" count="1">vertex group item vertex representative vertex representative reuse vertex representative vertex group item vertex representative mapper reuse vertex representative vertex representative</phrase>
+	<phrase weight="0.07692307692307693" count="1">group item summarize vertex filter</phrase>
+	<phrase weight="0.07692307692307693" count="1">vertex group item vertex group item exception reuse vertex representative</phrase>
+	<phrase weight="0.07692307692307693" count="1">vertex vertex group item vertex reuse vertex representative</phrase>
+	<phrase weight="0.07692307692307693" count="1">vertex representative</phrase>
+	<phrase weight="0.07692307692307693" count="1">filter vertex group item vertex group item</phrase>
+	<phrase weight="0.07692307692307693" count="1">group item representative filter</phrase>
+  </topic>
+  <topic id="5" alpha="0.04502031536908573" totalTokens="82" titles="vertex, edge, list, higher, add, clear, iterator, collect, set, source">
+	<word weight="0.2804878048780488" count="23">vertex</word>
+	<word weight="0.25609756097560976" count="21">edge</word>
+	<word weight="0.06097560975609756" count="5">list</word>
+	<word weight="0.036585365853658534" count="3">higher</word>
+	<word weight="0.036585365853658534" count="3">add</word>
+	<word weight="0.024390243902439025" count="2">clear</word>
+	<word weight="0.024390243902439025" count="2">iterator</word>
+	<word weight="0.024390243902439025" count="2">collect</word>
+	<word weight="0.024390243902439025" count="2">set</word>
+	<word weight="0.024390243902439025" count="2">source</word>
+	<word weight="0.024390243902439025" count="2">target</word>
+	<word weight="0.024390243902439025" count="2">collector</word>
+	<word weight="0.024390243902439025" count="2">read</word>
+	<word weight="0.024390243902439025" count="2">field</word>
+	<word weight="0.012195121951219513" count="1">emit</word>
+	<word weight="0.012195121951219513" count="1">serial</word>
+	<word weight="0.012195121951219513" count="1">comparable</word>
+	<word weight="0.012195121951219513" count="1">positive</word>
+	<word weight="0.012195121951219513" count="1">reduce</word>
+	<word weight="0.012195121951219513" count="1">exception</word>
+	<phrase weight="0.15384615384615385" count="2">edge edge</phrase>
+	<phrase weight="0.07692307692307693" count="1">list vertex</phrase>
+	<phrase weight="0.07692307692307693" count="1">set vertex higher vertex collect</phrase>
+	<phrase weight="0.07692307692307693" count="1">collector edge</phrase>
+	<phrase weight="0.07692307692307693" count="1">exception iterator edge edge edge</phrase>
+	<phrase weight="0.07692307692307693" count="1">edge source</phrase>
+	<phrase weight="0.07692307692307693" count="1">vertex add edge target</phrase>
+	<phrase weight="0.07692307692307693" count="1">vertex vertex</phrase>
+	<phrase weight="0.07692307692307693" count="1">iterator clear vertex list vertex clear read edge edge edge edge</phrase>
+	<phrase weight="0.07692307692307693" count="1">vertex edge</phrase>
+	<phrase weight="0.07692307692307693" count="1">edge higher vertex edge target combine vertex</phrase>
+	<phrase weight="0.07692307692307693" count="1">read vertex</phrase>
+  </topic>
+  <topic id="6" alpha="3.3617579812544855E-217" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="0.020934421827219385" totalTokens="44" titles="offset, range, target, count, source, flat, link, length, instance, ">
+	<word weight="0.3409090909090909" count="15">offset</word>
+	<word weight="0.25" count="11">range</word>
+	<word weight="0.11363636363636363" count="5">target</word>
+	<word weight="0.11363636363636363" count="5">count</word>
+	<word weight="0.045454545454545456" count="2">source</word>
+	<word weight="0.045454545454545456" count="2">flat</word>
+	<word weight="0.045454545454545456" count="2">link</word>
+	<word weight="0.022727272727272728" count="1">length</word>
+	<word weight="0.022727272727272728" count="1">instance</word>
+	<phrase weight="0.14285714285714285" count="1">offset target</phrase>
+	<phrase weight="0.14285714285714285" count="1">offset range offset range target</phrase>
+	<phrase weight="0.14285714285714285" count="1">instance link</phrase>
+	<phrase weight="0.14285714285714285" count="1">count offset range offset range</phrase>
+	<phrase weight="0.14285714285714285" count="1">source offset range offset range offset range target</phrase>
+	<phrase weight="0.14285714285714285" count="1">offset range offset offset range length</phrase>
+	<phrase weight="0.14285714285714285" count="1">offset range offset range</phrase>
+  </topic>
+  <topic id="8" alpha="0.3551107920063741" totalTokens="106" titles="function, annotation, forward, override, implement, field, exception, set, source, map">
+	<word weight="0.1792452830188679" count="19">function</word>
+	<word weight="0.1320754716981132" count="14">annotation</word>
+	<word weight="0.12264150943396226" count="13">forward</word>
+	<word weight="0.10377358490566038" count="11">override</word>
+	<word weight="0.10377358490566038" count="11">implement</word>
+	<word weight="0.07547169811320754" count="8">field</word>
+	<word weight="0.0660377358490566" count="7">exception</word>
+	<word weight="0.04716981132075472" count="5">set</word>
+	<word weight="0.04716981132075472" count="5">source</word>
+	<word weight="0.04716981132075472" count="5">map</word>
+	<word weight="0.03773584905660377" count="4">test</word>
+	<word weight="0.018867924528301886" count="2">reduce</word>
+	<word weight="0.009433962264150943" count="1">joiner</word>
+	<word weight="0.009433962264150943" count="1">precedence</word>
+	<phrase weight="0.2" count="3">annotation forward field</phrase>
+	<phrase weight="0.2" count="3">annotation forward</phrase>
+	<phrase weight="0.13333333333333333" count="2">function annotation forward</phrase>
+	<phrase weight="0.06666666666666667" count="1">reduce function</phrase>
+	<phrase weight="0.06666666666666667" count="1">precedence test function annotation forward field</phrase>
+	<phrase weight="0.06666666666666667" count="1">joiner implement</phrase>
+	<phrase weight="0.06666666666666667" count="1">function annotation forward field</phrase>
+	<phrase weight="0.06666666666666667" count="1">function annotation</phrase>
+	<phrase weight="0.06666666666666667" count="1">forward field</phrase>
+	<phrase weight="0.06666666666666667" count="1">map function</phrase>
+  </topic>
+  <topic id="9" alpha="7.496672973503229E-160" totalTokens="0" titles="">
+  </topic>
+</topics>

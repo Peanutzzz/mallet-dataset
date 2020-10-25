@@ -1,0 +1,320 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.025648746552090054" totalTokens="211" titles="menu, list, tree, auth, set, code, map, put, user, builder">
+	<word weight="0.4028436018957346" count="85">menu</word>
+	<word weight="0.08056872037914692" count="17">list</word>
+	<word weight="0.061611374407582936" count="13">tree</word>
+	<word weight="0.052132701421800945" count="11">auth</word>
+	<word weight="0.052132701421800945" count="11">set</word>
+	<word weight="0.052132701421800945" count="11">code</word>
+	<word weight="0.037914691943127965" count="8">map</word>
+	<word weight="0.02843601895734597" count="6">put</word>
+	<word weight="0.018957345971563982" count="4">user</word>
+	<word weight="0.018957345971563982" count="4">builder</word>
+	<word weight="0.018957345971563982" count="4">add</word>
+	<word weight="0.014218009478672985" count="3">hash</word>
+	<word weight="0.014218009478672985" count="3">parent</word>
+	<word weight="0.014218009478672985" count="3">util</word>
+	<word weight="0.009478672985781991" count="2">build</word>
+	<word weight="0.009478672985781991" count="2">count</word>
+	<word weight="0.009478672985781991" count="2">constant</word>
+	<word weight="0.009478672985781991" count="2">common</word>
+	<word weight="0.009478672985781991" count="2">check</word>
+	<word weight="0.009478672985781991" count="2">memu</word>
+	<phrase weight="0.1388888888888889" count="5">menu menu</phrase>
+	<phrase weight="0.05555555555555555" count="2">set menu</phrase>
+	<phrase weight="0.05555555555555555" count="2">hash set</phrase>
+	<phrase weight="0.05555555555555555" count="2">code list menu</phrase>
+	<phrase weight="0.05555555555555555" count="2">list code count list</phrase>
+	<phrase weight="0.027777777777777776" count="1">menu menu add menu menu param</phrase>
+	<phrase weight="0.027777777777777776" count="1">auth tree put check</phrase>
+	<phrase weight="0.027777777777777776" count="1">menu stream</phrase>
+	<phrase weight="0.027777777777777776" count="1">suppress warning unchecked</phrase>
+	<phrase weight="0.027777777777777776" count="1">list menu list menu</phrase>
+	<phrase weight="0.027777777777777776" count="1">list menu menu menu</phrase>
+	<phrase weight="0.027777777777777776" count="1">list menu</phrase>
+	<phrase weight="0.027777777777777776" count="1">auth tree add auth tree auth tree</phrase>
+	<phrase weight="0.027777777777777776" count="1">set common constant</phrase>
+	<phrase weight="0.027777777777777776" count="1">menu login user user user list</phrase>
+	<phrase weight="0.027777777777777776" count="1">list map menu</phrase>
+	<phrase weight="0.027777777777777776" count="1">menu list map</phrase>
+	<phrase weight="0.027777777777777776" count="1">list map</phrase>
+	<phrase weight="0.027777777777777776" count="1">map menu menu menu menu menu menu</phrase>
+	<phrase weight="0.027777777777777776" count="1">set set</phrase>
+  </topic>
+  <topic id="1" alpha="0.03098309903441244" totalTokens="37" titles="client, save, operation, dto, update, del, true, hash, path, false">
+	<word weight="0.5675675675675675" count="21">client</word>
+	<word weight="0.08108108108108109" count="3">save</word>
+	<word weight="0.08108108108108109" count="3">operation</word>
+	<word weight="0.08108108108108109" count="3">dto</word>
+	<word weight="0.05405405405405406" count="2">update</word>
+	<word weight="0.02702702702702703" count="1">del</word>
+	<word weight="0.02702702702702703" count="1">true</word>
+	<word weight="0.02702702702702703" count="1">hash</word>
+	<word weight="0.02702702702702703" count="1">path</word>
+	<word weight="0.02702702702702703" count="1">false</word>
+	<phrase weight="0.5" count="2">save update</phrase>
+	<phrase weight="0.25" count="1">client dto client dto</phrase>
+	<phrase weight="0.25" count="1">del client</phrase>
+  </topic>
+  <topic id="2" alpha="0.040027157725329686" totalTokens="146" titles="username, service, implicit, admin, find, mobile, require, type, num, integer">
+	<word weight="0.0958904109589041" count="14">username</word>
+	<word weight="0.07534246575342465" count="11">service</word>
+	<word weight="0.0684931506849315" count="10">implicit</word>
+	<word weight="0.0684931506849315" count="10">admin</word>
+	<word weight="0.0547945205479452" count="8">find</word>
+	<word weight="0.04794520547945205" count="7">mobile</word>
+	<word weight="0.0410958904109589" count="6">require</word>
+	<word weight="0.0410958904109589" count="6">type</word>
+	<word weight="0.03424657534246575" count="5">num</word>
+	<word weight="0.03424657534246575" count="5">integer</word>
+	<word weight="0.03424657534246575" count="5">del</word>
+	<word weight="0.03424657534246575" count="5">msg</word>
+	<word weight="0.03424657534246575" count="5">check</word>
+	<word weight="0.03424657534246575" count="5">variable</word>
+	<word weight="0.03424657534246575" count="5">map</word>
+	<word weight="0.0273972602739726" count="4">excl</word>
+	<word weight="0.0273972602739726" count="4">enable</word>
+	<word weight="0.0273972602739726" count="4">put</word>
+	<word weight="0.0273972602739726" count="4">api</word>
+	<word weight="0.0136986301369863" count="2">limit</word>
+	<phrase weight="0.17391304347826086" count="4">type integer</phrase>
+	<phrase weight="0.13043478260869565" count="3">api implicit</phrase>
+	<phrase weight="0.08695652173913043" count="2">check admin</phrase>
+	<phrase weight="0.08695652173913043" count="2">limit require</phrase>
+	<phrase weight="0.043478260869565216" count="1">token map</phrase>
+	<phrase weight="0.043478260869565216" count="1">select username username</phrase>
+	<phrase weight="0.043478260869565216" count="1">http servlet</phrase>
+	<phrase weight="0.043478260869565216" count="1">find username username</phrase>
+	<phrase weight="0.043478260869565216" count="1">num excl</phrase>
+	<phrase weight="0.043478260869565216" count="1">select username</phrase>
+	<phrase weight="0.043478260869565216" count="1">find mobile</phrase>
+	<phrase weight="0.043478260869565216" count="1">cache put</phrase>
+	<phrase weight="0.043478260869565216" count="1">find mobile mobile</phrase>
+	<phrase weight="0.043478260869565216" count="1">file excl</phrase>
+	<phrase weight="0.043478260869565216" count="1">enable require</phrase>
+	<phrase weight="0.043478260869565216" count="1">succeed put</phrase>
+  </topic>
+  <topic id="3" alpha="0.056974700416475114" totalTokens="41" titles="token, aggregation, index, stat, routing, request, tenant, param, path, route">
+	<word weight="0.21951219512195122" count="9">token</word>
+	<word weight="0.21951219512195122" count="9">aggregation</word>
+	<word weight="0.0975609756097561" count="4">index</word>
+	<word weight="0.07317073170731707" count="3">stat</word>
+	<word weight="0.07317073170731707" count="3">routing</word>
+	<word weight="0.07317073170731707" count="3">agg</word>
+	<word weight="0.07317073170731707" count="3">request</word>
+	<word weight="0.04878048780487805" count="2">tenant</word>
+	<word weight="0.04878048780487805" count="2">param</word>
+	<word weight="0.024390243902439025" count="1">path</word>
+	<word weight="0.024390243902439025" count="1">route</word>
+	<word weight="0.024390243902439025" count="1">rest</word>
+	<phrase weight="0.3333333333333333" count="1">agg aggregation</phrase>
+	<phrase weight="0.3333333333333333" count="1">stat agg</phrase>
+	<phrase weight="0.3333333333333333" count="1">index route</phrase>
+  </topic>
+  <topic id="4" alpha="0.07053665659691565" totalTokens="73" titles="index, dto, str, number, show, succeed, create, property, replica, shard">
+	<word weight="0.4383561643835616" count="32">index</word>
+	<word weight="0.0958904109589041" count="7">dto</word>
+	<word weight="0.0547945205479452" count="4">str</word>
+	<word weight="0.0547945205479452" count="4">number</word>
+	<word weight="0.0410958904109589" count="3">show</word>
+	<word weight="0.0410958904109589" count="3">succeed</word>
+	<word weight="0.0410958904109589" count="3">create</word>
+	<word weight="0.0410958904109589" count="3">property</word>
+	<word weight="0.0273972602739726" count="2">replica</word>
+	<word weight="0.0273972602739726" count="2">shard</word>
+	<word weight="0.0273972602739726" count="2">set</word>
+	<word weight="0.0273972602739726" count="2">exception</word>
+	<word weight="0.0273972602739726" count="2">string</word>
+	<word weight="0.0273972602739726" count="2">controller</word>
+	<word weight="0.0136986301369863" count="1">false</word>
+	<word weight="0.0136986301369863" count="1">require</word>
+	<phrase weight="0.1" count="1">index dto number shard index dto set number shard index dto number replica index dto set number replica index</phrase>
+	<phrase weight="0.1" count="1">index property show</phrase>
+	<phrase weight="0.1" count="1">index dto index dto</phrase>
+	<phrase weight="0.1" count="1">create index dto</phrase>
+	<phrase weight="0.1" count="1">string index exception index</phrase>
+	<phrase weight="0.1" count="1">index exception</phrase>
+	<phrase weight="0.1" count="1">show index</phrase>
+	<phrase weight="0.1" count="1">create index</phrase>
+	<phrase weight="0.1" count="1">false string</phrase>
+	<phrase weight="0.1" count="1">property index property</phrase>
+  </topic>
+  <topic id="5" alpha="0.09833742443638455" totalTokens="216" titles="role, result, find, operation, save, api, update, fail, error, succeed">
+	<word weight="0.3194444444444444" count="69">role</word>
+	<word weight="0.12037037037037036" count="26">result</word>
+	<word weight="0.09722222222222222" count="21">find</word>
+	<word weight="0.06018518518518518" count="13">operation</word>
+	<word weight="0.05092592592592592" count="11">save</word>
+	<word weight="0.05092592592592592" count="11">api</word>
+	<word weight="0.041666666666666664" count="9">update</word>
+	<word weight="0.037037037037037035" count="8">fail</word>
+	<word weight="0.027777777777777776" count="6">error</word>
+	<word weight="0.027777777777777776" count="6">succeed</word>
+	<word weight="0.018518518518518517" count="4">log</word>
+	<word weight="0.018518518518518517" count="4">array</word>
+	<word weight="0.013888888888888888" count="3">size</word>
+	<word weight="0.013888888888888888" count="3">collection</word>
+	<word weight="0.013888888888888888" count="3">empty</word>
+	<word weight="0.013888888888888888" count="3">object</word>
+	<word weight="0.013888888888888888" count="3">page</word>
+	<word weight="0.009259259259259259" count="2">key</word>
+	<word weight="0.009259259259259259" count="2">true</word>
+	<word weight="0.009259259259259259" count="2">collector</word>
+	<phrase weight="0.075" count="3">find role</phrase>
+	<phrase weight="0.075" count="3">api operation</phrase>
+	<phrase weight="0.05" count="2">find page result</phrase>
+	<phrase weight="0.05" count="2">operation role</phrase>
+	<phrase weight="0.05" count="2">result succeed</phrase>
+	<phrase weight="0.05" count="2">save update result save update</phrase>
+	<phrase weight="0.025" count="1">role role</phrase>
+	<phrase weight="0.025" count="1">find result succeed</phrase>
+	<phrase weight="0.025" count="1">fail role</phrase>
+	<phrase weight="0.025" count="1">role find role</phrase>
+	<phrase weight="0.025" count="1">role find</phrase>
+	<phrase weight="0.025" count="1">empty role collection empty</phrase>
+	<phrase weight="0.025" count="1">page result role find role</phrase>
+	<phrase weight="0.025" count="1">role result role</phrase>
+	<phrase weight="0.025" count="1">result fail</phrase>
+	<phrase weight="0.025" count="1">find role role</phrase>
+	<phrase weight="0.025" count="1">error result fail</phrase>
+	<phrase weight="0.025" count="1">save update error</phrase>
+	<phrase weight="0.025" count="1">key role</phrase>
+	<phrase weight="0.025" count="1">collect collector</phrase>
+  </topic>
+  <topic id="6" alpha="0.0668750419489878" totalTokens="63" titles="search, dto, row, export, key, reset, time, evict, password, audit">
+	<word weight="0.4126984126984127" count="26">search</word>
+	<word weight="0.2857142857142857" count="18">dto</word>
+	<word weight="0.07936507936507936" count="5">row</word>
+	<word weight="0.031746031746031744" count="2">export</word>
+	<word weight="0.031746031746031744" count="2">key</word>
+	<word weight="0.031746031746031744" count="2">reset</word>
+	<word weight="0.015873015873015872" count="1">time</word>
+	<word weight="0.015873015873015872" count="1">evict</word>
+	<word weight="0.015873015873015872" count="1">password</word>
+	<word weight="0.015873015873015872" count="1">audit</word>
+	<word weight="0.015873015873015872" count="1">cacheable</word>
+	<word weight="0.015873015873015872" count="1">delete</word>
+	<word weight="0.015873015873015872" count="1">require</word>
+	<word weight="0.015873015873015872" count="1">response</word>
+	<phrase weight="0.14285714285714285" count="1">search dto search dto</phrase>
+	<phrase weight="0.14285714285714285" count="1">search dto search</phrase>
+	<phrase weight="0.14285714285714285" count="1">search dto search dto search dto</phrase>
+	<phrase weight="0.14285714285714285" count="1">dto search</phrase>
+	<phrase weight="0.14285714285714285" count="1">search dto</phrase>
+	<phrase weight="0.14285714285714285" count="1">search dto dto</phrase>
+	<phrase weight="0.14285714285714285" count="1">search dto search dto search dto search</phrase>
+  </topic>
+  <topic id="7" alpha="0.7310378435796174" totalTokens="494" titles="service, result, map, api, param, string, list, request, mapping, controller">
+	<word weight="0.12550607287449392" count="62">service</word>
+	<word weight="0.07489878542510121" count="37">result</word>
+	<word weight="0.0708502024291498" count="35">map</word>
+	<word weight="0.0708502024291498" count="35">api</word>
+	<word weight="0.06680161943319839" count="33">param</word>
+	<word weight="0.06477732793522267" count="32">string</word>
+	<word weight="0.05465587044534413" count="27">list</word>
+	<word weight="0.05263157894736842" count="26">request</word>
+	<word weight="0.05060728744939271" count="25">mapping</word>
+	<word weight="0.04048582995951417" count="20">controller</word>
+	<word weight="0.02834008097165992" count="14">delete</word>
+	<word weight="0.02834008097165992" count="14">page</word>
+	<word weight="0.02631578947368421" count="13">path</word>
+	<word weight="0.02631578947368421" count="13">exception</word>
+	<word weight="0.024291497975708502" count="12">object</word>
+	<word weight="0.020242914979757085" count="10">variable</word>
+	<word weight="0.020242914979757085" count="10">post</word>
+	<word weight="0.018218623481781375" count="9">query</word>
+	<word weight="0.016194331983805668" count="8">operation</word>
+	<word weight="0.016194331983805668" count="8">body</word>
+	<phrase weight="0.06172839506172839" count="5">page result</phrase>
+	<phrase weight="0.06172839506172839" count="5">controller autowire</phrase>
+	<phrase weight="0.037037037037037035" count="3">request body</phrase>
+	<phrase weight="0.037037037037037035" count="3">path variable</phrase>
+	<phrase weight="0.037037037037037035" count="3">service param</phrase>
+	<phrase weight="0.037037037037037035" count="3">post mapping</phrase>
+	<phrase weight="0.037037037037037035" count="3">service list</phrase>
+	<phrase weight="0.024691358024691357" count="2">page result object</phrase>
+	<phrase weight="0.024691358024691357" count="2">string object</phrase>
+	<phrase weight="0.024691358024691357" count="2">list request param map string object param</phrase>
+	<phrase weight="0.024691358024691357" count="2">variable string</phrase>
+	<phrase weight="0.012345679012345678" count="1">page result map string string list request param</phrase>
+	<phrase weight="0.012345679012345678" count="1">list request</phrase>
+	<phrase weight="0.012345679012345678" count="1">query service</phrase>
+	<phrase weight="0.012345679012345678" count="1">autowire query</phrase>
+	<phrase weight="0.012345679012345678" count="1">map string object</phrase>
+	<phrase weight="0.012345679012345678" count="1">param api operation delete mapping</phrase>
+	<phrase weight="0.012345679012345678" count="1">map string</phrase>
+	<phrase weight="0.012345679012345678" count="1">param page</phrase>
+	<phrase weight="0.012345679012345678" count="1">controller api tag api</phrase>
+  </topic>
+  <topic id="8" alpha="0.024744734757181547" totalTokens="58" titles="response, generator, content, datum, code, table, stream, length, header, set">
+	<word weight="0.13793103448275862" count="8">response</word>
+	<word weight="0.13793103448275862" count="8">generator</word>
+	<word weight="0.05172413793103448" count="3">content</word>
+	<word weight="0.05172413793103448" count="3">datum</word>
+	<word weight="0.05172413793103448" count="3">code</word>
+	<word weight="0.05172413793103448" count="3">table</word>
+	<word weight="0.034482758620689655" count="2">stream</word>
+	<word weight="0.034482758620689655" count="2">length</word>
+	<word weight="0.034482758620689655" count="2">header</word>
+	<word weight="0.034482758620689655" count="2">set</word>
+	<word weight="0.034482758620689655" count="2">util</word>
+	<word weight="0.034482758620689655" count="2">list</word>
+	<word weight="0.034482758620689655" count="2">controller</word>
+	<word weight="0.017241379310344827" count="1">output</word>
+	<word weight="0.017241379310344827" count="1">write</word>
+	<word weight="0.017241379310344827" count="1">utf</word>
+	<word weight="0.017241379310344827" count="1">charset</word>
+	<word weight="0.017241379310344827" count="1">octet</word>
+	<word weight="0.017241379310344827" count="1">application</word>
+	<word weight="0.017241379310344827" count="1">type</word>
+	<phrase weight="0.16666666666666666" count="1">generator code table</phrase>
+	<phrase weight="0.16666666666666666" count="1">response reset response set header content disposition attachment filename generator</phrase>
+	<phrase weight="0.16666666666666666" count="1">table http servlet response response</phrase>
+	<phrase weight="0.16666666666666666" count="1">file util</phrase>
+	<phrase weight="0.16666666666666666" count="1">datum generator</phrase>
+	<phrase weight="0.16666666666666666" count="1">sys generator controller</phrase>
+  </topic>
+  <topic id="9" alpha="0.03304369696126076" totalTokens="260" titles="user, param, app, open, excel, password, update, login, true, set">
+	<word weight="0.40384615384615385" count="105">user</word>
+	<word weight="0.09615384615384616" count="25">param</word>
+	<word weight="0.09230769230769231" count="24">app</word>
+	<word weight="0.038461538461538464" count="10">open</word>
+	<word weight="0.03461538461538462" count="9">excel</word>
+	<word weight="0.03461538461538462" count="9">password</word>
+	<word weight="0.03076923076923077" count="8">update</word>
+	<word weight="0.026923076923076925" count="7">login</word>
+	<word weight="0.026923076923076925" count="7">true</word>
+	<word weight="0.026923076923076925" count="7">set</word>
+	<word weight="0.019230769230769232" count="5">change</word>
+	<word weight="0.019230769230769232" count="5">operation</word>
+	<word weight="0.015384615384615385" count="4">logic</word>
+	<word weight="0.015384615384615385" count="4">util</word>
+	<word weight="0.011538461538461539" count="3">audit</word>
+	<word weight="0.011538461538461539" count="3">anon</word>
+	<word weight="0.011538461538461539" count="3">type</word>
+	<word weight="0.011538461538461539" count="3">datum</word>
+	<word weight="0.007692307692307693" count="2">log</word>
+	<word weight="0.007692307692307693" count="2">body</word>
+	<phrase weight="0.2786885245901639" count="17">app user</phrase>
+	<phrase weight="0.03278688524590164" count="2">user anon</phrase>
+	<phrase weight="0.03278688524590164" count="2">user user</phrase>
+	<phrase weight="0.03278688524590164" count="2">user excel</phrase>
+	<phrase weight="0.01639344262295082" count="1">operation user</phrase>
+	<phrase weight="0.01639344262295082" count="1">operation login app user</phrase>
+	<phrase weight="0.01639344262295082" count="1">user anon open param open</phrase>
+	<phrase weight="0.01639344262295082" count="1">batch user</phrase>
+	<phrase weight="0.01639344262295082" count="1">autowired user</phrase>
+	<phrase weight="0.01639344262295082" count="1">user user user</phrase>
+	<phrase weight="0.01639344262295082" count="1">password user user password user password</phrase>
+	<phrase weight="0.01639344262295082" count="1">open user</phrase>
+	<phrase weight="0.01639344262295082" count="1">util param</phrase>
+	<phrase weight="0.01639344262295082" count="1">user excel user</phrase>
+	<phrase weight="0.01639344262295082" count="1">true datum</phrase>
+	<phrase weight="0.01639344262295082" count="1">login app</phrase>
+	<phrase weight="0.01639344262295082" count="1">user param param</phrase>
+	<phrase weight="0.01639344262295082" count="1">update user param</phrase>
+	<phrase weight="0.01639344262295082" count="1">login app user login user</phrase>
+	<phrase weight="0.01639344262295082" count="1">user password user set type user type</phrase>
+  </topic>
+</topics>

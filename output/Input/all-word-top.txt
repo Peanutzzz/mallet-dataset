@@ -1,0 +1,6 @@
+0 config 0:5
+1 input 0:15
+2 sink 0:2
+3 subscribable 0:5
+4 channel 0:5
+5 dlq 0:2

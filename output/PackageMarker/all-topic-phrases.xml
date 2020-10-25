@@ -1,0 +1,29 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="21.421044277070227" totalTokens="11" titles="parser, sql, flink, apache, org, hive, ">
+	<word weight="0.18181818181818182" count="2">parser</word>
+	<word weight="0.18181818181818182" count="2">sql</word>
+	<word weight="0.18181818181818182" count="2">flink</word>
+	<word weight="0.18181818181818182" count="2">apache</word>
+	<word weight="0.18181818181818182" count="2">org</word>
+	<word weight="0.09090909090909091" count="1">hive</word>
+  </topic>
+  <topic id="1" alpha="3.753962911974781E-6" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="3.753962911974781E-6" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="3.753962911974781E-6" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="3.753962911974781E-6" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="3.753962911974781E-6" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="3.753962911974781E-6" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="3.753962911974781E-6" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="3.753962911974781E-6" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="3.753962911974781E-6" totalTokens="0" titles="">
+  </topic>
+</topics>

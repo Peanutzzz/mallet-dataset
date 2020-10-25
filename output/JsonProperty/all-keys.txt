@@ -1,0 +1,10 @@
+0	0.00445	field property json num timestamp job ack subtask latest trigger cancel statistics fail finish run discard version failure pend request 
+1	0.0068	json property field info string parallelism thread acc host flink version segment address network exception type accumulator feature key detail 
+2	0.00376	json field property info resource slot checkpoint number total plan mode profile heartbeat port datum processing detail num cpu externalize 
+3	0.00411	info json field property accumulator subtask user attempt index list pressure back level collection backpressure detail num collector garbage log 
+4	0.0041	state json field property size info execution timestamp map status hardware restore job manage memory string description integer vertex statistics 
+5	0.00399	job json vertex property serialize field info deserializer deserialize task serializer result body failure nullable coordination response string statistics request 
+6	0.00721	info field json property task metric manager heap count record write read complete max string direct map commit taskmanager vertex 
+7	0.00866	json property field statistics checkpoint duration alignment subtask avg buffer max min detail include complete summary nullable restore fail info 
+8	0.0062	property json field string body nullable request list entry jar file savepoint info argument program path set parallelism directory target 
+9	0.00486	status field property json time info job start end checkpoint string detail true require delay stats attempt vertex pressure back 

@@ -1,0 +1,387 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.012498660746403413" totalTokens="715" titles="partition, fetcher, kafka, topic, offset, commit, error, source, answer, schema">
+	<word weight="0.08951048951048951" count="64">partition</word>
+	<word weight="0.07412587412587412" count="53">fetcher</word>
+	<word weight="0.06573426573426573" count="47">kafka</word>
+	<word weight="0.057342657342657345" count="41">topic</word>
+	<word weight="0.04755244755244755" count="34">offset</word>
+	<word weight="0.04755244755244755" count="34">commit</word>
+	<word weight="0.03076923076923077" count="22">error</word>
+	<word weight="0.025174825174825177" count="18">source</word>
+	<word weight="0.025174825174825177" count="18">answer</word>
+	<word weight="0.02097902097902098" count="15">schema</word>
+	<word weight="0.02097902097902098" count="15">context</word>
+	<word weight="0.02097902097902098" count="15">runner</word>
+	<word weight="0.019580419580419582" count="14">invocation</word>
+	<word weight="0.019580419580419582" count="14">latch</word>
+	<word weight="0.016783216783216783" count="12">entry</word>
+	<word weight="0.015384615384615385" count="11">committer</word>
+	<word weight="0.015384615384615385" count="11">throwable</word>
+	<word weight="0.015384615384615385" count="11">run</word>
+	<word weight="0.013986013986013986" count="10">block</word>
+	<word weight="0.012587412587412588" count="9">lock</word>
+	<phrase weight="0.05921052631578947" count="9">kafka topic partition</phrase>
+	<phrase weight="0.046052631578947366" count="7">source context</phrase>
+	<phrase weight="0.046052631578947366" count="7">fetcher runner</phrase>
+	<phrase weight="0.039473684210526314" count="6">commit data</phrase>
+	<phrase weight="0.02631578947368421" count="4">topic partition offset</phrase>
+	<phrase weight="0.02631578947368421" count="4">answer answer</phrase>
+	<phrase weight="0.019736842105263157" count="3">offset watermark strategy</phrase>
+	<phrase weight="0.019736842105263157" count="3">group offset kafka deserialization schema</phrase>
+	<phrase weight="0.019736842105263157" count="3">schema kafka deserialization schema</phrase>
+	<phrase weight="0.019736842105263157" count="3">kafka topic partition partition</phrase>
+	<phrase weight="0.019736842105263157" count="3">run fetcher atomic reference throwable error atomic reference</phrase>
+	<phrase weight="0.019736842105263157" count="3">answer invocation</phrase>
+	<phrase weight="0.019736842105263157" count="3">schema kafka fetcher</phrase>
+	<phrase weight="0.019736842105263157" count="3">fetcher kafka fetcher source context partition</phrase>
+	<phrase weight="0.019736842105263157" count="3">partition kafka topic partition</phrase>
+	<phrase weight="0.013157894736842105" count="2">entry offset partition topic</phrase>
+	<phrase weight="0.013157894736842105" count="2">topic partition payload payload</phrase>
+	<phrase weight="0.013157894736842105" count="2">blocker latch</phrase>
+	<phrase weight="0.013157894736842105" count="2">shot latch</phrase>
+	<phrase weight="0.013157894736842105" count="2">run fetcher run fetch loop throwable</phrase>
+  </topic>
+  <topic id="1" alpha="0.012699347505769357" totalTokens="2920" titles="partition, topic, kafka, consumer, mock, assignment, position, offset, test, state">
+	<word weight="0.19383561643835617" count="566">partition</word>
+	<word weight="0.09623287671232876" count="281">topic</word>
+	<word weight="0.0589041095890411" count="172">kafka</word>
+	<word weight="0.04178082191780822" count="122">consumer</word>
+	<word weight="0.03561643835616438" count="104">mock</word>
+	<word weight="0.03356164383561644" count="98">assignment</word>
+	<word weight="0.03321917808219178" count="97">position</word>
+	<word weight="0.032534246575342464" count="95">offset</word>
+	<word weight="0.02910958904109589" count="85">test</word>
+	<word weight="0.02773972602739726" count="81">state</word>
+	<word weight="0.022945205479452054" count="67">thread</word>
+	<word weight="0.02226027397260274" count="65">reassignment</word>
+	<word weight="0.021917808219178082" count="64">queue</word>
+	<word weight="0.01952054794520548" count="57">latch</word>
+	<word weight="0.018150684931506848" count="53">unassigned</word>
+	<word weight="0.018150684931506848" count="53">object</word>
+	<word weight="0.0136986301369863" count="40">retrieve</word>
+	<word weight="0.010616438356164383" count="31">add</word>
+	<word weight="0.00993150684931507" count="29">set</word>
+	<word weight="0.009246575342465754" count="27">list</word>
+	<phrase weight="0.02284263959390863" count="9">topic partition</phrase>
+	<phrase weight="0.02030456852791878" count="8">assignment position</phrase>
+	<phrase weight="0.02030456852791878" count="8">consumer assignment position</phrase>
+	<phrase weight="0.015228426395939087" count="6">reassignment flow</phrase>
+	<phrase weight="0.015228426395939087" count="6">topic topic partition</phrase>
+	<phrase weight="0.012690355329949238" count="5">topic partition offset</phrase>
+	<phrase weight="0.012690355329949238" count="5">kafka consumer</phrase>
+	<phrase weight="0.01015228426395939" count="4">retrieve position</phrase>
+	<phrase weight="0.01015228426395939" count="4">reassign partition define offset</phrase>
+	<phrase weight="0.01015228426395939" count="4">finish logic</phrase>
+	<phrase weight="0.007614213197969543" count="3">assignment position collection topic partition</phrase>
+	<phrase weight="0.007614213197969543" count="3">kafka topic partition</phrase>
+	<phrase weight="0.007614213197969543" count="3">mock consumer</phrase>
+	<phrase weight="0.007614213197969543" count="3">mock retrieve position</phrase>
+	<phrase weight="0.007614213197969543" count="3">partition runtime</phrase>
+	<phrase weight="0.007614213197969543" count="3">unassigned partition queue size</phrase>
+	<phrase weight="0.007614213197969543" count="3">topic partition mock</phrase>
+	<phrase weight="0.007614213197969543" count="3">partition offset</phrase>
+	<phrase weight="0.007614213197969543" count="3">partition kafka partition handle seek offset state offset state represent process</phrase>
+	<phrase weight="0.007614213197969543" count="3">mock consumer mock</phrase>
+  </topic>
+  <topic id="2" alpha="0.06296140425000933" totalTokens="250" titles="test, folder, provider, credentials, exception, rock, file, power, temp, temporary">
+	<word weight="0.152" count="38">test</word>
+	<word weight="0.064" count="16">folder</word>
+	<word weight="0.056" count="14">provider</word>
+	<word weight="0.056" count="14">credentials</word>
+	<word weight="0.048" count="12">exception</word>
+	<word weight="0.04" count="10">rock</word>
+	<word weight="0.04" count="10">file</word>
+	<word weight="0.032" count="8">power</word>
+	<word weight="0.028" count="7">temp</word>
+	<word weight="0.028" count="7">temporary</word>
+	<word weight="0.028" count="7">init</word>
+	<word weight="0.028" count="7">run</word>
+	<word weight="0.02" count="5">true</word>
+	<word weight="0.02" count="5">mockito</word>
+	<word weight="0.016" count="4">load</word>
+	<word weight="0.016" count="4">fail</word>
+	<word weight="0.016" count="4">expect</word>
+	<word weight="0.016" count="4">reset</word>
+	<word weight="0.016" count="4">argument</word>
+	<word weight="0.016" count="4">prepare</word>
+	<phrase weight="0.11538461538461539" count="3">credentials provider</phrase>
+	<phrase weight="0.07692307692307693" count="2">credentials provider test</phrase>
+	<phrase weight="0.038461538461538464" count="1">test test credentials provider</phrase>
+	<phrase weight="0.038461538461538464" count="1">test run power mock runner prepare test</phrase>
+	<phrase weight="0.038461538461538464" count="1">run power</phrase>
+	<phrase weight="0.038461538461538464" count="1">load exception</phrase>
+	<phrase weight="0.038461538461538464" count="1">true credentials provider credentials provider chain</phrase>
+	<phrase weight="0.038461538461538464" count="1">temporary folder temp</phrase>
+	<phrase weight="0.038461538461538464" count="1">run test false run test</phrase>
+	<phrase weight="0.038461538461538464" count="1">pathological test</phrase>
+	<phrase weight="0.038461538461538464" count="1">true credentials provider web identity token credentials provider test test</phrase>
+	<phrase weight="0.038461538461538464" count="1">runner prepare test</phrase>
+	<phrase weight="0.038461538461538464" count="1">fail fail</phrase>
+	<phrase weight="0.038461538461538464" count="1">path test test</phrase>
+	<phrase weight="0.038461538461538464" count="1">expect reset</phrase>
+	<phrase weight="0.038461538461538464" count="1">test valid</phrase>
+	<phrase weight="0.038461538461538464" count="1">init test run power mock runner prepare test rock rock init test rule temporary folder temporary folder temporary folder test check rock code loader respond reset init flag test test reset init flag exception rock state backend reset rock loaded flag test test temp lib folder delete fail exception power mockito spy rock power mockito rock load library expected test exception file temp folder temporary folder folder rock state backend ensure rock load temp folder absolute path fail expect exception exception ignore ignore file file temp folder</phrase>
+	<phrase weight="0.038461538461538464" count="1">test test</phrase>
+	<phrase weight="0.038461538461538464" count="1">web identity token credentials provider credentials provider</phrase>
+	<phrase weight="0.038461538461538464" count="1">power mock runner prepare test</phrase>
+  </topic>
+  <topic id="3" alpha="0.048810825799654844" totalTokens="1699" titles="test, consumer, mock, map, override, exception, record, equal, string, put">
+	<word weight="0.13243084167157151" count="225">test</word>
+	<word weight="0.11359623307828134" count="193">consumer</word>
+	<word weight="0.09299587992937022" count="158">mock</word>
+	<word weight="0.06003531489111242" count="102">map</word>
+	<word weight="0.04061212477928193" count="69">override</word>
+	<word weight="0.04002354326074161" count="68">exception</word>
+	<word weight="0.03884638022366098" count="66">record</word>
+	<word weight="0.032371983519717484" count="55">equal</word>
+	<word weight="0.024720423778693348" count="42">string</word>
+	<word weight="0.023543260741612712" count="40">put</word>
+	<word weight="0.022366097704532076" count="38">start</word>
+	<word weight="0.02118893466745144" count="36">initial</word>
+	<word weight="0.01942319011183049" count="33">hash</word>
+	<word weight="0.01883460859329017" count="32">state</word>
+	<word weight="0.01883460859329017" count="32">thread</word>
+	<word weight="0.014714537963507945" count="25">key</word>
+	<word weight="0.01353737492642731" count="23">trigger</word>
+	<word weight="0.012360211889346674" count="21">create</word>
+	<word weight="0.012360211889346674" count="21">block</word>
+	<word weight="0.011183048852266038" count="19">object</word>
+	<phrase weight="0.06666666666666667" count="12">mock consumer</phrase>
+	<phrase weight="0.03333333333333333" count="6">hash map</phrase>
+	<phrase weight="0.027777777777777776" count="5">thread error</phrase>
+	<phrase weight="0.022222222222222223" count="4">warning unchecked</phrase>
+	<phrase weight="0.022222222222222223" count="4">await record</phrase>
+	<phrase weight="0.016666666666666666" count="3">map false</phrase>
+	<phrase weight="0.016666666666666666" count="3">record override consumer record</phrase>
+	<phrase weight="0.016666666666666666" count="3">suppress warning unchecked test</phrase>
+	<phrase weight="0.016666666666666666" count="3">create mock</phrase>
+	<phrase weight="0.016666666666666666" count="3">suppress warning</phrase>
+	<phrase weight="0.016666666666666666" count="3">string test</phrase>
+	<phrase weight="0.016666666666666666" count="3">consumer consumer</phrase>
+	<phrase weight="0.016666666666666666" count="3">warning unchecked test</phrase>
+	<phrase weight="0.016666666666666666" count="3">put test</phrase>
+	<phrase weight="0.016666666666666666" count="3">test test</phrase>
+	<phrase weight="0.016666666666666666" count="3">map test</phrase>
+	<phrase weight="0.016666666666666666" count="3">override map</phrase>
+	<phrase weight="0.016666666666666666" count="3">suppress warning unchecked</phrase>
+	<phrase weight="0.016666666666666666" count="3">consumer mock consumer</phrase>
+	<phrase weight="0.011111111111111112" count="2">record record</phrase>
+  </topic>
+  <topic id="4" alpha="0.01142134184749995" totalTokens="511" titles="latch, await, trigger, shot, file, mkdir, delete, path, thread, lock">
+	<word weight="0.15851272015655576" count="81">latch</word>
+	<word weight="0.07240704500978473" count="37">await</word>
+	<word weight="0.05870841487279843" count="30">trigger</word>
+	<word weight="0.0547945205479452" count="28">shot</word>
+	<word weight="0.050880626223091974" count="26">file</word>
+	<word weight="0.04892367906066536" count="25">mkdir</word>
+	<word weight="0.046966731898238745" count="24">delete</word>
+	<word weight="0.04500978473581213" count="23">path</word>
+	<word weight="0.03913894324853229" count="20">thread</word>
+	<word weight="0.023483365949119372" count="12">lock</word>
+	<word weight="0.021526418786692758" count="11">system</word>
+	<word weight="0.019569471624266144" count="10">local</word>
+	<word weight="0.019569471624266144" count="10">exception</word>
+	<word weight="0.01761252446183953" count="9">create</word>
+	<word weight="0.015655577299412915" count="8">output</word>
+	<word weight="0.0136986301369863" count="7">creator</word>
+	<word weight="0.0136986301369863" count="7">override</word>
+	<word weight="0.011741682974559686" count="6">synchronize</word>
+	<word weight="0.011741682974559686" count="6">datum</word>
+	<word weight="0.011741682974559686" count="6">sleep</word>
+	<phrase weight="0.03125" count="1">occur synchronize give</phrase>
+	<phrase weight="0.03125" count="1">creator path thread start thread start wait</phrase>
+	<phrase weight="0.03125" count="1">file absolute path shot latch delete await latch shot latch shot latch delete await latch shot latch shot latch mkdir await latch shot latch shot latch mkdir await latch shot latch shot latch delete trigger latch shot latch shot latch deletetrigger latch shot latch shot latch mkdir trigger latch shot latch shot latch mkdir trigger latch shot latch shot latch create await latch shot latch shot latch create trigger latch shot latch local datum output stream end</phrase>
+	<phrase weight="0.03125" count="1">system path path file creator file system path path path path override</phrase>
+	<phrase weight="0.03125" count="1">synchronize exception synchronize variant await latch thread make process interleave due synchronization</phrase>
+	<phrase weight="0.03125" count="1">synchronization thread make progress enforce latch</phrase>
+	<phrase weight="0.03125" count="1">sleep latch produce interleaving guarantee produce</phrase>
+	<phrase weight="0.03125" count="1">output path</phrase>
+	<phrase weight="0.03125" count="1">wait create file mkdir trigger latch trigger delete trigger latch trigger await create await latch await bit sleep</phrase>
+	<phrase weight="0.03125" count="1">path local path parent write mode overwrite true datum output</phrase>
+	<phrase weight="0.03125" count="1">lock set reentrant lock</phrase>
+	<phrase weight="0.03125" count="1">thread interrupt</phrase>
+	<phrase weight="0.03125" count="1">override local datum output stream answer invocation</phrase>
+	<phrase weight="0.03125" count="1">create await latch trigger create trigger latch await file file file invocation</phrase>
+	<phrase weight="0.03125" count="1">async thread local datum output stream</phrase>
+	<phrase weight="0.03125" count="1">lock lock set accessible</phrase>
+	<phrase weight="0.03125" count="1">work thread sleep send delete directory wait mkdir deletetrigger latch trigger await mkdir await latch await thread sleep create file succeed create trigger latch trigger await thread sync thread sleep finish mkdir trigger latch trigger thread sync thread sync file creator extend</phrase>
+	<phrase weight="0.03125" count="1">lock set lock original synchronize</phrase>
+	<phrase weight="0.03125" count="1">interleave provoke validate order</phrase>
+	<phrase weight="0.03125" count="1">make sense error produce</phrase>
+  </topic>
+  <topic id="5" alpha="0.08514183005923684" totalTokens="245" titles="time, current, power, util, milli, mockito, millis, protect, sleep, test">
+	<word weight="0.17959183673469387" count="44">time</word>
+	<word weight="0.12653061224489795" count="31">current</word>
+	<word weight="0.11836734693877551" count="29">power</word>
+	<word weight="0.0653061224489796" count="16">util</word>
+	<word weight="0.061224489795918366" count="15">milli</word>
+	<word weight="0.05714285714285714" count="14">mockito</word>
+	<word weight="0.04897959183673469" count="12">millis</word>
+	<word weight="0.044897959183673466" count="11">protect</word>
+	<word weight="0.036734693877551024" count="9">sleep</word>
+	<word weight="0.0326530612244898" count="8">test</word>
+	<word weight="0.02040816326530612" count="5">method</word>
+	<word weight="0.02040816326530612" count="5">runner</word>
+	<word weight="0.02040816326530612" count="5">mock</word>
+	<word weight="0.02040816326530612" count="5">run</word>
+	<word weight="0.0163265306122449" count="4">sec</word>
+	<word weight="0.0163265306122449" count="4">cur</word>
+	<word weight="0.0163265306122449" count="4">base</word>
+	<word weight="0.012244897959183673" count="3">set</word>
+	<word weight="0.012244897959183673" count="3">call</word>
+	<word weight="0.012244897959183673" count="3">prepare</word>
+	<phrase weight="0.5" count="2">power mockito</phrase>
+	<phrase weight="0.25" count="1">runner prepare</phrase>
+	<phrase weight="0.25" count="1">sync milli</phrase>
+  </topic>
+  <topic id="6" alpha="0.015966504862809063" totalTokens="2615" titles="shard, state, stream, kinesis, list, fetcher, number, watermark, context, sequence">
+	<word weight="0.11510516252390057" count="301">shard</word>
+	<word weight="0.08795411089866156" count="230">state</word>
+	<word weight="0.07762906309751434" count="203">stream</word>
+	<word weight="0.043594646271510516" count="114">kinesis</word>
+	<word weight="0.038623326959847035" count="101">list</word>
+	<word weight="0.03441682600382409" count="90">fetcher</word>
+	<word weight="0.03288718929254302" count="86">number</word>
+	<word weight="0.02982791586998088" count="78">watermark</word>
+	<word weight="0.029445506692160613" count="77">context</word>
+	<word weight="0.02829827915869981" count="74">sequence</word>
+	<word weight="0.025621414913957936" count="67">restore</word>
+	<word weight="0.0248565965583174" count="65">fake</word>
+	<word weight="0.021797323135755258" count="57">source</word>
+	<word weight="0.020650095602294454" count="54">metadata</word>
+	<word weight="0.01988527724665392" count="52">string</word>
+	<word weight="0.017208413001912046" count="45">set</word>
+	<word weight="0.016826003824091777" count="44">store</word>
+	<word weight="0.016826003824091777" count="44">datum</word>
+	<word weight="0.015678776290630976" count="41">operator</word>
+	<word weight="0.01491395793499044" count="39">harness</word>
+	<phrase weight="0.0375" count="18">stream shard</phrase>
+	<phrase weight="0.03125" count="15">sequence number</phrase>
+	<phrase weight="0.027083333333333334" count="13">fake stream shard shard kinesis shard generator generate shard</phrase>
+	<phrase weight="0.01875" count="9">entry stream shard</phrase>
+	<phrase weight="0.01875" count="9">flink kinesis</phrase>
+	<phrase weight="0.016666666666666666" count="8">restore shard</phrase>
+	<phrase weight="0.014583333333333334" count="7">kinesis datum fetcher</phrase>
+	<phrase weight="0.014583333333333334" count="7">harness set</phrase>
+	<phrase weight="0.0125" count="6">source func</phrase>
+	<phrase weight="0.010416666666666666" count="5">initialize state initialization context</phrase>
+	<phrase weight="0.010416666666666666" count="5">kinesis config util</phrase>
+	<phrase weight="0.010416666666666666" count="5">operator state backend</phrase>
+	<phrase weight="0.010416666666666666" count="5">watermark tracker</phrase>
+	<phrase weight="0.010416666666666666" count="5">fake stream</phrase>
+	<phrase weight="0.008333333333333333" count="4">subscribe shard state kinesis stream shard state kinesis datum fetcher convert stream shard metadata restore shard</phrase>
+	<phrase weight="0.008333333333333333" count="4">state initialize state testing list state tuple stream shard metadata sequence number list state testing list state</phrase>
+	<phrase weight="0.008333333333333333" count="4">fake restore state</phrase>
+	<phrase weight="0.008333333333333333" count="4">kinesis datum fetcher list stream shard</phrase>
+	<phrase weight="0.008333333333333333" count="4">list state matcher list state</phrase>
+	<phrase weight="0.008333333333333333" count="4">matcher expect</phrase>
+  </topic>
+  <topic id="7" alpha="0.013323723765479592" totalTokens="211" titles="memory, capacity, rock, cache, controller, util, write, buffer, actual, invocation">
+	<word weight="0.07582938388625593" count="16">memory</word>
+	<word weight="0.07109004739336493" count="15">capacity</word>
+	<word weight="0.061611374407582936" count="13">rock</word>
+	<word weight="0.05687203791469194" count="12">cache</word>
+	<word weight="0.05687203791469194" count="12">controller</word>
+	<word weight="0.05687203791469194" count="12">util</word>
+	<word weight="0.04739336492890995" count="10">write</word>
+	<word weight="0.04739336492890995" count="10">buffer</word>
+	<word weight="0.037914691943127965" count="8">actual</word>
+	<word weight="0.03317535545023697" count="7">invocation</word>
+	<word weight="0.02843601895734597" count="6">ratio</word>
+	<word weight="0.02843601895734597" count="6">manager</word>
+	<word weight="0.02843601895734597" count="6">method</word>
+	<word weight="0.023696682464454975" count="5">wbm</word>
+	<word weight="0.023696682464454975" count="5">create</word>
+	<word weight="0.023696682464454975" count="5">real</word>
+	<word weight="0.023696682464454975" count="5">call</word>
+	<word weight="0.018957345971563982" count="4">calculate</word>
+	<word weight="0.018957345971563982" count="4">expect</word>
+	<word weight="0.018957345971563982" count="4">total</word>
+	<phrase weight="0.125" count="1">memory controller util</phrase>
+	<phrase weight="0.125" count="1">memory controller util rock memory controller util</phrase>
+	<phrase weight="0.125" count="1">mock rock memory controller util atomic actual cache capacity atomic atomic actual wbm capacity atomic rock memory controller util allocate rock share resource call real method rock memory controller util calculate actual cache capacity call real method rock memory controller util calculate write buffer manager capacity call real method</phrase>
+	<phrase weight="0.125" count="1">invocation argument actual cache capacity set argument cache invocation call real method</phrase>
+	<phrase weight="0.125" count="1">mock method easily introduce create cache create write buffer manager wrapper rock memory controller util create cache answer answer cache invocation object</phrase>
+	<phrase weight="0.125" count="1">share resource expect capacity</phrase>
+	<phrase weight="0.125" count="1">memory controller util create write buffer manager cache answer answer write buffer manager invocation object</phrase>
+	<phrase weight="0.125" count="1">invocation argument actual wbm capacity set argument write buffer manager invocation call real method total memory size write buffer ratio high pri pool ratio rock memory controller util allocate rock share resource total memory size write buffer ratio high pri pool ratio</phrase>
+  </topic>
+  <topic id="8" alpha="0.03005784981992905" totalTokens="2258" titles="config, test, property, constant, set, exception, util, consumer, expect, kinesis">
+	<word weight="0.1403897254207263" count="317">config</word>
+	<word weight="0.11736049601417184" count="265">test</word>
+	<word weight="0.07174490699734277" count="162">property</word>
+	<word weight="0.038529672276350756" count="87">constant</word>
+	<word weight="0.03808680248007086" count="86">set</word>
+	<word weight="0.03720106288751107" count="84">exception</word>
+	<word weight="0.034986713906111605" count="79">util</word>
+	<word weight="0.03365810451727192" count="76">consumer</word>
+	<word weight="0.02612931798051373" count="59">expect</word>
+	<word weight="0.024357838795394153" count="55">kinesis</word>
+	<word weight="0.023472099202834367" count="53">configuration</word>
+	<word weight="0.019929140832595216" count="45">validate</word>
+	<word weight="0.01904340124003543" count="43">aws</word>
+	<word weight="0.018600531443755536" count="42">timestamp</word>
+	<word weight="0.01550044286979628" count="35">unparsable</word>
+	<word weight="0.014614703277236492" count="33">shard</word>
+	<word weight="0.0141718334809566" count="32">initial</word>
+	<word weight="0.013728963684676704" count="31">region</word>
+	<word weight="0.013728963684676704" count="31">key</word>
+	<word weight="0.013286093888396812" count="30">message</word>
+	<phrase weight="0.1875" count="3">util test</phrase>
+	<phrase weight="0.125" count="2">test config property</phrase>
+	<phrase weight="0.0625" count="1">credentials provider</phrase>
+	<phrase weight="0.0625" count="1">config property test config set property config constant aws</phrase>
+	<phrase weight="0.0625" count="1">provider invalid</phrase>
+	<phrase weight="0.0625" count="1">config exception expect illegal argument exception exception expect message invalid give list shard operation base backoff millisecond property test config test util standard property test config set property consumer config constant list shard backoff base unparsable kinesis config</phrase>
+	<phrase weight="0.0625" count="1">illegal argument</phrase>
+	<phrase weight="0.0625" count="1">set field rate limit unparsable property test config property test config set property config constant aws region east test config set property rate limit unparsable kinesis config util validate producer configuration test config test test rate limit producer configuration property test config property test config set property config constant aws region east kinesis producer configuration kpc kinesis config util validate producer configuration test config equal kpc rate limit test config set property kinesis config util rate limit kpc kinesis config util validate producer configuration test config equal kpc rate limit test test threading model producer configuration property test config property test config set property config constant aws region east kinesis producer configuration kpc kinesis config util validate producer configuration test config equal kinesis producer configuration threading model pool kpc thread model test config set property kinesis config util threading model request kpc kinesis config util validate producer configuration test config equal kinesis producer configuration threading model request kpc thread model test test thread pool size producer configuration property test config property test config set property config constant aws region east kinesis producer configuration kpc kinesis config util validate producer configuration test config equal kpc thread pool size test config set property kinesis config util thread pool size kpc kinesis config util validate producer configuration test config equal kpc thread pool size test test replace deprecate key property test config property test config set property config constant aws region east deprecate key replace test config set property producer config constant aggregation max count test config set property producer config constant collection max count property replace config kinesis config util replace deprecate producer key test config equal replace config property kinesis config util aggregation max count equal replace config property kinesis config util collection max count test test correctly set region producer configuration string region east property test config property test config set property config constant aws region region kinesis producer configuration kpc kinesis config util validate producer configuration test config equal incorrect region region kpc region test test miss aws region producer config string expect message string format flink kinesis producer aws region set config config constant aws region exception expect illegal argument exception exception expect message expect message property test config property test config set property config constant access key access key test config set property config constant secret access key secret key kinesis config util validate producer configuration test config validate aws configuration test test test unrecognizable aws region config exception expect illegal argument exception exception expect message invalid aws region property test config property test config set property config constant aws region wrong region test config set property config constant access key access key test config set property config constant secret access key secret key kinesis config util validate aws configuration test config test test credential provider type set basic credential set config exception expect illegal argument exception exception expect message set aws access key config constant access key secret key config constant secret access key basic aws credential provider type property test config property test config set property config constant aws region east test config set property config constant aws credentials provider basic kinesis config util validate aws configuration test config test test unrecognizable credential provider type config exception expect illegal argument exception exception expect message invalid aws credential provider type property test config test util standard property test config set property config constant aws credentials provider wrong provider type kinesis config util validate aws configuration test config validate consumer configuration test test test aws region endpoint consumer config string expect message string format flink kinesis consumer aws region aws endpoint set config config constant aws region config constant endpoint exception expect illegal argument exception exception expect message expect message property test config property test config set property config constant access key access key test config set property config constant secret access key secret key kinesis config util validate consumer configuration test config test test aws region endpoint consumer config property test config property test config set property config constant aws region east test config set property config constant aws endpoint fake test config set property config constant access key access key test config set property config constant secret access key secret key kinesis config util validate consumer configuration test config test test aws region consumer config property test config property test config set property config constant aws region east test config set property config constant access key access key test config set property config constant secret access key secret key kinesis config util validate consumer configuration test config test test endpoint consumer config property test config property test config set property config constant aws endpoint fake test config set property config constant access key access key test config set property config constant secret access key secret key kinesis config util validate consumer configuration test config test test unrecognizable stream init position type config exception expect illegal argument exception exception expect message invalid initial position stream property test config test util standard property test config set property consumer config constant aws credentials provider basic test config set property consumer config constant stream initial position wrong init position kinesis config util validate consumer configuration test config test test stream init position type set timestamp init timestamp set config exception expect illegal argument exception exception expect message set initial timestamp consumer config constant stream initial timestamp timestamp initial position property test config test util standard property test config set property consumer config constant aws credentials provider basic test config set property consumer config constant stream initial position timestamp kinesis config util validate consumer configuration test config test test unparsable date initial timestamp config exception expect illegal argument exception exception expect message invalid give initial timestamp timestamp initial position stream property test config test util standard property test config set property consumer config constant aws credentials provider basic test config set property consumer config constant stream initial position timestamp test config set property consumer config constant stream initial timestamp unparsable date kinesis config util validate consumer configuration test config test test illegal initial timestamp config exception expect illegal argument exception exception expect message invalid give initial timestamp timestamp initial position stream property test config test util standard property test config set property consumer config constant aws credentials provider basic test config set property consumer config constant stream initial position timestamp test config set property consumer config constant stream initial timestamp kinesis config util validate consumer configuration test config test test date string validate option date property string timestamp property test config test util standard property test config set property consumer config constant aws credentials provider basic test config set property consumer config constant stream initial position timestamp test config set property consumer config constant stream initial timestamp timestamp kinesis config util validate consumer configuration test config exception print stack trace fail test test unix timestamp validate option date property string unix timestamp property test config test util standard property test config set property consumer config constant aws credentials provider basic test config set property consumer config constant stream initial position timestamp test config set property consumer config constant stream initial timestamp unix timestamp kinesis config util validate consumer configuration test config exception print stack trace fail test test invalid pattern initial timestamp config exception expect illegal argument exception exception expect message invalid give initial timestamp timestamp initial position stream property test config test util standard property test config set property consumer config constant aws credentials provider basic test config set property consumer config constant stream initial position timestamp test config set property consumer config constant stream initial timestamp test config set property consumer config constant stream timestamp date format invalid pattern kinesis config util validate consumer configuration test config test test unparsable date user define date format initial timestamp config exception expect illegal argument exception exception expect message invalid give initial timestamp timestamp initial position stream property test config test util standard property test config set property consumer config constant aws credentials provider basic test config set property consumer config constant stream initial position timestamp test config set property consumer config constant stream initial timestamp unparsable test config set property consumer config constant stream timestamp date format yyyy kinesis config util validate consumer configuration test config test test date string user define date format validate option date property string unix timestamp string pattern yyyy property test config test util standard property test config set property consumer config constant aws credentials provider basic test config set property consumer config constant stream initial position timestamp test config set property consumer config constant stream initial timestamp unix timestamp test config set property consumer config constant stream timestamp date format pattern kinesis config util validate consumer configuration test config test test unparsable list shard backoff base</phrase>
+	<phrase weight="0.0625" count="1">prepare test kinesis config util kinesis config util test rule expected exception exception expect exception validate producer configuration test test test unparsable producer configuration exception expect illegal argument exception exception expect message</phrase>
+	<phrase weight="0.0625" count="1">config set property config constant aws credentials</phrase>
+	<phrase weight="0.0625" count="1">region east</phrase>
+	<phrase weight="0.0625" count="1">exception expect</phrase>
+	<phrase weight="0.0625" count="1">test invalid region</phrase>
+  </topic>
+  <topic id="9" alpha="0.012391387891885508" totalTokens="592" titles="handle, result, schema, count, array, queue, open, key, property, interval">
+	<word weight="0.09121621621621621" count="54">handle</word>
+	<word weight="0.03885135135135135" count="23">result</word>
+	<word weight="0.037162162162162164" count="22">schema</word>
+	<word weight="0.033783783783783786" count="20">count</word>
+	<word weight="0.03209459459459459" count="19">array</word>
+	<word weight="0.03209459459459459" count="19">queue</word>
+	<word weight="0.030405405405405407" count="18">open</word>
+	<word weight="0.030405405405405407" count="18">key</word>
+	<word weight="0.030405405405405407" count="18">property</word>
+	<word weight="0.028716216216216218" count="17">interval</word>
+	<word weight="0.028716216216216218" count="17">deserialization</word>
+	<word weight="0.02702702702702703" count="16">union</word>
+	<word weight="0.02533783783783784" count="15">order</word>
+	<word weight="0.02364864864864865" count="14">processing</word>
+	<word weight="0.018581081081081082" count="11">auto</word>
+	<word weight="0.018581081081081082" count="11">mock</word>
+	<word weight="0.018581081081081082" count="11">run</word>
+	<word weight="0.016891891891891893" count="10">testable</word>
+	<word weight="0.015202702702702704" count="9">emit</word>
+	<word weight="0.013513513513513514" count="8">seed</word>
+	<phrase weight="0.13043478260869565" count="6">deserialization schema</phrase>
+	<phrase weight="0.06521739130434782" count="3">seed testable</phrase>
+	<phrase weight="0.043478260869565216" count="2">open checking</phrase>
+	<phrase weight="0.043478260869565216" count="2">interval auto</phrase>
+	<phrase weight="0.043478260869565216" count="2">key key</phrase>
+	<phrase weight="0.043478260869565216" count="2">correctly seed</phrase>
+	<phrase weight="0.043478260869565216" count="2">region east</phrase>
+	<phrase weight="0.021739130434782608" count="1">run mockito</phrase>
+	<phrase weight="0.021739130434782608" count="1">checkpoint lock result</phrase>
+	<phrase weight="0.021739130434782608" count="1">property array</phrase>
+	<phrase weight="0.021739130434782608" count="1">longer rely</phrase>
+	<phrase weight="0.021739130434782608" count="1">update emit</phrase>
+	<phrase weight="0.021739130434782608" count="1">nullable param</phrase>
+	<phrase weight="0.021739130434782608" count="1">schema open</phrase>
+	<phrase weight="0.021739130434782608" count="1">serial version</phrase>
+	<phrase weight="0.021739130434782608" count="1">schema extend</phrase>
+	<phrase weight="0.021739130434782608" count="1">collection singleton</phrase>
+	<phrase weight="0.021739130434782608" count="1">param arg</phrase>
+	<phrase weight="0.021739130434782608" count="1">change union</phrase>
+	<phrase weight="0.021739130434782608" count="1">length param arg</phrase>
+  </topic>
+</topics>

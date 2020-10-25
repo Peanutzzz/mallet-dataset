@@ -1,0 +1,423 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.02393653130272843" totalTokens="3248" titles="release history, string, operation, map, set, configuration, service, find, publish, page">
+	<word weight="0.3808497536945813" count="1237">release</word>
+	<word weight="0.050492610837438424" count="164">string</word>
+	<word weight="0.04495073891625616" count="146">history</word>
+	<word weight="0.036637931034482756" count="119">operation</word>
+	<word weight="0.03263546798029557" count="106">map</word>
+	<word weight="0.030480295566502464" count="99">set</word>
+	<word weight="0.023706896551724137" count="77">configuration</word>
+	<word weight="0.023399014778325122" count="76">service</word>
+	<word weight="0.022783251231527094" count="74">publish</word>
+	<word weight="0.022783251231527094" count="74">find</word>
+	<word weight="0.02185960591133005" count="71">page</word>
+	<word weight="0.01600985221674877" count="52">emergency</word>
+	<word weight="0.015086206896551725" count="49">latest</word>
+	<word weight="0.01416256157635468" count="46">context</word>
+	<word weight="0.013854679802955665" count="45">entry</word>
+	<word weight="0.013854679802955665" count="45">gson</word>
+	<word weight="0.013546798029556651" count="44">branch</word>
+	<word weight="0.012007389162561576" count="39">list</word>
+	<word weight="0.011391625615763547" count="37">comment</word>
+	<word weight="0.011083743842364532" count="36">previous</word>
+	<phrase weight="0.05241090146750524" count="25">release history</phrase>
+	<phrase weight="0.031446540880503145" count="15">release comment</phrase>
+	<phrase weight="0.027253668763102725" count="13">release release</phrase>
+	<phrase weight="0.025157232704402517" count="12">release operation</phrase>
+	<phrase weight="0.020964360587002098" count="10">emergency publish</phrase>
+	<phrase weight="0.018867924528301886" count="9">release operation context</phrase>
+	<phrase weight="0.016771488469601678" count="8">latest release</phrase>
+	<phrase weight="0.016771488469601678" count="8">release release release</phrase>
+	<phrase weight="0.012578616352201259" count="6">set release</phrase>
+	<phrase weight="0.010482180293501049" count="5">branch release</phrase>
+	<phrase weight="0.010482180293501049" count="5">release set</phrase>
+	<phrase weight="0.010482180293501049" count="5">map string</phrase>
+	<phrase weight="0.010482180293501049" count="5">release find release</phrase>
+	<phrase weight="0.008385744234800839" count="4">service release</phrase>
+	<phrase weight="0.008385744234800839" count="4">collection util</phrase>
+	<phrase weight="0.008385744234800839" count="4">page release history</phrase>
+	<phrase weight="0.008385744234800839" count="4">release history service</phrase>
+	<phrase weight="0.008385744234800839" count="4">release string</phrase>
+	<phrase weight="0.008385744234800839" count="4">release rollback</phrase>
+	<phrase weight="0.006289308176100629" count="3">release find</phrase>
+  </topic>
+  <topic id="1" alpha="0.042335263395632136" totalTokens="5704" titles="app namespace, service, cluster, audit, repository, find, set, string, change, datum">
+	<word weight="0.21125525946704068" count="1205">app</word>
+	<word weight="0.15778401122019636" count="900">namespace</word>
+	<word weight="0.06714586255259467" count="383">service</word>
+	<word weight="0.05136746143057504" count="293">cluster</word>
+	<word weight="0.04505610098176718" count="257">audit</word>
+	<word weight="0.040848527349228614" count="233">repository</word>
+	<word weight="0.03453716690042076" count="197">find</word>
+	<word weight="0.03190743338008415" count="182">set</word>
+	<word weight="0.02769985974754558" count="158">string</word>
+	<word weight="0.020687237026647966" count="118">change</word>
+	<word weight="0.01858345021037868" count="106">datum</word>
+	<word weight="0.01770687237026648" count="101">delete</word>
+	<word weight="0.016479663394109396" count="94">create</word>
+	<word weight="0.01367461430575035" count="78">operator</word>
+	<word weight="0.012622720897615708" count="72">list</word>
+	<word weight="0.011395511921458625" count="65">manage</word>
+	<word weight="0.011220196353436185" count="64">save</word>
+	<word weight="0.010518934081346423" count="60">entity</word>
+	<word weight="0.009642356241234221" count="55">modify</word>
+	<word weight="0.00894109396914446" count="51">config</word>
+	<phrase weight="0.0380952380952381" count="24">app namespace</phrase>
+	<phrase weight="0.025396825396825397" count="16">app app</phrase>
+	<phrase weight="0.01904761904761905" count="12">datum change</phrase>
+	<phrase weight="0.011111111111111112" count="7">service audit</phrase>
+	<phrase weight="0.011111111111111112" count="7">app cluster</phrase>
+	<phrase weight="0.009523809523809525" count="6">repository save</phrase>
+	<phrase weight="0.007936507936507936" count="5">namespace app</phrase>
+	<phrase weight="0.007936507936507936" count="5">app namespace app namespace</phrase>
+	<phrase weight="0.007936507936507936" count="5">cluster namespace</phrase>
+	<phrase weight="0.006349206349206349" count="4">find app</phrase>
+	<phrase weight="0.006349206349206349" count="4">audit service audit</phrase>
+	<phrase weight="0.006349206349206349" count="4">datum change modify</phrase>
+	<phrase weight="0.006349206349206349" count="4">service namespace</phrase>
+	<phrase weight="0.006349206349206349" count="4">change create</phrase>
+	<phrase weight="0.006349206349206349" count="4">set datum</phrase>
+	<phrase weight="0.006349206349206349" count="4">string app</phrase>
+	<phrase weight="0.006349206349206349" count="4">app namespace app</phrase>
+	<phrase weight="0.006349206349206349" count="4">namespace repository app namespace repository</phrase>
+	<phrase weight="0.004761904761904762" count="3">namespace precondition check</phrase>
+	<phrase weight="0.004761904761904762" count="3">audit insert</phrase>
+  </topic>
+  <topic id="2" alpha="0.041513653401522514" totalTokens="4567" titles="instance config, set, string, key, message, cache, cluster, time, access, server">
+	<word weight="0.06174731771403547" count="282">config</word>
+	<word weight="0.05058024961681629" count="231">instance</word>
+	<word weight="0.038756295160937156" count="177">set</word>
+	<word weight="0.03612874972629735" count="165">string</word>
+	<word weight="0.03481497700897745" count="159">key</word>
+	<word weight="0.03437705276987081" count="157">message</word>
+	<word weight="0.028465075541931246" count="130">cache</word>
+	<word weight="0.022991022553098314" count="105">cluster</word>
+	<word weight="0.022334136194438362" count="102">time</word>
+	<word weight="0.019706590759798553" count="90">access</word>
+	<word weight="0.018173855922925333" count="83">server</word>
+	<word weight="0.01598423472739216" count="73">service</word>
+	<word weight="0.015546310488285527" count="71">scan</word>
+	<word weight="0.015327348368732209" count="70">client</word>
+	<word weight="0.014232537770965623" count="65">port</word>
+	<word weight="0.013356689292752353" count="61">app</word>
+	<word weight="0.012918765053645719" count="59">map</word>
+	<word weight="0.012480840814539085" count="57">machine</word>
+	<word weight="0.012480840814539085" count="57">exception</word>
+	<word weight="0.01204291657543245" count="55">modify</word>
+	<phrase weight="0.04722792607802875" count="23">instance config</phrase>
+	<phrase weight="0.018480492813141684" count="9">message repository</phrase>
+	<phrase weight="0.012320328542094456" count="6">model config</phrase>
+	<phrase weight="0.006160164271047228" count="3">cluster config</phrase>
+	<phrase weight="0.006160164271047228" count="3">delivery time</phrase>
+	<phrase weight="0.006160164271047228" count="3">message max</phrase>
+	<phrase weight="0.006160164271047228" count="3">instance config set</phrase>
+	<phrase weight="0.006160164271047228" count="3">instance instance</phrase>
+	<phrase weight="0.006160164271047228" count="3">modify time</phrase>
+	<phrase weight="0.004106776180698152" count="2">key instance config</phrase>
+	<phrase weight="0.004106776180698152" count="2">message cache</phrase>
+	<phrase weight="0.004106776180698152" count="2">cluster universal state</phrase>
+	<phrase weight="0.004106776180698152" count="2">config cluster config</phrase>
+	<phrase weight="0.004106776180698152" count="2">config cluster string config</phrase>
+	<phrase weight="0.004106776180698152" count="2">joiner join</phrase>
+	<phrase weight="0.004106776180698152" count="2">instance result</phrase>
+	<phrase weight="0.004106776180698152" count="2">service foo</phrase>
+	<phrase weight="0.004106776180698152" count="2">key string</phrase>
+	<phrase weight="0.004106776180698152" count="2">message load</phrase>
+	<phrase weight="0.004106776180698152" count="2">cache insensitive map</phrase>
+  </topic>
+  <topic id="3" alpha="0.016421458170928754" totalTokens="3482" titles="job, string, info, list, xxl, count, date, aggregation, trigger, util">
+	<word weight="0.07438253877082136" count="259">job</word>
+	<word weight="0.06289488799540494" count="219">string</word>
+	<word weight="0.03819643882825962" count="133">info</word>
+	<word weight="0.025847214244686962" count="90">list</word>
+	<word weight="0.02469844916714532" count="86">xxl</word>
+	<word weight="0.024411257897759907" count="85">count</word>
+	<word weight="0.023262492820218264" count="81">date</word>
+	<word weight="0.022975301550832855" count="80">aggregation</word>
+	<word weight="0.02096496266513498" count="73">trigger</word>
+	<word weight="0.02096496266513498" count="73">util</word>
+	<word weight="0.017805858701895463" count="62">map</word>
+	<word weight="0.017805858701895463" count="62">result</word>
+	<word weight="0.01751866743251005" count="61">index</word>
+	<word weight="0.01665709362435382" count="58">child</word>
+	<word weight="0.014359563469270534" count="50">fail</word>
+	<word weight="0.013785180930499713" count="48">day</word>
+	<word weight="0.01234922458357266" count="43">set</word>
+	<word weight="0.011487650775416428" count="40">dao</word>
+	<word weight="0.011487650775416428" count="40">curr</word>
+	<word weight="0.011487650775416428" count="40">bucket</word>
+	<phrase weight="0.06153846153846154" count="4">search dto</phrase>
+	<phrase weight="0.03076923076923077" count="2">list map string string</phrase>
+	<phrase weight="0.03076923076923077" count="2">elasticsearch rest template elasticsearch rest template elasticsearch rest template elasticsearch rest</phrase>
+	<phrase weight="0.015384615384615385" count="1">type json</phrase>
+	<phrase weight="0.015384615384615385" count="1">index response</phrase>
+	<phrase weight="0.015384615384615385" count="1">result map string string list string</phrase>
+	<phrase weight="0.015384615384615385" count="1">result map string string builder datum list index code</phrase>
+	<phrase weight="0.015384615384615385" count="1">info list</phrase>
+	<phrase weight="0.015384615384615385" count="1">perform request request cat index</phrase>
+	<phrase weight="0.015384615384615385" count="1">elasticsearch rest template elasticsearch rest template search</phrase>
+	<phrase weight="0.015384615384615385" count="1">scheduler scheduler scheduler</phrase>
+	<phrase weight="0.015384615384615385" count="1">msg source</phrase>
+	<phrase weight="0.015384615384615385" count="1">string local date</phrase>
+	<phrase weight="0.015384615384615385" count="1">replica str util empty index dto mapping</phrase>
+	<phrase weight="0.015384615384615385" count="1">string alias list array list index alias size index map put alias alias list index map put setting setting obj index</phrase>
+	<phrase weight="0.015384615384615385" count="1">response response elasticsearch rest template</phrase>
+	<phrase weight="0.015384615384615385" count="1">show string index</phrase>
+	<phrase weight="0.015384615384615385" count="1">index response elasticsearch rest template</phrase>
+	<phrase weight="0.015384615384615385" count="1">str string index</phrase>
+	<phrase weight="0.015384615384615385" count="1">mapping request map index dto mapping source</phrase>
+  </topic>
+  <topic id="4" alpha="0.0063079796542774595" totalTokens="3705" titles="capacity, group, tenant, max, quota, size, aggr, usage, string, set">
+	<word weight="0.11147098515519568" count="413">capacity</word>
+	<word weight="0.08097165991902834" count="300">group</word>
+	<word weight="0.0796221322537112" count="295">tenant</word>
+	<word weight="0.042105263157894736" count="156">max</word>
+	<word weight="0.03832658569500675" count="142">quota</word>
+	<word weight="0.03670715249662618" count="136">size</word>
+	<word weight="0.03184885290148448" count="118">aggr</word>
+	<word weight="0.029959514170040485" count="111">usage</word>
+	<word weight="0.02699055330634278" count="100">string</word>
+	<word weight="0.021052631578947368" count="78">set</word>
+	<word weight="0.019973009446693658" count="74">update</word>
+	<word weight="0.01808367071524966" count="67">list</word>
+	<word weight="0.017543859649122806" count="65">count</word>
+	<word weight="0.016194331983805668" count="60">param</word>
+	<word weight="0.01592442645074224" count="59">sql</word>
+	<word weight="0.015384615384615385" count="57">service</word>
+	<word weight="0.013225371120107961" count="49">persist</word>
+	<word weight="0.013225371120107961" count="49">jdbc</word>
+	<word weight="0.012415654520917679" count="46">gmt</word>
+	<word weight="0.011875843454790824" count="44">modify</word>
+	<phrase weight="0.047619047619047616" count="1">capacity usage string sql select count config info integer result jdbc template query object sql integer result illegal</phrase>
+	<phrase weight="0.047619047619047616" count="1">equal capacity group sql insert group capacity group quota usage max size max aggr count max aggr size gmt create gmt modify select count config info note add tenant condition sql insert group capacity group quota usage max size max aggr count max aggr size gmt create gmt modify select count config info group tenant insert group capacity sql capacity insert group capacity string sql group capacity capacity generate key holder generate key holder generate key holder prepared statement creator prepared statement creator prepared statement creator override prepared statement create prepared statement connection connection exception prepared statement connection prepare statement sql statement generate key string group capacity group set string group set capacity quota set capacity max size set capacity max aggr count set capacity max aggr size set timestamp capacity gmt create set timestamp capacity gmt modify cluster equal group set string group jdbc template update prepared statement creator generate key holder generate key holder key jdbc connection exception fatal log error error cluster usage capacity cluster capacity cluster capacity cluster capacity</phrase>
+	<phrase weight="0.047619047619047616" count="1">property util correct usage</phrase>
+	<phrase weight="0.047619047619047616" count="1">time unit seconds correct usage correct group usage correct tenant usage correct usage group capacity correct group usage page size true list group capacity group capacity list group capacity persist service capacity list correct usage page size group capacity list empty group capacity list group capacity list size group capacity group capacity group capacity list string group group capacity group group capacity persist service correct usage group time util current time thread sleep interrupt exception ignore correct group usage string group group capacity persist service correct usage group time util current time correct tenant usage string tenant tenant capacity persist service correct usage tenant time util current time correct usage group capacity correct tenant usage page size true list tenant capacity tenant capacity list tenant capacity persist service capacity list correct usage page size tenant capacity list empty tenant capacity list tenant capacity list size thread sleep interrupt exception ignore tenant capacity tenant capacity tenant capacity list string tenant tenant capacity tenant tenant capacity persist service correct usage tenant time util current time init capacity init capacity false init capacity true init capacity tenant page true list string list tenant list persist service tenant list page init page size list persist service group list page init page size string target list tenant insert tenant capacity target auto expansion target insert group capacity target auto expansion target list size init page size thread sleep interrupt exception ignore page cluster capacity information exist initialize capacity information update capacity usage minus param counter mode increase decrease mode param ignore quota limit ignore quota limit flag insert update cluster usage counter mode counter mode ignore quota limit capacity capacity group capacity persist service cluster capacity capacity insert group capacity group capacity persist service cluster update group usage counter mode group capacity persist service cluster property util cluster quota ignore quota limit update cluster usage counter mode counter mode update group usage counter mode group capacity persist service cluster property util cluster quota false count limit check function capacity management turn capacity information exist initialize capacity information update capacity usage minus param counter mode increase decrease mode param group tenant string param ignore quota limit ignore quota limit flag operate successfully insert update group usage counter mode counter mode string group ignore quota limit group capacity group capacity group capacity group group capacity init group capacity group update group usage counter mode group property util group quota ignore quota limit update group usage counter mode counter mode string group update group usage counter mode group property util group quota false update group usage counter mode counter mode string group quota ignore quota limit timestamp time util current time group capacity group capacity group capacity group capacity set group group group capacity set quota quota group capacity set gmt modify counter mode increment counter mode ignore quota limit group capacity persist service increment usage group capacity update quota accord quota field table group capacity persist service increment usage quota limit group capacity group capacity persist service increment usage quota limit group capacity group capacity persist service decrement usage group capacity group capacity group capacity string group group capacity persist service group capacity group initialize capacity information group quota reach capacity automatically expand reduce operation maintenance cost param group group string init result init group capacity string group init group capacity group initialize capacity information group quota reach capacity automatically expand reduce operation maintenance cost param group group string param quota quota param max size max size param max aggr count max aggr count param max aggr size max aggr size init result init group capacity string group integer quota integer max size integer max aggr count integer max aggr size insert success insert group capacity group quota max size max aggr count max aggr size quota insert success auto expansion group insert success expand capacity automatically param group group string param tenant tenant string auto expansion string group string tenant capacity capacity capacity group tenant quota quota tenant integer usage capacity usage usage quota initialize capacity information group quota reach capacity automatically expand reduce operation maintenance cost initial expansion percent property util initial expansion percent initial expansion percent quota usage quota initial expansion percent tenant tenant capacity persist service update quota tenant quota log util log warn capacity management tenant usage quota quota group capacity persist service update quota group quota log util log warn capacity management group group usage quota quota quota tenant tenant property util tenant quota property util group quota capacity capacity string group string tenant tenant tenant capacity tenant group capacity group capacity capacity string group string tenant capacity capacity tenant string util blank tenant tenant capacity tenant capacity tenant capacity group capacity group capacity integer quota capacity quota quota tenant capacity set quota property util tenant quota group capacity persist service cluster equal group capacity set quota property util cluster quota capacity set quota property util group quota integer max size capacity max size max size capacity set max size property util max size integer max aggr count capacity max aggr count max aggr count capacity set max aggr count property util max aggr count integer max aggr size capacity max aggr size max aggr size capacity set max aggr size property util max aggr size capacity init capacity param group group string param tenant tenant string init result init capacity string group string tenant string util blank tenant init tenant capacity tenant group capacity persist service cluster equal group insert group capacity group capacity persist service cluster group expand capacity automatically init group capacity group insert group capacity string group insert group capacity group insert group capacity string group integer quota integer max size integer max aggr count integer max aggr size timestamp time util current time group capacity group capacity group capacity group capacity set group group add quota quota quota order update quota naco configuration modify datum table update group capacity set quota quota quota add datum maxsize size order update size modify naco configuration update datum table group capacity set max size max size max size group capacity set max aggr count max aggr count max aggr count group capacity set max aggr size max aggr size max aggr size group capacity set gmt create group capacity set gmt modify group capacity persist service insert group capacity group capacity duplicate key exception insert ignore log util log warn group message group message false count limit check function capacity management turn capacity information exist initialize capacity information update capacity usage minus param counter mode increase decrease mode param tenant tenant string param ignore quota limit ignore quota limit flag operate successfully insert update tenant usage counter mode counter mode string tenant ignore quota limit tenant capacity tenant capacity tenant capacity tenant tenant capacity init capacity information init tenant capacity tenant update tenant usage counter mode tenant ignore quota limit update tenant usage counter mode counter mode string tenant ignore quota limit timestamp time util current time tenant capacity tenant capacity tenant capacity tenant capacity set tenant tenant tenant capacity set quota property util tenant quota tenant capacity set gmt modify counter mode increment counter mode ignore quota limit tenant capacity persist service increment usage tenant capacity update quota accord quota field table tenant capacity persist service increment usage quota limit tenant capacity tenant capacity persist service increment usage quota limit tenant capacity tenant capacity persist service decrement usage tenant capacity update tenant usage counter mode counter mode string tenant update tenant usage counter mode tenant false initialize capacity information tenant quota reach capacity automatically expand reduce operation maintenance cos param tenant tenant string init result init tenant capacity string tenant init tenant capacity tenant initialize capacity information tenant quota reach capacity automatically expand reduce operation maintenance cost param tenant tenant string param quota quota param max size max size param max aggr count max aggr count param max aggr size max aggr size init tenant capacity string tenant integer quota integer max size integer max aggr count integer max aggr size insert success insert tenant capacity tenant quota max size max aggr count max aggr size quota insert success auto expansion tenant insert success insert tenant capacity string tenant insert tenant capacity tenant insert tenant capacity string tenant integer quota integer max size integer max aggr count integer max aggr size timestamp time util current time tenant capacity tenant capacity tenant capacity tenant capacity set tenant tenant add quota quota quota order update quota naco configuration modify datum table update tenant capacity set quota quota quota add datum maxsize size order update size modify naco configuration update datum table tenant capacity set max size max size max size tenant capacity set max aggr count max aggr count max aggr count tenant capacity set max aggr size max aggr size max aggr size tenant capacity set gmt create tenant capacity set gmt modify tenant capacity persist service insert tenant capacity tenant capacity duplicate key exception insert ignore log util log warn tenant message tenant</phrase>
+	<phrase weight="0.047619047619047616" count="1">page persist</phrase>
+	<phrase weight="0.047619047619047616" count="1">runnable override</phrase>
+	<phrase weight="0.047619047619047616" count="1">illegal argument</phrase>
+	<phrase weight="0.047619047619047616" count="1">correct usage logger info capacity management end correct usage cost stopwatch elapse time unit seconds property util correct usage</phrase>
+	<phrase weight="0.047619047619047616" count="1">rule aggr</phrase>
+	<phrase weight="0.047619047619047616" count="1">logger capacity service integer init page size</phrase>
+	<phrase weight="0.047619047619047616" count="1">group capacity row mapper group capacity row mapper group capacity row mapper jdbc template jdbc template datum source service datum source service post construct init data source service dynamic datum source instance datum source jdbc template datum source service jdbc template group capacity row mapper implement row mapper group capacity override group capacity map row result set row num exception group capacity group capacity group capacity group capacity set group capacity set quota quota group capacity set usage usage group capacity</phrase>
+	<phrase weight="0.047619047619047616" count="1">persist service service group capacity persist service string</phrase>
+	<phrase weight="0.047619047619047616" count="1">exception config info count error result increment usage quota limit param group capacity group capacity object instance operate result increment usage quota limit group capacity group capacity string sql update group capacity set usage usage gmt modify group usage quota affect row jdbc template update sql group capacity gmt modify group capacity group group capacity quota affect row jdbc connection exception fatal log error error increment usage quota limit param group capacity group capacity object instance operate result increment usage quota limit group capacity group capacity string sql update group capacity set usage usage gmt modify group usage quota quota jdbc template update sql group capacity gmt modify group capacity group jdbc connection exception fatal log error error increment usage param group capacity group capacity object instance operate result increment usage group capacity group capacity string sql update group capacity set usage usage gmt modify group affect row jdbc template update sql group capacity gmt modify group capacity group affect row jdbc connection exception fatal log error error decrement usage param group capacity group capacity object instance operate result decrement usage group capacity group capacity string sql update group capacity set usage usage gmt modify group usage jdbc template update sql group capacity gmt modify group capacity group jdbc connection exception fatal log error error update group capacity param group group string param quota quota param max size max size param max aggr count max aggr count param max aggr size max aggr size update group capacity string group integer quota integer max size integer max aggr count integer max aggr size list object arg list list array list string builder sql</phrase>
+	<phrase weight="0.047619047619047616" count="1">aggr row</phrase>
+	<phrase weight="0.047619047619047616" count="1">job modify usage idempotent config executor schedule correct usage</phrase>
+	<phrase weight="0.047619047619047616" count="1">persist service service tenant capacity persist service tenant capacity row mapper tenant capacity row mapper tenant capacity row mapper jdbc template jdbc template datum source service datum source service post construct init data source service dynamic datum source instance datum source jdbc template datum source service jdbc template tenant capacity row mapper implement row mapper tenant capacity override tenant capacity map row result set row num exception tenant capacity tenant capacity tenant capacity tenant capacity set tenant capacity set quota quota tenant capacity set usage usage tenant capacity set max size max size tenant capacity set max aggr count max aggr count tenant capacity set max aggr size max aggr size tenant capacity set tenant string tenant tenant capacity tenant capacity tenant capacity string tenant string sql select quota usage max size max aggr count max aggr size tenant tenant capacity tenant list tenant capacity list jdbc template query sql object tenant tenant capacity row mapper list empty list insert tenant capacity param tenant capacity tenant capacity object instance operate result insert tenant capacity tenant capacity tenant capacity string sql insert tenant capacity tenant quota usage max size max aggr count max aggr size gmt create gmt modify select count config</phrase>
+	<phrase weight="0.047619047619047616" count="1">row count timestamp</phrase>
+	<phrase weight="0.047619047619047616" count="1">max size max size group capacity set max aggr count max aggr count group capacity set max aggr size max aggr size group capacity set group string group group capacity group capacity group capacity string group string sql select quota usage max size max aggr count max aggr size group group capacity group list group capacity list jdbc template query sql object group group capacity row mapper list empty list capacity cluster capacity group capacity cluster insert group capacity param capacity capacity object instance operate result insert group capacity group capacity capacity string sql</phrase>
+	<phrase weight="0.047619047619047616" count="1">service capacity service logger logger logger</phrase>
+	<phrase weight="0.047619047619047616" count="1">logger info capacity management start correct usage stopwatch stopwatch stopwatch create</phrase>
+  </topic>
+  <topic id="5" alpha="0.03921788281924267" totalTokens="6655" titles="string, client, result, task, config, datum, sample, group, server, service">
+	<word weight="0.052141247182569496" count="347">string</word>
+	<word weight="0.02599549211119459" count="173">client</word>
+	<word weight="0.02539444027047333" count="169">result</word>
+	<word weight="0.022689706987227647" count="151">task</word>
+	<word weight="0.02163786626596544" count="144">config</word>
+	<word weight="0.02163786626596544" count="144">datum</word>
+	<word weight="0.021187077385424493" count="141">sample</word>
+	<word weight="0.020736288504883547" count="138">group</word>
+	<word weight="0.02058602554470323" count="137">server</word>
+	<word weight="0.01968444778362134" count="131">service</word>
+	<word weight="0.018482344102178812" count="123">util</word>
+	<word weight="0.017430503380916604" count="116">meta</word>
+	<word weight="0.017430503380916604" count="116">request</word>
+	<word weight="0.015777610818933134" count="105">log</word>
+	<word weight="0.015326821938392186" count="102">info</word>
+	<word weight="0.014575507137490609" count="97">list</word>
+	<word weight="0.014124718256949663" count="94">file</word>
+	<word weight="0.01382419233658903" count="92">response</word>
+	<word weight="0.013373403456048084" count="89">address</word>
+	<word weight="0.013223140495867768" count="88">polling</word>
+	<phrase weight="0.013774104683195593" count="5">config info</phrase>
+	<phrase weight="0.011019283746556474" count="4">persist service</phrase>
+	<phrase weight="0.008264462809917356" count="3">tag cache</phrase>
+	<phrase weight="0.008264462809917356" count="3">server status</phrase>
+	<phrase weight="0.008264462809917356" count="3">response writer println config datum exist http servlet response</phrase>
+	<phrase weight="0.008264462809917356" count="3">merge task</phrase>
+	<phrase weight="0.005509641873278237" count="2">dataid whitelist atomic reference list pattern</phrase>
+	<phrase weight="0.005509641873278237" count="2">meta address</phrase>
+	<phrase weight="0.005509641873278237" count="2">string file type file property type</phrase>
+	<phrase weight="0.005509641873278237" count="2">cache meta</phrase>
+	<phrase weight="0.005509641873278237" count="2">meta server address</phrase>
+	<phrase weight="0.005509641873278237" count="2">pull event datum group tenant request</phrase>
+	<phrase weight="0.005509641873278237" count="2">address cache</phrase>
+	<phrase weight="0.005509641873278237" count="2">longer exist impossible simply calculate push delay simply record config trace service log pull event datum group tenant request</phrase>
+	<phrase weight="0.005509641873278237" count="2">logger info merge</phrase>
+	<phrase weight="0.005509641873278237" count="2">config trace service pull event notfound request pull log info client client datum object client group</phrase>
+	<phrase weight="0.005509641873278237" count="2">list config</phrase>
+	<phrase weight="0.0027548209366391185" count="1">step execute local</phrase>
+	<phrase weight="0.0027548209366391185" count="1">put cache meta server address cache put</phrase>
+	<phrase weight="0.0027548209366391185" count="1">distinct key subscriber string collect collector list collection empty list local server subscriber fuzzy service</phrase>
+  </topic>
+  <topic id="6" alpha="0.02633050296433305" totalTokens="2736" titles="role, consumer, user, permission, info, service, token, repository, favorite, string">
+	<word weight="0.1253654970760234" count="343">role</word>
+	<word weight="0.09064327485380116" count="248">consumer</word>
+	<word weight="0.07894736842105263" count="216">user</word>
+	<word weight="0.061769005847953216" count="169">permission</word>
+	<word weight="0.0537280701754386" count="147">info</word>
+	<word weight="0.04057017543859649" count="111">service</word>
+	<word weight="0.029605263157894735" count="81">token</word>
+	<word weight="0.02887426900584795" count="79">repository</word>
+	<word weight="0.025584795321637425" count="70">favorite</word>
+	<word weight="0.025584795321637425" count="70">string</word>
+	<word weight="0.019736842105263157" count="54">create</word>
+	<word weight="0.01864035087719298" count="51">page</word>
+	<word weight="0.01608187134502924" count="44">portal</word>
+	<word weight="0.01608187134502924" count="44">list</word>
+	<word weight="0.015716374269005847" count="43">demo</word>
+	<word weight="0.015716374269005847" count="43">set</word>
+	<word weight="0.015350877192982455" count="42">request</word>
+	<word weight="0.014985380116959063" count="41">holder</word>
+	<word weight="0.012792397660818713" count="35">application</word>
+	<word weight="0.009868421052631578" count="27">find</word>
+	<phrase weight="0.04573170731707317" count="15">role permission</phrase>
+	<phrase weight="0.012195121951219513" count="4">consumer role</phrase>
+	<phrase weight="0.009146341463414634" count="3">info holder user user</phrase>
+	<phrase weight="0.009146341463414634" count="3">role consumer string token string</phrase>
+	<phrase weight="0.009146341463414634" count="3">repository consumer</phrase>
+	<phrase weight="0.009146341463414634" count="3">consumer role consumer role</phrase>
+	<phrase weight="0.009146341463414634" count="3">role role</phrase>
+	<phrase weight="0.009146341463414634" count="3">application application eureka</phrase>
+	<phrase weight="0.009146341463414634" count="3">modify role</phrase>
+	<phrase weight="0.009146341463414634" count="3">holder user user</phrase>
+	<phrase weight="0.009146341463414634" count="3">role initialization</phrase>
+	<phrase weight="0.006097560975609756" count="2">position asc</phrase>
+	<phrase weight="0.006097560975609756" count="2">user user</phrase>
+	<phrase weight="0.006097560975609756" count="2">fast date</phrase>
+	<phrase weight="0.006097560975609756" count="2">consumer token</phrase>
+	<phrase weight="0.006097560975609756" count="2">add role</phrase>
+	<phrase weight="0.006097560975609756" count="2">user info</phrase>
+	<phrase weight="0.006097560975609756" count="2">consumer audits</phrase>
+	<phrase weight="0.006097560975609756" count="2">username user info</phrase>
+	<phrase weight="0.006097560975609756" count="2">consumer role assign</phrase>
+  </topic>
+  <topic id="7" alpha="0.018018984157231334" totalTokens="2891" titles="access key, namespace, branch, string, cluster, service, child, rule, operator, parent">
+	<word weight="0.20615703908682118" count="596">namespace</word>
+	<word weight="0.07817364233829124" count="226">branch</word>
+	<word weight="0.0760982359045313" count="220">string</word>
+	<word weight="0.0646835005188516" count="187">cluster</word>
+	<word weight="0.05707367692839848" count="165">service</word>
+	<word weight="0.048426150121065374" count="140">key</word>
+	<word weight="0.044967139398132135" count="130">child</word>
+	<word weight="0.043583535108958835" count="126">rule</word>
+	<word weight="0.038395019024558975" count="111">operator</word>
+	<word weight="0.036665513663092356" count="106">parent</word>
+	<word weight="0.03286060186786579" count="95">access</word>
+	<word weight="0.030439294361812523" count="88">item</word>
+	<word weight="0.028017986855759253" count="81">lock</word>
+	<word weight="0.026288481494292634" count="76">gray</word>
+	<word weight="0.014873746108612937" count="43">delete</word>
+	<word weight="0.014527845036319613" count="42">publish</word>
+	<word weight="0.014527845036319613" count="42">latest</word>
+	<word weight="0.012798339674852992" count="37">active</word>
+	<word weight="0.011068834313386372" count="32">modify</word>
+	<word weight="0.008993427879626427" count="26">find</word>
+	<phrase weight="0.04054054054054054" count="21">access key</phrase>
+	<phrase weight="0.03667953667953668" count="19">child namespace</phrase>
+	<phrase weight="0.019305019305019305" count="10">namespace namespace</phrase>
+	<phrase weight="0.019305019305019305" count="10">namespace lock</phrase>
+	<phrase weight="0.019305019305019305" count="10">parent namespace</phrase>
+	<phrase weight="0.013513513513513514" count="7">rule rule</phrase>
+	<phrase weight="0.013513513513513514" count="7">namespace branch</phrase>
+	<phrase weight="0.009652509652509652" count="5">branch gray rule string</phrase>
+	<phrase weight="0.009652509652509652" count="5">cluster string</phrase>
+	<phrase weight="0.009652509652509652" count="5">key branch</phrase>
+	<phrase weight="0.009652509652509652" count="5">cluster namespace</phrase>
+	<phrase weight="0.009652509652509652" count="5">latest branch</phrase>
+	<phrase weight="0.007722007722007722" count="4">namespace string</phrase>
+	<phrase weight="0.007722007722007722" count="4">namespace service</phrase>
+	<phrase weight="0.007722007722007722" count="4">latest active</phrase>
+	<phrase weight="0.007722007722007722" count="4">namespace child</phrase>
+	<phrase weight="0.007722007722007722" count="4">namespace latest active</phrase>
+	<phrase weight="0.007722007722007722" count="4">branch string</phrase>
+	<phrase weight="0.007722007722007722" count="4">branch gray</phrase>
+	<phrase weight="0.005791505791505791" count="3">cluster service</phrase>
+  </topic>
+  <topic id="8" alpha="0.0496031496032732" totalTokens="3380" titles="user, service, role, client, string, key, list, override, code, mapper">
+	<word weight="0.08076923076923077" count="273">user</word>
+	<word weight="0.055325443786982245" count="187">service</word>
+	<word weight="0.05059171597633136" count="171">role</word>
+	<word weight="0.042899408284023666" count="145">client</word>
+	<word weight="0.04082840236686391" count="138">string</word>
+	<word weight="0.02544378698224852" count="86">key</word>
+	<word weight="0.02514792899408284" count="85">list</word>
+	<word weight="0.02485207100591716" count="84">override</word>
+	<word weight="0.02396449704142012" count="81">code</word>
+	<word weight="0.022781065088757397" count="77">mapper</word>
+	<word weight="0.020710059171597635" count="70">menu</word>
+	<word weight="0.020118343195266272" count="68">page</word>
+	<word weight="0.01804733727810651" count="61">exception</word>
+	<word weight="0.01804733727810651" count="61">impl</word>
+	<word weight="0.017455621301775148" count="59">map</word>
+	<word weight="0.015088757396449704" count="51">redis</word>
+	<word weight="0.014497041420118343" count="49">param</word>
+	<word weight="0.014201183431952662" count="48">set</word>
+	<word weight="0.013313609467455622" count="45">detail</word>
+	<word weight="0.01272189349112426" count="43">username</word>
+	<phrase weight="0.07035175879396985" count="14">user login</phrase>
+	<phrase weight="0.01507537688442211" count="3">mapper save</phrase>
+	<phrase weight="0.01507537688442211" count="3">user user override login</phrase>
+	<phrase weight="0.010050251256281407" count="2">mapper override</phrase>
+	<phrase weight="0.010050251256281407" count="2">impl implement</phrase>
+	<phrase weight="0.010050251256281407" count="2">service impl</phrase>
+	<phrase weight="0.010050251256281407" count="2">service impl implement</phrase>
+	<phrase weight="0.010050251256281407" count="2">raft error raft remove fail naco exception naco exception</phrase>
+	<phrase weight="0.010050251256281407" count="2">transactional rollback</phrase>
+	<phrase weight="0.010050251256281407" count="2">impl service</phrase>
+	<phrase weight="0.005025125628140704" count="1">password password encoder encode common constant def user password user set enable true string username user username result save update idempotency user lock lock key username username query wrapper user username username username result str util</phrase>
+	<phrase weight="0.005025125628140704" count="1">impl slf service client service impl extend service impl client mapper client implement client service string lock key clientid client autowire redis repository redis repository autowire password encoder password encoder autowire distribute lock lock override result save client client client exception client set client secret password encoder encode client client secret str string client client client save update idempotency client lock lock key clientid client query wrapper client client client client result succeed override page result client list client map string object param page page client page page page page map</phrase>
+	<phrase weight="0.005025125628140704" count="1">set grant type</phrase>
+	<phrase weight="0.005025125628140704" count="1">user page</phrase>
+	<phrase weight="0.005025125628140704" count="1">role user service save</phrase>
+	<phrase weight="0.005025125628140704" count="1">param source source</phrase>
+	<phrase weight="0.005025125628140704" count="1">user role role user service delete user role user list role array list user role split</phrase>
+	<phrase weight="0.005025125628140704" count="1">user enable</phrase>
+	<phrase weight="0.005025125628140704" count="1">user result result succeed user result fail transactional rollback exception override del user role user service delete user role base mapper delete override list user excel find user map string object param list user excel user excel array list list user list base mapper find list page param user user list user excel user excel user excel</phrase>
+	<phrase weight="0.005025125628140704" count="1">detail service map string</phrase>
+  </topic>
+  <topic id="9" alpha="0.037870115091457185" totalTokens="5888" titles="env env, namespace, app, item, cluster, string, rest, template, set, operator">
+	<word weight="0.11413043478260869" count="672">namespace</word>
+	<word weight="0.10818614130434782" count="637">env</word>
+	<word weight="0.10818614130434782" count="637">app</word>
+	<word weight="0.10580842391304347" count="623">item</word>
+	<word weight="0.07269021739130435" count="428">cluster</word>
+	<word weight="0.06980298913043478" count="411">string</word>
+	<word weight="0.01970108695652174" count="116">template</word>
+	<word weight="0.01970108695652174" count="116">rest</word>
+	<word weight="0.018512228260869564" count="109">set</word>
+	<word weight="0.016304347826086956" count="96">operator</word>
+	<word weight="0.01579483695652174" count="93">key</word>
+	<word weight="0.014605978260869566" count="86">delete</word>
+	<word weight="0.014436141304347826" count="85">change</word>
+	<word weight="0.014266304347826086" count="84">list</word>
+	<word weight="0.014096467391304348" count="83">size</word>
+	<word weight="0.01375679347826087" count="81">instance</word>
+	<word weight="0.01358695652173913" count="80">page</word>
+	<word weight="0.010190217391304348" count="60">type</word>
+	<word weight="0.008491847826086956" count="50">user</word>
+	<word weight="0.008491847826086956" count="50">find</word>
+	<phrase weight="0.036753445635528334" count="24">env env</phrase>
+	<phrase weight="0.019908116385911178" count="13">item item</phrase>
+	<phrase weight="0.013782542113323124" count="9">app env cluster namespace</phrase>
+	<phrase weight="0.01225114854517611" count="8">cluster namespace</phrase>
+	<phrase weight="0.010719754977029096" count="7">app env env</phrase>
+	<phrase weight="0.009188361408882083" count="6">string app env env</phrase>
+	<phrase weight="0.009188361408882083" count="6">namespace namespace</phrase>
+	<phrase weight="0.009188361408882083" count="6">namespace string</phrase>
+	<phrase weight="0.009188361408882083" count="6">app env</phrase>
+	<phrase weight="0.007656967840735069" count="5">env cluster namespace</phrase>
+	<phrase weight="0.007656967840735069" count="5">rest template env</phrase>
+	<phrase weight="0.007656967840735069" count="5">app operator</phrase>
+	<phrase weight="0.007656967840735069" count="5">app namespace</phrase>
+	<phrase weight="0.007656967840735069" count="5">env env string</phrase>
+	<phrase weight="0.006125574272588055" count="4">env app</phrase>
+	<phrase weight="0.006125574272588055" count="4">app cluster namespace</phrase>
+	<phrase weight="0.006125574272588055" count="4">cluster string namespace</phrase>
+	<phrase weight="0.006125574272588055" count="4">app env cluster</phrase>
+	<phrase weight="0.006125574272588055" count="4">info holder user user</phrase>
+	<phrase weight="0.006125574272588055" count="4">env cluster</phrase>
+  </topic>
+</topics>

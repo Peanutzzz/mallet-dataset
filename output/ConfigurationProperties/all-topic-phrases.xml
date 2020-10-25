@@ -1,0 +1,242 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.030987123671332585" totalTokens="32" titles="cache, config, source, druid, datum, key, manager, datasource, spring, bean">
+	<word weight="0.1875" count="6">cache</word>
+	<word weight="0.15625" count="5">config</word>
+	<word weight="0.09375" count="3">source</word>
+	<word weight="0.09375" count="3">druid</word>
+	<word weight="0.09375" count="3">datum</word>
+	<word weight="0.0625" count="2">key</word>
+	<word weight="0.0625" count="2">manager</word>
+	<word weight="0.0625" count="2">datasource</word>
+	<word weight="0.03125" count="1">spring</word>
+	<word weight="0.03125" count="1">bean</word>
+	<word weight="0.03125" count="1">proxy</word>
+	<word weight="0.03125" count="1">sec</word>
+	<word weight="0.03125" count="1">hikari</word>
+	<word weight="0.03125" count="1">configuration</word>
+	<phrase weight="0.25" count="1">cache config config</phrase>
+	<phrase weight="0.25" count="1">cache config cache key</phrase>
+	<phrase weight="0.25" count="1">manager cache manager</phrase>
+	<phrase weight="0.25" count="1">proxy config bean configuration</phrase>
+  </topic>
+  <topic id="1" alpha="0.011602071866277569" totalTokens="60" titles="route, generate, size, swagger, ignore, set, string, doc, api, hash">
+	<word weight="0.26666666666666666" count="16">route</word>
+	<word weight="0.11666666666666667" count="7">generate</word>
+	<word weight="0.1" count="6">size</word>
+	<word weight="0.08333333333333333" count="5">swagger</word>
+	<word weight="0.08333333333333333" count="5">ignore</word>
+	<word weight="0.06666666666666667" count="4">set</word>
+	<word weight="0.06666666666666667" count="4">string</word>
+	<word weight="0.03333333333333333" count="2">doc</word>
+	<word weight="0.03333333333333333" count="2">api</word>
+	<word weight="0.03333333333333333" count="2">agg</word>
+	<word weight="0.03333333333333333" count="2">hash</word>
+	<word weight="0.016666666666666666" count="1">json</word>
+	<word weight="0.016666666666666666" count="1">path</word>
+	<word weight="0.016666666666666666" count="1">version</word>
+	<word weight="0.016666666666666666" count="1">true</word>
+	<word weight="0.016666666666666666" count="1">show</word>
+	<phrase weight="0.3333333333333333" count="1">api doc path api doc swagger string swagger version generate route ignore route set string generate route hash set generate route set string ignore route hash set show string route generate route size generate route size ignore route size ignore route size generate route size generate route route</phrase>
+	<phrase weight="0.3333333333333333" count="1">swagger json</phrase>
+	<phrase weight="0.3333333333333333" count="1">route size ignore route route</phrase>
+  </topic>
+  <topic id="2" alpha="0.017349092025718042" totalTokens="127" titles="map, list, string, command, node, cluster, seconds, expire, timeout, redis">
+	<word weight="0.08661417322834646" count="11">map</word>
+	<word weight="0.08661417322834646" count="11">list</word>
+	<word weight="0.07874015748031496" count="10">string</word>
+	<word weight="0.07086614173228346" count="9">command</word>
+	<word weight="0.07086614173228346" count="9">node</word>
+	<word weight="0.07086614173228346" count="9">cluster</word>
+	<word weight="0.07086614173228346" count="9">seconds</word>
+	<word weight="0.07086614173228346" count="9">expire</word>
+	<word weight="0.07086614173228346" count="9">timeout</word>
+	<word weight="0.05511811023622047" count="7">redis</word>
+	<word weight="0.047244094488188976" count="6">config</word>
+	<word weight="0.03937007874015748" count="5">sample</word>
+	<word weight="0.03937007874015748" count="5">logger</word>
+	<word weight="0.023622047244094488" count="3">set</word>
+	<word weight="0.015748031496062992" count="2">initialize</word>
+	<word weight="0.015748031496062992" count="2">link</word>
+	<word weight="0.007874015748031496" count="1">format</word>
+	<word weight="0.007874015748031496" count="1">override</word>
+	<word weight="0.007874015748031496" count="1">construct</word>
+	<word weight="0.007874015748031496" count="1">post</word>
+	<phrase weight="0.25" count="1">redis cache enable</phrase>
+	<phrase weight="0.25" count="1">config conditional</phrase>
+	<phrase weight="0.25" count="1">component sample redis config</phrase>
+	<phrase weight="0.25" count="1">sample redis config logger logger logger factory logger sample redis config expire seconds string cluster node command timeout map string string map map link hash map list string list list link list post construct initialize logger info sample redis config initialize expire seconds cluster node command timeout map list expire seconds cluster node command timeout map list set expire seconds expire seconds expire seconds expire seconds set cluster node</phrase>
+  </topic>
+  <topic id="3" alpha="0.011584744723981256" totalTokens="124" titles="string, member, datum, set, override, map, key, val, add, address">
+	<word weight="0.1935483870967742" count="24">string</word>
+	<word weight="0.13709677419354838" count="17">member</word>
+	<word weight="0.0967741935483871" count="12">datum</word>
+	<word weight="0.08064516129032258" count="10">set</word>
+	<word weight="0.07258064516129033" count="9">override</word>
+	<word weight="0.04838709677419355" count="6">map</word>
+	<word weight="0.04838709677419355" count="6">key</word>
+	<word weight="0.04032258064516129" count="5">val</word>
+	<word weight="0.024193548387096774" count="3">add</word>
+	<word weight="0.024193548387096774" count="3">address</word>
+	<word weight="0.024193548387096774" count="3">synchronize</word>
+	<word weight="0.024193548387096774" count="3">collection</word>
+	<word weight="0.016129032258064516" count="2">remove</word>
+	<word weight="0.016129032258064516" count="2">raft</word>
+	<word weight="0.016129032258064516" count="2">hash</word>
+	<word weight="0.016129032258064516" count="2">config</word>
+	<word weight="0.008064516129032258" count="1">exception</word>
+	<word weight="0.008064516129032258" count="1">jackson</word>
+	<word weight="0.008064516129032258" count="1">put</word>
+	<word weight="0.008064516129032258" count="1">data</word>
+	<phrase weight="1.0" count="1">core protocol raft raft config implement config log processor serial version map string string datum collection synchronize map hash map string address set string member collection synchronize set hash set override set member string set string member address member clear member add member override string member address override set string member member override add member set string member member add member override remove member set string member member remove member map string string datum datum set datum map string string datum data collection synchronize map datum override set val string key string datum put key override string val string key datum key override string val string key string val datum key val override string string jackson</phrase>
+  </topic>
+  <topic id="4" alpha="0.009718681315340877" totalTokens="155" titles="string, environment, base, url, filter, search, anonymous, password, username, port">
+	<word weight="0.14193548387096774" count="22">string</word>
+	<word weight="0.07741935483870968" count="12">environment</word>
+	<word weight="0.07096774193548387" count="11">base</word>
+	<word weight="0.06451612903225806" count="10">url</word>
+	<word weight="0.05161290322580645" count="8">filter</word>
+	<word weight="0.05161290322580645" count="8">search</word>
+	<word weight="0.05161290322580645" count="8">anonymous</word>
+	<word weight="0.05161290322580645" count="8">password</word>
+	<word weight="0.05161290322580645" count="8">username</word>
+	<word weight="0.05161290322580645" count="8">port</word>
+	<word weight="0.05161290322580645" count="8">read</word>
+	<word weight="0.03870967741935484" count="6">ldap</word>
+	<word weight="0.03870967741935484" count="6">set</word>
+	<word weight="0.025806451612903226" count="4">local</word>
+	<word weight="0.01935483870967742" count="3">determine</word>
+	<word weight="0.01935483870967742" count="3">map</word>
+	<word weight="0.01935483870967742" count="3">server</word>
+	<word weight="0.012903225806451613" count="2">login</word>
+	<word weight="0.012903225806451613" count="2">operation</word>
+	<word weight="0.012903225806451613" count="2">property</word>
+	<phrase weight="1.0" count="1">spring ldap ldap</phrase>
+  </topic>
+  <topic id="5" alpha="0.011717030108556644" totalTokens="139" titles="string, url, list, path, contact, swagger, parameter, base, operation, global">
+	<word weight="0.2014388489208633" count="28">string</word>
+	<word weight="0.10071942446043165" count="14">url</word>
+	<word weight="0.07194244604316546" count="10">list</word>
+	<word weight="0.050359712230215826" count="7">path</word>
+	<word weight="0.050359712230215826" count="7">contact</word>
+	<word weight="0.050359712230215826" count="7">swagger</word>
+	<word weight="0.04316546762589928" count="6">parameter</word>
+	<word weight="0.04316546762589928" count="6">base</word>
+	<word weight="0.03597122302158273" count="5">operation</word>
+	<word weight="0.03597122302158273" count="5">global</word>
+	<word weight="0.02877697841726619" count="4">license</word>
+	<word weight="0.02877697841726619" count="4">array</word>
+	<word weight="0.02158273381294964" count="3">docket</word>
+	<word weight="0.02158273381294964" count="3">description</word>
+	<word weight="0.014388489208633094" count="2">email</word>
+	<word weight="0.014388489208633094" count="2">host</word>
+	<word weight="0.014388489208633094" count="2">info</word>
+	<word weight="0.014388489208633094" count="2">map</word>
+	<word weight="0.014388489208633094" count="2">exclude</word>
+	<word weight="0.014388489208633094" count="2">service</word>
+	<phrase weight="0.25" count="1">swagger property swagger enable string title string description string version string license url string license url url string term service url contact contact contact swagger string base swagger url list string base path array list base path url list string exclude path array list map string docket info docket link hash map host string host list global operation parameter global operation parameter</phrase>
+	<phrase weight="0.25" count="1">query path body form string parameter</phrase>
+	<phrase weight="0.25" count="1">global operation parameter string string description string model ref</phrase>
+	<phrase weight="0.25" count="1">string require</phrase>
+  </topic>
+  <topic id="6" alpha="0.031863963844608816" totalTokens="67" titles="time, integer, fill, max, connect, rest, pool, update, true, auto">
+	<word weight="0.1044776119402985" count="7">time</word>
+	<word weight="0.07462686567164178" count="5">integer</word>
+	<word weight="0.07462686567164178" count="5">fill</word>
+	<word weight="0.05970149253731343" count="4">max</word>
+	<word weight="0.05970149253731343" count="4">connect</word>
+	<word weight="0.05970149253731343" count="4">rest</word>
+	<word weight="0.04477611940298507" count="3">pool</word>
+	<word weight="0.04477611940298507" count="3">update</word>
+	<word weight="0.04477611940298507" count="3">true</word>
+	<word weight="0.04477611940298507" count="3">auto</word>
+	<word weight="0.04477611940298507" count="3">enable</word>
+	<word weight="0.029850746268656716" count="2">timeout</word>
+	<word weight="0.029850746268656716" count="2">template</word>
+	<word weight="0.029850746268656716" count="2">route</word>
+	<word weight="0.029850746268656716" count="2">field</word>
+	<word weight="0.029850746268656716" count="2">create</word>
+	<word weight="0.029850746268656716" count="2">mybatis</word>
+	<word weight="0.029850746268656716" count="2">getter</word>
+	<word weight="0.014925373134328358" count="1">read</word>
+	<word weight="0.014925373134328358" count="1">total</word>
+	<phrase weight="0.25" count="2">auto fill</phrase>
+	<phrase weight="0.125" count="1">rest pool</phrase>
+	<phrase weight="0.125" count="1">rest client pool</phrase>
+	<phrase weight="0.125" count="1">enable true enable insert fill true enable update fill true</phrase>
+	<phrase weight="0.125" count="1">template rest template</phrase>
+	<phrase weight="0.125" count="1">mybatis auto fill</phrase>
+	<phrase weight="0.125" count="1">create time field create time</phrase>
+  </topic>
+  <topic id="7" alpha="0.02167749097539439" totalTokens="37" titles="oss, list, mapper, user, sql, array, tenant, ignore, fdf, fast">
+	<word weight="0.16216216216216217" count="6">oss</word>
+	<word weight="0.13513513513513514" count="5">list</word>
+	<word weight="0.08108108108108109" count="3">mapper</word>
+	<word weight="0.05405405405405406" count="2">user</word>
+	<word weight="0.05405405405405406" count="2">sql</word>
+	<word weight="0.05405405405405406" count="2">array</word>
+	<word weight="0.05405405405405406" count="2">tenant</word>
+	<word weight="0.05405405405405406" count="2">ignore</word>
+	<word weight="0.05405405405405406" count="2">fdf</word>
+	<word weight="0.05405405405405406" count="2">fast</word>
+	<word weight="0.05405405405405406" count="2">server</word>
+	<word weight="0.05405405405405406" count="2">file</word>
+	<word weight="0.02702702702702703" count="1">central</word>
+	<word weight="0.02702702702702703" count="1">table</word>
+	<word weight="0.02702702702702703" count="1">fastdf</word>
+	<word weight="0.02702702702702703" count="1">qiniu</word>
+	<word weight="0.02702702702702703" count="1">refresh</word>
+	<phrase weight="0.25" count="2">oss oss</phrase>
+	<phrase weight="0.125" count="1">server refresh</phrase>
+	<phrase weight="0.125" count="1">file server</phrase>
+	<phrase weight="0.125" count="1">qiniu oss</phrase>
+	<phrase weight="0.125" count="1">list list</phrase>
+	<phrase weight="0.125" count="1">oss fastdf fast</phrase>
+	<phrase weight="0.125" count="1">ignore table array list sql mapper central user mapper user mapper</phrase>
+  </topic>
+  <topic id="8" alpha="0.010529027967527646" totalTokens="39" titles="group, ldap, property, mapping, set, extend, ">
+	<word weight="0.2564102564102564" count="10">group</word>
+	<word weight="0.20512820512820512" count="8">ldap</word>
+	<word weight="0.20512820512820512" count="8">property</word>
+	<word weight="0.1282051282051282" count="5">mapping</word>
+	<word weight="0.1282051282051282" count="5">map</word>
+	<word weight="0.05128205128205128" count="2">set</word>
+	<word weight="0.02564102564102564" count="1">extend</word>
+	<phrase weight="1.0" count="1">ldap ldap extend property ldap mapping property map ldap group property group ldap mapping property map map set mapping ldap mapping property map mapping map ldap group property group group set group ldap group</phrase>
+  </topic>
+  <topic id="9" alpha="0.26079214477943746" totalTokens="197" titles="property, configuration, prefix, setter, zlt, getter, string, scope, refresh, log">
+	<word weight="0.24873096446700507" count="49">property</word>
+	<word weight="0.08629441624365482" count="17">configuration</word>
+	<word weight="0.08121827411167512" count="16">prefix</word>
+	<word weight="0.07106598984771574" count="14">setter</word>
+	<word weight="0.06598984771573604" count="13">zlt</word>
+	<word weight="0.06091370558375635" count="12">getter</word>
+	<word weight="0.050761421319796954" count="10">string</word>
+	<word weight="0.050761421319796954" count="10">scope</word>
+	<word weight="0.04568527918781726" count="9">refresh</word>
+	<word weight="0.025380710659898477" count="5">log</word>
+	<word weight="0.025380710659898477" count="5">false</word>
+	<word weight="0.015228426395939087" count="3">audit</word>
+	<word weight="0.015228426395939087" count="3">enable</word>
+	<word weight="0.015228426395939087" count="3">code</word>
+	<word weight="0.015228426395939087" count="3">auth</word>
+	<word weight="0.015228426395939087" count="3">type</word>
+	<word weight="0.01015228426395939" count="2">trace</word>
+	<word weight="0.01015228426395939" count="2">validate</word>
+	<word weight="0.01015228426395939" count="2">ignore</word>
+	<word weight="0.01015228426395939" count="2">permit</word>
+	<phrase weight="0.1111111111111111" count="2">property setter getter configuration property prefix zlt</phrase>
+	<phrase weight="0.1111111111111111" count="2">setter getter configuration property prefix zlt</phrase>
+	<phrase weight="0.1111111111111111" count="2">property setter</phrase>
+	<phrase weight="0.1111111111111111" count="2">configuration property prefix zlt</phrase>
+	<phrase weight="0.1111111111111111" count="2">refresh scope</phrase>
+	<phrase weight="0.05555555555555555" count="1">configuration property zlt</phrase>
+	<phrase weight="0.05555555555555555" count="1">property setter getter configuration property zlt</phrase>
+	<phrase weight="0.05555555555555555" count="1">log property extend</phrase>
+	<phrase weight="0.05555555555555555" count="1">fdfs property</phrase>
+	<phrase weight="0.05555555555555555" count="1">property enable false</phrase>
+	<phrase weight="0.05555555555555555" count="1">property prefix</phrase>
+	<phrase weight="0.05555555555555555" count="1">property setter getter configuration property prefix zlt audit log</phrase>
+	<phrase weight="0.05555555555555555" count="1">configuration property prefix</phrase>
+  </topic>
+</topics>

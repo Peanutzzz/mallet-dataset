@@ -1,0 +1,14 @@
+0 qualifier 0:4
+1 file 0:2
+2 text 0:4
+3 resolver 0:6
+4 config 0:2
+5 property 0:2
+6 autowire 0:2
+7 flow 0:4
+8 rule 0:8
+9 provider 0:3
+10 dynamic 0:2
+11 list 0:2
+12 entity 0:2
+13 publisher 0:3

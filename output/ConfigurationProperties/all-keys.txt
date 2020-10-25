@@ -1,0 +1,10 @@
+0	0.03099	cache config source druid datum key manager datasource spring bean proxy sec hikari configuration 
+1	0.0116	route generate size swagger ignore set string doc api agg hash json path version true show 
+2	0.01735	map list string command node cluster seconds expire timeout redis config sample logger set initialize link format override construct post 
+3	0.01158	string member datum set override map key val add address synchronize collection remove raft hash config exception jackson put data 
+4	0.00972	string environment base url filter search anonymous password username port read ldap set local determine map server login operation property 
+5	0.01172	string url list path contact swagger parameter base operation global license array docket description email host info map exclude service 
+6	0.03186	time integer fill max connect rest pool update true auto enable timeout template route field create mybatis getter read total 
+7	0.02168	oss list mapper user sql array tenant ignore fdf fast server file central table fastdf qiniu refresh 
+8	0.01053	group ldap property mapping map set extend 
+9	0.26079	property configuration prefix setter zlt getter string scope refresh log false audit enable code auth type trace validate ignore permit 

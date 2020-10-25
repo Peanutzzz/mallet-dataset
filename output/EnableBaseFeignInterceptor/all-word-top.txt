@@ -1,0 +1,17 @@
+0 gateway 0:5
+1 app 0:5
+2 enable 0:7
+3 feign 0:4
+4 client 0:4
+5 base 0:2
+6 interceptor 0:2
+7 discovery 0:2
+8 spring 0:4
+9 boot 0:2
+10 application 0:4
+11 main 0:2
+12 string 0:2
+13 arg 0:4
+14 run 0:2
+15 zuul 0:1
+16 proxy 0:1

@@ -1,0 +1,10 @@
+0	0.03228	handler logout heartbeat sso bean miss conditional 
+1	0.01115	property bean source conditional processor configuration auto config swagger miss apollo enable fill bootstrap constant date meta missing prefix configure 
+2	0.00507	handler object meta true match mybatis zlt 
+3	0.00391	rest client level high template elasticsearch bean conditional configure 
+4	0.03012	user holder service info bean miss spring security conditional determine 
+5	0.00469	ldap template source context bean exception result partial ignore operation set true conditional 
+6	0.00434	swagger url exclude predicate factory api group configurable parameter global security title context operation host array singleton register apis assembly 
+7	0.00395	docket info path property contact list base empty license string add term description selector size scheme ant build service request 
+8	0.00473	source property set ldap context base environment read anonymous password url bean map unmodifiable collection username 
+9	0.01236	bean email service version conditional rule miss operation create isolation security title set key server naco missing 

@@ -1,0 +1,10 @@
+0	0.00894	authentication filter tenant manager login config security password logout handler success session constant oauth page username detail user encoder bean 
+1	0.02424	config configuration biz apollo order property test source precedence lowest namespace integration win max registrar document protect permission string bean 
+2	0.03311	http url security handler resource authorize point entry expression authentication autowire server set auth configurer creation request exception override property 
+3	0.01996	entity set test add result app item mvc mock equal port date modify verify strategy string repository sentinel mem content 
+4	0.04489	retention type interceptor feign enable runtime policy element target config service client search base smaller integer application inject spring link 
+5	0.00887	api item predicate definition match apis add pattern list url update gateway future exact size redicate vos expect hash reference 
+6	0.024	configuration conditional documentation swagger true enable singleton missing match zlt header property boot permission parse object size link aware implement 
+7	0.01987	builder req gmt request client list path type json memory true response servlet method handler find http save post success 
+8	0.00989	docket swagger parameter property path operation info list global api security base bean contact url context add key factory predicate 
+9	0.0089	flow gateway rule param resource interval parse behavior unit mode entity control route req api grade timeout count max queue 

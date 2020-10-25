@@ -1,0 +1,10 @@
+0	0.18912	type string selector json info support property implement protect impl alibaba ignore org candidate qualified true naco test unique announce 
+1	0.02249	duration alignment index async sync delay start hash field creator state override json end jira href compatibility pend 
+2	0.01919	stats task num timestamp failure latest trigger savepoint fail message discard path external vertex job hash key number nullable map 
+3	0	
+4	0.04553	checkpoint json field property statistics subtask ack state status size timestamp string buffer alignment complete duration object pend equal type 
+5	0.06498	provider list consumer instance selector util skip param select address equal subtype register jackson api extend json substr whitespace parser 
+6	0.01911	index label string element expression set start add parse prefix size term empty naco support syntax conncetor exception character check 
+7	0	
+8	0.0183	checker clone health exception override instance field tcp mysql http cloneable 
+9	0	

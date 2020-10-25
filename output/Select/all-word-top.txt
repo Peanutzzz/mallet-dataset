@@ -1,0 +1,15 @@
+0 role 0:6
+1 mapper 0:1
+2 select 0:2
+3 script 0:2
+4 user 0:5
+5 join 0:1
+6 foreach 0:2
+7 item 0:3
+8 index 0:2
+9 collection 0:1
+10 list 0:3
+11 open 0:1
+12 separator 0:1
+13 close 0:1
+14 find 0:1

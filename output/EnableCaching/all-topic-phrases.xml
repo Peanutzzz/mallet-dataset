@@ -1,0 +1,133 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="4.08529036294378" totalTokens="4" titles="dif, serialize, enable, ">
+	<word weight="0.5" count="2">dif</word>
+	<word weight="0.25" count="1">serialize</word>
+	<word weight="0.25" count="1">enable</word>
+  </topic>
+  <topic id="1" alpha="7.243190573757231" totalTokens="59" titles="cache, factory, redis, object, set, size, bean, def, configuration, concat">
+	<word weight="0.2033898305084746" count="12">cache</word>
+	<word weight="0.13559322033898305" count="8">factory</word>
+	<word weight="0.13559322033898305" count="8">redis</word>
+	<word weight="0.11864406779661017" count="7">object</word>
+	<word weight="0.0847457627118644" count="5">set</word>
+	<word weight="0.06779661016949153" count="4">size</word>
+	<word weight="0.05084745762711865" count="3">bean</word>
+	<word weight="0.03389830508474576" count="2">def</word>
+	<word weight="0.03389830508474576" count="2">configuration</word>
+	<word weight="0.01694915254237288" count="1">concat</word>
+	<word weight="0.01694915254237288" count="1">method</word>
+	<word weight="0.01694915254237288" count="1">initial</word>
+	<word weight="0.01694915254237288" count="1">put</word>
+	<word weight="0.01694915254237288" count="1">seconds</word>
+	<word weight="0.01694915254237288" count="1">map</word>
+	<word weight="0.01694915254237288" count="1">duration</word>
+	<word weight="0.01694915254237288" count="1">primary</word>
+	<phrase weight="0.18181818181818182" count="2">factory factory</phrase>
+	<phrase weight="0.09090909090909091" count="1">size cache</phrase>
+	<phrase weight="0.09090909090909091" count="1">initial cache</phrase>
+	<phrase weight="0.09090909090909091" count="1">cache configuration</phrase>
+	<phrase weight="0.09090909090909091" count="1">duration seconds</phrase>
+	<phrase weight="0.09090909090909091" count="1">size map</phrase>
+	<phrase weight="0.09090909090909091" count="1">primary cache</phrase>
+	<phrase weight="0.09090909090909091" count="1">factory cache</phrase>
+	<phrase weight="0.09090909090909091" count="1">method object</phrase>
+	<phrase weight="0.09090909090909091" count="1">factory bean</phrase>
+  </topic>
+  <topic id="2" alpha="5.447388013649498" totalTokens="15" titles="cache, serialization, object, concat, map, ">
+	<word weight="0.4666666666666667" count="7">cache</word>
+	<word weight="0.26666666666666666" count="4">serialization</word>
+	<word weight="0.13333333333333333" count="2">object</word>
+	<word weight="0.06666666666666667" count="1">concat</word>
+	<word weight="0.06666666666666667" count="1">map</word>
+  </topic>
+  <topic id="3" alpha="5.523562301006195" totalTokens="31" titles="key, config, connection, obj, bean, compute, caching, target, manager, ">
+	<word weight="0.41935483870967744" count="13">key</word>
+	<word weight="0.1935483870967742" count="6">config</word>
+	<word weight="0.12903225806451613" count="4">connection</word>
+	<word weight="0.06451612903225806" count="2">obj</word>
+	<word weight="0.06451612903225806" count="2">bean</word>
+	<word weight="0.03225806451612903" count="1">compute</word>
+	<word weight="0.03225806451612903" count="1">caching</word>
+	<word weight="0.03225806451612903" count="1">target</word>
+	<word weight="0.03225806451612903" count="1">manager</word>
+	<phrase weight="1.0" count="1">caching compute</phrase>
+  </topic>
+  <topic id="4" alpha="5.187377054568265" totalTokens="22" titles="property, cache, builder, context, configure, ttl, auto, ">
+	<word weight="0.36363636363636365" count="8">property</word>
+	<word weight="0.18181818181818182" count="4">cache</word>
+	<word weight="0.13636363636363635" count="3">builder</word>
+	<word weight="0.09090909090909091" count="2">context</word>
+	<word weight="0.09090909090909091" count="2">configure</word>
+	<word weight="0.045454545454545456" count="1">build</word>
+	<word weight="0.045454545454545456" count="1">ttl</word>
+	<word weight="0.045454545454545456" count="1">auto</word>
+	<phrase weight="1.0" count="1">auto configure</phrase>
+  </topic>
+  <topic id="5" alpha="4.544845249838257" totalTokens="11" titles="append, template, disable, duration, ttl, java, serializer, ">
+	<word weight="0.2727272727272727" count="3">append</word>
+	<word weight="0.2727272727272727" count="3">template</word>
+	<word weight="0.09090909090909091" count="1">disable</word>
+	<word weight="0.09090909090909091" count="1">duration</word>
+	<word weight="0.09090909090909091" count="1">ttl</word>
+	<word weight="0.09090909090909091" count="1">java</word>
+	<word weight="0.09090909090909091" count="1">serializer</word>
+  </topic>
+  <topic id="6" alpha="4.830720970062651" totalTokens="2" titles="serialize, redi, ">
+	<word weight="0.5" count="1">serialize</word>
+	<word weight="0.5" count="1">redi</word>
+  </topic>
+  <topic id="7" alpha="13.895264629289443" totalTokens="93" titles="redis, serializer, configuration, string, generator, key, concat, method, template, autowire">
+	<word weight="0.45161290322580644" count="42">redis</word>
+	<word weight="0.3333333333333333" count="31">serializer</word>
+	<word weight="0.08602150537634409" count="8">configuration</word>
+	<word weight="0.03225806451612903" count="3">string</word>
+	<word weight="0.021505376344086023" count="2">generator</word>
+	<word weight="0.021505376344086023" count="2">key</word>
+	<word weight="0.010752688172043012" count="1">concat</word>
+	<word weight="0.010752688172043012" count="1">method</word>
+	<word weight="0.010752688172043012" count="1">template</word>
+	<word weight="0.010752688172043012" count="1">autowire</word>
+	<word weight="0.010752688172043012" count="1">manager</word>
+	<phrase weight="0.2631578947368421" count="5">serializer redis serializer</phrase>
+	<phrase weight="0.21052631578947367" count="4">serializer redis</phrase>
+	<phrase weight="0.10526315789473684" count="2">redis serializer string redis</phrase>
+	<phrase weight="0.05263157894736842" count="1">serializer redis serializer redis</phrase>
+	<phrase weight="0.05263157894736842" count="1">redis serializer redis</phrase>
+	<phrase weight="0.05263157894736842" count="1">redis serializer redis serializer</phrase>
+	<phrase weight="0.05263157894736842" count="1">redis serializer</phrase>
+	<phrase weight="0.05263157894736842" count="1">serializer string redis</phrase>
+	<phrase weight="0.05263157894736842" count="1">key generator</phrase>
+	<phrase weight="0.05263157894736842" count="1">serializer redis key serializer redis</phrase>
+	<phrase weight="0.05263157894736842" count="1">redis template</phrase>
+  </topic>
+  <topic id="8" alpha="3.6600573677841877" totalTokens="25" titles="string, template, pair, hash, prefix, hour, connection, enable, ">
+	<word weight="0.36" count="9">string</word>
+	<word weight="0.32" count="8">template</word>
+	<word weight="0.08" count="2">pair</word>
+	<word weight="0.08" count="2">hash</word>
+	<word weight="0.04" count="1">prefix</word>
+	<word weight="0.04" count="1">hour</word>
+	<word weight="0.04" count="1">connection</word>
+	<word weight="0.04" count="1">enable</word>
+	<phrase weight="0.6666666666666666" count="2">template string</phrase>
+	<phrase weight="0.3333333333333333" count="1">string string</phrase>
+  </topic>
+  <topic id="9" alpha="7.9209135056426865" totalTokens="32" titles="manager, conf, redi, map, entry, cache, target, configs, def, param">
+	<word weight="0.25" count="8">manager</word>
+	<word weight="0.21875" count="7">conf</word>
+	<word weight="0.125" count="4">redi</word>
+	<word weight="0.09375" count="3">map</word>
+	<word weight="0.0625" count="2">entry</word>
+	<word weight="0.0625" count="2">cache</word>
+	<word weight="0.03125" count="1">target</word>
+	<word weight="0.03125" count="1">configs</word>
+	<word weight="0.03125" count="1">def</word>
+	<word weight="0.03125" count="1">param</word>
+	<word weight="0.03125" count="1">redis</word>
+	<word weight="0.03125" count="1">property</word>
+	<phrase weight="0.3333333333333333" count="1">cache manager</phrase>
+	<phrase weight="0.3333333333333333" count="1">manager property configs</phrase>
+	<phrase weight="0.3333333333333333" count="1">def conf</phrase>
+  </topic>
+</topics>

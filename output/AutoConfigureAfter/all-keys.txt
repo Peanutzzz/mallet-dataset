@@ -1,0 +1,10 @@
+0	1.0921	false factory request user 
+1	1.24213	access authentication response store configure filter redis user manager adapter 
+2	1.51411	exception code configure secret cache param endpoint 
+3	1.17068	security load code required resource grant 
+4	1.05918	service security store credentials extend 
+5	1.57692	endpoint chain authorization authentication configurer authenticate store password auto 
+6	1.35339	converter override web oauth array set code response 
+7	1.18502	client autowire manager permit configurer 
+8	1.09309	translator param user form check list require converter enable configuration 
+9	1.83781	token enhancer detail server authorization granter jwt auth autowired configurer config key security random type 

@@ -1,0 +1,68 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.736241044488578" totalTokens="15" titles="add, helper, remove, strategy, entity, table, ">
+	<word weight="0.3333333333333333" count="5">add</word>
+	<word weight="0.26666666666666666" count="4">helper</word>
+	<word weight="0.13333333333333333" count="2">remove</word>
+	<word weight="0.13333333333333333" count="2">strategy</word>
+	<word weight="0.06666666666666667" count="1">entity</word>
+	<word weight="0.06666666666666667" count="1">table</word>
+	<phrase weight="1.0" count="1">add add</phrase>
+  </topic>
+  <topic id="1" alpha="24.49444716115908" totalTokens="79" titles="datum change, nullable, omit, ">
+	<word weight="0.4810126582278481" count="38">change</word>
+	<word weight="0.4810126582278481" count="38">datum</word>
+	<word weight="0.02531645569620253" count="2">nullable</word>
+	<word weight="0.012658227848101266" count="1">omit</word>
+	<phrase weight="1.0" count="28">datum change</phrase>
+  </topic>
+  <topic id="2" alpha="5.13183919531553" totalTokens="18" titles="change, column, generation, generate, map, ">
+	<word weight="0.4444444444444444" count="8">change</word>
+	<word weight="0.3888888888888889" count="7">column</word>
+	<word weight="0.05555555555555555" count="1">generation</word>
+	<word weight="0.05555555555555555" count="1">generate</word>
+	<word weight="0.05555555555555555" count="1">map</word>
+  </topic>
+  <topic id="3" alpha="9.261939155760444" totalTokens="23" titles="modify, ">
+	<word weight="1.0" count="23">modify</word>
+  </topic>
+  <topic id="4" alpha="13.715580648775395" totalTokens="22" titles="string, pre, type, identity, ">
+	<word weight="0.5909090909090909" count="13">string</word>
+	<word weight="0.2727272727272727" count="6">pre</word>
+	<word weight="0.09090909090909091" count="2">type</word>
+	<word weight="0.045454545454545456" count="1">identity</word>
+	<phrase weight="0.5" count="1">type identity</phrase>
+	<phrase weight="0.5" count="1">string string string</phrase>
+  </topic>
+  <topic id="5" alpha="12.796875266530144" totalTokens="29" titles="time, inheritance, object, ">
+	<word weight="0.896551724137931" count="26">time</word>
+	<word weight="0.06896551724137931" count="2">inheritance</word>
+	<word weight="0.034482758620689655" count="1">object</word>
+  </topic>
+  <topic id="6" alpha="9.475345374186142" totalTokens="23" titles="create, base, ">
+	<word weight="0.9565217391304348" count="22">create</word>
+	<word weight="0.043478260869565216" count="1">base</word>
+  </topic>
+  <topic id="7" alpha="8.593722806620356" totalTokens="14" titles="delete, protect, bit, ">
+	<word weight="0.5714285714285714" count="8">delete</word>
+	<word weight="0.35714285714285715" count="5">protect</word>
+	<word weight="0.07142857142857142" count="1">bit</word>
+	<phrase weight="0.3333333333333333" count="1">delete delete</phrase>
+	<phrase weight="0.3333333333333333" count="1">bit protect delete</phrase>
+	<phrase weight="0.3333333333333333" count="1">delete delete delete delete</phrase>
+  </topic>
+  <topic id="8" alpha="5.339206532172745" totalTokens="14" titles="data, set, superclass, ">
+	<word weight="0.5714285714285714" count="8">data</word>
+	<word weight="0.35714285714285715" count="5">set</word>
+	<word weight="0.07142857142857142" count="1">superclass</word>
+  </topic>
+  <topic id="9" alpha="6.900561424830147" totalTokens="19" titles="date, false, update, persist, set, definition, ">
+	<word weight="0.5263157894736842" count="10">date</word>
+	<word weight="0.15789473684210525" count="3">false</word>
+	<word weight="0.10526315789473684" count="2">update</word>
+	<word weight="0.10526315789473684" count="2">persist</word>
+	<word weight="0.05263157894736842" count="1">set</word>
+	<word weight="0.05263157894736842" count="1">definition</word>
+	<phrase weight="1.0" count="1">false date</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,146 @@
+0 config 7:4 2:3 9:1
+1 conditional 9:1 2:1
+2 miss 9:1 2:1
+3 profile 2:3 0:1
+4 auth 2:17 7:12
+5 configuration 0:5 2:2 9:1
+6 enable 2:11 4:1 0:1 7:1
+7 web 2:14
+8 security 2:25 7:2 0:2
+9 global 2:5 9:1
+10 method 2:4 0:1
+11 pre 2:6
+12 post 2:5
+13 true 4:8 2:6 0:1
+14 extend 0:14 2:5
+15 configurer 2:7 0:1
+16 adapter 2:4 0:1
+17 override 2:9
+18 protect 2:5 7:2
+19 configure 2:8 0:1
+20 http 2:30 4:4 7:1
+21 exception 2:10 7:3
+22 basic 2:2 4:1
+23 csrf 2:4 7:1 4:1
+24 disable 2:5 7:1
+25 header 2:6
+26 frame 2:3 0:1
+27 option 2:4
+28 origin 4:2 2:2
+29 authentication 2:14 7:6 0:6
+30 useless 9:1
+31 remove 9:4
+32 backward 9:1
+33 compatibility 9:1
+34 client 2:1
+35 send 9:1
+36 information 2:1
+37 server 2:1
+38 big 9:1
+39 problem 9:1
+40 follow 2:1
+41 spring 4:3 9:1
+42 apollo 9:2 0:2
+43 autowire 7:3 9:1
+44 manager 7:6 9:1 4:1
+45 builder 9:1 4:1 7:1
+46 memory 9:1
+47 user 2:13 0:13 4:5
+48 password 7:6 9:2
+49 role 2:5
+50 admin 9:1
+51 order 2:2
+52 string 7:11 2:1 0:1
+53 authorize 4:2 0:1 3:1
+54 request 2:4 7:2
+55 ant 7:3 4:3 2:1
+56 matcher 2:5 7:3
+57 prometheus 4:2
+58 metric 4:2
+59 openapi 4:2
+60 vendor 4:2
+61 style 4:1 0:1
+62 script 2:1 0:1
+63 view 4:1 0:1
+64 img 4:2
+65 prefix 7:1 2:1 0:1 3:1
+66 path 4:1 0:1
+67 permit 2:6
+68 form 2:1 4:1
+69 login 4:4 7:3 0:2 2:1
+70 page 4:1 0:1
+71 signin 4:7 0:1
+72 success 4:4
+73 url 4:10 7:8
+74 failure 4:2
+75 error 4:2
+76 logout 4:10
+77 invalidate 4:2
+78 session 2:3 4:1 7:1
+79 clear 4:1 0:1
+80 handle 4:2 7:1
+81 entry 7:6 2:4
+82 point 7:6 4:4
+83 ldap 0:54 2:1
+84 property 0:23 7:1
+85 context 0:10
+86 source 0:10
+87 bean 7:5 4:2
+88 filter 0:12 7:2 2:2
+89 base 0:8 7:3
+90 search 0:21
+91 group 0:14
+92 util 7:4 0:1
+93 blank 7:3 4:1
+94 set 0:5
+95 subtree 0:3
+96 map 4:2
+97 rdn 4:1
+98 key 4:1
+99 membership 0:1
+100 provider 0:7 7:2
+101 bind 0:4 4:1
+102 authenticator 4:4 0:1
+103 authority 4:2
+104 populator 0:2
+105 auto 0:3 4:1
+106 ignore 7:10 4:1
+107 partial 4:1
+108 result 0:1
+109 rewrite 4:1
+110 logic 2:1
+111 system 7:4 4:1
+112 input 2:1
+113 authenticate 0:1 7:1
+114 naco 7:7
+115 authorization 7:2
+116 spill 2:2
+117 token 7:7
+118 bearer 7:1
+119 console 2:2
+120 resource 2:1
+121 environment 7:1
+122 env 7:1 2:1
+123 jwt 7:4
+124 configs 7:2
+125 autowired 2:1
+126 detail 7:4
+127 service 7:4
+128 impl 2:1
+129 type 7:4
+130 equal 3:1
+131 trim 7:2
+132 split 2:1
+133 encoder 7:5
+134 cor 7:2
+135 don 2:1
+136 management 7:1
+137 creation 7:2
+138 policy 7:2
+139 stateless 2:1
+140 flight 7:1
+141 cache 7:2
+142 control 2:1
+143 add 2:1
+144 username 2:1
+145 crypt 2:1

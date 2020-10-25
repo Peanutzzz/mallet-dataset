@@ -1,0 +1,10 @@
+0	0.18439	parameterize base parameter strategy connector failover watermark planner broadcast tolerance window ctx context compression 
+1	0.04052	ssl serializer previous integer server async request 
+2	0.12701	backend state async checkpointing incremental enable memory partitioner asyncmode mode escape size 
+3	0.03927	stream output state checkpoint abort table path relative mode 
+4	0.78095	test parameter parameterized spec configuration version splitter restore false fixer precision tree environment migration pad 
+5	0.04105	string scheme system info file behavior parameter 
+6	0.05701	factory parameterized future legacy schema derive ternary sink duration 
+7	0.04395	enable invalid format option unaligned builder view read config 
+8	0.07692	string identifier print pretty expect parse provider util parsed list ttl compression duration size pipeline 
+9	0.09208	type datum converter item util nullable benchmark snapshot object clazz information 

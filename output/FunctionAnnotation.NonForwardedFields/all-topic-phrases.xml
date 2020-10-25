@@ -1,0 +1,43 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="22.017730459004216" totalTokens="117" titles="integer, string, tuple, function, reduce, forward, group, override, implement, field">
+	<word weight="0.2222222222222222" count="26">integer</word>
+	<word weight="0.1111111111111111" count="13">string</word>
+	<word weight="0.1111111111111111" count="13">tuple</word>
+	<word weight="0.09401709401709402" count="11">function</word>
+	<word weight="0.05128205128205128" count="6">reduce</word>
+	<word weight="0.042735042735042736" count="5">forward</word>
+	<word weight="0.03418803418803419" count="4">group</word>
+	<word weight="0.03418803418803419" count="4">override</word>
+	<word weight="0.03418803418803419" count="4">implement</word>
+	<word weight="0.03418803418803419" count="4">field</word>
+	<word weight="0.03418803418803419" count="4">annotation</word>
+	<word weight="0.03418803418803419" count="4">test</word>
+	<word weight="0.02564102564102564" count="3">exception</word>
+	<word weight="0.02564102564102564" count="3">combine</word>
+	<word weight="0.02564102564102564" count="3">dummy</word>
+	<word weight="0.017094017094017096" count="2">collector</word>
+	<word weight="0.017094017094017096" count="2">iterable</word>
+	<word weight="0.017094017094017096" count="2">operator</word>
+	<word weight="0.017094017094017096" count="2">map</word>
+	<word weight="0.008547008547008548" count="1">mapper</word>
+  </topic>
+  <topic id="1" alpha="5.710904241688996E-168" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="5.912179915702852E-168" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="3.4211922053590313E-168" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="5.79016824445971E-168" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="6.793077642353361E-168" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="6.43749985352813E-168" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="6.188597401229176E-168" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="8.485495508406986E-168" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="6.348015553351878E-168" totalTokens="0" titles="">
+  </topic>
+</topics>

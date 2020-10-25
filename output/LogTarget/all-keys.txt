@@ -1,0 +1,10 @@
+0	1.40785	warn command info org string log 
+1	14.80991	logger error trace object center impl 
+2	3.46584	trace argument impl org 
+3	12.14238	logger info format override center throwable argument factory object 
+4	2.31429	object override argument slf org log 
+5	11.73288	format argument warn slf record throwable info 
+6	4.81232	debug object info 
+7	9.76944	msg override debug 
+8	15.45957	string throwable log record target logger argument override factory slf 
+9	6.46523	override implement log info factory 

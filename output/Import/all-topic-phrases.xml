@@ -1,0 +1,360 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.008942260294453917" totalTokens="246" titles="authentication, filter, tenant, manager, login, config, security, password, logout, handler">
+	<word weight="0.15853658536585366" count="39">authentication</word>
+	<word weight="0.06910569105691057" count="17">filter</word>
+	<word weight="0.04878048780487805" count="12">tenant</word>
+	<word weight="0.04878048780487805" count="12">manager</word>
+	<word weight="0.044715447154471545" count="11">login</word>
+	<word weight="0.044715447154471545" count="11">config</word>
+	<word weight="0.044715447154471545" count="11">security</word>
+	<word weight="0.04065040650406504" count="10">password</word>
+	<word weight="0.036585365853658534" count="9">logout</word>
+	<word weight="0.036585365853658534" count="9">handler</word>
+	<word weight="0.032520325203252036" count="8">success</word>
+	<word weight="0.032520325203252036" count="8">session</word>
+	<word weight="0.024390243902439025" count="6">constant</word>
+	<word weight="0.024390243902439025" count="6">oauth</word>
+	<word weight="0.02032520325203252" count="5">page</word>
+	<word weight="0.02032520325203252" count="5">username</word>
+	<word weight="0.02032520325203252" count="5">detail</word>
+	<word weight="0.02032520325203252" count="5">user</word>
+	<word weight="0.016260162601626018" count="4">encoder</word>
+	<word weight="0.016260162601626018" count="4">bean</word>
+	<phrase weight="0.06060606060606061" count="2">authentication success</phrase>
+	<phrase weight="0.030303030303030304" count="1">constant login page add filter tenant authentication filter authentication manager username password authentication filter apply tenant authentication security config</phrase>
+	<phrase weight="0.030303030303030304" count="1">config mobile authentication security config</phrase>
+	<phrase weight="0.030303030303030304" count="1">logout logout</phrase>
+	<phrase weight="0.030303030303030304" count="1">security constant oauth login pro</phrase>
+	<phrase weight="0.030303030303030304" count="1">form login login page security constant login page login</phrase>
+	<phrase weight="0.030303030303030304" count="1">manager bean</phrase>
+	<phrase weight="0.030303030303030304" count="1">constant oauth login pro</phrase>
+	<phrase weight="0.030303030303030304" count="1">authentication success handler autowire required</phrase>
+	<phrase weight="0.030303030303030304" count="1">authentication manager bean</phrase>
+	<phrase weight="0.030303030303030304" count="1">session creation policy session</phrase>
+	<phrase weight="0.030303030303030304" count="1">authentication manager authentication manager autowire tenant authentication security config tenant authentication security config</phrase>
+	<phrase weight="0.030303030303030304" count="1">mobile authentication</phrase>
+	<phrase weight="0.030303030303030304" count="1">filter set authentication success</phrase>
+	<phrase weight="0.030303030303030304" count="1">user detail authentication manager builder</phrase>
+	<phrase weight="0.030303030303030304" count="1">password config security config</phrase>
+	<phrase weight="0.030303030303030304" count="1">constant logout</phrase>
+	<phrase weight="0.030303030303030304" count="1">logout success handler oauth logout success handler add logout handler oauth logout handler clear authentication</phrase>
+	<phrase weight="0.030303030303030304" count="1">password encoder password encoder</phrase>
+	<phrase weight="0.030303030303030304" count="1">authentication failure handler</phrase>
+  </topic>
+  <topic id="1" alpha="0.024244898769731033" totalTokens="64" titles="config, configuration, biz, apollo, order, property, test, source, precedence, lowest">
+	<word weight="0.1875" count="12">config</word>
+	<word weight="0.109375" count="7">configuration</word>
+	<word weight="0.09375" count="6">biz</word>
+	<word weight="0.09375" count="6">apollo</word>
+	<word weight="0.078125" count="5">order</word>
+	<word weight="0.078125" count="5">property</word>
+	<word weight="0.0625" count="4">test</word>
+	<word weight="0.0625" count="4">source</word>
+	<word weight="0.03125" count="2">precedence</word>
+	<word weight="0.03125" count="2">lowest</word>
+	<word weight="0.03125" count="2">namespace</word>
+	<word weight="0.015625" count="1">integration</word>
+	<word weight="0.015625" count="1">win</word>
+	<word weight="0.015625" count="1">max</word>
+	<word weight="0.015625" count="1">registrar</word>
+	<word weight="0.015625" count="1">document</word>
+	<word weight="0.015625" count="1">protect</word>
+	<word weight="0.015625" count="1">permission</word>
+	<word weight="0.015625" count="1">string</word>
+	<word weight="0.015625" count="1">bean</word>
+	<phrase weight="0.125" count="1">integration test configuration config</phrase>
+	<phrase weight="0.125" count="1">order apollo config</phrase>
+	<phrase weight="0.125" count="1">order lowest precedence</phrase>
+	<phrase weight="0.125" count="1">apollo config registrar</phrase>
+	<phrase weight="0.125" count="1">property source string config namespace</phrase>
+	<phrase weight="0.125" count="1">apollo config apollo namespace</phrase>
+	<phrase weight="0.125" count="1">configuration configuration</phrase>
+	<phrase weight="0.125" count="1">max property apollo config apollo config</phrase>
+  </topic>
+  <topic id="2" alpha="0.03310581148718664" totalTokens="278" titles="http, url, security, handler, resource, authorize, point, entry, expression, authentication">
+	<word weight="0.09712230215827339" count="27">http</word>
+	<word weight="0.07913669064748201" count="22">url</word>
+	<word weight="0.07553956834532374" count="21">security</word>
+	<word weight="0.050359712230215826" count="14">handler</word>
+	<word weight="0.046762589928057555" count="13">resource</word>
+	<word weight="0.04316546762589928" count="12">authorize</word>
+	<word weight="0.03237410071942446" count="9">point</word>
+	<word weight="0.03237410071942446" count="9">entry</word>
+	<word weight="0.025179856115107913" count="7">expression</word>
+	<word weight="0.025179856115107913" count="7">authentication</word>
+	<word weight="0.025179856115107913" count="7">autowire</word>
+	<word weight="0.025179856115107913" count="7">server</word>
+	<word weight="0.02158273381294964" count="6">set</word>
+	<word weight="0.02158273381294964" count="6">auth</word>
+	<word weight="0.02158273381294964" count="6">configurer</word>
+	<word weight="0.017985611510791366" count="5">creation</word>
+	<word weight="0.017985611510791366" count="5">request</word>
+	<word weight="0.017985611510791366" count="5">exception</word>
+	<word weight="0.017985611510791366" count="5">override</word>
+	<word weight="0.017985611510791366" count="5">property</word>
+	<phrase weight="0.18181818181818182" count="2">entry point</phrase>
+	<phrase weight="0.09090909090909091" count="1">entry point http</phrase>
+	<phrase weight="0.09090909090909091" count="1">entry point resource</phrase>
+	<phrase weight="0.09090909090909091" count="1">resource server</phrase>
+	<phrase weight="0.09090909090909091" count="1">point http exception</phrase>
+	<phrase weight="0.09090909090909091" count="1">frame option disable cache</phrase>
+	<phrase weight="0.09090909090909091" count="1">configure http security http exception http authorize request request</phrase>
+	<phrase weight="0.09090909090909091" count="1">exception auth</phrase>
+	<phrase weight="0.09090909090909091" count="1">resource server password</phrase>
+	<phrase weight="0.09090909090909091" count="1">extend resource server conf override http security set authenticate expression url authorization configurer http security authorize url authorize url authorize url access</phrase>
+  </topic>
+  <topic id="3" alpha="0.019962213119811365" totalTokens="1544" titles="entity, set, test, add, result, app, item, mvc, mock, equal">
+	<word weight="0.20531088082901555" count="317">entity</word>
+	<word weight="0.09585492227979274" count="148">set</word>
+	<word weight="0.08354922279792747" count="129">test</word>
+	<word weight="0.06217616580310881" count="96">add</word>
+	<word weight="0.054404145077720206" count="84">result</word>
+	<word weight="0.04404145077720207" count="68">app</word>
+	<word weight="0.04015544041450777" count="62">item</word>
+	<word weight="0.04015544041450777" count="62">mvc</word>
+	<word weight="0.03238341968911917" count="50">mock</word>
+	<word weight="0.031088082901554404" count="48">equal</word>
+	<word weight="0.027849740932642485" count="43">port</word>
+	<word weight="0.022020725388601035" count="34">date</word>
+	<word weight="0.021373056994818652" count="33">modify</word>
+	<word weight="0.018134715025906734" count="28">verify</word>
+	<word weight="0.018134715025906734" count="28">strategy</word>
+	<word weight="0.018134715025906734" count="28">string</word>
+	<word weight="0.016191709844559584" count="25">repository</word>
+	<word weight="0.012953367875647668" count="20">sentinel</word>
+	<word weight="0.012305699481865285" count="19">mem</word>
+	<word weight="0.010362694300518135" count="16">content</word>
+	<phrase weight="0.0627177700348432" count="18">entity set</phrase>
+	<phrase weight="0.0313588850174216" count="9">item entity</phrase>
+	<phrase weight="0.0313588850174216" count="9">add entity</phrase>
+	<phrase weight="0.027874564459930314" count="8">call verify sentinel</phrase>
+	<phrase weight="0.027874564459930314" count="8">object mvc result</phrase>
+	<phrase weight="0.027874564459930314" count="8">content string</phrase>
+	<phrase weight="0.024390243902439025" count="7">add entity set</phrase>
+	<phrase weight="0.024390243902439025" count="7">exception string</phrase>
+	<phrase weight="0.020905923344947737" count="6">entity entity</phrase>
+	<phrase weight="0.020905923344947737" count="6">create entity</phrase>
+	<phrase weight="0.017421602787456445" count="5">mvc result matcher status mock mvc result</phrase>
+	<phrase weight="0.017421602787456445" count="5">print verify modify</phrase>
+	<phrase weight="0.013937282229965157" count="4">result object</phrase>
+	<phrase weight="0.013937282229965157" count="4">create date add entity set</phrase>
+	<phrase weight="0.013937282229965157" count="4">entity mem repository</phrase>
+	<phrase weight="0.010452961672473868" count="3">give sentinel</phrase>
+	<phrase weight="0.010452961672473868" count="3">modify date set</phrase>
+	<phrase weight="0.010452961672473868" count="3">app test test port</phrase>
+	<phrase weight="0.010452961672473868" count="3">test app test test port</phrase>
+	<phrase weight="0.010452961672473868" count="3">set app test app</phrase>
+  </topic>
+  <topic id="4" alpha="0.044889301398665725" totalTokens="76" titles="retention, type, interceptor, feign, enable, runtime, policy, element, target, config">
+	<word weight="0.10526315789473684" count="8">retention</word>
+	<word weight="0.10526315789473684" count="8">type</word>
+	<word weight="0.09210526315789473" count="7">interceptor</word>
+	<word weight="0.09210526315789473" count="7">feign</word>
+	<word weight="0.07894736842105263" count="6">enable</word>
+	<word weight="0.05263157894736842" count="4">runtime</word>
+	<word weight="0.05263157894736842" count="4">policy</word>
+	<word weight="0.05263157894736842" count="4">element</word>
+	<word weight="0.05263157894736842" count="4">target</word>
+	<word weight="0.039473684210526314" count="3">config</word>
+	<word weight="0.039473684210526314" count="3">service</word>
+	<word weight="0.039473684210526314" count="3">client</word>
+	<word weight="0.02631578947368421" count="2">search</word>
+	<word weight="0.02631578947368421" count="2">base</word>
+	<word weight="0.013157894736842105" count="1">smaller</word>
+	<word weight="0.013157894736842105" count="1">integer</word>
+	<word weight="0.013157894736842105" count="1">application</word>
+	<word weight="0.013157894736842105" count="1">inject</word>
+	<word weight="0.013157894736842105" count="1">spring</word>
+	<word weight="0.013157894736842105" count="1">link</word>
+	<phrase weight="0.5" count="1">interceptor target element type type retention retention policy runtime feign interceptor config feign</phrase>
+	<phrase weight="0.5" count="1">retention retention policy runtime target element type type</phrase>
+  </topic>
+  <topic id="5" alpha="0.008867538173318371" totalTokens="349" titles="api, item, predicate, definition, match, apis, add, pattern, list, url">
+	<word weight="0.22636103151862463" count="79">api</word>
+	<word weight="0.15472779369627507" count="54">item</word>
+	<word weight="0.13753581661891118" count="48">predicate</word>
+	<word weight="0.07163323782234957" count="25">definition</word>
+	<word weight="0.045845272206303724" count="16">match</word>
+	<word weight="0.03724928366762178" count="13">apis</word>
+	<word weight="0.022922636103151862" count="8">add</word>
+	<word weight="0.02005730659025788" count="7">pattern</word>
+	<word weight="0.02005730659025788" count="7">list</word>
+	<word weight="0.02005730659025788" count="7">url</word>
+	<word weight="0.017191977077363897" count="6">update</word>
+	<word weight="0.017191977077363897" count="6">gateway</word>
+	<word weight="0.014326647564469915" count="5">future</word>
+	<word weight="0.014326647564469915" count="5">exact</word>
+	<word weight="0.014326647564469915" count="5">size</word>
+	<word weight="0.011461318051575931" count="4">redicate</word>
+	<word weight="0.011461318051575931" count="4">vos</word>
+	<word weight="0.011461318051575931" count="4">expect</word>
+	<word weight="0.011461318051575931" count="4">hash</word>
+	<word weight="0.011461318051575931" count="4">reference</word>
+	<phrase weight="0.2537313432835821" count="17">predicate item</phrase>
+	<phrase weight="0.11940298507462686" count="8">api definition</phrase>
+	<phrase weight="0.1044776119402985" count="7">url match</phrase>
+	<phrase weight="0.07462686567164178" count="5">api predicate item</phrase>
+	<phrase weight="0.07462686567164178" count="5">gateway api</phrase>
+	<phrase weight="0.05970149253731343" count="4">list api definition</phrase>
+	<phrase weight="0.04477611940298507" count="3">api predicate</phrase>
+	<phrase weight="0.029850746268656716" count="2">exact item</phrase>
+	<phrase weight="0.014925373134328358" count="1">api list api predicate</phrase>
+	<phrase weight="0.014925373134328358" count="1">mem api definition</phrase>
+	<phrase weight="0.014925373134328358" count="1">aaa item</phrase>
+	<phrase weight="0.014925373134328358" count="1">size api predicate</phrase>
+	<phrase weight="0.014925373134328358" count="1">add redicate item</phrase>
+	<phrase weight="0.014925373134328358" count="1">api predicate item item api predicate</phrase>
+	<phrase weight="0.014925373134328358" count="1">update api definition</phrase>
+	<phrase weight="0.014925373134328358" count="1">exact add predicate</phrase>
+	<phrase weight="0.014925373134328358" count="1">api predicate item item api predicate item item</phrase>
+	<phrase weight="0.014925373134328358" count="1">item entities link hash</phrase>
+	<phrase weight="0.014925373134328358" count="1">bbb item</phrase>
+	<phrase weight="0.014925373134328358" count="1">item vos</phrase>
+  </topic>
+  <topic id="6" alpha="0.023995294604807746" totalTokens="46" titles="configuration, conditional, documentation, swagger, true, enable, singleton, missing, match, zlt">
+	<word weight="0.13043478260869565" count="6">configuration</word>
+	<word weight="0.08695652173913043" count="4">conditional</word>
+	<word weight="0.06521739130434782" count="3">documentation</word>
+	<word weight="0.06521739130434782" count="3">swagger</word>
+	<word weight="0.06521739130434782" count="3">true</word>
+	<word weight="0.06521739130434782" count="3">enable</word>
+	<word weight="0.043478260869565216" count="2">singleton</word>
+	<word weight="0.043478260869565216" count="2">missing</word>
+	<word weight="0.043478260869565216" count="2">match</word>
+	<word weight="0.043478260869565216" count="2">zlt</word>
+	<word weight="0.043478260869565216" count="2">header</word>
+	<word weight="0.043478260869565216" count="2">property</word>
+	<word weight="0.021739130434782608" count="1">boot</word>
+	<word weight="0.021739130434782608" count="1">permission</word>
+	<word weight="0.021739130434782608" count="1">parse</word>
+	<word weight="0.021739130434782608" count="1">object</word>
+	<word weight="0.021739130434782608" count="1">size</word>
+	<word weight="0.021739130434782608" count="1">link</word>
+	<word weight="0.021739130434782608" count="1">aware</word>
+	<word weight="0.021739130434782608" count="1">implement</word>
+	<phrase weight="0.3333333333333333" count="1">auto configuration implement</phrase>
+	<phrase weight="0.3333333333333333" count="1">enable match missing true</phrase>
+	<phrase weight="0.3333333333333333" count="1">conditional property zlt swagger</phrase>
+  </topic>
+  <topic id="7" alpha="0.01986721236752236" totalTokens="361" titles="builder, req, gmt, request, client, list, path, type, json, memory">
+	<word weight="0.11911357340720222" count="43">builder</word>
+	<word weight="0.09141274238227147" count="33">req</word>
+	<word weight="0.08310249307479224" count="30">gmt</word>
+	<word weight="0.08310249307479224" count="30">request</word>
+	<word weight="0.0664819944598338" count="24">client</word>
+	<word weight="0.04986149584487535" count="18">list</word>
+	<word weight="0.0443213296398892" count="16">path</word>
+	<word weight="0.0443213296398892" count="16">type</word>
+	<word weight="0.038781163434903045" count="14">json</word>
+	<word weight="0.0332409972299169" count="12">memory</word>
+	<word weight="0.027700831024930747" count="10">true</word>
+	<word weight="0.0221606648199446" count="8">response</word>
+	<word weight="0.0221606648199446" count="8">servlet</word>
+	<word weight="0.0221606648199446" count="8">method</word>
+	<word weight="0.0221606648199446" count="8">handler</word>
+	<word weight="0.019390581717451522" count="7">find</word>
+	<word weight="0.019390581717451522" count="7">http</word>
+	<word weight="0.01662049861495845" count="6">save</word>
+	<word weight="0.01662049861495845" count="6">post</word>
+	<word weight="0.013850415512465374" count="5">success</word>
+	<phrase weight="0.10810810810810811" count="4">req req</phrase>
+	<phrase weight="0.08108108108108109" count="3">http servlet request builder request builder</phrase>
+	<phrase weight="0.08108108108108109" count="3">http servlet</phrase>
+	<phrase weight="0.08108108108108109" count="3">request builder post path</phrase>
+	<phrase weight="0.08108108108108109" count="3">type application json</phrase>
+	<phrase weight="0.05405405405405406" count="2">request builder expect</phrase>
+	<phrase weight="0.05405405405405406" count="2">request builder</phrase>
+	<phrase weight="0.05405405405405406" count="2">request builder path request builder</phrase>
+	<phrase weight="0.05405405405405406" count="2">builder request builder</phrase>
+	<phrase weight="0.05405405405405406" count="2">builder expect</phrase>
+	<phrase weight="0.05405405405405406" count="2">make gmt</phrase>
+	<phrase weight="0.02702702702702703" count="1">http servlet request builder</phrase>
+	<phrase weight="0.02702702702702703" count="1">servlet request builder request builder</phrase>
+	<phrase weight="0.02702702702702703" count="1">builder post path request builder</phrase>
+	<phrase weight="0.02702702702702703" count="1">post path request builder</phrase>
+	<phrase weight="0.02702702702702703" count="1">memory list</phrase>
+	<phrase weight="0.02702702702702703" count="1">json list</phrase>
+	<phrase weight="0.02702702702702703" count="1">post path</phrase>
+	<phrase weight="0.02702702702702703" count="1">type application</phrase>
+	<phrase weight="0.02702702702702703" count="1">machine discovery</phrase>
+  </topic>
+  <topic id="8" alpha="0.009889755659804638" totalTokens="814" titles="docket, swagger, parameter, property, path, operation, info, list, global, api">
+	<word weight="0.07616707616707617" count="62">docket</word>
+	<word weight="0.07002457002457002" count="57">swagger</word>
+	<word weight="0.06756756756756757" count="55">parameter</word>
+	<word weight="0.06388206388206388" count="52">property</word>
+	<word weight="0.05405405405405406" count="44">path</word>
+	<word weight="0.051597051597051594" count="42">operation</word>
+	<word weight="0.04668304668304668" count="38">info</word>
+	<word weight="0.044226044226044224" count="36">list</word>
+	<word weight="0.04176904176904177" count="34">global</word>
+	<word weight="0.025798525798525797" count="21">api</word>
+	<word weight="0.02457002457002457" count="20">security</word>
+	<word weight="0.02334152334152334" count="19">base</word>
+	<word weight="0.022113022113022112" count="18">bean</word>
+	<word weight="0.019656019656019656" count="16">contact</word>
+	<word weight="0.019656019656019656" count="16">url</word>
+	<word weight="0.0171990171990172" count="14">context</word>
+	<word weight="0.0171990171990172" count="14">add</word>
+	<word weight="0.0171990171990172" count="14">key</word>
+	<word weight="0.0171990171990172" count="14">factory</word>
+	<word weight="0.014742014742014743" count="12">predicate</word>
+	<phrase weight="0.07142857142857142" count="1">docket docket docket list add docket docket list string group swagger property docket key set swagger property docket info docket info swagger property docket group api info api info api info builder title docket info title empty swagger property title docket info title description docket info description empty swagger property description docket info description version docket info version empty swagger property version docket info version license docket info license empty swagger property license docket info license license url docket info license url empty swagger property license url docket info license url contact contact docket info contact empty swagger property contact docket info contact docket info contact url empty swagger property contact url docket info contact url docket info contact email empty swagger property contact email docket info contact email term service url docket info term service url empty swagger property term service url docket info term service url build base path path docket info base path empty docket info base path add list predicate string base path array list docket info base path</phrase>
+	<phrase weight="0.07142857142857142" count="1">type swagger host swagger property host api info api info global operation parameter assembly global operation parameter swagger property global operation parameter docket info global operation parameter group group select apis request handler selector base docket info base path predicate predicate predicate exclude path predicate base path build security scheme security scheme security context security context configurable bean factory register</phrase>
+	<phrase weight="0.07142857142857142" count="1">miss bean swagger property swagger property swagger property bean</phrase>
+	<phrase weight="0.07142857142857142" count="1">api key add api key api key list parameter build global operation parameter swagger property list swagger property global operation parameter global operation parameter list parameter parameter list array list object global operation parameter parameter swagger property global operation parameter global operation parameter global operation parameter parameter add parameter builder global operation parameter description global operation parameter description model ref model ref global operation parameter model ref parameter</phrase>
+	<phrase weight="0.07142857142857142" count="1">type swagger host swagger property host api info api info global operation parameter build global operation parameter swagger property swagger property global operation parameter select api request handler selector base swagger property base path predicate predicate predicate exclude path predicate base path build security scheme security scheme security context security context</phrase>
+	<phrase weight="0.07142857142857142" count="1">string auth key authorization bean factory bean factory bean</phrase>
+	<phrase weight="0.07142857142857142" count="1">string path docket info base path base path add path selector ant path exclude path list predicate string exclude path array list docket info exclude path size string path docket info exclude path exclude path add path selector ant path docket docket docket</phrase>
+	<phrase weight="0.07142857142857142" count="1">global operation parameter parameter type</phrase>
+	<phrase weight="0.07142857142857142" count="1">list swagger property docket size docket docket create docket swagger property configurable bean factory register</phrase>
+	<phrase weight="0.07142857142857142" count="1">docket create rest api swagger property swagger property configurable bean factory configurable bean factory configurable bean factory bean factory list docket docket list</phrase>
+	<phrase weight="0.07142857142857142" count="1">group docket docket list add docket docket list docket param swagger property swagger docket docket create docket swagger property swagger property api info api info api info builder title swagger property title description swagger property description version swagger property version license swagger property license license url swagger property license url contact contact swagger property contact swagger property contact url swagger property contact email term service url swagger property term service url build base path path swagger property base path empty swagger property base path add list predicate string base path array list string path swagger property base path base path add path selector ant path exclude path list predicate string exclude path array list string path swagger property exclude path exclude path add path selector ant path docket</phrase>
+	<phrase weight="0.07142857142857142" count="1">global operation parameter require build parameter param global operation parameter param docket operation parameter list parameter assembly global operation parameter list swagger property global operation parameter global operation parameter list swagger property global operation parameter docket operation parameter object docket operation parameter docket operation parameter empty build global operation parameter swagger property global operation parameter set string docket docket operation parameter stream map swagger property global operation parameter collect collector set list swagger property global operation parameter result operation parameter list array list</phrase>
+	<phrase weight="0.07142857142857142" count="1">set bean factory bean factory bean factory bean factory bean factory list security context security context list security context context array list security context security context security context builder security reference auth path path selector regex auth build context add security context context list security reference auth authorization scope authorization scope authorization scope global access authorization scope authorization scope authorization scope authorization scope authorization scope list security reference reference array list reference add security reference auth key authorization scope reference list api key security scheme list api key api key array list api key api key api key auth key auth key</phrase>
+	<phrase weight="0.07142857142857142" count="1">miss bean</phrase>
+  </topic>
+  <topic id="9" alpha="0.008899943303079014" totalTokens="458" titles="gateway flow rule, param, resource, interval, parse, unit, mode, entity, control, behavior">
+	<word weight="0.15938864628820962" count="73">flow</word>
+	<word weight="0.13100436681222707" count="60">gateway</word>
+	<word weight="0.11790393013100436" count="54">rule</word>
+	<word weight="0.06331877729257641" count="29">param</word>
+	<word weight="0.04585152838427948" count="21">resource</word>
+	<word weight="0.034934497816593885" count="16">interval</word>
+	<word weight="0.03275109170305677" count="15">parse</word>
+	<word weight="0.03056768558951965" count="14">behavior</word>
+	<word weight="0.03056768558951965" count="14">unit</word>
+	<word weight="0.03056768558951965" count="14">mode</word>
+	<word weight="0.03056768558951965" count="14">entity</word>
+	<word weight="0.03056768558951965" count="14">control</word>
+	<word weight="0.026200873362445413" count="12">route</word>
+	<word weight="0.026200873362445413" count="12">req</word>
+	<word weight="0.026200873362445413" count="12">api</word>
+	<word weight="0.021834061135371178" count="10">grade</word>
+	<word weight="0.015283842794759825" count="7">timeout</word>
+	<word weight="0.015283842794759825" count="7">count</word>
+	<word weight="0.015283842794759825" count="7">max</word>
+	<word weight="0.013100436681222707" count="6">queue</word>
+	<phrase weight="0.18584070796460178" count="21">gateway flow rule</phrase>
+	<phrase weight="0.1504424778761062" count="17">flow rule</phrase>
+	<phrase weight="0.05309734513274336" count="6">param flow</phrase>
+	<phrase weight="0.04424778761061947" count="5">interval unit</phrase>
+	<phrase weight="0.04424778761061947" count="5">param parse</phrase>
+	<phrase weight="0.035398230088495575" count="4">gateway flow</phrase>
+	<phrase weight="0.035398230088495575" count="4">httpbin route</phrase>
+	<phrase weight="0.02654867256637168" count="3">unit gateway flow rule</phrase>
+	<phrase weight="0.02654867256637168" count="3">grade flow grade</phrase>
+	<phrase weight="0.017699115044247787" count="2">mode route</phrase>
+	<phrase weight="0.017699115044247787" count="2">count entity</phrase>
+	<phrase weight="0.017699115044247787" count="2">mode resource mode route</phrase>
+	<phrase weight="0.017699115044247787" count="2">flow grade</phrase>
+	<phrase weight="0.017699115044247787" count="2">queue timeout</phrase>
+	<phrase weight="0.017699115044247787" count="2">gateway flow rule entity</phrase>
+	<phrase weight="0.017699115044247787" count="2">behavior control behavior</phrase>
+	<phrase weight="0.017699115044247787" count="2">resource httpbin route</phrase>
+	<phrase weight="0.017699115044247787" count="2">queue timeout gateway param flow</phrase>
+	<phrase weight="0.017699115044247787" count="2">gateway param flow</phrase>
+	<phrase weight="0.017699115044247787" count="2">resource mode</phrase>
+  </topic>
+</topics>

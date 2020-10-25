@@ -1,0 +1,10 @@
+0	1.1954	response user false check array factory random required auto 
+1	1.40619	server service translator endpoint adapter 
+2	1.36744	param chain load client store password extend configuration 
+3	1.70368	token enhancer manager store authenticate list require service enable 
+4	1.25035	chain exception endpoint filter type 
+5	1.1821	client detail security code autowired credentials override enhancer 
+6	1.28224	autowire configure translator cache resource 
+7	1.48836	authorization converter authentication granter endpoint web code set request 
+8	1.16345	access service exception config form permit key redis 
+9	1.36642	jwt configurer override auth secret oauth user grant 

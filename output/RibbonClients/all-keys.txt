@@ -1,0 +1,10 @@
+0	4.57117	configure isolation ribbon config auto rule configuration client true enable constant property conditional 
+1	0.00614	
+2	0.00614	
+3	0.00614	
+4	0.00614	
+5	0.00614	
+6	0.00614	
+7	0.00614	
+8	0.00614	
+9	0.00614	

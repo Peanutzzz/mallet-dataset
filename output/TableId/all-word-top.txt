@@ -1,0 +1,5 @@
+0 table 0:2
+1 string 0:1
+2 type 0:2
+3 auto 0:1
+4 integer 0:1

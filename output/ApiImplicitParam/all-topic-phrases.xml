@@ -1,0 +1,131 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="3.861431266739738" totalTokens="56" titles="implicit, datum, api, type, page, enable, limit, integer, true, require">
+	<word weight="0.30357142857142855" count="17">implicit</word>
+	<word weight="0.25" count="14">datum</word>
+	<word weight="0.17857142857142858" count="10">api</word>
+	<word weight="0.14285714285714285" count="8">type</word>
+	<word weight="0.03571428571428571" count="2">page</word>
+	<word weight="0.017857142857142856" count="1">enable</word>
+	<word weight="0.017857142857142856" count="1">limit</word>
+	<word weight="0.017857142857142856" count="1">integer</word>
+	<word weight="0.017857142857142856" count="1">true</word>
+	<word weight="0.017857142857142856" count="1">require</word>
+	<phrase weight="0.8333333333333334" count="5">api implicit</phrase>
+	<phrase weight="0.16666666666666666" count="1">datum type</phrase>
+  </topic>
+  <topic id="1" alpha="1.7161565846141782" totalTokens="18" titles="string, integer, page, api, true, limit, param, ">
+	<word weight="0.2222222222222222" count="4">string</word>
+	<word weight="0.16666666666666666" count="3">integer</word>
+	<word weight="0.16666666666666666" count="3">page</word>
+	<word weight="0.16666666666666666" count="3">api</word>
+	<word weight="0.1111111111111111" count="2">true</word>
+	<word weight="0.05555555555555555" count="1">str</word>
+	<word weight="0.05555555555555555" count="1">limit</word>
+	<word weight="0.05555555555555555" count="1">param</word>
+  </topic>
+  <topic id="2" alpha="3.688486365000575" totalTokens="52" titles="api, implicit, datum, query, string, type, require, controller, ">
+	<word weight="0.40384615384615385" count="21">api</word>
+	<word weight="0.17307692307692307" count="9">implicit</word>
+	<word weight="0.1346153846153846" count="7">datum</word>
+	<word weight="0.09615384615384616" count="5">query</word>
+	<word weight="0.057692307692307696" count="3">string</word>
+	<word weight="0.057692307692307696" count="3">type</word>
+	<word weight="0.057692307692307696" count="3">require</word>
+	<word weight="0.019230769230769232" count="1">controller</word>
+	<phrase weight="1.0" count="5">api implicit</phrase>
+  </topic>
+  <topic id="3" alpha="2.5319972331739726" totalTokens="29" titles="require, integer, datum, type, query, true, implicit, log, param, controller">
+	<word weight="0.3103448275862069" count="9">require</word>
+	<word weight="0.13793103448275862" count="4">integer</word>
+	<word weight="0.13793103448275862" count="4">datum</word>
+	<word weight="0.10344827586206896" count="3">type</word>
+	<word weight="0.06896551724137931" count="2">query</word>
+	<word weight="0.06896551724137931" count="2">true</word>
+	<word weight="0.06896551724137931" count="2">implicit</word>
+	<word weight="0.034482758620689655" count="1">log</word>
+	<word weight="0.034482758620689655" count="1">param</word>
+	<word weight="0.034482758620689655" count="1">controller</word>
+	<phrase weight="0.25" count="1">datum type</phrase>
+	<phrase weight="0.25" count="1">true datum</phrase>
+	<phrase weight="0.25" count="1">log controller</phrase>
+	<phrase weight="0.25" count="1">require true datum</phrase>
+  </topic>
+  <topic id="4" alpha="1.7230505506791547" totalTokens="23" titles="type, controller, implicit, string, query, page, param, ">
+	<word weight="0.2608695652173913" count="6">type</word>
+	<word weight="0.21739130434782608" count="5">controller</word>
+	<word weight="0.17391304347826086" count="4">implicit</word>
+	<word weight="0.13043478260869565" count="3">string</word>
+	<word weight="0.13043478260869565" count="3">query</word>
+	<word weight="0.043478260869565216" count="1">page</word>
+	<word weight="0.043478260869565216" count="1">param</word>
+  </topic>
+  <topic id="5" alpha="5.549219195913319" totalTokens="88" titles="param, type, true, page, implicit, api, str, datum, integer, log">
+	<word weight="0.38636363636363635" count="34">param</word>
+	<word weight="0.18181818181818182" count="16">type</word>
+	<word weight="0.125" count="11">true</word>
+	<word weight="0.07954545454545454" count="7">page</word>
+	<word weight="0.056818181818181816" count="5">implicit</word>
+	<word weight="0.045454545454545456" count="4">api</word>
+	<word weight="0.03409090909090909" count="3">str</word>
+	<word weight="0.03409090909090909" count="3">datum</word>
+	<word weight="0.022727272727272728" count="2">integer</word>
+	<word weight="0.011363636363636364" count="1">log</word>
+	<word weight="0.011363636363636364" count="1">string</word>
+	<word weight="0.011363636363636364" count="1">limit</word>
+	<phrase weight="0.5454545454545454" count="6">param page</phrase>
+	<phrase weight="0.09090909090909091" count="1">true datum type</phrase>
+	<phrase weight="0.09090909090909091" count="1">param limit</phrase>
+	<phrase weight="0.09090909090909091" count="1">type integer</phrase>
+	<phrase weight="0.09090909090909091" count="1">str datum type</phrase>
+	<phrase weight="0.09090909090909091" count="1">implicit param</phrase>
+  </topic>
+  <topic id="6" alpha="1.6339232163557227" totalTokens="24" titles="integer, require, str, implicit, enable, type, ">
+	<word weight="0.375" count="9">integer</word>
+	<word weight="0.2916666666666667" count="7">require</word>
+	<word weight="0.16666666666666666" count="4">str</word>
+	<word weight="0.08333333333333333" count="2">implicit</word>
+	<word weight="0.041666666666666664" count="1">enable</word>
+	<word weight="0.041666666666666664" count="1">type</word>
+	<phrase weight="1.0" count="1">type integer</phrase>
+  </topic>
+  <topic id="7" alpha="2.8521307590929523" totalTokens="38" titles="integer, limit, datum, true, implicit, require, page, api, ">
+	<word weight="0.2631578947368421" count="10">integer</word>
+	<word weight="0.23684210526315788" count="9">limit</word>
+	<word weight="0.15789473684210525" count="6">datum</word>
+	<word weight="0.13157894736842105" count="5">true</word>
+	<word weight="0.10526315789473684" count="4">implicit</word>
+	<word weight="0.05263157894736842" count="2">require</word>
+	<word weight="0.02631578947368421" count="1">page</word>
+	<word weight="0.02631578947368421" count="1">api</word>
+	<phrase weight="0.3333333333333333" count="1">limit require</phrase>
+	<phrase weight="0.3333333333333333" count="1">true datum</phrase>
+	<phrase weight="0.3333333333333333" count="1">api implicit</phrase>
+  </topic>
+  <topic id="8" alpha="1.9362627858771628" totalTokens="34" titles="true, type, controller, api, limit, param, string, query, integer, implicit">
+	<word weight="0.3235294117647059" count="11">true</word>
+	<word weight="0.20588235294117646" count="7">type</word>
+	<word weight="0.11764705882352941" count="4">controller</word>
+	<word weight="0.08823529411764706" count="3">api</word>
+	<word weight="0.058823529411764705" count="2">limit</word>
+	<word weight="0.058823529411764705" count="2">param</word>
+	<word weight="0.029411764705882353" count="1">string</word>
+	<word weight="0.029411764705882353" count="1">str</word>
+	<word weight="0.029411764705882353" count="1">query</word>
+	<word weight="0.029411764705882353" count="1">integer</word>
+	<word weight="0.029411764705882353" count="1">implicit</word>
+  </topic>
+  <topic id="9" alpha="3.0317464419040903" totalTokens="37" titles="datum, require, param, controller, str, api, log, query, ">
+	<word weight="0.2702702702702703" count="10">datum</word>
+	<word weight="0.2702702702702703" count="10">require</word>
+	<word weight="0.13513513513513514" count="5">param</word>
+	<word weight="0.13513513513513514" count="5">controller</word>
+	<word weight="0.08108108108108109" count="3">str</word>
+	<word weight="0.05405405405405406" count="2">api</word>
+	<word weight="0.02702702702702703" count="1">log</word>
+	<word weight="0.02702702702702703" count="1">query</word>
+	<phrase weight="0.3333333333333333" count="1">str datum</phrase>
+	<phrase weight="0.3333333333333333" count="1">log controller</phrase>
+	<phrase weight="0.3333333333333333" count="1">controller api</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,10 @@
+0	0.01136	bean service user handler holder message release logout conditional info sso ctrip miss heartbeat scanner email rule spring security role 
+1	0.00828	token converter redis key access serializer store string property bean jwt cache template factory http message manager set connection configuration 
+2	0.00512	user ldap source datum set password search property username group jdbc context manager detail base bean encoder authority select template 
+3	0.00523	client scheduler factory set executor rest job xxl property request http bean template pool spring builder connection config dynamic socket 
+4	0.01398	filter registration bean set sentinel url add init pattern order web listener param single cas put session sign portal zuul 
+5	0.00281	docket info swagger path property entity list bean flow rule string contact url base empty license add exclude predicate api 
+6	0.00386	tenant header string request interceptor sql log parser context object bean url servlet server constant pagination empty handler service trace 
+7	0.0151	bean test config java placeholder apollo auto update property listener change timeout batch nest annotation json biz set interested type 
+8	0.01083	config registry application protocol cor bean consumer set configuration source filter service property sentinel locator route add naco dubbo demo 
+9	0.00591	exception handler authentication auth response manager web block http bean server security error message oauth set request sentinel success point 

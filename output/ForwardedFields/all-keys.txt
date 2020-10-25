@@ -1,0 +1,10 @@
+0	0.03099	integer centroid point center triad leaf distance string val combine higher closest min forward execute compiler flat lower emit cluster 
+1	0.18998	tuple map key field function override implement forward flat selector exception filter mapper serial version extract extend test collector rich 
+2	0.01052	message type function gather result iterator combiner information tuple number udf iter combine iteration superstep warning suppress wrap vertex downcast 
+3	0.0857	edge dimension target vertex source val set map exception increment collect instance index link field remainder neighbor list function forward 
+4	0.17131	tuple reduce function override exception field implement forward set collector neighbor leave iterable group count left score apply fun sum 
+5	0.10317	vertex function map translate implement override field forward output translator wrap dampen exception extend jump random authority initialize wrapping num 
+6	0.0648	degree output tuple bitmask collect maximum set edge log inverse order collector math divide logarithm stats reverse source extend 
+7	0.01491	score minimum result output denominator numerator maximum set edge count neighbor vertex ratio distinct unbounded compute var average rank page 
+8	0.0354	group edge visit tuple output span count size list idx generate set iter bitmask collect array add iterator copy previous 
+9	0.0202	vertex sum iterator count score context runtime parameter open variable broadcast factor damp collection configuration rich sink distribute uniformly extend 

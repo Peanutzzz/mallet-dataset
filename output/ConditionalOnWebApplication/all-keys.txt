@@ -1,0 +1,10 @@
+0	8.70169	exception resolver auto flux highest empty object 
+1	7.86801	handler conditional 
+2	5.9564	resource message 
+3	7.56177	application codec error configuration writer resolver enable 
+4	7.0285	resource json configure 
+5	4.34634	error provider 
+6	9.11389	configurer context custom type precedence 
+7	10.14008	property set order reactive 
+8	16.41069	server web list reader collection 
+9	7.94636	view attribute bean 

@@ -1,0 +1,82 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.10860438401775283" totalTokens="19" titles="publisher, instance, map, canonical, ">
+	<word weight="0.5263157894736842" count="10">publisher</word>
+	<word weight="0.21052631578947367" count="4">instance</word>
+	<word weight="0.21052631578947367" count="4">map</word>
+	<word weight="0.05263157894736842" count="1">canonical</word>
+	<phrase weight="0.3333333333333333" count="1">publisher instance publisher map</phrase>
+	<phrase weight="0.3333333333333333" count="1">publisher publisher</phrase>
+	<phrase weight="0.3333333333333333" count="1">publisher instance</phrase>
+  </topic>
+  <topic id="1" alpha="0.053133414235219" totalTokens="7" titles="task, report, naco, ">
+	<word weight="0.42857142857142855" count="3">task</word>
+	<word weight="0.42857142857142855" count="3">report</word>
+	<word weight="0.14285714285714285" count="1">naco</word>
+	<phrase weight="1.0" count="1">report task</phrase>
+  </topic>
+  <topic id="2" alpha="0.054182738611635535" totalTokens="7" titles="standalone, util, assignable, ">
+	<word weight="0.5714285714285714" count="4">standalone</word>
+	<word weight="0.2857142857142857" count="2">util</word>
+	<word weight="0.14285714285714285" count="1">assignable</word>
+  </topic>
+  <topic id="3" alpha="0.03294346756521594" totalTokens="9" titles="protocol, consistency, mock, impl, operate, ">
+	<word weight="0.5555555555555556" count="5">protocol</word>
+	<word weight="0.1111111111111111" count="1">consistency</word>
+	<word weight="0.1111111111111111" count="1">mock</word>
+	<word weight="0.1111111111111111" count="1">impl</word>
+	<word weight="0.1111111111111111" count="1">operate</word>
+	<phrase weight="1.0" count="1">operate impl</phrase>
+  </topic>
+  <topic id="4" alpha="0.0653797315936864" totalTokens="12" titles="enable, caching, cache, config, auth, ">
+	<word weight="0.4166666666666667" count="5">enable</word>
+	<word weight="0.25" count="3">caching</word>
+	<word weight="0.16666666666666666" count="2">cache</word>
+	<word weight="0.08333333333333333" count="1">config</word>
+	<word weight="0.08333333333333333" count="1">auth</word>
+  </topic>
+  <topic id="5" alpha="0.08564045218378266" totalTokens="7" titles="server, raft, tuple, group, update, ">
+	<word weight="0.2857142857142857" count="2">server</word>
+	<word weight="0.2857142857142857" count="2">raft</word>
+	<word weight="0.14285714285714285" count="1">tuple</word>
+	<word weight="0.14285714285714285" count="1">group</word>
+	<word weight="0.14285714285714285" count="1">update</word>
+  </topic>
+  <topic id="6" alpha="0.11082503299271858" totalTokens="27" titles="member, info, address, manager, application, put, ">
+	<word weight="0.37037037037037035" count="10">member</word>
+	<word weight="0.25925925925925924" count="7">info</word>
+	<word weight="0.18518518518518517" count="5">address</word>
+	<word weight="0.1111111111111111" count="3">manager</word>
+	<word weight="0.037037037037037035" count="1">application</word>
+	<word weight="0.037037037037037035" count="1">put</word>
+	<phrase weight="0.3333333333333333" count="1">address info</phrase>
+	<phrase weight="0.3333333333333333" count="1">member info</phrase>
+	<phrase weight="0.3333333333333333" count="1">member member member</phrase>
+  </topic>
+  <topic id="7" alpha="0.14751390527410793" totalTokens="19" titles="event, topic, recover, error, extend, list, slow, ">
+	<word weight="0.42105263157894735" count="8">event</word>
+	<word weight="0.15789473684210525" count="3">topic</word>
+	<word weight="0.10526315789473684" count="2">recover</word>
+	<word weight="0.10526315789473684" count="2">error</word>
+	<word weight="0.10526315789473684" count="2">extend</word>
+	<word weight="0.05263157894736842" count="1">list</word>
+	<word weight="0.05263157894736842" count="1">slow</word>
+	<phrase weight="0.3333333333333333" count="1">error recover event</phrase>
+	<phrase weight="0.3333333333333333" count="1">event topic</phrase>
+	<phrase weight="0.3333333333333333" count="1">slow event topic</phrase>
+  </topic>
+  <topic id="8" alpha="0.4752604858750797" totalTokens="26" titles="test, set, string, share, ">
+	<word weight="0.5384615384615384" count="14">test</word>
+	<word weight="0.19230769230769232" count="5">set</word>
+	<word weight="0.15384615384615385" count="4">string</word>
+	<word weight="0.11538461538461539" count="3">share</word>
+	<phrase weight="0.8" count="4">test set</phrase>
+	<phrase weight="0.2" count="1">test string</phrase>
+  </topic>
+  <topic id="9" alpha="0.07211705624142999" totalTokens="14" titles="path, home, naco, ">
+	<word weight="0.35714285714285715" count="5">path</word>
+	<word weight="0.35714285714285715" count="5">home</word>
+	<word weight="0.2857142857142857" count="4">naco</word>
+	<phrase weight="1.0" count="1">home path</phrase>
+  </topic>
+</topics>

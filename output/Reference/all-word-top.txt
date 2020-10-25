@@ -1,0 +1,7 @@
+0 consumer 0:2
+1 reference 0:2
+2 url 0:2
+3 dubbo 0:2
+4 timeout 0:2
+5 foo 0:4
+6 service 0:4

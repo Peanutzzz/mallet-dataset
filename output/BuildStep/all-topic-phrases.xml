@@ -1,0 +1,116 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.06603230492582918" totalTokens="9" titles="eye, flow, controller, stat, timer, env, list, ">
+	<word weight="0.2222222222222222" count="2">eye</word>
+	<word weight="0.2222222222222222" count="2">flow</word>
+	<word weight="0.1111111111111111" count="1">controller</word>
+	<word weight="0.1111111111111111" count="1">stat</word>
+	<word weight="0.1111111111111111" count="1">timer</word>
+	<word weight="0.1111111111111111" count="1">env</word>
+	<word weight="0.1111111111111111" count="1">list</word>
+  </topic>
+  <topic id="1" alpha="0.08163776894398844" totalTokens="10" titles="bean, additional, list, resource, ">
+	<word weight="0.3" count="3">bean</word>
+	<word weight="0.3" count="3">additional</word>
+	<word weight="0.3" count="3">list</word>
+	<word weight="0.1" count="1">resource</word>
+	<phrase weight="0.6666666666666666" count="2">additional bean</phrase>
+	<phrase weight="0.3333333333333333" count="1">list additional bean</phrase>
+  </topic>
+  <topic id="2" alpha="0.07110160441386403" totalTokens="9" titles="true, reflective, builder, chain, setup, ">
+	<word weight="0.3333333333333333" count="3">true</word>
+	<word weight="0.3333333333333333" count="3">reflective</word>
+	<word weight="0.1111111111111111" count="1">builder</word>
+	<word weight="0.1111111111111111" count="1">chain</word>
+	<word weight="0.1111111111111111" count="1">setup</word>
+	<phrase weight="0.5" count="1">true true true</phrase>
+	<phrase weight="0.5" count="1">reflective reflective</phrase>
+  </topic>
+  <topic id="3" alpha="1.0108927369490852" totalTokens="101" titles="build, item, sentinel, step, processor, image, array, execution, guava, joda">
+	<word weight="0.37623762376237624" count="38">build</word>
+	<word weight="0.24752475247524752" count="25">item</word>
+	<word weight="0.13861386138613863" count="14">sentinel</word>
+	<word weight="0.06930693069306931" count="7">step</word>
+	<word weight="0.06930693069306931" count="7">processor</word>
+	<word weight="0.04950495049504951" count="5">image</word>
+	<word weight="0.019801980198019802" count="2">array</word>
+	<word weight="0.009900990099009901" count="1">execution</word>
+	<word weight="0.009900990099009901" count="1">guava</word>
+	<word weight="0.009900990099009901" count="1">joda</word>
+	<phrase weight="0.38461538461538464" count="5">build item</phrase>
+	<phrase weight="0.23076923076923078" count="3">image processor build step build</phrase>
+	<phrase weight="0.23076923076923078" count="3">build step</phrase>
+	<phrase weight="0.07692307692307693" count="1">image processor build step</phrase>
+	<phrase weight="0.07692307692307693" count="1">item sentinel</phrase>
+  </topic>
+  <topic id="4" alpha="0.31184288824769524" totalTokens="39" titles="feature, producer, adapter, quarkus, jax, interceptor, annotation, ">
+	<word weight="0.46153846153846156" count="18">feature</word>
+	<word weight="0.23076923076923078" count="9">producer</word>
+	<word weight="0.07692307692307693" count="3">produce</word>
+	<word weight="0.07692307692307693" count="3">adapter</word>
+	<word weight="0.07692307692307693" count="3">quarkus</word>
+	<word weight="0.02564102564102564" count="1">jax</word>
+	<word weight="0.02564102564102564" count="1">interceptor</word>
+	<word weight="0.02564102564102564" count="1">annotation</word>
+	<phrase weight="0.3333333333333333" count="3">quarkus adapter</phrase>
+	<phrase weight="0.3333333333333333" count="3">producer feature</phrase>
+	<phrase weight="0.3333333333333333" count="3">feature producer feature producer produce feature</phrase>
+  </topic>
+  <topic id="5" alpha="0.06258862352299832" totalTokens="22" titles="csp, metric, codec, fastjson, degrade, moneta, ">
+	<word weight="0.5" count="11">csp</word>
+	<word weight="0.18181818181818182" count="4">metric</word>
+	<word weight="0.13636363636363635" count="3">codec</word>
+	<word weight="0.09090909090909091" count="2">fastjson</word>
+	<word weight="0.045454545454545456" count="1">degrade</word>
+	<word weight="0.045454545454545456" count="1">moneta</word>
+	<phrase weight="0.6666666666666666" count="2">metric metric</phrase>
+	<phrase weight="0.3333333333333333" count="1">moneta codec</phrase>
+  </topic>
+  <topic id="6" alpha="0.07301222452300478" totalTokens="12" titles="slot, log, logger, writer, degrade, block, init, moneta, ">
+	<word weight="0.3333333333333333" count="4">slot</word>
+	<word weight="0.16666666666666666" count="2">log</word>
+	<word weight="0.08333333333333333" count="1">logger</word>
+	<word weight="0.08333333333333333" count="1">writer</word>
+	<word weight="0.08333333333333333" count="1">degrade</word>
+	<word weight="0.08333333333333333" count="1">block</word>
+	<word weight="0.08333333333333333" count="1">init</word>
+	<word weight="0.08333333333333333" count="1">moneta</word>
+	<phrase weight="0.5" count="1">slot block</phrase>
+	<phrase weight="0.5" count="1">slot logger</phrase>
+  </topic>
+  <topic id="7" alpha="0.09185595245747928" totalTokens="11" titles="recorder, init, time, block, ">
+	<word weight="0.2727272727272727" count="3">recorder</word>
+	<word weight="0.2727272727272727" count="3">init</word>
+	<word weight="0.18181818181818182" count="2">record</word>
+	<word weight="0.18181818181818182" count="2">time</word>
+	<word weight="0.09090909090909091" count="1">block</word>
+	<phrase weight="1.0" count="1">time init record</phrase>
+  </topic>
+  <topic id="8" alpha="0.0663071237817152" totalTokens="38" titles="initialize, runtime, util, node, executor, ">
+	<word weight="0.42105263157894735" count="16">initialize</word>
+	<word weight="0.42105263157894735" count="16">runtime</word>
+	<word weight="0.07894736842105263" count="3">util</word>
+	<word weight="0.05263157894736842" count="2">node</word>
+	<word weight="0.02631578947368421" count="1">executor</word>
+	<phrase weight="0.75" count="9">runtime initialize</phrase>
+	<phrase weight="0.16666666666666666" count="2">util runtime initialize</phrase>
+	<phrase weight="0.08333333333333333" count="1">executor runtime initialize</phrase>
+  </topic>
+  <topic id="9" alpha="0.07110434613907038" totalTokens="31" titles="alibaba, manager, eagle, eagleeye, rule, cluster, serializer, listener, state, support">
+	<word weight="0.45161290322580644" count="14">alibaba</word>
+	<word weight="0.0967741935483871" count="3">manager</word>
+	<word weight="0.06451612903225806" count="2">eagle</word>
+	<word weight="0.06451612903225806" count="2">eagleeye</word>
+	<word weight="0.06451612903225806" count="2">rule</word>
+	<word weight="0.06451612903225806" count="2">cluster</word>
+	<word weight="0.06451612903225806" count="2">serializer</word>
+	<word weight="0.03225806451612903" count="1">listener</word>
+	<word weight="0.03225806451612903" count="1">state</word>
+	<word weight="0.03225806451612903" count="1">support</word>
+	<word weight="0.03225806451612903" count="1">fastjson</word>
+	<phrase weight="0.4" count="2">rule manager</phrase>
+	<phrase weight="0.2" count="1">cluster cluster state manager</phrase>
+	<phrase weight="0.2" count="1">eagleeye eagle</phrase>
+	<phrase weight="0.2" count="1">alibaba fastjson serializer</phrase>
+  </topic>
+</topics>

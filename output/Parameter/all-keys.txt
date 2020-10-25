@@ -1,0 +1,10 @@
+0	0.25367	duplicator implicit 
+1	0.2269	common helper string 
+2	0.2431	datum converter info input 
+3	3.32782	test spec extractor planner 
+4	0.24144	explicit information 
+5	0.25139	base list 
+6	0.3106	assignable avoidance equal 
+7	2.4568	parameter cast target source support 
+8	0.23659	function parser 
+9	2.14408	type logical replace cast test 

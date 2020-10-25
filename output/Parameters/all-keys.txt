@@ -1,0 +1,10 @@
+0	0.0109	type decimal datum test big field input bigint nullable create spec result function row build access mod give definition mapping 
+1	0.04714	type row array false list field var true time timestamp day interval month year decimal binary resolution big multiset map 
+2	0.03795	object false true list parallelism parameter file array param state txt collection size add operator offset dir test program execution 
+3	0.0118	type datum argument strategy expect spec string test explicit call sequence bigint input logical signature message error invalid varchar literal 
+4	0.00348	convert datum pojo row spec test date field local time timestamp array map true bob string list immutable epoch zone 
+5	0.00486	type datum expect pojo spec test simple raw generic override hint object complex table mock function precision integer reference constructor 
+6	0.00352	type strategy datum input function explicit expect output argument test scalar sequence mapping string spec hint bigint field bridge accumulator 
+7	0.02008	type datum array field conversion timestamp logical string bridge java time info row map sql test resolve unresolved date object 
+8	0.00709	path tab catalog lookup object complete list test start table spec api manager cat sql expect exception write builtin illegal 
+9	0.00932	expect test spec string type unresolved time local zone multiset logical interval raw error message legacy identifier define binary parser 

@@ -1,0 +1,35 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="634.4459653769424" totalTokens="14" titles="date, expire, hmmss, mdd, yyyy, pattern, format, time, false, require">
+	<word weight="0.14285714285714285" count="2">date</word>
+	<word weight="0.14285714285714285" count="2">expire</word>
+	<word weight="0.07142857142857142" count="1">hmmss</word>
+	<word weight="0.07142857142857142" count="1">mdd</word>
+	<word weight="0.07142857142857142" count="1">yyyy</word>
+	<word weight="0.07142857142857142" count="1">pattern</word>
+	<word weight="0.07142857142857142" count="1">format</word>
+	<word weight="0.07142857142857142" count="1">time</word>
+	<word weight="0.07142857142857142" count="1">false</word>
+	<word weight="0.07142857142857142" count="1">require</word>
+	<word weight="0.07142857142857142" count="1">param</word>
+	<word weight="0.07142857142857142" count="1">request</word>
+  </topic>
+  <topic id="1" alpha="2.1645374396956763E-9" totalTokens="0" titles="">
+  </topic>
+  <topic id="2" alpha="2.1645374396956763E-9" totalTokens="0" titles="">
+  </topic>
+  <topic id="3" alpha="2.1645374396956763E-9" totalTokens="0" titles="">
+  </topic>
+  <topic id="4" alpha="2.1645374396956763E-9" totalTokens="0" titles="">
+  </topic>
+  <topic id="5" alpha="2.1645374396956763E-9" totalTokens="0" titles="">
+  </topic>
+  <topic id="6" alpha="2.1645374396956763E-9" totalTokens="0" titles="">
+  </topic>
+  <topic id="7" alpha="2.1645374396956763E-9" totalTokens="0" titles="">
+  </topic>
+  <topic id="8" alpha="2.1645374396956763E-9" totalTokens="0" titles="">
+  </topic>
+  <topic id="9" alpha="2.1645374396956763E-9" totalTokens="0" titles="">
+  </topic>
+</topics>
